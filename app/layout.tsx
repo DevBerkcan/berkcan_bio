@@ -27,9 +27,27 @@ export const metadata: Metadata = {
     "Freelancer",
   ],
   icons: {
-    icon: "/berkcan.png",
+    icon: [
+      { url: "/berkcan.png", sizes: "32x32", type: "image/png" },
+      { url: "/berkcan.png", sizes: "16x16", type: "image/png" },
+      { url: "/berkcan.png", sizes: "192x192", type: "image/png" },
+      { url: "/berkcan.png", sizes: "512x512", type: "image/png" },
+    ],
     shortcut: "/berkcan.png",
-    apple: "/berkcan.png",
+    apple: [
+      { url: "/berkcan.png", sizes: "180x180", type: "image/png" },
+      { url: "/berkcan.png", sizes: "152x152", type: "image/png" },
+      { url: "/berkcan.png", sizes: "120x120", type: "image/png" },
+    ],
+    other: [
+      { rel: "mask-icon", url: "/berkcan.png", color: "#8b5cf6" },
+    ],
+  },
+  manifest: "/manifest.json",
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "default",
+    title: "Berk-Can",
   },
   openGraph: {
     title: "Berk-Can Atesoglu | Software Developer & Entrepreneur",
