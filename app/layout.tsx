@@ -4,6 +4,7 @@ import { Suspense } from "react";
 import { NextUIProvider } from "@nextui-org/react";
 import { KlaroCookieConsent } from "@/components/KlaroCookieConsent";
 import { GoogleAnalytics } from "@/components/analytics/GoogleAnalytics";
+import { MicrosoftClarity } from "@/components/analytics/MicrosoftClarity";
 import { TrackingProvider } from "@/components/analytics/TrackingProvider";
 import { ThemeProvider } from "@/components/ThemeProvider";
 import "./globals.css";
@@ -25,6 +26,11 @@ export const metadata: Metadata = {
     "Düsseldorf",
     "Freelancer",
   ],
+  icons: {
+    icon: "/berkcan.png",
+    shortcut: "/berkcan.png",
+    apple: "/berkcan.png",
+  },
   openGraph: {
     title: "Berk-Can Atesoglu | Software Developer & Entrepreneur",
     description:
@@ -32,12 +38,14 @@ export const metadata: Metadata = {
     type: "website",
     locale: "de_DE",
     siteName: "Berk-Can Atesoglu",
+    images: ["/berkcan.png"],
   },
   twitter: {
     card: "summary_large_image",
     title: "Berk-Can Atesoglu | Software Developer & Entrepreneur",
     description:
       "Software Developer & Entrepreneur aus Düsseldorf.",
+    images: ["/berkcan.png"],
   },
   viewport: {
     width: "device-width",
@@ -58,6 +66,7 @@ export default function RootLayout({
     <html lang="de" suppressHydrationWarning>
       <body className={inter.className}>
         <GoogleAnalytics />
+        <MicrosoftClarity />
         <ThemeProvider>
           <NextUIProvider>
             <Suspense fallback={null}>

@@ -24,11 +24,11 @@ export default function Home() {
       <ShareButton variant="floating" />
 
       {/* Main content */}
-      <main className="relative flex min-h-screen items-center justify-center px-4 py-12">
+      <main className="relative flex min-h-screen items-center justify-center px-3 sm:px-4 py-6 sm:py-12">
         {/* Main card container */}
         <div className="w-full max-w-md">
           {/* Card with shadow */}
-          <div className="rounded-3xl bg-white dark:bg-gray-800 p-8 shadow-2xl ring-1 ring-gray-200 dark:ring-gray-700 transition-colors duration-300">
+          <div className="rounded-2xl sm:rounded-3xl bg-white dark:bg-gray-800 p-5 sm:p-8 shadow-2xl ring-1 ring-gray-200 dark:ring-gray-700 transition-colors duration-300">
             {/* Profile section */}
             <ProfileCard onContactClick={() => setIsContactOpen(true)} />
 

@@ -80,7 +80,7 @@ export const ProfileCard = ({ onContactClick }: ProfileCardProps) => {
         className="mx-auto mb-6 flex h-24 w-24 items-center justify-center overflow-hidden rounded-full shadow-lg ring-4 ring-white dark:ring-gray-700"
       >
         <Image
-          src="/logo.jpg"
+          src="/berkcan.png"
           alt="Berk-Can Atesoglu"
           width={96}
           height={96}
