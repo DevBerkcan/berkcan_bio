@@ -1,10 +1,18 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Scissors } from "lucide-react";
+import { Code2, Terminal } from "lucide-react";
 import Image from "next/image";
+import { TypingEffect } from "./TypingEffect";
+import { AvailabilityBadge } from "./AvailabilityBadge";
 
-export const ProfileCard = () => {
+interface ProfileCardProps {
+  onContactClick?: () => void;
+}
+
+const roles = ["React Developer", "Next.js Expert", "TypeScript Pro", "Freelancer"];
+
+export const ProfileCard = ({ onContactClick }: ProfileCardProps) => {
   return (
     <motion.div
       initial={{ opacity: 0, y: 20 }}
@@ -12,18 +20,18 @@ export const ProfileCard = () => {
       transition={{ duration: 0.5 }}
       className="relative mb-8 text-center"
     >
-      {/* Floating scissors decoration with cutting animation */}
+      {/* Floating code decoration */}
       <motion.div
         animate={{
-          y: [0, -15, 0],
-          rotate: [-25, -20, -25],
+          y: [0, -10, 0],
+          rotate: [0, 5, 0],
         }}
         transition={{
           duration: 3,
           repeat: Infinity,
           ease: "easeInOut",
         }}
-        className="absolute -top-6 right-8 text-barber-red opacity-40"
+        className="absolute -top-6 right-8 text-violet-500 opacity-40"
         aria-hidden="true"
       >
         <motion.div
@@ -36,46 +44,44 @@ export const ProfileCard = () => {
             ease: "easeInOut",
           }}
         >
-          <Scissors size={36} strokeWidth={2} />
+          <Code2 size={36} strokeWidth={2} />
         </motion.div>
       </motion.div>
 
-      {/* Second scissors on the left for balance */}
+      {/* Terminal icon on the left */}
       <motion.div
         initial={{ opacity: 0, scale: 0 }}
         animate={{
           opacity: 0.3,
           scale: 1,
           y: [0, 10, 0],
-          rotate: [155, 160, 155],
         }}
         transition={{
           opacity: { delay: 0.3, duration: 0.5 },
           scale: { delay: 0.3, duration: 0.5 },
           y: { duration: 2.5, repeat: Infinity, ease: "easeInOut", delay: 0.5 },
-          rotate: {
-            duration: 2.5,
-            repeat: Infinity,
-            ease: "easeInOut",
-            delay: 0.5,
-          },
         }}
-        className="absolute -top-4 left-6 text-barber-gold opacity-30"
+        className="absolute -top-4 left-6 text-purple-500 opacity-30"
         aria-hidden="true"
       >
-        <Scissors size={28} strokeWidth={2} />
+        <Terminal size={28} strokeWidth={2} />
       </motion.div>
 
-      {/* Logo/Avatar */}
+      {/* Availability Badge */}
+      <div className="mb-4 flex justify-center">
+        <AvailabilityBadge available={true} />
+      </div>
+
+      {/* Avatar */}
       <motion.div
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
         transition={{ delay: 0.2, type: "spring", stiffness: 200 }}
-        className="mx-auto mb-6 flex h-24 w-24 items-center justify-center overflow-hidden rounded-full shadow-lg ring-4 ring-barber-white"
+        className="mx-auto mb-6 flex h-24 w-24 items-center justify-center overflow-hidden rounded-full shadow-lg ring-4 ring-white dark:ring-gray-700"
       >
         <Image
           src="/logo.jpg"
-          alt="Berk-Can Logo"
+          alt="Berk-Can Atesoglu"
           width={96}
           height={96}
           className="h-full w-full object-cover"
@@ -83,38 +89,36 @@ export const ProfileCard = () => {
         />
       </motion.div>
 
-      {/* Salon Name */}
+      {/* Name */}
       <motion.h1
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 0.3 }}
-        className="mb-3 text-3xl font-extrabold tracking-tight text-barber-black"
+        className="mb-3 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white"
       >
-        Berk-Can<span className="text-barber-red">.</span>
+        Berk-Can<span className="text-violet-500">.</span>
       </motion.h1>
 
-      {/* Subtitle */}
-      <motion.p
+      {/* Subtitle with Typing Effect */}
+      <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 0.4 }}
-        className="mb-4 px-4 text-base text-barber-grey-600 text-balance"
+        className="mb-4 px-4 text-base text-gray-600 dark:text-gray-300"
       >
-        Dein Barber & Hairstylist – moderne Cuts, Fades & Bartpflege
-      </motion.p>
+        <TypingEffect words={roles} className="text-violet-500 font-semibold" />
+      </motion.div>
 
-      {/* Location & Booking Info */}
+      {/* Tech Stack Badges */}
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 0.5 }}
-        className="flex flex-col items-center justify-center gap-2 text-sm text-barber-grey-500"
+        className="flex flex-wrap items-center justify-center gap-2 text-xs text-gray-500"
       >
-        <div className="flex items-center gap-2">
-          <span className="inline-block h-1.5 w-1.5 rounded-full bg-barber-red" />
-          <span>Berliner Allee 43, Düsseldorf</span>
-        </div>
-        <span className="text-xs">Termin nur mit Online-Buchung</span>
+        <span className="rounded-full bg-violet-100 dark:bg-violet-900/50 text-violet-600 dark:text-violet-400 px-3 py-1">React</span>
+        <span className="rounded-full bg-purple-100 dark:bg-purple-900/50 text-purple-600 dark:text-purple-400 px-3 py-1">Next.js</span>
+        <span className="rounded-full bg-violet-100 dark:bg-violet-900/50 text-violet-600 dark:text-violet-400 px-3 py-1">TypeScript</span>
       </motion.div>
 
       {/* Decorative line */}
@@ -122,8 +126,26 @@ export const ProfileCard = () => {
         initial={{ scaleX: 0 }}
         animate={{ scaleX: 1 }}
         transition={{ delay: 0.6, duration: 0.5 }}
-        className="mx-auto mt-6 h-1 w-16 rounded-full bg-gradient-to-r from-barber-red via-barber-gold to-barber-red"
+        className="mx-auto mt-6 h-1 w-16 rounded-full bg-gradient-to-r from-violet-500 via-purple-500 to-violet-500"
       />
+
+      {/* CTA Section */}
+      <motion.button
+        initial={{ opacity: 0, y: 10 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.8 }}
+        whileHover={{ scale: 1.02 }}
+        whileTap={{ scale: 0.98 }}
+        onClick={onContactClick}
+        className="mt-8 w-full rounded-xl bg-gradient-to-br from-violet-50 to-purple-50 dark:from-violet-900/30 dark:to-purple-900/30 p-4 border border-violet-100 dark:border-violet-800 cursor-pointer text-left transition-colors"
+      >
+        <p className="text-sm text-gray-600 dark:text-gray-300 mb-2">
+          Möchtest du auch so eine Präsenz haben?
+        </p>
+        <p className="text-xs text-gray-500 dark:text-gray-400">
+          Melde dich bei mir und ich baue dir dein individuelles Linktree!
+        </p>
+      </motion.button>
     </motion.div>
   );
 };

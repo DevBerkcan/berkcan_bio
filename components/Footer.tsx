@@ -1,24 +1,24 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Instagram, Facebook, Mail } from "lucide-react";
+import { Instagram, Facebook, Mail, Linkedin } from "lucide-react";
 import { KlaroCookieSettingsButton } from "./KlaroCookieConsent";
 
 export const Footer = () => {
   const socialLinks = [
     {
       name: "Instagram",
-      href: "https://instagram.com/keinfraiseur",
+      href: "https://instagram.com/berkcandaily",
       icon: Instagram,
     },
     {
-      name: "Facebook",
-      href: "https://facebook.com/keinfraiseur",
-      icon: Facebook,
+      name: "LinkedIn",
+      href: "https://www.linkedin.com/in/berk-can-atesoglu/",
+      icon: Linkedin,
     },
     {
       name: "Email",
-      href: "mailto:info@keinfriseur.de",
+      href: "mailto:atesoglu.berkcan@outlook.com",
       icon: Mail,
     },
   ];
@@ -44,7 +44,7 @@ export const Footer = () => {
             transition={{ delay: 0.9 + index * 0.1 }}
             whileHover={{ scale: 1.2, rotate: 5 }}
             whileTap={{ scale: 0.9 }}
-            className="flex h-10 w-10 items-center justify-center rounded-full bg-barber-grey-200 text-barber-grey-600 transition-colors hover:bg-barber-red hover:text-barber-white"
+            className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-300 transition-colors hover:bg-violet-500 hover:text-white"
           >
             <social.icon size={18} />
           </motion.a>
@@ -52,27 +52,27 @@ export const Footer = () => {
       </div>
 
       {/* Legal links */}
-      <div className="mb-4 flex items-center justify-center gap-4 text-xs text-barber-grey-500">
+      <div className="mb-4 flex items-center justify-center gap-4 text-xs text-gray-500 dark:text-gray-400">
         <a
           href="/impressum"
-          className="transition-colors hover:text-barber-red hover:underline"
+          className="transition-colors hover:text-violet-500 hover:underline"
         >
           Impressum
         </a>
-        <span className="text-barber-grey-300">•</span>
+        <span className="text-gray-300 dark:text-gray-600">•</span>
         <a
           href="/datenschutz"
-          className="transition-colors hover:text-barber-red hover:underline"
+          className="transition-colors hover:text-violet-500 hover:underline"
         >
           Datenschutz
         </a>
-        <span className="text-barber-grey-300">•</span>
+        <span className="text-gray-300 dark:text-gray-600">•</span>
         <KlaroCookieSettingsButton />
       </div>
 
       {/* Copyright */}
-      <p className="text-xs text-barber-grey-400">
-        © {new Date().getFullYear()} Berk-Can. Alle Rechte vorbehalten.
+      <p className="text-xs text-gray-400 dark:text-gray-500">
+        © {new Date().getFullYear()} Berk-Can Atesoglu. Alle Rechte vorbehalten.
       </p>
     </motion.footer>
   );

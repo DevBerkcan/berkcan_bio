@@ -5,37 +5,39 @@ import { NextUIProvider } from "@nextui-org/react";
 import { KlaroCookieConsent } from "@/components/KlaroCookieConsent";
 import { GoogleAnalytics } from "@/components/analytics/GoogleAnalytics";
 import { TrackingProvider } from "@/components/analytics/TrackingProvider";
+import { ThemeProvider } from "@/components/ThemeProvider";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Berk-Can – Link in Bio | Premium Barbershop Düsseldorf",
+  title: "Berk-Can Atesoglu | Software Developer & Entrepreneur",
   description:
-    "Premium Barbershop in Düsseldorf – moderne Cuts, Fades & Bartpflege bei Berk-Can. Jetzt online Termin buchen!",
+    "Software Developer & Entrepreneur aus Düsseldorf. Spezialisiert auf React, Next.js & TypeScript. Portfolio, GitHub & Kontakt.",
   keywords: [
-    "Berk-Can",
-    "Barbershop Düsseldorf",
-    "Barber Düsseldorf",
-    "Friseur Düsseldorf",
-    "Fade Haircut",
-    "Bartpflege",
-    "Herrenfriseur",
-    "Berliner Allee",
+    "Berk-Can Atesoglu",
+    "Software Developer",
+    "Web Developer",
+    "Entrepreneur",
+    "React Developer",
+    "Next.js",
+    "TypeScript",
+    "Düsseldorf",
+    "Freelancer",
   ],
   openGraph: {
-    title: "Berk-Can – Premium Barbershop Düsseldorf",
+    title: "Berk-Can Atesoglu | Software Developer & Entrepreneur",
     description:
-      "Premium Barbershop in Düsseldorf – moderne Cuts, Fades & Bartpflege. Jetzt online buchen!",
+      "Software Developer & Entrepreneur aus Düsseldorf. React, Next.js & TypeScript.",
     type: "website",
     locale: "de_DE",
-    siteName: "Berk-Can",
+    siteName: "Berk-Can Atesoglu",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Berk-Can – Premium Barbershop Düsseldorf",
+    title: "Berk-Can Atesoglu | Software Developer & Entrepreneur",
     description:
-      "Premium Barbershop in Düsseldorf – moderne Cuts, Fades & Bartpflege. Online buchen!",
+      "Software Developer & Entrepreneur aus Düsseldorf.",
   },
   viewport: {
     width: "device-width",
@@ -53,18 +55,19 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="de">
+    <html lang="de" suppressHydrationWarning>
       <body className={inter.className}>
         <GoogleAnalytics />
-        <NextUIProvider>
-          <Suspense fallback={null}>
-            <TrackingProvider>
-              {/* Klaro Cookie Consent - Open Source & Kostenlos */}
-              <KlaroCookieConsent />
-              {children}
-            </TrackingProvider>
-          </Suspense>
-        </NextUIProvider>
+        <ThemeProvider>
+          <NextUIProvider>
+            <Suspense fallback={null}>
+              <TrackingProvider>
+                <KlaroCookieConsent />
+                {children}
+              </TrackingProvider>
+            </Suspense>
+          </NextUIProvider>
+        </ThemeProvider>
       </body>
     </html>
   );

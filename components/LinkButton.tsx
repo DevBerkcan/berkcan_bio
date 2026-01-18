@@ -1,9 +1,8 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { LucideIcon, Scissors } from "lucide-react";
+import { LucideIcon } from "lucide-react";
 import { useAnalytics } from "@/hooks/useAnalytics";
-import { useState } from "react";
 
 interface LinkButtonProps {
   href: string;
@@ -21,7 +20,7 @@ export const LinkButton = ({
   variant = "primary",
 }: LinkButtonProps) => {
   const { trackEvent } = useAnalytics();
-  const [isHovered, setIsHovered] = useState(false);
+  const isExternal = href.startsWith("http");
 
   const handleClick = () => {
     trackEvent("link_click", {
@@ -36,11 +35,9 @@ export const LinkButton = ({
   return (
     <motion.a
       href={href}
-      target="_blank"
-      rel="noopener noreferrer"
+      target={isExternal ? "_blank" : undefined}
+      rel={isExternal ? "noopener noreferrer" : undefined}
       onClick={handleClick}
-      onMouseEnter={() => setIsHovered(true)}
-      onMouseLeave={() => setIsHovered(false)}
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{
@@ -60,8 +57,8 @@ export const LinkButton = ({
         hover:shadow-xl focus-visible:shadow-xl
         ${
           isPrimary
-            ? "bg-gradient-to-r from-barber-red to-barber-darkRed text-barber-white hover:from-barber-darkRed hover:to-barber-red"
-            : "border-2 border-barber-grey-200 bg-barber-white text-barber-black hover:border-barber-red hover:bg-barber-cream"
+            ? "bg-gradient-to-r from-violet-500 to-purple-600 text-white hover:from-violet-600 hover:to-purple-700"
+            : "border-2 border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white hover:border-violet-500 dark:hover:border-violet-500"
         }
       `}
       aria-label={`${label} öffnen`}
@@ -69,7 +66,7 @@ export const LinkButton = ({
       {/* Background gradient effect on hover */}
       <motion.div
         className={`absolute inset-0 opacity-0 transition-opacity duration-300 group-hover:opacity-10 ${
-          isPrimary ? "bg-barber-white" : "bg-barber-red"
+          isPrimary ? "bg-white" : "bg-violet-500"
         }`}
         initial={false}
       />
@@ -82,7 +79,7 @@ export const LinkButton = ({
       >
         <Icon
           size={24}
-          className={isPrimary ? "text-barber-white" : "text-barber-red"}
+          className={isPrimary ? "text-white" : "text-violet-500"}
         />
       </motion.div>
 
@@ -94,7 +91,7 @@ export const LinkButton = ({
       {/* Arrow indicator */}
       <motion.svg
         className={`relative z-10 h-5 w-5 ${
-          isPrimary ? "text-barber-white" : "text-barber-grey-400"
+          isPrimary ? "text-white" : "text-gray-400 dark:text-gray-500"
         }`}
         fill="none"
         viewBox="0 0 24 24"
@@ -119,22 +116,6 @@ export const LinkButton = ({
           transition: { duration: 0.6 },
         }}
       />
-
-      {/* Scissors hover effect */}
-      {isHovered && (
-        <motion.div
-          initial={{ x: -20, y: -10, opacity: 0, rotate: -45 }}
-          animate={{ x: 5, y: -5, opacity: 0.3, rotate: -30 }}
-          exit={{ x: 20, y: 0, opacity: 0, rotate: -15 }}
-          transition={{ duration: 0.3 }}
-          className="absolute left-2 top-2 pointer-events-none"
-        >
-          <Scissors
-            size={16}
-            className={isPrimary ? "text-barber-white" : "text-barber-red"}
-          />
-        </motion.div>
-      )}
     </motion.a>
   );
 };
