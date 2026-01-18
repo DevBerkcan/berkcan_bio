@@ -2,14 +2,9 @@
 
 import Script from "next/script";
 
-// Ersetze DEINE_CLARITY_ID mit deiner echten Clarity Project ID
 const CLARITY_ID = "v3bx6m2921";
 
 export const MicrosoftClarity = () => {
-  if (!CLARITY_ID || CLARITY_ID === "DEINE_CLARITY_ID") {
-    return null;
-  }
-
   return (
     <Script
       id="microsoft-clarity"
