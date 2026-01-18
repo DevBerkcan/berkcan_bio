@@ -40,8 +40,8 @@ export default function ImpressumPage() {
               </p>
               <p className="mb-2">
                 <strong>E-Mail:</strong>{" "}
-                <a href="mailto:info@barberdario.de" className="text-barber-red hover:underline">
-                  info@barberdario.de
+                <a href="mailto:kontakt@berkcanatesoglu.de" className="text-barber-red hover:underline">
+                  kontakt@berkcanatesoglu.de
                 </a>
               </p>
               <p className="mb-2">
@@ -68,7 +68,7 @@ export default function ImpressumPage() {
               <h2 className="text-2xl font-bold text-barber-black mb-4">
                 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
               </h2>
-              <p>Inhaber: Dario [Nachname]</p>
+              <p>Inhaber: Berk-Can Atesoglu</p>
               <p>Berliner Allee 43</p>
               <p>40212 Düsseldorf</p>
             </section>

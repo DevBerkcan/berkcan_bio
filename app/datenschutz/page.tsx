@@ -276,8 +276,8 @@ export default function DatenschutzPage() {
               </p>
               <p className="mb-2">
                 <strong>E-Mail:</strong>{" "}
-                <a href="mailto:info@barberdario.de" className="text-barber-red hover:underline">
-                  info@barberdario.de
+                <a href="mailto:kontakt@berkcanatesoglu.de" className="text-barber-red hover:underline">
+                  kontakt@berkcanatesoglu.de
                 </a>
               </p>
               <p>
