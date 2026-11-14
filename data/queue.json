@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "asin": "B0CXDXP8VR",
+    "title": "Anker Powerbank 20.000 mAh mit 87 W",
+    "price": 37.9,
+    "note": "Lädt sogar Laptops – USB-C-Kabel direkt integriert.",
+    "category": "Tech",
+    "addedAt": "2026-11-14T14:08:09.000Z"
+  },
+  {
+    "asin": "B0CYWD9PSM",
+    "title": "Turtle Beach Stealth 600 Gaming-Headset",
+    "price": 59.99,
+    "note": "Kabellos für PS5 & PC, lange Akkulaufzeit, leichtes Design.",
+    "category": "Gaming",
+    "addedAt": "2026-11-14T14:45:12.000Z"
+  },
+  {
+    "asin": "B0BDCQP6ZZ",
+    "title": "Nebula Capsule 3 Laser Projektor (Google TV)",
+    "price": 439.99,
+    "note": "Mini-Beamer in Dosengröße mit 1080p und Google TV fürs Heimkino.",
+    "category": "TV",
+    "addedAt": "2026-11-14T06:11:05.000Z"
+  },
+  {
+    "asin": "B0H9RNX24M",
+    "title": "ECOVACS DEEBOT T90 MAX PRO Saugroboter",
+    "price": 399,
+    "note": "Saugt und wischt mit 40.000 Pa – mit Care-Kit im Paket.",
+    "category": "Haushalt",
+    "addedAt": "2026-11-14T06:00:01.000Z"
+  },
+  {
+    "asin": "B09PGBKBZB",
+    "title": "Reolink RLC-1224A 12MP PoE Überwachungskamera",
+    "price": 94.99,
+    "note": "12 MP, farbige Nachtsicht, ohne Cloud-Abo nutzbar.",
+    "category": "Smart Home",
+    "addedAt": "2026-11-13T16:02:03.000Z"
+  },
+  {
+    "asin": "B0C3HCD34R",
+    "title": "Soundcore Q20i Bluetooth-Kopfhörer",
+    "price": 29.99,
+    "note": "Günstiger ANC-Kopfhörer mit kräftigem Bass und langer Laufzeit.",
+    "category": "Audio",
+    "addedAt": "2026-11-14T12:49:58.000Z"
+  },
+  {
+    "asin": "B0GS69B9R5",
+    "title": "Xiaomi 17T Pro 12/512 GB",
+    "price": 617.4,
+    "note": "Flaggschiff mit Leica-Telekamera und riesigem 6,83\"-Display.",
+    "category": "Smartphone",
+    "addedAt": "2026-11-13T19:41:27.000Z"
+  },
+  {
+    "asin": "B0FH2YVH4W",
+    "title": "Xiaomi Redmi 15 4G 6/128 GB",
+    "price": 122.9,
+    "note": "Großes 144-Hz-Display – solides Zweit- oder Einsteiger-Handy.",
+    "category": "Smartphone",
+    "addedAt": "2026-11-14T09:11:20.000Z"
+  },
+  {
+    "asin": "B0DGGM27MZ",
+    "title": "Weller Akku-Lötkolben WLBRK12",
+    "price": 35.11,
+    "note": "Kabellos löten vom Markenhersteller – ideal für Bastler.",
+    "category": "Werkzeug",
+    "addedAt": "2026-11-14T10:19:38.000Z"
+  },
+  {
+    "asin": "B0D63Y2QW4",
+    "title": "Astro Bot (PS5)",
+    "price": 38.66,
+    "note": "Das gefeierte Jump’n’Run für PlayStation 5.",
+    "category": "Gaming",
+    "addedAt": "2026-11-14T07:43:49.000Z"
+  },
+  {
+    "asin": "B088VCBBQR",
+    "title": "Mafia Trilogy (PS4/PS5)",
+    "price": 14.95,
+    "note": "Alle drei Mafia-Teile als Definitive Edition inkl. Erweiterungen.",
+    "category": "Gaming",
+    "addedAt": "2026-11-14T07:21:15.000Z"
+  }
+]
