@@ -3,14 +3,20 @@
 import { motion } from "framer-motion";
 import { ArrowLeft, ExternalLink, ShoppingBag } from "lucide-react";
 import Link from "next/link";
-import Image from "next/image";
+import { AMAZON_DISCLOSURE, AFFILIATE_TAG, affiliateUrl } from "@/lib/deals";
 
 interface GadgetItem {
   name: string;
   description: string;
   image: string;
-  link: string;
+  /** ASIN aus dem Amazon-Link (z. B. B09XS7JWHH). Ohne ASIN: Amazon-Suche mit Partner-Tag. */
+  asin?: string;
   category: string;
+}
+
+function gadgetUrl(g: GadgetItem) {
+  if (g.asin) return affiliateUrl(g.asin);
+  return `https://www.amazon.de/s?k=${encodeURIComponent(g.name)}&tag=${AFFILIATE_TAG}`;
 }
 
 // Hier kannst du deine Gadgets mit Amazon-Links hinzufügen
@@ -19,21 +25,18 @@ const gadgets: GadgetItem[] = [
     name: "MacBook Pro 14\"",
     description: "Mein täglicher Arbeitsbegleiter für Coding & Design",
     image: "/gadgets/macbook.jpg",
-    link: "https://amzn.to/example1",
     category: "Setup",
   },
   {
     name: "Sony WH-1000XM5",
     description: "Beste Noise-Cancelling Kopfhörer für fokussiertes Arbeiten",
     image: "/gadgets/headphones.jpg",
-    link: "https://amzn.to/example2",
     category: "Audio",
   },
   {
     name: "Logitech MX Master 3S",
     description: "Ergonomische Maus für lange Coding-Sessions",
     image: "/gadgets/mouse.jpg",
-    link: "https://amzn.to/example3",
     category: "Setup",
   },
 ];
@@ -76,9 +79,9 @@ export default function GadgetsPage() {
           {gadgets.map((gadget, index) => (
             <motion.a
               key={gadget.name}
-              href={gadget.link}
+              href={gadgetUrl(gadget)}
               target="_blank"
-              rel="noopener noreferrer"
+              rel="sponsored noopener noreferrer"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: index * 0.1 }}
@@ -117,7 +120,7 @@ export default function GadgetsPage() {
           transition={{ delay: 0.5 }}
           className="mt-8 text-center text-xs text-gray-400 dark:text-gray-500"
         >
-          * Einige Links sind Affiliate-Links. Du zahlst nicht mehr, aber ich erhalte eine kleine Provision.
+          Anzeige · {AMAZON_DISCLOSURE} Du zahlst dadurch nicht mehr.
         </motion.p>
       </div>
     </div>

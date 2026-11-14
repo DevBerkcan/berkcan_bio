@@ -6,6 +6,7 @@ import {
   Building2,
   ShoppingBag,
   Linkedin,
+  Flame,
   type LucideIcon,
 } from "lucide-react";
 
@@ -13,7 +14,7 @@ export interface LinkConfig {
   label: string;
   href: string;
   icon: LucideIcon;
-  variant: "primary" | "secondary";
+  variant: "primary" | "secondary" | "highlight";
 }
 
 export const profileConfig = {
@@ -24,6 +25,12 @@ export const profileConfig = {
 };
 
 export const socialLinks: LinkConfig[] = [
+  {
+    label: "Black Friday Deals",
+    href: "/deals",
+    icon: Flame,
+    variant: "highlight",
+  },
   {
     label: "GentleGroup",
     href: "https://www.gentlegroup.de",

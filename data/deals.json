@@ -1,0 +1,43 @@
+{
+  "campaign": {
+    "name": "Black Friday Week",
+    "slug": "bf2026",
+    "endsAt": "2026-11-30T23:59:59+01:00"
+  },
+  "deals": [
+    {
+      "id": "beispiel-kopfhoerer",
+      "asin": "B000000001",
+      "title": "Beispiel: Noise-Cancelling Kopfhörer",
+      "subtitle": "Entwurf – nur lokal sichtbar. Mit npm run deal ersetzen.",
+      "category": "Audio",
+      "price": 249,
+      "oldPrice": 379.99,
+      "checkedAt": "2026-11-14T12:00:00+01:00",
+      "featured": true,
+      "draft": true
+    },
+    {
+      "id": "beispiel-monitor",
+      "asin": "B000000002",
+      "title": "Beispiel: 27\" 4K Monitor",
+      "subtitle": "Entwurf – nur lokal sichtbar.",
+      "category": "Setup",
+      "price": 279.9,
+      "oldPrice": 399,
+      "checkedAt": "2026-11-14T12:00:00+01:00",
+      "draft": true
+    },
+    {
+      "id": "beispiel-smart-plug",
+      "asin": "B000000003",
+      "title": "Beispiel: Smart Plug 4er-Pack",
+      "subtitle": "Entwurf – nur lokal sichtbar.",
+      "category": "Smart Home",
+      "price": 24.99,
+      "oldPrice": 39.99,
+      "checkedAt": "2026-11-14T12:00:00+01:00",
+      "draft": true
+    }
+  ]
+}

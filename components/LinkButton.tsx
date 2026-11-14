@@ -9,7 +9,7 @@ interface LinkButtonProps {
   label: string;
   icon: LucideIcon;
   position: number;
-  variant?: "primary" | "secondary";
+  variant?: "primary" | "secondary" | "highlight";
 }
 
 export const LinkButton = ({
@@ -30,7 +30,8 @@ export const LinkButton = ({
     });
   };
 
-  const isPrimary = variant === "primary";
+  const isHighlight = variant === "highlight";
+  const isPrimary = variant === "primary" || isHighlight;
 
   return (
     <motion.a
@@ -56,7 +57,9 @@ export const LinkButton = ({
         rounded-2xl px-6 py-4 shadow-md transition-all duration-300
         hover:shadow-xl focus-visible:shadow-xl
         ${
-          isPrimary
+          isHighlight
+            ? "bg-gradient-to-r from-gray-950 via-violet-950 to-gray-950 text-white ring-2 ring-amber-400 shadow-amber-400/30 animate-pulse-ring"
+            : isPrimary
             ? "bg-gradient-to-r from-violet-500 to-purple-600 text-white hover:from-violet-600 hover:to-purple-700"
             : "border-2 border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-white hover:border-violet-500 dark:hover:border-violet-500"
         }
@@ -79,7 +82,7 @@ export const LinkButton = ({
       >
         <Icon
           size={24}
-          className={isPrimary ? "text-white" : "text-violet-500"}
+          className={isHighlight ? "text-amber-400" : isPrimary ? "text-white" : "text-violet-500"}
         />
       </motion.div>
 
@@ -87,6 +90,11 @@ export const LinkButton = ({
       <span className="relative z-10 flex-1 text-left font-semibold">
         {label}
       </span>
+      {isHighlight && (
+        <span className="relative z-10 rounded-full bg-amber-400 px-2 py-0.5 text-[10px] font-extrabold uppercase tracking-wider text-gray-950">
+          Live
+        </span>
+      )}
 
       {/* Arrow indicator */}
       <motion.svg

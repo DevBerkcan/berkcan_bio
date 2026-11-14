@@ -40,8 +40,13 @@ const config: Config = {
         "float-slow": "float 3s ease-in-out infinite",
         "fade-in": "fadeIn 0.5s ease-in-out",
         "slide-up": "slideUp 0.5s ease-out",
+        "pulse-ring": "pulseRing 2.4s ease-in-out infinite",
       },
       keyframes: {
+        pulseRing: {
+          "0%, 100%": { boxShadow: "0 0 0 0 rgba(251, 191, 36, 0.45)" },
+          "50%": { boxShadow: "0 0 0 8px rgba(251, 191, 36, 0)" },
+        },
         float: {
           "0%, 100%": { transform: "translateY(0px)" },
           "50%": { transform: "translateY(-10px)" },

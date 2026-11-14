@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deal": "node scripts/add-deal.mjs"
   },
   "dependencies": {
     "@microsoft/clarity": "^1.0.2",
