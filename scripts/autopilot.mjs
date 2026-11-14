@@ -16,6 +16,7 @@ import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { postDeal, shareButton, telegramApi, telegramConfigured } from "./telegram.mjs";
+import { processInbox } from "./inbox.mjs";
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const FILES = {
@@ -275,6 +276,15 @@ async function main() {
   const now = Date.now();
   const { day, hour } = berlinNow();
   const mode = activeMode(cfg, day);
+
+  // Deal-Inbox zuerst: von dir per Telegram geschickte Links sofort posten
+  if (telegramConfigured()) {
+    const n = await processInbox({ config, state, list: auto, dry: DRY });
+    if (n && !DRY) {
+      await writeJSON(FILES.auto, auto.slice(0, MAX_LIST));
+      await writeJSON(FILES.state, state);
+    }
+  }
 
   // Läuft alle 15 Min (GitHub); im Normalbetrieb nur alle 30 Min wirklich posten
   if (!DRY && state.lastRunAt && now - Date.parse(state.lastRunAt) < (mode.intervalMinutes - 3) * 60000) {

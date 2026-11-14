@@ -1,128 +1,117 @@
-"use client";
-
-import { motion } from "framer-motion";
-import { ArrowLeft, ExternalLink, ShoppingBag } from "lucide-react";
+import type { Metadata } from "next";
 import Link from "next/link";
-import { AMAZON_DISCLOSURE, AFFILIATE_TAG, affiliateUrl } from "@/lib/deals";
+import { ArrowLeft, ShoppingBag } from "lucide-react";
+import data from "@/data/gadgets.json";
+import { AMAZON_DISCLOSURE, AFFILIATE_TAG } from "@/lib/deals";
+import { GadgetCard, type GadgetView } from "@/components/gadgets/GadgetCard";
+import { Footer } from "@/components/Footer";
+
+export const metadata: Metadata = {
+  title: "Meine Gadgets & Desk-Setup | Berk-Can Atesoglu",
+  description:
+    "Schreibtische, Monitore, Monitorarme, Licht, Maus & Tastatur – Tech & Gadgets für das perfekte Home-Office-Setup.",
+};
 
 interface GadgetItem {
   name: string;
   description: string;
-  image: string;
-  /** ASIN aus dem Amazon-Link (z. B. B09XS7JWHH). Ohne ASIN: Amazon-Suche mit Partner-Tag. */
-  asin?: string;
   category: string;
+  /** ASIN aus dem Amazon-Link. Ohne ASIN: Amazon-Suche (search) mit Partner-Tag. */
+  asin?: string;
+  search?: string;
+  mine?: boolean;
 }
 
-function gadgetUrl(g: GadgetItem) {
-  if (g.asin) return affiliateUrl(g.asin);
-  return `https://www.amazon.de/s?k=${encodeURIComponent(g.name)}&tag=${AFFILIATE_TAG}`;
+function toView(g: GadgetItem): GadgetView {
+  const url = g.asin
+    ? `https://www.amazon.de/dp/${g.asin}?tag=${AFFILIATE_TAG}`
+    : `https://www.amazon.de/s?k=${encodeURIComponent(g.search ?? g.name)}&tag=${AFFILIATE_TAG}`;
+  return {
+    name: g.name,
+    description: g.description,
+    category: g.category,
+    url,
+    image: g.asin
+      ? `https://m.media-amazon.com/images/P/${g.asin}.01._SCLZZZZZZZ_SX300_.jpg`
+      : undefined,
+    mine: !!g.mine,
+  };
 }
-
-// Hier kannst du deine Gadgets mit Amazon-Links hinzufügen
-const gadgets: GadgetItem[] = [
-  {
-    name: "MacBook Pro 14\"",
-    description: "Mein täglicher Arbeitsbegleiter für Coding & Design",
-    image: "/gadgets/macbook.jpg",
-    category: "Setup",
-  },
-  {
-    name: "Sony WH-1000XM5",
-    description: "Beste Noise-Cancelling Kopfhörer für fokussiertes Arbeiten",
-    image: "/gadgets/headphones.jpg",
-    category: "Audio",
-  },
-  {
-    name: "Logitech MX Master 3S",
-    description: "Ergonomische Maus für lange Coding-Sessions",
-    image: "/gadgets/mouse.jpg",
-    category: "Setup",
-  },
-];
 
 export default function GadgetsPage() {
+  const items = (data.items as GadgetItem[]).map(toView);
+  const mine = items.filter((g) => g.mine);
+  const categories = data.categories.filter((c) => items.some((g) => !g.mine && g.category === c));
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-100 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 transition-colors duration-300">
-      <div className="max-w-2xl mx-auto px-4 py-12">
-        {/* Back Button */}
-        <Link href="/">
-          <motion.div
-            initial={{ opacity: 0, x: -20 }}
-            animate={{ opacity: 1, x: 0 }}
-            className="inline-flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-violet-500 transition-colors mb-8"
-          >
-            <ArrowLeft size={20} />
-            <span>Zurück</span>
-          </motion.div>
+      <div className="mx-auto max-w-3xl px-4 py-10">
+        <Link
+          href="/"
+          className="mb-8 inline-flex items-center gap-2 text-gray-600 transition-colors hover:text-violet-500 dark:text-gray-400"
+        >
+          <ArrowLeft size={20} />
+          <span>Zurück</span>
         </Link>
 
-        {/* Header */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          className="text-center mb-12"
-        >
-          <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-violet-100 dark:bg-violet-900/50 mb-4">
+        <header className="mb-10 text-center">
+          <div className="mb-4 inline-flex h-16 w-16 items-center justify-center rounded-full bg-violet-100 dark:bg-violet-900/50">
             <ShoppingBag size={32} className="text-violet-500" />
           </div>
-          <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">
-            Meine Gadgets
-          </h1>
-          <p className="text-gray-600 dark:text-gray-400">
-            Tools & Tech die ich täglich nutze
+          <h1 className="text-3xl font-bold text-gray-900 dark:text-white">Gadgets & Desk-Setup</h1>
+          <p className="mx-auto mt-2 max-w-md text-gray-600 dark:text-gray-400">
+            Mein Setup und Empfehlungen für Schreibtisch, Monitore, Licht & Co.
           </p>
-        </motion.div>
+          <nav className="mt-6 flex flex-wrap justify-center gap-2" aria-label="Kategorien">
+            {mine.length > 0 && (
+              <a href="#mein-setup" className="rounded-full bg-violet-600 px-3 py-1.5 text-sm font-semibold text-white">
+                Mein Setup
+              </a>
+            )}
+            {categories.map((c) => (
+              <a
+                key={c}
+                href={`#${slug(c)}`}
+                className="rounded-full bg-white px-3 py-1.5 text-sm font-semibold text-gray-700 ring-1 ring-gray-200 hover:ring-violet-400 dark:bg-gray-800 dark:text-gray-300 dark:ring-gray-700"
+              >
+                {c}
+              </a>
+            ))}
+          </nav>
+        </header>
 
-        {/* Gadgets Grid */}
-        <div className="space-y-4">
-          {gadgets.map((gadget, index) => (
-            <motion.a
-              key={gadget.name}
-              href={gadgetUrl(gadget)}
-              target="_blank"
-              rel="sponsored noopener noreferrer"
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: index * 0.1 }}
-              whileHover={{ scale: 1.02 }}
-              whileTap={{ scale: 0.98 }}
-              className="flex items-center gap-4 p-4 rounded-2xl bg-white dark:bg-gray-800 shadow-md hover:shadow-xl transition-all ring-1 ring-gray-200 dark:ring-gray-700"
-            >
-              {/* Image Placeholder */}
-              <div className="w-20 h-20 rounded-xl bg-gray-100 dark:bg-gray-700 flex items-center justify-center flex-shrink-0 overflow-hidden">
-                <ShoppingBag size={32} className="text-gray-400" />
-              </div>
+        {mine.length > 0 && (
+          <Section id="mein-setup" title="⭐ Mein Setup" items={mine} />
+        )}
+        {categories.map((c) => (
+          <Section key={c} id={slug(c)} title={c} items={items.filter((g) => !g.mine && g.category === c)} />
+        ))}
 
-              {/* Content */}
-              <div className="flex-1 min-w-0">
-                <span className="text-xs font-medium text-violet-500 uppercase tracking-wider">
-                  {gadget.category}
-                </span>
-                <h3 className="font-semibold text-gray-900 dark:text-white truncate">
-                  {gadget.name}
-                </h3>
-                <p className="text-sm text-gray-500 dark:text-gray-400 line-clamp-2">
-                  {gadget.description}
-                </p>
-              </div>
-
-              {/* Arrow */}
-              <ExternalLink size={20} className="text-gray-400 flex-shrink-0" />
-            </motion.a>
-          ))}
-        </div>
-
-        {/* Disclaimer */}
-        <motion.p
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 0.5 }}
-          className="mt-8 text-center text-xs text-gray-400 dark:text-gray-500"
-        >
+        <p className="mt-10 text-center text-xs text-gray-400 dark:text-gray-500">
           Anzeige · {AMAZON_DISCLOSURE} Du zahlst dadurch nicht mehr.
-        </motion.p>
+        </p>
+
+        <Footer />
       </div>
     </div>
+  );
+}
+
+function slug(s: string) {
+  return s.toLowerCase().replace(/&/g, "und").replace(/[^a-z0-9äöü]+/g, "-");
+}
+
+function Section({ id, title, items }: { id: string; title: string; items: GadgetView[] }) {
+  return (
+    <section id={id} className="mb-10 scroll-mt-6">
+      <h2 className="mb-4 text-lg font-bold text-gray-900 dark:text-white">{title}</h2>
+      <ul className="grid gap-3 sm:grid-cols-2">
+        {items.map((g) => (
+          <li key={g.name}>
+            <GadgetCard gadget={g} />
+          </li>
+        ))}
+      </ul>
+    </section>
   );
 }

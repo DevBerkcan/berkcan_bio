@@ -1,0 +1,185 @@
+{
+  "_hinweis": "Gadgets-Seite (/gadgets). Neues Produkt: Eintrag mit name, description, category und asin (aus dem Amazon-Link /dp/XXXXXXXXXX) hinzufügen. Ohne asin wird eine Amazon-Suche nach 'search' bzw. 'name' verlinkt. mine=true → Bereich 'Mein Setup'.",
+  "categories": [
+    "Schreibtisch",
+    "Monitor",
+    "Monitorhalterung",
+    "Licht",
+    "Maus & Tastatur",
+    "Audio & Video",
+    "Zubehör"
+  ],
+  "items": [
+    {
+      "name": "MacBook Pro 14\"",
+      "description": "Mein täglicher Arbeitsbegleiter für Coding & Design",
+      "category": "Laptop",
+      "search": "Apple MacBook Pro 14 Zoll",
+      "mine": true
+    },
+    {
+      "name": "Sony WH-1000XM5",
+      "description": "Beste Noise-Cancelling-Kopfhörer für fokussiertes Arbeiten",
+      "category": "Audio",
+      "asin": "B09XS7JWHH",
+      "mine": true
+    },
+    {
+      "name": "Logitech MX Master 3S",
+      "description": "Ergonomische Maus für lange Coding-Sessions",
+      "category": "Maus",
+      "asin": "B09HM94VDS",
+      "mine": true
+    },
+    {
+      "name": "FLEXISPOT E7 elektrisch höhenverstellbar",
+      "description": "Stabiler Steh-Sitz-Schreibtisch mit starkem Doppelmotor und Memory-Tasten.",
+      "category": "Schreibtisch",
+      "search": "FLEXISPOT E7 höhenverstellbarer Schreibtisch elektrisch"
+    },
+    {
+      "name": "FLEXISPOT EF1 – Einstieg",
+      "description": "Günstiger elektrischer Steh-Schreibtisch für den Start ins gesunde Arbeiten.",
+      "category": "Schreibtisch",
+      "search": "FLEXISPOT EF1 höhenverstellbarer Schreibtisch"
+    },
+    {
+      "name": "Höhenverstellbare Schreibtische 160×80",
+      "description": "Große Arbeitsfläche für zwei Monitore – aktuelle Bestseller im Überblick.",
+      "category": "Schreibtisch",
+      "search": "Schreibtisch höhenverstellbar elektrisch 160x80"
+    },
+    {
+      "name": "LG UltraFine 27UP850-W",
+      "description": "27-Zoll-4K-IPS mit USB-C-Ladefunktion für ein aufgeräumtes Laptop-Setup.",
+      "category": "Monitor",
+      "asin": "B08YJMMYBX"
+    },
+    {
+      "name": "Dell UltraSharp U2724D",
+      "description": "Scharfes QHD-IPS-Panel mit 120 Hz und hoher Farbtreue fürs Büro.",
+      "category": "Monitor",
+      "asin": "B0BBF5NNZR"
+    },
+    {
+      "name": "ASUS ProArt PA278CV",
+      "description": "Werkskalibrierter 27-Zoll-QHD-Monitor mit USB-C für kreative Arbeit.",
+      "category": "Monitor",
+      "asin": "B08LCPY1TR"
+    },
+    {
+      "name": "LG UltraGear 27GR95QE OLED",
+      "description": "OLED mit 240 Hz für perfekte Schwarzwerte bei Arbeit und Gaming.",
+      "category": "Monitor",
+      "asin": "B0BRBW8KRK"
+    },
+    {
+      "name": "Samsung Odyssey G5 27\"",
+      "description": "Gebogener QHD-Gaming-Monitor mit hoher Bildwiederholrate zum fairen Preis.",
+      "category": "Monitor",
+      "search": "Samsung Odyssey G5 27 Zoll"
+    },
+    {
+      "name": "Ergotron LX Monitorarm",
+      "description": "Robuster Monitorarm, der Platz schafft und ergonomisches Positionieren erlaubt.",
+      "category": "Monitorhalterung",
+      "asin": "B00358RIRC"
+    },
+    {
+      "name": "HUANUO Monitorhalterung für 2 Monitore",
+      "description": "Doppel-Monitorarm mit Gasdruckfedern – ideal für Dual-Screen-Setups.",
+      "category": "Monitorhalterung",
+      "search": "HUANUO Monitorhalterung 2 Monitore"
+    },
+    {
+      "name": "BenQ ScreenBar Halo",
+      "description": "Blendfreie Monitorleuchte mit Funk-Controller und indirektem Hintergrundlicht.",
+      "category": "Licht",
+      "asin": "B08WT889V3"
+    },
+    {
+      "name": "BenQ ScreenBar",
+      "description": "Platzsparende Monitorlampe, die den Schreibtisch ohne Spiegelung ausleuchtet.",
+      "category": "Licht",
+      "asin": "B076VNFZJG"
+    },
+    {
+      "name": "Philips Hue Play Lightbar Doppelpack",
+      "description": "Farbiges Ambiente-Licht hinter dem Monitor für entspannte Augen und Stil.",
+      "category": "Licht",
+      "asin": "B07FYDGD7R"
+    },
+    {
+      "name": "Logitech MX Keys S",
+      "description": "Flache, beleuchtete Tastatur mit angenehmem Tippgefühl für drei Geräte.",
+      "category": "Maus & Tastatur",
+      "asin": "B0BKW3LB2B"
+    },
+    {
+      "name": "Keychron K2",
+      "description": "Kompakte mechanische 75%-Tastatur mit Bluetooth für Mac und Windows.",
+      "category": "Maus & Tastatur",
+      "asin": "B07QBPDWLS"
+    },
+    {
+      "name": "Logitech Lift Vertikalmaus",
+      "description": "Vertikale Maus, die Handgelenk und Unterarm bei langen Arbeitstagen entlastet.",
+      "category": "Maus & Tastatur",
+      "asin": "B07W4DGC27"
+    },
+    {
+      "name": "Logitech Brio 4K",
+      "description": "4K-Webcam mit HDR und Windows Hello für gestochen scharfe Videocalls.",
+      "category": "Audio & Video",
+      "asin": "B01N5UOYC4"
+    },
+    {
+      "name": "Elgato Facecam",
+      "description": "Full-HD-Webcam mit 60 fps und Profi-Optik für klare Meetings und Streams.",
+      "category": "Audio & Video",
+      "asin": "B0973DV11T"
+    },
+    {
+      "name": "Shure MV7+",
+      "description": "USB-/XLR-Podcastmikro, das Stimmen warm klingen lässt und Raumhall filtert.",
+      "category": "Audio & Video",
+      "asin": "B0CTJ7PVN1"
+    },
+    {
+      "name": "Elgato Wave:3",
+      "description": "USB-Kondensatormikro mit Clipguard für klaren Sound in Calls und Aufnahmen.",
+      "category": "Audio & Video",
+      "asin": "B088HHWC47"
+    },
+    {
+      "name": "Anker USB-C Hub 7-in-1",
+      "description": "Kompakter Hub mit HDMI, USB und Kartenleser für Laptops mit wenig Ports.",
+      "category": "Zubehör",
+      "asin": "B07ZVKTP53"
+    },
+    {
+      "name": "Rain Design mStand",
+      "description": "Alu-Laptopständer, der den Bildschirm auf Augenhöhe bringt und kühlt.",
+      "category": "Zubehör",
+      "asin": "B000OOYECC"
+    },
+    {
+      "name": "Logitech Desk Mat Studio Series",
+      "description": "Große Schreibtischunterlage für Maus und Tastatur, rutschfest und pflegeleicht.",
+      "category": "Zubehör",
+      "asin": "B09DV8WKK8"
+    },
+    {
+      "name": "Kabelwanne für den Schreibtisch",
+      "description": "Kabelsalat unter der Tischplatte verstecken – für ein cleanes Setup.",
+      "category": "Zubehör",
+      "search": "Kabelwanne Schreibtisch Kabelmanagement"
+    },
+    {
+      "name": "Ergonomische Fußstütze",
+      "description": "Entlastet Beine und Rücken beim Sitzen – kleiner Preis, große Wirkung.",
+      "category": "Zubehör",
+      "search": "Fußstütze Schreibtisch ergonomisch"
+    }
+  ]
+}

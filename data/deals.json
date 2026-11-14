@@ -11,7 +11,9 @@
     "telegram": "berkcanat-tg-21"
   },
   "telegram": {
-    "channelUrl": "https://t.me/+68M0ZAE8bnsyOTY6"
+    "channelUrl": "https://t.me/+68M0ZAE8bnsyOTY6",
+    "_hinweis": "ownerIds = deine Telegram-Nutzer-ID(s). Nur diese dürfen dem Bot Deals schicken (Deal-Inbox).",
+    "ownerIds": []
   },
   "autopilot": {
     "_hinweis": "Automatische Deals aus mydealz-RSS (nur Händler Amazon.de). enabled=false stoppt den Bot. categories gilt nur für die allgemeinen Feeds.",

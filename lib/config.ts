@@ -62,7 +62,7 @@ export const socialLinks: LinkConfig[] = [
     variant: "primary",
   },
   {
-    label: "Meine Gadgets",
+    label: "Gadgets & Desk-Setup",
     href: "/gadgets",
     icon: ShoppingBag,
     variant: "secondary",
