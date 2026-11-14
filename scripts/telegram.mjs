@@ -52,11 +52,23 @@ export function buildMessage(deal, campaign) {
     deal.price
       ? `💶 <b>${eur(deal.price)}</b>${deal.oldPrice && deal.oldPrice > deal.price ? ` statt <s>${eur(deal.oldPrice)}</s>` : ""}`
       : "💶 Preis auf Amazon ansehen",
+    deal.price && deal.oldPrice && deal.oldPrice > deal.price
+      ? `💰 <b>Du sparst ${eur(Math.round((deal.oldPrice - deal.price) * 100) / 100)}</b>`
+      : null,
     `<i>Stand ${stamp(deal.checkedAt)} Uhr – Preis kann sich jederzeit ändern.</i>`,
     "",
     `#Anzeige · ${esc(DISCLOSURE)}`,
   ];
   return lines.filter((l) => l !== null).join("\n");
+}
+
+/** Deal-Grafik (Produktbild + Preis + Ersparnis), gerendert auf Vercel. */
+export function cardUrl(deal) {
+  const p = new URLSearchParams({ asin: deal.asin, title: deal.title, ts: deal.checkedAt });
+  if (deal.price) p.set("price", String(deal.price));
+  if (deal.oldPrice) p.set("old", String(deal.oldPrice));
+  if (deal.image) p.set("img", deal.image);
+  return `${PUBLIC_BASE_URL}/api/deal-card?${p.toString()}`;
 }
 
 export async function postDeal(deal, campaign) {
@@ -80,9 +92,8 @@ export async function postDeal(deal, campaign) {
   };
 
   const common = { chat_id: process.env.TELEGRAM_CHANNEL_ID, parse_mode: "HTML", reply_markup };
-  const [method, body] = deal.image
-    ? ["sendPhoto", { ...common, photo: deal.image, caption: text }]
-    : ["sendMessage", { ...common, text, link_preview_options: { is_disabled: true } }];
+  const method = "sendPhoto";
+  const body = { ...common, photo: cardUrl(deal), caption: text };
 
   let res = await fetch(`${api}/${method}`, {
     method: "POST",
@@ -91,8 +102,9 @@ export async function postDeal(deal, campaign) {
   });
   let json = await res.json();
 
-  // Bild nicht abrufbar → als Textnachricht nachschieben
-  if (!json.ok && method === "sendPhoto") {
+  // Grafik nicht abrufbar → als Textnachricht nachschieben
+  if (!json.ok) {
+    console.warn(`⚠️  Bild fehlgeschlagen (${json.description}) – sende Text`);
     res = await fetch(`${api}/sendMessage`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },

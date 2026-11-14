@@ -10,6 +10,8 @@ import {
   formatCheckedAt,
   getDeals,
   isPriceFresh,
+  productImage,
+  savings,
 } from "@/lib/deals";
 import { Countdown } from "@/components/deals/Countdown";
 import { DealsBoard, type DealView } from "@/components/deals/DealsBoard";
@@ -37,13 +39,14 @@ export default function DealsPage() {
       title: d.title,
       subtitle: d.subtitle,
       category: d.category,
-      image: d.image,
+      image: productImage(d),
       featured: !!d.featured,
       draft: !!d.draft,
       url: affiliateUrl(d.asin),
       price: fresh ? d.price : undefined,
       oldPrice: fresh ? d.oldPrice : undefined,
       discount: fresh ? discountPercent(d) : null,
+      savings: fresh ? savings(d) : null,
       checkedLabel: fresh ? formatCheckedAt(d.checkedAt) : undefined,
     };
   });

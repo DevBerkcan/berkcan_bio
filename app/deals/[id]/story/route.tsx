@@ -6,7 +6,10 @@ import {
   formatPrice,
   getDeal,
   isPriceFresh,
+  productImage,
+  savings,
 } from "@/lib/deals";
+import { fetchImageDataUrl } from "@/lib/og";
 
 export const dynamic = "force-dynamic";
 // Edge-Runtime: next/og im Node-Runtime ist unter Windows (Next 14) defekt
@@ -19,6 +22,8 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
 
   const fresh = isPriceFresh(deal);
   const pct = fresh ? discountPercent(deal) : null;
+  const save = fresh ? savings(deal) : null;
+  const img = await fetchImageDataUrl(productImage(deal));
 
   return new ImageResponse(
     (
@@ -66,9 +71,9 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
             position: "relative",
           }}
         >
-          {deal.image ? (
+          {img ? (
             // eslint-disable-next-line @next/next/no-img-element
-            <img src={deal.image} alt="" width={700} height={620} style={{ objectFit: "contain" }} />
+            <img src={img} alt="" width={700} height={620} style={{ objectFit: "contain" }} />
           ) : (
             <div style={{ display: "flex", fontSize: 72, color: "#9ca3af", fontWeight: 700 }}>
               {deal.category}
@@ -118,7 +123,22 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
                 </span>
               ) : null}
             </div>
-            <span style={{ marginTop: 8, fontSize: 30, color: "#a1a1aa" }}>
+            {save !== null && (
+              <div
+                style={{
+                  marginTop: 20,
+                  display: "flex",
+                  padding: "14px 36px",
+                  borderRadius: 999,
+                  background: "#16a34a",
+                  fontSize: 48,
+                  fontWeight: 800,
+                }}
+              >
+                Du sparst {formatPrice(save)}
+              </div>
+            )}
+            <span style={{ marginTop: 16, fontSize: 30, color: "#a1a1aa" }}>
               Stand {formatCheckedAt(deal.checkedAt)} Uhr · Preis kann sich ändern
             </span>
           </div>

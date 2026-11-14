@@ -63,6 +63,34 @@ export function affiliateUrl(asin: string): string {
   return `https://www.amazon.de/dp/${encodeURIComponent(asin)}?tag=${AFFILIATE_TAG}`;
 }
 
+/**
+ * Offizielles Produktbild über den Amazon-Partner-Bild-Link (wie SiteStripe „Bild“).
+ * Wird genutzt, wenn kein eigenes Bild (image) hinterlegt ist.
+ */
+export function amazonImageUrl(asin: string, size = 500): string {
+  const p = new URLSearchParams({
+    _encoding: "UTF8",
+    ASIN: asin,
+    Format: `_SL${size}_`,
+    ID: "AsinImage",
+    MarketPlace: "DE",
+    ServiceVersion: "20070822",
+    WS: "1",
+    tag: AFFILIATE_TAG,
+  });
+  return `https://ws-eu.amazon-adsystem.com/widgets/q?${p.toString()}`;
+}
+
+export function productImage(deal: Deal): string {
+  return deal.image || amazonImageUrl(deal.asin);
+}
+
+/** Ersparnis in Euro (oder null, wenn kein Streichpreis). */
+export function savings(deal: Pick<Deal, "price" | "oldPrice">): number | null {
+  if (!deal.price || !deal.oldPrice || deal.oldPrice <= deal.price) return null;
+  return Math.round((deal.oldPrice - deal.price) * 100) / 100;
+}
+
 export function discountPercent(deal: Deal): number | null {
   if (!deal.price || !deal.oldPrice || deal.oldPrice <= deal.price) return null;
   return Math.round((1 - deal.price / deal.oldPrice) * 100);
@@ -112,6 +140,7 @@ export function caption(deal: Deal): string {
     deal.price
       ? `👉 ${formatPrice(deal.price)}${deal.oldPrice ? ` statt ${formatPrice(deal.oldPrice)}` : ""}${pct ? ` (-${pct}%)` : ""}`
       : "",
+    savings(deal) ? `💰 Du sparst ${formatPrice(savings(deal)!)}` : "",
     `Preis Stand ${formatCheckedAt(deal.checkedAt)} Uhr – kann sich jederzeit ändern.`,
     "",
     "🔗 Link in Bio → Black Friday Deals",

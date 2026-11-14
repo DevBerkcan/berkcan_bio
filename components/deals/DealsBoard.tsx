@@ -16,6 +16,7 @@ export interface DealView {
   price?: number;
   oldPrice?: number;
   discount: number | null;
+  savings: number | null;
   checkedLabel?: string;
 }
 
@@ -28,6 +29,7 @@ export function DealsBoard({ deals }: { deals: DealView[] }) {
   );
   const [active, setActive] = useState("Alle");
   const [highlight, setHighlight] = useState<string | null>(null);
+  const [brokenImages, setBrokenImages] = useState<Set<string>>(() => new Set());
 
   // Story-Link mit #deal-id: zum Deal scrollen und kurz hervorheben
   useEffect(() => {
@@ -94,12 +96,14 @@ export function DealsBoard({ deals }: { deals: DealView[] }) {
               }`}
             >
               <div className="relative flex aspect-[4/3] items-center justify-center bg-gray-50 p-6 dark:bg-gray-900/40">
-                {d.image ? (
+                {d.image && !brokenImages.has(d.id) ? (
                   // eslint-disable-next-line @next/next/no-img-element
                   <img
                     src={d.image}
                     alt={d.title}
                     loading="lazy"
+                    referrerPolicy="no-referrer-when-downgrade"
+                    onError={() => setBrokenImages((s) => new Set(s).add(d.id))}
                     className="h-full w-full object-contain transition-transform duration-300 group-hover:scale-105"
                   />
                 ) : (
@@ -144,7 +148,12 @@ export function DealsBoard({ deals }: { deals: DealView[] }) {
                           <span className="text-sm text-gray-400 line-through">{eur.format(d.oldPrice)}</span>
                         )}
                       </div>
-                      <p className="mt-0.5 text-[11px] text-gray-400">
+                      {d.savings !== null && (
+                        <span className="mt-1 inline-block rounded-md bg-green-100 px-2 py-0.5 text-sm font-bold text-green-700 dark:bg-green-900/40 dark:text-green-400">
+                          Du sparst {eur.format(d.savings)}
+                        </span>
+                      )}
+                      <p className="mt-1 text-[11px] text-gray-400">
                         Stand {d.checkedLabel} Uhr · Preis kann sich ändern
                       </p>
                     </>
