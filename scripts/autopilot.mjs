@@ -15,7 +15,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { postDeal, telegramConfigured } from "./telegram.mjs";
+import { postDeal, shareButton, telegramApi, telegramConfigured } from "./telegram.mjs";
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const FILES = {
@@ -201,6 +201,67 @@ async function resolveAsin(threadId) {
   return target.match(/\/(?:dp|gp\/product|gp\/aw\/d)\/([A-Z0-9]{10})/i)?.[1]?.toUpperCase() ?? null;
 }
 
+// ---------- Modus & Tages-Top-5 ----------
+
+/** Normalbetrieb oder Black-Friday-Turbo (data/deals.json → autopilot.blackFriday). */
+function activeMode(cfg, day) {
+  const bf = cfg.blackFriday;
+  if (bf && day >= bf.from && day <= bf.to) {
+    return { name: "Black Friday", intervalMinutes: bf.intervalMinutes, maxPerRun: bf.maxPerRun, offPeakPerRun: bf.offPeakPerRun, maxPerDay: bf.maxPerDay };
+  }
+  return {
+    name: "Normal",
+    intervalMinutes: cfg.intervalMinutes ?? 30,
+    maxPerRun: cfg.maxPerRun,
+    offPeakPerRun: cfg.offPeakPerRun ?? cfg.maxPerRun,
+    maxPerDay: cfg.maxPerDay,
+  };
+}
+
+const eur = (n) => new Intl.NumberFormat("de-DE", { style: "currency", currency: "EUR" }).format(n);
+const escHtml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+
+/** Einmal am Tag (Standard 19 Uhr) die besten Deals des Tages zusammenfassen. */
+async function maybeDigest(cfg, config, state, list, day, hour) {
+  const d = cfg.digest;
+  if (!d?.enabled || DRY || hour < d.hour || state.digestDay === day) return;
+  const today = list
+    .filter((x) => x.telegramPostedAt && berlinDay(x.telegramPostedAt) === day)
+    .map((x) => ({ ...x, save: x.oldPrice && x.price ? x.oldPrice - x.price : 0 }))
+    .sort((a, b) => b.save - a.save || (b.oldPrice ? 1 : 0) - (a.oldPrice ? 1 : 0))
+    .slice(0, d.count);
+  if (today.length < 3) {
+    state.digestDay = day; // zu wenige Deals – heute keine Zusammenfassung
+    return;
+  }
+  const medals = ["🥇", "🥈", "🥉", "4️⃣", "5️⃣", "6️⃣", "7️⃣"];
+  const lines = [
+    `🏆 <b>Top ${today.length} Deals des Tages</b>`,
+    "",
+    ...today.map((x, i) => {
+      const url = `https://www.amazon.de/dp/${x.asin}?tag=${config.tracking.telegram}`;
+      const save = x.save > 0 ? ` · spare ${eur(x.save)}` : "";
+      return `${medals[i]} <a href="${url}">${escHtml(x.title)}</a>\n     <b>${eur(x.price)}</b>${save}`;
+    }),
+    "",
+    "<i>Preise Stand heute, können sich jederzeit ändern.</i>",
+    "#TopDeals · #Anzeige · Als Amazon-Partner verdiene ich an qualifizierten Verkäufen.",
+  ];
+  const share = await shareButton();
+  try {
+    await telegramApi("sendMessage", {
+      text: lines.join("\n"),
+      parse_mode: "HTML",
+      link_preview_options: { is_disabled: true },
+      reply_markup: share ? { inline_keyboard: [[share]] } : undefined,
+    });
+    state.digestDay = day;
+    console.log(`🏆 Tages-Top-${today.length} gepostet`);
+  } catch (e) {
+    console.warn("⚠️  Top-Deals:", e.message);
+  }
+}
+
 // ---------- Ablauf ----------
 
 async function main() {
@@ -212,6 +273,16 @@ async function main() {
   const state = await readJSON(FILES.state, { posted: {}, threads: {} });
   const auto = await readJSON(FILES.auto, []);
   const now = Date.now();
+  const { day, hour } = berlinNow();
+  const mode = activeMode(cfg, day);
+
+  // Läuft alle 15 Min (GitHub); im Normalbetrieb nur alle 30 Min wirklich posten
+  if (!DRY && state.lastRunAt && now - Date.parse(state.lastRunAt) < (mode.intervalMinutes - 3) * 60000) {
+    console.log(`Nächster Lauf erst nach ${mode.intervalMinutes} Min (Modus: ${mode.name}).`);
+    await maybeDigest(cfg, config, state, auto, day, hour);
+    await writeJSON(FILES.state, state);
+    return;
+  }
 
   // Alte Einträge aufräumen
   for (const [asin, at] of Object.entries(state.posted)) if (now - Date.parse(at) > REPOST_AFTER) delete state.posted[asin];
@@ -246,13 +317,14 @@ async function main() {
         Date.parse(b.pubDate) - Date.parse(a.pubDate)
     );
 
-  const { day, hour } = berlinNow();
   const postedToday = Object.values(state.posted).filter((at) => berlinDay(at) === day).length;
-  let budget = isQuiet(hour, cfg.quietHours) ? 0 : Math.min(cfg.maxPerRun, Math.max(0, cfg.maxPerDay - postedToday));
+  const peak = (cfg.peakHours ?? []).some(([from, to]) => hour >= from && hour < to);
+  const perRun = peak ? mode.maxPerRun : mode.offPeakPerRun;
+  let budget = isQuiet(hour, cfg.quietHours) ? 0 : Math.min(perRun, Math.max(0, mode.maxPerDay - postedToday));
 
   console.log(
-    `Feeds: ${items.size} Deals · passend: ${candidates.length} · heute gepostet: ${postedToday} · ` +
-      `Budget: ${budget}${isQuiet(hour, cfg.quietHours) ? " (Ruhezeit)" : ""}${DRY ? " · TESTLAUF" : ""}`
+    `Modus: ${mode.name}${peak ? " · Stoßzeit" : ""} · Feeds: ${items.size} Deals · passend: ${candidates.length} · ` +
+      `heute gepostet: ${postedToday} · Budget: ${budget}${isQuiet(hour, cfg.quietHours) ? " (Ruhezeit)" : ""}${DRY ? " · TESTLAUF" : ""}`
   );
 
   const posted = [];
@@ -305,6 +377,8 @@ async function main() {
 
   if (DRY) return console.log(posted.length ? "Testlauf beendet – nichts gepostet." : "Keine passenden Deals gefunden.");
 
+  state.lastRunAt = new Date().toISOString();
+  await maybeDigest(cfg, config, state, list, day, hour);
   await writeJSON(FILES.auto, list.slice(0, MAX_LIST));
   await writeJSON(FILES.state, state);
   console.log(`Fertig: ${posted.length} gepostet, ${Math.min(list.length, MAX_LIST)} auf der Seite.`);

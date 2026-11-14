@@ -24,10 +24,10 @@ export function channelFromSource(source: string | null | undefined): Channel {
 export const PUBLIC_BASE_URL = "https://gentlelink.berkcanatesoglu.de";
 
 /**
- * Öffentlicher Link zum Telegram-Deal-Kanal, z. B. "https://t.me/berkcandeals".
- * Leer = kein Telegram-Button auf der Deal-Seite.
+ * Öffentlicher Link zum Telegram-Deal-Kanal (data/deals.json → telegram.channelUrl).
+ * Leer = kein Telegram-Button.
  */
-export const TELEGRAM_CHANNEL_URL = "https://t.me/+68M0ZAE8bnsyOTY6";
+export const TELEGRAM_CHANNEL_URL: string = data.telegram?.channelUrl ?? "";
 
 /** Pflichthinweis laut Amazon-Partnerprogramm (Operating Agreement). */
 export const AMAZON_DISCLOSURE =

@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deal": "node scripts/add-deal.mjs"
+    "deal": "node scripts/add-deal.mjs",
+    "telegram:welcome": "node scripts/welcome.mjs",
+    "autopilot": "node scripts/autopilot.mjs"
   },
   "dependencies": {
     "@microsoft/clarity": "^1.0.2",

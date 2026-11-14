@@ -62,7 +62,7 @@ export function buildMessage(deal, campaign) {
       : null,
     `<i>Stand ${stamp(deal.checkedAt)} Uhr – Preis kann sich jederzeit ändern.</i>`,
     "",
-    `#Anzeige · ${esc(DISCLOSURE)}`,
+    `#${String(deal.category ?? "Deal").replace(/[^\p{L}\p{N}]/gu, "")} · #Anzeige · ${esc(DISCLOSURE)}`,
   ];
   return lines.filter((l) => l !== null).join("\n");
 }
@@ -77,49 +77,64 @@ export function cardUrl(deal) {
   return `${PUBLIC_BASE_URL}/api/deal-card?${p.toString()}`;
 }
 
+/** Öffentlicher Kanal-Link (data/deals.json → telegram.channelUrl) für den Teilen-Button. */
+let channelUrlCache;
+async function channelUrl() {
+  if (channelUrlCache !== undefined) return channelUrlCache;
+  try {
+    const { readFile } = await import("node:fs/promises");
+    const cfg = JSON.parse(await readFile(path.join(ROOT, "data", "deals.json"), "utf8"));
+    channelUrlCache = cfg.telegram?.channelUrl ?? "";
+  } catch {
+    channelUrlCache = "";
+  }
+  return channelUrlCache;
+}
+
+export async function shareButton() {
+  const url = await channelUrl();
+  if (!url) return null;
+  const text = "🔥 Tägliche Tech-Deals von Amazon – hier bekommst du sie sofort aufs Handy:";
+  return {
+    text: "📤 Kanal mit Freunden teilen",
+    url: `https://t.me/share/url?url=${encodeURIComponent(url)}&text=${encodeURIComponent(text)}`,
+  };
+}
+
+export async function telegramApi(method, body) {
+  if (!telegramConfigured()) throw new Error("TELEGRAM_BOT_TOKEN / TELEGRAM_CHANNEL_ID fehlen");
+  const res = await fetch(`https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/${method}`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ chat_id: process.env.TELEGRAM_CHANNEL_ID, ...body }),
+  });
+  const json = await res.json();
+  if (!json.ok) throw new Error(`Telegram ${method}: ${json.description ?? res.status}`);
+  return json.result;
+}
+
 export async function postDeal(deal, campaign, tag) {
   if (!tag) throw new Error("Tracking-ID für Telegram fehlt (data/deals.json → tracking.telegram)");
-  if (!telegramConfigured()) {
-    throw new Error(
-      "TELEGRAM_BOT_TOKEN und TELEGRAM_CHANNEL_ID fehlen in .env.local – siehe .env.example"
-    );
-  }
-  const api = `https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}`;
   const text = buildMessage(deal, campaign);
+  const share = await shareButton();
   const reply_markup = {
     inline_keyboard: [
       [{ text: "🛒 Zum Deal auf Amazon", url: `https://www.amazon.de/dp/${deal.asin}?tag=${tag}` }],
       [
         {
-          text: "🔥 Alle Black-Friday-Deals",
+          text: "🔥 Alle Deals",
           url: `${PUBLIC_BASE_URL}/deals?utm_source=telegram&utm_medium=channel&utm_campaign=${campaign.slug}`,
         },
+        ...(share ? [share] : []),
       ],
     ],
   };
-
-  const common = { chat_id: process.env.TELEGRAM_CHANNEL_ID, parse_mode: "HTML", reply_markup };
-  const method = "sendPhoto";
-  const body = { ...common, photo: cardUrl(deal), caption: text };
-
-  let res = await fetch(`${api}/${method}`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify(body),
-  });
-  let json = await res.json();
-
-  // Grafik nicht abrufbar → als Textnachricht nachschieben
-  if (!json.ok) {
-    console.warn(`⚠️  Bild fehlgeschlagen (${json.description}) – sende Text`);
-    res = await fetch(`${api}/sendMessage`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ ...common, text, link_preview_options: { is_disabled: true } }),
-    });
-    json = await res.json();
+  const common = { parse_mode: "HTML", reply_markup };
+  try {
+    return await telegramApi("sendPhoto", { ...common, photo: cardUrl(deal), caption: text });
+  } catch (e) {
+    // Grafik nicht abrufbar → als Textnachricht nachschieben
+    console.warn(`⚠️  Bild fehlgeschlagen (${e.message}) – sende Text`);
+    return telegramApi("sendMessage", { ...common, text, link_preview_options: { is_disabled: true } });
   }
-
-  if (!json.ok) throw new Error(`Telegram: ${json.description ?? res.status}`);
-  return json.result;
 }

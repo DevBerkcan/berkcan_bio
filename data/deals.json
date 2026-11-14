@@ -10,8 +10,11 @@
     "instagram": "berkcanat-ig-21",
     "telegram": "berkcanat-tg-21"
   },
+  "telegram": {
+    "channelUrl": "https://t.me/+68M0ZAE8bnsyOTY6"
+  },
   "autopilot": {
-    "_hinweis": "Automatische Deals aus mydealz-RSS (nur Händler Amazon.de). enabled=false stoppt den Bot. categories gilt nur für die allgemeinen Feeds (trending/new/deals).",
+    "_hinweis": "Automatische Deals aus mydealz-RSS (nur Händler Amazon.de). enabled=false stoppt den Bot. categories gilt nur für die allgemeinen Feeds.",
     "enabled": true,
     "feeds": [
       "trending",
@@ -60,7 +63,33 @@
       "trending",
       "new",
       "deals"
-    ]
+    ],
+    "intervalMinutes": 30,
+    "offPeakPerRun": 1,
+    "peakHours": [
+      [
+        12,
+        14
+      ],
+      [
+        18,
+        22
+      ]
+    ],
+    "blackFriday": {
+      "_hinweis": "Turbo-Modus: alle 15 Min, mehr Deals pro Lauf",
+      "from": "2026-11-27",
+      "to": "2026-12-01",
+      "intervalMinutes": 15,
+      "maxPerRun": 5,
+      "offPeakPerRun": 3,
+      "maxPerDay": 80
+    },
+    "digest": {
+      "enabled": true,
+      "hour": 19,
+      "count": 5
+    }
   },
   "deals": [
     {

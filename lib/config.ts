@@ -7,8 +7,10 @@ import {
   ShoppingBag,
   Linkedin,
   Flame,
+  Send,
   type LucideIcon,
 } from "lucide-react";
+import { TELEGRAM_CHANNEL_URL } from "@/lib/deals";
 
 export interface LinkConfig {
   label: string;
@@ -31,6 +33,16 @@ export const socialLinks: LinkConfig[] = [
     icon: Flame,
     variant: "highlight",
   },
+  ...(TELEGRAM_CHANNEL_URL
+    ? [
+        {
+          label: "Telegram: Deal-Alarm",
+          href: TELEGRAM_CHANNEL_URL,
+          icon: Send,
+          variant: "secondary" as const,
+        },
+      ]
+    : []),
   {
     label: "GentleGroup",
     href: "https://www.gentlegroup.de",

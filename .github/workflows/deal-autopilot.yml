@@ -1,10 +1,10 @@
 name: Deal-Autopilot
 
-# Alle 30 Minuten: neue Amazon-Deals (mydealz-RSS) finden → Telegram posten →
+# Alle 15 Minuten (Skript entscheidet je nach Modus, ob gepostet wird): neue Amazon-Deals (mydealz-RSS) finden → Telegram posten →
 # data/auto-deals.json aktualisieren (erscheint automatisch auf /deals).
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
     inputs:
       dry:
