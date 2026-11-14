@@ -24,10 +24,10 @@ export const revalidate = 300;
 export const metadata: Metadata = {
   title: `${campaign.name} Deals | Berk-Can Atesoglu`,
   description:
-    "Handverlesene Black-Friday-Deals für Tech, Setup & Smart Home – laufend aktualisiert.",
+    "Aktuelle Black-Friday-Deals auf Amazon für Tech, Gaming, Smart Home & Haushalt – laufend aktualisiert.",
   openGraph: {
     title: `🔥 ${campaign.name} Deals`,
-    description: "Handverlesene Tech-Deals – laufend aktualisiert.",
+    description: "Aktuelle Amazon-Deals – laufend aktualisiert.",
   },
 };
 
@@ -76,7 +76,7 @@ export default async function DealsPage() {
             Die besten Tech-Deals
           </h1>
           <p className="mx-auto mt-3 max-w-md text-gray-600 dark:text-gray-400">
-            Von mir handverlesen – nur echte Preissenkungen, kein Fake-Rabatt.
+            Laufend aktualisiert – neue Amazon-Angebote alle 30 Minuten.
           </p>
           <Countdown endsAt={campaign.endsAt} />
         </header>
