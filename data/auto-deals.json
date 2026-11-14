@@ -1,5 +1,46 @@
 [
   {
+    "id": "auto-b0d63y2qw4",
+    "asin": "B0D63Y2QW4",
+    "title": "Astro Bot für Playstation 5",
+    "category": "Gaming",
+    "price": 38.66,
+    "checkedAt": "2026-11-14T07:43:49.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-14T17:24:25.311Z"
+  },
+  {
+    "id": "auto-b0drz2hdc2",
+    "asin": "B0DRZ2HDC2",
+    "title": "Bosch Wasserpumpenzange 250mm",
+    "category": "Werkzeug",
+    "price": 12.44,
+    "checkedAt": "2026-11-14T07:44:01.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-14T17:24:23.222Z"
+  },
+  {
+    "id": "auto-b0bvfp6kxc",
+    "asin": "B0BVFP6KXC",
+    "title": "REDTIGER Golf Laser Entfernungsmesser, 7X Vergrößerung, 1200Y Golf",
+    "category": "Werkzeug",
+    "price": 112.22,
+    "checkedAt": "2026-11-14T10:26:35.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-14T17:24:19.207Z"
+  },
+  {
+    "id": "queue-b0dggm27mz",
+    "asin": "B0DGGM27MZ",
+    "title": "Weller Akku-Lötkolben WLBRK12",
+    "subtitle": "Kabellos löten vom Markenhersteller – ideal für Bastler.",
+    "category": "Werkzeug",
+    "price": 35.11,
+    "checkedAt": "2026-11-14T10:19:38.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-14T17:24:02.786Z"
+  },
+  {
     "id": "queue-b0fh2yvh4w",
     "asin": "B0FH2YVH4W",
     "title": "Xiaomi Redmi 15 4G 6/128 GB",
