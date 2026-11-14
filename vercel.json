@@ -26,5 +26,15 @@
       ]
     }
   ],
-  "ignoreCommand": "git diff --quiet HEAD^ HEAD -- . ':(exclude)data/auto-deals.json' ':(exclude)data/autopilot-state.json' ':(exclude)data/queue.json' ':(exclude)data/queue'"
+  "ignoreCommand": "git diff --quiet HEAD^ HEAD -- . ':(exclude)data/auto-deals.json' ':(exclude)data/autopilot-state.json' ':(exclude)data/queue.json' ':(exclude)data/queue'",
+  "crons": [
+    {
+      "path": "/api/watchdog",
+      "schedule": "0 8 * * *"
+    },
+    {
+      "path": "/api/watchdog",
+      "schedule": "0 16 * * *"
+    }
+  ]
 }

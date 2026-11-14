@@ -17,6 +17,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { postDeal, shareButton, telegramApi, telegramConfigured } from "./telegram.mjs";
 import { processInbox } from "./inbox.mjs";
+import { sendAlertOnce } from "./alert.mjs";
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const FILES = {
@@ -368,6 +369,14 @@ async function main() {
     }
   }
 
+  if (items.size === 0 && !DRY) {
+    await sendAlertOnce(
+      state,
+      "feeds",
+      "Die mydealz-Feeds liefern keine Deals mehr (evtl. vorübergehend gesperrt oder geändert). Telegram-Inbox und Warteschlange laufen weiter."
+    );
+  }
+
   const manualAsins = new Set((config.deals ?? []).map((d) => d.asin));
   const candidates = [...items.values()]
     .filter((it) => /^amazon(\.de)?$/i.test(it.merchant.trim()))
@@ -397,6 +406,7 @@ async function main() {
   );
 
   const posted = [];
+  const postErrors = [];
   for (const it of candidates) {
     if (!DRY && budget <= 0) break;
     if (DRY && posted.length >= 15) break;
@@ -440,8 +450,14 @@ async function main() {
       budget--;
       console.log(`📣 ${deal.title} (${asin})`);
     } catch (e) {
+      postErrors.push(e.message);
       console.warn(`⚠️  ${asin}: ${e.message}`);
     }
+  }
+
+  if (!DRY && postErrors.length && !posted.length) {
+    await sendAlertOnce(state, "post", `Posten in den Kanal schlägt fehl: <code>${postErrors[0].replace(/</g, "&lt;")}</code>
+(Token abgelaufen oder Bot kein Admin mehr?)`);
   }
 
   if (DRY) return console.log(posted.length ? "Testlauf beendet – nichts gepostet." : "Keine passenden Deals gefunden.");

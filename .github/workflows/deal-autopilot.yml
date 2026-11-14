@@ -66,6 +66,15 @@ jobs:
           git pull --rebase --autostash origin main
           git push
 
+      - name: Fehler-Alarm
+        if: ${{ failure() }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: >
+          node scripts/alert.mjs "Ein Autopilot-Lauf ist fehlgeschlagen. Details:
+          ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+
   next:
     needs: run
     if: ${{ always() && github.event.inputs.dry != 'true' && needs.run.outputs.enabled == 'true' }}
@@ -78,3 +87,16 @@ jobs:
         run: |
           sleep 840
           gh workflow run deal-autopilot.yml --repo "${{ github.repository }}" --ref main
+
+      - uses: actions/checkout@v4
+        if: ${{ failure() }}
+
+      - name: Fehler-Alarm (Kette unterbrochen)
+        if: ${{ failure() }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: >
+          node scripts/alert.mjs "Der nächste Lauf konnte nicht gestartet werden – der Bot steht still.
+          Bitte in GitHub unter Actions → Deal-Autopilot → Run workflow neu starten:
+          ${{ github.server_url }}/${{ github.repository }}/actions/workflows/deal-autopilot.yml"
