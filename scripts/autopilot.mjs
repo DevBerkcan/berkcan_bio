@@ -81,6 +81,9 @@ function findReferencePrice(text, price) {
 function cleanTitle(raw) {
   let t = raw
     .replace(/^\s*-?\d+°\s*-\s*/, "") // Temperatur
+    .replace(/^\s*(?:\[[^\]]*\]\s*)+/, "") // [prime früher Black Friday]
+    .replace(/^\s*\([^)]*\)\s*/, "") // (TANLINK-EUR@Amazon) am Anfang
+    .replace(/\s*(?:@|►|-\s*Amazon\b|\|\s*Amazon\b)[\s\S]*$/i, "")
     .replace(/\[[^\]]*amazon[^\]]*\]/gi, "")
     .replace(/\((?:[^)]*prime[^)]*|[^)]*amazon[^)]*)\)/gi, "")
     .replace(/\s+(?:für|ab|nur|zum|um)\s+\d[\d.,]*\s*(?:€|EUR|Euro)[\s\S]*$/i, "")
@@ -118,6 +121,38 @@ function berlinDay(iso) {
 
 function isQuiet(hour, [from, to]) {
   return from > to ? hour >= from || hour < to : hour >= from && hour < to;
+}
+
+const FEED_CATEGORY = {
+  "gruppe/kopfhoerer": "Audio",
+  "gruppe/lautsprecher": "Audio",
+  "gruppe/computer": "Computer",
+  "gruppe/monitor": "Computer",
+  "gruppe/ssd": "Computer",
+  "gruppe/drucker": "Computer",
+  "gruppe/smartphone": "Smartphone",
+  "gruppe/tablet": "Smartphone",
+  "gruppe/smartwatch": "Smartphone",
+  "gruppe/apple": "Apple",
+  "gruppe/kamera": "Foto",
+  "gruppe/fernseher": "TV",
+  "gruppe/smart-home": "Smart Home",
+  "gruppe/staubsauger": "Haushalt",
+  "gruppe/haushaltsgeraete": "Haushalt",
+  "gruppe/kueche": "Haushalt",
+  "gruppe/werkzeug": "Werkzeug",
+  "gruppe/gaming": "Gaming",
+  "gruppe/playstation": "Gaming",
+  "gruppe/nintendo": "Gaming",
+  "gruppe/xbox": "Gaming",
+};
+
+function categoryFor(it) {
+  if (FEED_CATEGORY[it.feed]) return FEED_CATEGORY[it.feed];
+  if (it.category === "Gaming") return "Gaming";
+  if (it.category === "Garten & Baumarkt") return "Werkzeug";
+  if (it.category === "Home & Living") return "Haushalt";
+  return "Tech";
 }
 
 // ---------- mydealz ----------
@@ -196,13 +231,20 @@ async function main() {
   const manualAsins = new Set((config.deals ?? []).map((d) => d.asin));
   const candidates = [...items.values()]
     .filter((it) => /^amazon(\.de)?$/i.test(it.merchant.trim()))
-    .filter((it) => cfg.categories.includes(it.category))
+    // Themen-Feeds (gruppe/…) sind schon passend; nur allgemeine Feeds nach Kategorie filtern
+    .filter((it) => !(cfg.generalFeeds ?? []).includes(it.feed) || cfg.categories.includes(it.category))
     .filter((it) => it.temperature === null || it.temperature >= cfg.minTemperature)
     .filter((it) => it.price && it.price >= cfg.minPrice && it.price <= cfg.maxPrice)
     .filter((it) => it.pubDate && now - Date.parse(it.pubDate) <= cfg.maxAgeHours * 3600 * 1000)
     .map((it) => ({ ...it, oldPrice: findReferencePrice(`${it.title} ${it.description}`, it.price) }))
     .filter((it) => !cfg.requireSavings || it.oldPrice)
-    .sort((a, b) => (b.temperature ?? 0) - (a.temperature ?? 0) || Date.parse(b.pubDate) - Date.parse(a.pubDate));
+    // Deals mit Ersparnis zuerst, dann heißeste, dann neueste
+    .sort(
+      (a, b) =>
+        Number(!!b.oldPrice) - Number(!!a.oldPrice) ||
+        (b.temperature ?? 0) - (a.temperature ?? 0) ||
+        Date.parse(b.pubDate) - Date.parse(a.pubDate)
+    );
 
   const { day, hour } = berlinNow();
   const postedToday = Object.values(state.posted).filter((at) => berlinDay(at) === day).length;
@@ -216,7 +258,7 @@ async function main() {
   const posted = [];
   for (const it of candidates) {
     if (!DRY && budget <= 0) break;
-    if (DRY && posted.length >= 8) break;
+    if (DRY && posted.length >= 15) break;
 
     let asin = state.threads[it.threadId]?.asin;
     if (asin === undefined) {
@@ -234,7 +276,7 @@ async function main() {
       asin,
       title: cleanTitle(it.title),
       subtitle: it.temperature ? `🔥 ${it.temperature}° bei mydealz` : undefined,
-      category: it.feed === "gruppe/smart-home" ? "Smart Home" : it.feed === "gruppe/apple" ? "Apple" : it.category === "Gaming" ? "Gaming" : /kopfhoerer/.test(it.feed) ? "Audio" : "Tech",
+      category: categoryFor(it),
       price: it.price,
       oldPrice: it.oldPrice,
       oldPriceLabel: it.oldPrice ? "Vergleichspreis" : undefined,
@@ -243,7 +285,7 @@ async function main() {
     };
 
     if (DRY) {
-      console.log(`  • ${deal.title} – ${deal.price} € (Vergl. ${deal.oldPrice} €) · ${it.temperature ?? "?"}° · ${asin}`);
+      console.log(`  • ${deal.title} – ${deal.price} €${deal.oldPrice ? ` (Vergl. ${deal.oldPrice} €)` : ""} · ${it.temperature ?? "?"}° · ${asin}`);
       posted.push(asin);
       continue;
     }

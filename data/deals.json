@@ -11,35 +11,55 @@
     "telegram": "berkcanat-tg-21"
   },
   "autopilot": {
-    "_hinweis": "Automatische Deals aus mydealz-RSS (nur Händler Amazon). enabled=false stoppt den Bot.",
+    "_hinweis": "Automatische Deals aus mydealz-RSS (nur Händler Amazon.de). enabled=false stoppt den Bot. categories gilt nur für die allgemeinen Feeds (trending/new/deals).",
     "enabled": true,
     "feeds": [
       "trending",
+      "new",
+      "deals",
       "gruppe/kopfhoerer",
+      "gruppe/lautsprecher",
       "gruppe/computer",
-      "gruppe/smart-home",
-      "gruppe/apple",
+      "gruppe/monitor",
+      "gruppe/ssd",
+      "gruppe/drucker",
       "gruppe/smartphone",
+      "gruppe/tablet",
+      "gruppe/smartwatch",
+      "gruppe/apple",
+      "gruppe/kamera",
       "gruppe/fernseher",
+      "gruppe/smart-home",
+      "gruppe/staubsauger",
+      "gruppe/haushaltsgeraete",
+      "gruppe/kueche",
+      "gruppe/werkzeug",
       "gruppe/gaming",
+      "gruppe/playstation",
+      "gruppe/nintendo",
+      "gruppe/xbox",
       "gruppe/elektronik"
     ],
     "categories": [
       "Elektronik",
       "Gaming",
-      "Home & Living",
-      "Telefon & Internet"
+      "Home & Living"
     ],
-    "minTemperature": 100,
-    "requireSavings": true,
+    "minTemperature": 50,
+    "requireSavings": false,
     "minPrice": 10,
     "maxPrice": 1500,
-    "maxAgeHours": 20,
-    "maxPerRun": 2,
-    "maxPerDay": 20,
+    "maxAgeHours": 24,
+    "maxPerRun": 3,
+    "maxPerDay": 30,
     "quietHours": [
       23,
       7
+    ],
+    "generalFeeds": [
+      "trending",
+      "new",
+      "deals"
     ]
   },
   "deals": [
