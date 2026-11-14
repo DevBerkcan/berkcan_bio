@@ -95,6 +95,8 @@ export async function processInbox({ config, state, list, dry }) {
       allowed_updates: ["message"],
     });
   } catch (e) {
+    // Webhook aktiv (Vercel /api/telegram/webhook) → Inbox läuft dort sofort, hier nichts tun
+    if (/webhook/i.test(e.message)) return 0;
     console.warn("⚠️  Inbox:", e.message);
     return 0;
   }
