@@ -4,6 +4,12 @@
     "slug": "bf2026",
     "endsAt": "2026-11-30T23:59:59+01:00"
   },
+  "tracking": {
+    "_hinweis": "Tracking-IDs aus Partnernet > Tracking-IDs verwalten. Alle drei dürfen gleich sein.",
+    "web": "berkcanat-21",
+    "instagram": "berkcanat-21",
+    "telegram": "berkcanat-21"
+  },
   "deals": [
     {
       "id": "beispiel-kopfhoerer",

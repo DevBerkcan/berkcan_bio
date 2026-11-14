@@ -139,7 +139,7 @@ async function main() {
   }
 
   await writeFile(FILE, JSON.stringify(data, null, 2) + "\n");
-  console.log(`   https://www.amazon.de/dp/${asin}?tag=berkcanat-21`);
+  console.log(`   https://www.amazon.de/dp/${asin}?tag=${data.tracking?.web ?? "berkcanat-21"}`);
 
   if (args.post) {
     await post(data.deals.find((d) => d.asin === asin), data, args.force);
@@ -155,7 +155,7 @@ async function post(deal, data, force) {
     console.log(`ℹ️  Schon am ${deal.telegramPostedAt} gepostet – mit --force erneut posten`);
     return;
   }
-  const msg = await postDeal(deal, data.campaign);
+  const msg = await postDeal(deal, data.campaign, data.tracking?.telegram ?? "berkcanat-21");
   deal.telegramPostedAt = new Date().toISOString();
   console.log(`📣 In Telegram gepostet (Nachricht ${msg.message_id})`);
 }

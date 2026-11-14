@@ -269,6 +269,75 @@ export default function DatenschutzPage() {
               </p>
             </section>
 
+            <section>
+              <h2 className="text-2xl font-bold text-barber-black mb-4">
+                8. Amazon-Partnerprogramm, Produktbilder und Telegram
+              </h2>
+
+              <h3 className="text-xl font-semibold text-barber-black mt-4 mb-2">Amazon-Partnerprogramm</h3>
+              <p className="mb-4">
+                Diese Website nimmt am Partnerprogramm der Amazon Europe S.à r.l. teil
+                (Amazon PartnerNet). Als Amazon-Partner verdiene ich an qualifizierten Verkäufen.
+                Anbieter ist die Amazon Europe Core S.à r.l., 38 avenue John F. Kennedy, L-1855
+                Luxemburg.
+              </p>
+              <p className="mb-4">
+                Auf den Seiten „Black Friday Deals“ (/deals) und „Meine Gadgets“ (/gadgets) sowie im
+                Telegram-Kanal befinden sich sogenannte Affiliate-Links zu Amazon.de. Diese Links
+                enthalten eine Partner-Kennung (Tracking-ID), damit Amazon einen Kauf meiner Empfehlung
+                zuordnen kann. Erst wenn Sie einen solchen Link anklicken, gelangen Sie auf die Website
+                von Amazon. Dort kann Amazon Cookies und ähnliche Technologien einsetzen, um die
+                Herkunft der Bestellung nachzuvollziehen. Auf diese Datenverarbeitung durch Amazon habe
+                ich keinen Einfluss. Personenbezogene Daten über Ihren Einkauf erhalte ich nicht – ich
+                sehe lediglich anonymisierte Statistiken (z. B. Anzahl der Klicks und Verkäufe).
+              </p>
+              <p className="mb-4">
+                Rechtsgrundlage ist mein berechtigtes Interesse an der Finanzierung dieses Angebots
+                (Art. 6 Abs. 1 lit. f DSGVO). Weitere Informationen finden Sie in der{" "}
+                <a
+                  href="https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-barber-red hover:underline"
+                >
+                  Datenschutzerklärung von Amazon
+                </a>
+                .
+              </p>
+
+              <h3 className="text-xl font-semibold text-barber-black mt-4 mb-2">
+                Produktbilder von Amazon-Servern
+              </h3>
+              <p className="mb-4">
+                Um die vorgestellten Produkte abzubilden, werden Produktbilder direkt von Servern von
+                Amazon (m.media-amazon.com) geladen. Dabei übermittelt Ihr Browser technisch bedingt
+                Ihre IP-Adresse, Datum und Uhrzeit des Abrufs sowie Browserinformationen an Amazon.
+                Cookies werden dabei von mir nicht gesetzt. Die Einbindung erfolgt auf Grundlage meines
+                berechtigten Interesses an einer aussagekräftigen Darstellung der Angebote
+                (Art. 6 Abs. 1 lit. f DSGVO).
+              </p>
+
+              <h3 className="text-xl font-semibold text-barber-black mt-4 mb-2">Telegram-Kanal</h3>
+              <p className="mb-4">
+                Auf der Seite „Black Friday Deals“ verlinke ich auf meinen Telegram-Kanal. Es handelt
+                sich um einen einfachen Link – beim Besuch dieser Website werden keine Daten an
+                Telegram übertragen. Erst wenn Sie den Link anklicken und dem Kanal beitreten, gelten
+                die Datenschutzbestimmungen der Telegram FZ-LLC, Business Central Towers, Dubai,
+                Vereinigte Arabische Emirate. Telegram verarbeitet Daten auch außerhalb der EU. Als
+                Kanalbetreiber sehe ich nur die Anzahl der Abonnenten und Aufrufe, nicht jedoch, wer
+                einen Beitrag gelesen hat. Weitere Informationen:{" "}
+                <a
+                  href="https://telegram.org/privacy"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-barber-red hover:underline"
+                >
+                  telegram.org/privacy
+                </a>
+                .
+              </p>
+            </section>
+
             <section className="bg-barber-cream p-6 rounded-xl">
               <h2 className="text-2xl font-bold text-barber-black mb-4">Kontakt bei Datenschutzfragen</h2>
               <p className="mb-2">
@@ -286,7 +355,7 @@ export default function DatenschutzPage() {
             </section>
 
             <p className="text-sm text-barber-grey-600 italic mt-8">
-              Stand: Dezember 2025
+              Stand: November 2026
             </p>
           </div>
 

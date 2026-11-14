@@ -9,7 +9,6 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
-const TAG = "berkcanat-21";
 const PUBLIC_BASE_URL = "https://gentlelink.berkcanatesoglu.de";
 const DISCLOSURE = "Als Amazon-Partner verdiene ich an qualifizierten Verkäufen.";
 
@@ -71,7 +70,8 @@ export function cardUrl(deal) {
   return `${PUBLIC_BASE_URL}/api/deal-card?${p.toString()}`;
 }
 
-export async function postDeal(deal, campaign) {
+export async function postDeal(deal, campaign, tag) {
+  if (!tag) throw new Error("Tracking-ID für Telegram fehlt (data/deals.json → tracking.telegram)");
   if (!telegramConfigured()) {
     throw new Error(
       "TELEGRAM_BOT_TOKEN und TELEGRAM_CHANNEL_ID fehlen in .env.local – siehe .env.example"
@@ -81,7 +81,7 @@ export async function postDeal(deal, campaign) {
   const text = buildMessage(deal, campaign);
   const reply_markup = {
     inline_keyboard: [
-      [{ text: "🛒 Zum Deal auf Amazon", url: `https://www.amazon.de/dp/${deal.asin}?tag=${TAG}` }],
+      [{ text: "🛒 Zum Deal auf Amazon", url: `https://www.amazon.de/dp/${deal.asin}?tag=${tag}` }],
       [
         {
           text: "🔥 Alle Black-Friday-Deals",

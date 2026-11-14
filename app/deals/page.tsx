@@ -4,6 +4,7 @@ import { ArrowLeft, Flame, Send } from "lucide-react";
 import {
   AMAZON_DISCLOSURE,
   TELEGRAM_CHANNEL_URL,
+  TRACKING_IDS,
   affiliateUrl,
   campaign,
   discountPercent,
@@ -42,6 +43,7 @@ export default function DealsPage() {
       image: productImage(d),
       featured: !!d.featured,
       draft: !!d.draft,
+      asin: d.asin,
       url: affiliateUrl(d.asin),
       price: fresh ? d.price : undefined,
       oldPrice: fresh ? d.oldPrice : undefined,
@@ -98,7 +100,7 @@ export default function DealsPage() {
           </a>
         )}
 
-        <DealsBoard deals={deals} />
+        <DealsBoard deals={deals} trackingIds={TRACKING_IDS} />
 
         <div className="mt-10 rounded-2xl bg-white/70 p-4 text-center text-xs leading-relaxed text-gray-500 ring-1 ring-gray-200 dark:bg-gray-800/60 dark:text-gray-400 dark:ring-gray-700">
           <p className="font-semibold text-gray-700 dark:text-gray-300">

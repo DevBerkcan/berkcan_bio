@@ -3,6 +3,9 @@
 import { useEffect, useMemo, useState } from "react";
 import { ExternalLink, ShoppingBag, Star } from "lucide-react";
 import { trackEvent } from "@/lib/tracking";
+import { channelFromSource, type Channel } from "@/lib/deals";
+
+const CHANNEL_KEY = "deals_channel";
 
 export interface DealView {
   id: string;
@@ -12,6 +15,7 @@ export interface DealView {
   image?: string;
   featured: boolean;
   draft: boolean;
+  asin: string;
   url: string;
   price?: number;
   oldPrice?: number;
@@ -22,7 +26,29 @@ export interface DealView {
 
 const eur = new Intl.NumberFormat("de-DE", { style: "currency", currency: "EUR" });
 
-export function DealsBoard({ deals }: { deals: DealView[] }) {
+export function DealsBoard({
+  deals,
+  trackingIds,
+}: {
+  deals: DealView[];
+  trackingIds: Record<Channel, string>;
+}) {
+  // Herkunft (Instagram-Story / Telegram) merken, damit Amazon den Verkauf dem Kanal zuordnet
+  const [channel, setChannel] = useState<Channel>("web");
+  useEffect(() => {
+    const fromUrl = new URLSearchParams(window.location.search).get("utm_source");
+    let c: Channel = channelFromSource(fromUrl);
+    try {
+      if (fromUrl) sessionStorage.setItem(CHANNEL_KEY, c);
+      else c = (sessionStorage.getItem(CHANNEL_KEY) as Channel) || "web";
+    } catch {
+      /* Storage blockiert – dann nur URL */
+    }
+    setChannel(trackingIds[c] ? c : "web");
+  }, [trackingIds]);
+  const hrefFor = (d: DealView) =>
+    `https://www.amazon.de/dp/${encodeURIComponent(d.asin)}?tag=${trackingIds[channel]}`;
+
   const categories = useMemo(
     () => ["Alle", ...Array.from(new Set(deals.map((d) => d.category)))],
     [deals]
@@ -78,12 +104,13 @@ export function DealsBoard({ deals }: { deals: DealView[] }) {
         {visible.map((d, i) => (
           <li key={d.id} id={d.id} className={d.featured && active === "Alle" && i === 0 ? "sm:col-span-2" : ""}>
             <a
-              href={d.url}
+              href={hrefFor(d)}
               target="_blank"
               rel="sponsored noopener noreferrer"
               onClick={() =>
                 trackEvent("deal_click", {
                   deal_id: d.id,
+                  channel,
                   category: d.category,
                   price: d.price,
                   discount: d.discount,

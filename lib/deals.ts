@@ -1,7 +1,24 @@
 import data from "@/data/deals.json";
 
-/** Amazon PartnerNet Store-ID – wird an jeden Produktlink angehängt. */
-export const AFFILIATE_TAG = "berkcanat-21";
+export type Channel = "web" | "instagram" | "telegram";
+
+/** Amazon-Tracking-IDs pro Kanal (in data/deals.json pflegen). */
+export const TRACKING_IDS: Record<Channel, string> = {
+  web: data.tracking.web,
+  instagram: data.tracking.instagram,
+  telegram: data.tracking.telegram,
+};
+
+/** Standard-Store-ID – für Links ohne bekannten Kanal. */
+export const AFFILIATE_TAG = TRACKING_IDS.web;
+
+/** Kanal aus utm_source ermitteln (Story-Link → instagram, Telegram-Button → telegram). */
+export function channelFromSource(source: string | null | undefined): Channel {
+  const s = (source ?? "").toLowerCase();
+  if (s === "ig" || s === "instagram") return "instagram";
+  if (s === "telegram" || s === "tg") return "telegram";
+  return "web";
+}
 
 /** Öffentliche Domain der Link-in-Bio-Seite (für Story-Links mit UTM). */
 export const PUBLIC_BASE_URL = "https://gentlelink.berkcanatesoglu.de";
@@ -59,8 +76,8 @@ export function getDeal(id: string): Deal | undefined {
   return getDeals().find((d) => d.id === id);
 }
 
-export function affiliateUrl(asin: string): string {
-  return `https://www.amazon.de/dp/${encodeURIComponent(asin)}?tag=${AFFILIATE_TAG}`;
+export function affiliateUrl(asin: string, channel: Channel = "web"): string {
+  return `https://www.amazon.de/dp/${encodeURIComponent(asin)}?tag=${TRACKING_IDS[channel]}`;
 }
 
 /**
