@@ -4,7 +4,15 @@
  */
 export async function fetchImageDataUrl(url: string): Promise<string | null> {
   try {
-    const res = await fetch(url, { redirect: "follow" });
+    const res = await fetch(url, {
+      redirect: "follow",
+      // Amazons Bild-CDN lehnt Anfragen ohne Browser-Kennung aus Rechenzentren teils ab
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+        Accept: "image/avif,image/webp,image/png,image/jpeg,*/*;q=0.8",
+      },
+    });
     const type = res.headers.get("content-type") ?? "";
     if (!res.ok || !type.startsWith("image/")) return null;
     const buf = new Uint8Array(await res.arrayBuffer());
