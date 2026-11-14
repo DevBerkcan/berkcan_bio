@@ -11,6 +11,7 @@ import {
   savings,
   type Deal,
 } from "@/lib/deals";
+import { enqueue, parseDeals, queueConfigured, queueSize, resolveAsin, type QueueItem } from "@/lib/inbox";
 
 /**
  * Telegram-Webhook für die Deal-Inbox: Antwortet sofort, wenn du dem Bot
@@ -20,16 +21,6 @@ import {
 export const dynamic = "force-dynamic";
 
 const OWNERS = ((data.telegram as { ownerIds?: string[] }).ownerIds ?? []).map(String);
-const UA =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36";
-const ASIN_RE = /\/(?:dp|gp\/product|gp\/aw\/d|d)\/([A-Z0-9]{10})(?=[/?#]|$)/i;
-const PRICE = String.raw`(\d{1,3}(?:\.\d{3})*(?:,\d{1,2})?|\d+(?:[.,]\d{1,2})?)`;
-const PRICE_RE = new RegExp(`${PRICE}\\s*(?:€|EUR|Euro)`, "gi");
-const REF_RE = new RegExp(
-  `(?:statt|UVP|VGP|PVG|Vergleichspreis|zuvor|sonst|vorher)\\s*:?\\s*(?:ca\\.\\s*)?${PRICE}\\s*(?:€|EUR|Euro)?`,
-  "i"
-);
-
 async function tg(method: string, body: Record<string, unknown>) {
   const res = await fetch(`https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/${method}`, {
     method: "POST",
@@ -46,54 +37,6 @@ const reply = (chat_id: number, text: string) =>
   tg("sendMessage", { chat_id, text, parse_mode: "HTML", link_preview_options: { is_disabled: true } }).catch(
     () => null
   );
-
-function euro(s: string): number | undefined {
-  const n = Number(s.replace(/\.(?=\d{3}(\D|$))/g, "").replace(",", "."));
-  return Number.isFinite(n) && n > 0 ? n : undefined;
-}
-
-async function resolveAsin(url: string): Promise<string | null> {
-  let current = url;
-  for (let hop = 0; hop < 5; hop++) {
-    const m = current.match(ASIN_RE);
-    if (m && /amazon\./i.test(current)) return m[1].toUpperCase();
-    // Kurzlink (amzn.to / amzn.eu): nur Redirect-Header lesen
-    const res = await fetch(current, { method: "HEAD", redirect: "manual", headers: { "User-Agent": UA } });
-    const loc = res.headers.get("location");
-    if (!loc) break;
-    current = new URL(loc, current).toString();
-  }
-  return null;
-}
-
-function parse(text: string) {
-  const url = (text.match(/https?:\/\/\S+/g) ?? []).find((u) => /amazon\.|amzn\.to|amzn\.eu|a\.co\//i.test(u));
-  const ref = text.match(REF_RE);
-  const oldPrice = ref ? euro(ref[1]) : undefined;
-  const rest = ref ? text.replace(ref[0], " ") : text;
-  const price = [...rest.matchAll(PRICE_RE)].map((m) => euro(m[1])).find(Boolean);
-  const title = text
-    .split("\n")
-    .map((l) =>
-      l
-        .replace(/https?:\/\/\S+/g, "")
-        .replace(new RegExp(REF_RE.source, "gi"), "")
-        .replace(PRICE_RE, "")
-        .replace(/\(\s*\)|\[\s*\]/g, "")
-        .replace(/\s+(?:für|ab|nur|um|zum|statt)\s*$/i, "")
-        .replace(/[\p{Extended_Pictographic}️]/gu, "")
-        .replace(/\s{2,}/g, " ")
-        .replace(/[|•\-–:]+\s*$/g, "")
-        .trim()
-    )
-    .find((l) => l.length >= 4);
-  return {
-    url: url?.replace(/[),.]+$/, ""),
-    price,
-    oldPrice: oldPrice && price && oldPrice > price ? oldPrice : undefined,
-    title: title && title.length > 70 ? `${title.slice(0, title.lastIndexOf(" ", 70))} …` : title,
-  };
-}
 
 const esc = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 
@@ -178,39 +121,94 @@ export async function POST(req: Request) {
   if (!text || text === "/start" || text === "/hilfe") {
     await reply(
       msg.chat.id,
-      "📥 <b>Deal-Inbox</b>\nSchick mir einen Amazon-Link, gern mit Titel und Preis:\n\n<code>Anker Powerbank 20000 mAh\nhttps://amzn.to/… 29,99€ statt 49,99€</code>\n\nIch poste ihn sofort mit deinem Partnerlink."
+      [
+        "📥 <b>Deal-Inbox</b>",
+        "",
+        "<b>Ein Link</b> → wird sofort gepostet.",
+        "<b>Mehrere Links</b> (einer pro Zeile) → kommen in die Warteschlange und werden nach und nach gepostet.",
+        "",
+        "<code>Anker Powerbank 20000 mAh\nhttps://amzn.to/… 29,99€ statt 49,99€\nhttps://amzn.to/… 14,99€</code>",
+        "",
+        "/warteschlange – wie viele Deals noch warten",
+      ].join("\n")
     );
     return Response.json({ ok: true });
   }
 
-  const p = parse(text);
-  if (!p.url) {
+  if (text === "/warteschlange" || text === "/queue") {
+    const n = queueConfigured() ? await queueSize() : null;
+    await reply(msg.chat.id, n === null ? "⚠️ Warteschlange nicht erreichbar." : `📋 ${n} Deal(s) in der Warteschlange.`);
+    return Response.json({ ok: true });
+  }
+
+  const parsed = parseDeals(text);
+  if (!parsed.length) {
     await reply(msg.chat.id, "❓ Ich habe keinen Amazon-Link gefunden.");
     return Response.json({ ok: true });
   }
 
-  const asin = await resolveAsin(p.url).catch(() => null);
-  if (!asin) {
-    await reply(msg.chat.id, "❌ Konnte aus dem Link keine Amazon-Produkt-ID (ASIN) lesen.");
+  // ASINs auflösen (parallel, Kurzlinks nur per Redirect-Header)
+  const resolved = await Promise.all(parsed.map((p) => resolveAsin(p.url).catch(() => null)));
+  const items: QueueItem[] = [];
+  const failed: string[] = [];
+  parsed.forEach((p, i) => {
+    const r = resolved[i];
+    if (!r) return failed.push(p.url);
+    if (items.some((x) => x.asin === r.asin)) return;
+    items.push({
+      asin: r.asin,
+      title: p.title ?? r.slugTitle ?? "Amazon-Deal",
+      price: p.price,
+      oldPrice: p.oldPrice,
+      addedAt: new Date(msg.date * 1000).toISOString(),
+    });
+  });
+  const failNote = failed.length ? `\n⚠️ ${failed.length} Link(s) ohne erkennbare ASIN übersprungen.` : "";
+
+  if (!items.length) {
+    await reply(msg.chat.id, "❌ Konnte aus den Links keine Amazon-Produkt-ID (ASIN) lesen.");
     return Response.json({ ok: true });
   }
 
+  // Mehrere Deals → Warteschlange
+  if (items.length > 1) {
+    if (!queueConfigured()) {
+      await reply(msg.chat.id, "⚠️ Warteschlange ist noch nicht eingerichtet (GITHUB_QUEUE_TOKEN fehlt in Vercel).");
+      return Response.json({ ok: true });
+    }
+    try {
+      await enqueue(items);
+      const list = items
+        .slice(0, 10)
+        .map((x, i) => `${i + 1}. ${esc(x.title)}${x.price ? ` – ${formatPrice(x.price)}` : ""}`)
+        .join("\n");
+      await reply(
+        msg.chat.id,
+        `📥 <b>${items.length} Deals in der Warteschlange</b>\n${list}${items.length > 10 ? "\n…" : ""}\n\nIch poste sie nach und nach (ca. alle 15 Min, nachts Pause).${failNote}`
+      );
+    } catch (e) {
+      await reply(msg.chat.id, `❌ Warteschlange fehlgeschlagen: ${esc((e as Error).message)}`);
+    }
+    return Response.json({ ok: true });
+  }
+
+  // Ein Deal → sofort posten
+  const it = items[0];
   const deal: Deal = {
-    id: `inbox-${asin.toLowerCase()}`,
-    asin,
-    title: p.title ?? "Amazon-Deal",
+    id: `inbox-${it.asin.toLowerCase()}`,
+    asin: it.asin,
+    title: it.title,
     category: "Deal",
-    price: p.price,
-    oldPrice: p.oldPrice,
-    checkedAt: new Date(msg.date * 1000).toISOString(),
+    price: it.price,
+    oldPrice: it.oldPrice,
+    checkedAt: it.addedAt,
     source: "auto",
   };
-
   try {
     await postToChannel(deal);
     await reply(
       msg.chat.id,
-      `✅ Gepostet: <b>${esc(deal.title)}</b>${deal.price ? ` – ${formatPrice(deal.price)}` : ""}\n${affiliateUrl(asin, "telegram")}`
+      `✅ Gepostet: <b>${esc(deal.title)}</b>${deal.price ? ` – ${formatPrice(deal.price)}` : ""}\n${affiliateUrl(it.asin, "telegram")}${failNote}`
     );
   } catch (e) {
     await reply(msg.chat.id, `❌ Posten fehlgeschlagen: ${esc((e as Error).message)}`);

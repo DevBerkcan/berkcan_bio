@@ -26,5 +26,5 @@
       ]
     }
   ],
-  "ignoreCommand": "git diff --quiet HEAD^ HEAD -- . ':(exclude)data/auto-deals.json' ':(exclude)data/autopilot-state.json'"
+  "ignoreCommand": "git diff --quiet HEAD^ HEAD -- . ':(exclude)data/auto-deals.json' ':(exclude)data/autopilot-state.json' ':(exclude)data/queue.json' ':(exclude)data/queue'"
 }

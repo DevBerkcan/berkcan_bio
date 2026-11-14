@@ -12,7 +12,7 @@
  *
  * Env: TELEGRAM_BOT_TOKEN, TELEGRAM_CHANNEL_ID (lokal aus .env.local)
  */
-import { readFile, writeFile } from "node:fs/promises";
+import { readFile, writeFile, readdir, unlink } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { postDeal, shareButton, telegramApi, telegramConfigured } from "./telegram.mjs";
@@ -23,6 +23,8 @@ const FILES = {
   config: path.join(ROOT, "data", "deals.json"),
   auto: path.join(ROOT, "data", "auto-deals.json"),
   state: path.join(ROOT, "data", "autopilot-state.json"),
+  queue: path.join(ROOT, "data", "queue.json"),
+  queueDir: path.join(ROOT, "data", "queue"),
 };
 const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36";
@@ -263,6 +265,60 @@ async function maybeDigest(cfg, config, state, list, day, hour) {
   }
 }
 
+// ---------- Warteschlange ----------
+
+/** Sammelt data/queue/*.json ein (vom Telegram-Webhook) und postet pro Lauf 1–2 Deals daraus. */
+async function drainQueue(cfg, config, state, list, hour, mode) {
+  const queue = await readJSON(FILES.queue, []);
+  let files = [];
+  try {
+    files = (await readdir(FILES.queueDir)).filter((f) => f.endsWith(".json")).sort();
+  } catch {
+    /* Ordner existiert noch nicht */
+  }
+  for (const f of files) {
+    const items = await readJSON(path.join(FILES.queueDir, f), []);
+    for (const it of items) if (!queue.some((q) => q.asin === it.asin)) queue.push(it);
+    await unlink(path.join(FILES.queueDir, f));
+  }
+
+  const perRun = isQuiet(hour, cfg.quietHours) ? 0 : mode.name === "Black Friday" ? 2 : 1;
+  let posted = 0;
+  while (posted < perRun && queue.length) {
+    const it = queue.shift();
+    const fresh = Date.now() - Date.parse(it.addedAt) <= 20 * 3600 * 1000;
+    const deal = {
+      id: `queue-${it.asin.toLowerCase()}`,
+      asin: it.asin,
+      title: it.title,
+      category: "Deal",
+      // Preis älter als 20 h → ohne Preis posten (Amazon-Regel: Preise max. 24 h)
+      price: fresh ? it.price : undefined,
+      oldPrice: fresh ? it.oldPrice : undefined,
+      checkedAt: fresh ? it.addedAt : new Date().toISOString(),
+      source: "auto",
+    };
+    try {
+      await postDeal(deal, config.campaign, config.tracking.telegram);
+      deal.telegramPostedAt = new Date().toISOString();
+      state.posted[it.asin] = deal.telegramPostedAt;
+      const i = list.findIndex((d) => d.asin === it.asin);
+      if (i >= 0) list.splice(i, 1);
+      if (deal.price) list.unshift(deal);
+      posted++;
+      console.log(`📋 Warteschlange gepostet: ${deal.title} (${it.asin}) · noch ${queue.length}`);
+    } catch (e) {
+      console.warn(`⚠️  Warteschlange ${it.asin}: ${e.message}`);
+    }
+  }
+  if (files.length || posted) {
+    await writeJSON(FILES.queue, queue);
+    await writeJSON(FILES.auto, list.slice(0, MAX_LIST));
+    await writeJSON(FILES.state, state);
+  }
+  if (queue.length || files.length) console.log(`Warteschlange: ${queue.length} wartend`);
+}
+
 // ---------- Ablauf ----------
 
 async function main() {
@@ -285,6 +341,9 @@ async function main() {
       await writeJSON(FILES.state, state);
     }
   }
+
+  // Warteschlange (per Telegram eingereichte Links) – bei jedem Lauf, unabhängig vom Intervall
+  if (!DRY && telegramConfigured()) await drainQueue(cfg, config, state, auto, hour, mode);
 
   // Läuft alle 15 Min (GitHub); im Normalbetrieb nur alle 30 Min wirklich posten
   if (!DRY && state.lastRunAt && now - Date.parse(state.lastRunAt) < (mode.intervalMinutes - 3) * 60000) {
