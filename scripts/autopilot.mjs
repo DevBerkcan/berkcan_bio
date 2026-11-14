@@ -292,7 +292,8 @@ async function drainQueue(cfg, config, state, list, hour, mode) {
       id: `queue-${it.asin.toLowerCase()}`,
       asin: it.asin,
       title: it.title,
-      category: "Deal",
+      subtitle: it.note,
+      category: it.category ?? "Deal",
       // Preis älter als 20 h → ohne Preis posten (Amazon-Regel: Preise max. 24 h)
       price: fresh ? it.price : undefined,
       oldPrice: fresh ? it.oldPrice : undefined,
@@ -469,7 +470,12 @@ async function main() {
   console.log(`Fertig: ${posted.length} gepostet, ${Math.min(list.length, MAX_LIST)} auf der Seite.`);
 }
 
-main().catch((e) => {
-  console.error("❌", e.message);
-  process.exit(1);
-});
+// Nur ausführen, wenn direkt gestartet (nicht beim Import durch curator.mjs)
+if (process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1])) {
+  main().catch((e) => {
+    console.error("❌", e.message);
+    process.exit(1);
+  });
+}
+
+export { readFeed, resolveAsin, findReferencePrice, cleanTitle, categoryFor, readJSON, FILES };

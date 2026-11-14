@@ -12,7 +12,13 @@ import { telegramApi, telegramConfigured } from "./telegram.mjs";
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 
 export async function sendAlert(text) {
-  if (!telegramConfigured()) return console.warn("Alarm nicht gesendet (Telegram nicht konfiguriert):", text);
+  return sendToOwner(`🚨 <b>Deal-Bot</b>
+${text}`);
+}
+
+/** Private Nachricht an alle telegram.ownerIds (z. B. Tagesbericht des Kurators). */
+export async function sendToOwner(text) {
+  if (!telegramConfigured()) return console.warn("Nachricht nicht gesendet (Telegram nicht konfiguriert):", text);
   let owners = [];
   try {
     owners = JSON.parse(await readFile(path.join(ROOT, "data", "deals.json"), "utf8")).telegram?.ownerIds ?? [];
@@ -23,7 +29,7 @@ export async function sendAlert(text) {
     try {
       await telegramApi("sendMessage", {
         chat_id: id,
-        text: `🚨 <b>Deal-Bot</b>\n${text}`,
+        text,
         parse_mode: "HTML",
         link_preview_options: { is_disabled: true },
       });
@@ -31,7 +37,7 @@ export async function sendAlert(text) {
       console.warn(`Alarm an ${id} fehlgeschlagen: ${e.message}`);
     }
   }
-  console.log("🚨 Alarm gesendet:", text.replace(/<[^>]+>/g, ""));
+  console.log("📨 Gesendet:", text.replace(/<[^>]+>/g, "").slice(0, 120));
 }
 
 /** Höchstens ein Alarm pro Typ alle `hours` Stunden (Zustand in state.alerts). */
