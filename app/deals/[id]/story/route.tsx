@@ -4,12 +4,12 @@ import {
   discountPercent,
   formatCheckedAt,
   formatPrice,
-  getDeal,
   isPriceFresh,
   productImage,
   savings,
 } from "@/lib/deals";
 import { fetchImageDataUrl } from "@/lib/og";
+import { findDeal } from "@/lib/deals-server";
 
 export const dynamic = "force-dynamic";
 // Edge-Runtime: next/og im Node-Runtime ist unter Windows (Next 14) defekt
@@ -17,7 +17,7 @@ export const runtime = "edge";
 
 /** Instagram-Story-Grafik (1080×1920) für einen Deal: /deals/<id>/story */
 export async function GET(_req: Request, { params }: { params: { id: string } }) {
-  const deal = getDeal(params.id);
+  const deal = await findDeal(params.id);
   if (!deal) return new Response("Deal nicht gefunden", { status: 404 });
 
   const fresh = isPriceFresh(deal);
@@ -117,7 +117,7 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
           <div style={{ marginTop: 40, display: "flex", flexDirection: "column", alignItems: "center" }}>
             <div style={{ display: "flex", alignItems: "baseline", gap: 28 }}>
               <span style={{ fontSize: 120, fontWeight: 900 }}>{formatPrice(deal.price)}</span>
-              {deal.oldPrice && deal.oldPrice > deal.price ? (
+              {deal.oldPrice && deal.oldPrice > deal.price && !deal.oldPriceLabel ? (
                 <span style={{ fontSize: 56, color: "#a1a1aa", textDecoration: "line-through" }}>
                   {formatPrice(deal.oldPrice)}
                 </span>

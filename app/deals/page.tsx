@@ -9,17 +9,17 @@ import {
   campaign,
   discountPercent,
   formatCheckedAt,
-  getDeals,
   isPriceFresh,
   productImage,
   savings,
 } from "@/lib/deals";
+import { getAllDeals } from "@/lib/deals-server";
 import { Countdown } from "@/components/deals/Countdown";
 import { DealsBoard, type DealView } from "@/components/deals/DealsBoard";
 import { Footer } from "@/components/Footer";
 
-// Seite stündlich neu rendern, damit Preise älter als 24 h automatisch verschwinden
-export const revalidate = 3600;
+// Alle 5 Min neu rendern: neue Autopilot-Deals erscheinen, Preise älter als 24 h verschwinden
+export const revalidate = 300;
 
 export const metadata: Metadata = {
   title: `${campaign.name} Deals | Berk-Can Atesoglu`,
@@ -31,9 +31,9 @@ export const metadata: Metadata = {
   },
 };
 
-export default function DealsPage() {
+export default async function DealsPage() {
   const now = Date.now();
-  const deals: DealView[] = getDeals().map((d) => {
+  const deals: DealView[] = (await getAllDeals()).map((d) => {
     const fresh = isPriceFresh(d, now);
     return {
       id: d.id,
@@ -47,6 +47,7 @@ export default function DealsPage() {
       url: affiliateUrl(d.asin),
       price: fresh ? d.price : undefined,
       oldPrice: fresh ? d.oldPrice : undefined,
+      oldPriceLabel: d.oldPriceLabel,
       discount: fresh ? discountPercent(d) : null,
       savings: fresh ? savings(d) : null,
       checkedLabel: fresh ? formatCheckedAt(d.checkedAt) : undefined,

@@ -24,6 +24,7 @@ export async function GET(req: Request) {
   const save = savings({ price, oldPrice });
   const pct = save && oldPrice ? Math.round((save / oldPrice) * 100) : null;
   const ts = q.get("ts");
+  const refLabel = (q.get("ref") ?? "").slice(0, 20);
   const stamp = ts
     ? new Intl.DateTimeFormat("de-DE", {
         day: "2-digit",
@@ -117,9 +118,15 @@ export async function GET(req: Request) {
               <div style={{ display: "flex", alignItems: "baseline", gap: 20 }}>
                 <span style={{ fontSize: 84, fontWeight: 900 }}>{formatPrice(price)}</span>
                 {oldPrice && oldPrice > price ? (
-                  <span style={{ fontSize: 40, color: "#a1a1aa", textDecoration: "line-through" }}>
-                    {formatPrice(oldPrice)}
-                  </span>
+                  refLabel ? (
+                    <span style={{ fontSize: 32, color: "#a1a1aa" }}>
+                      {refLabel}: {formatPrice(oldPrice)}
+                    </span>
+                  ) : (
+                    <span style={{ fontSize: 40, color: "#a1a1aa", textDecoration: "line-through" }}>
+                      {formatPrice(oldPrice)}
+                    </span>
+                  )
                 ) : null}
               </div>
             ) : (

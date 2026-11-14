@@ -1,0 +1,33 @@
+name: Deal-Autopilot
+
+# Ruft alle 30 Minuten den Autopiloten auf Vercel auf:
+# neue Deals von Keepa holen → Telegram posten → auf /deals anzeigen.
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry:
+        description: "Nur testen (nichts posten)"
+        type: boolean
+        default: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Autopilot aufrufen
+        env:
+          CRON_SECRET: ${{ secrets.CRON_SECRET }}
+          DRY: ${{ github.event.inputs.dry == 'true' && '1' || '0' }}
+        run: |
+          if [ -z "$CRON_SECRET" ]; then
+            echo "::warning::GitHub-Secret CRON_SECRET fehlt – Autopilot noch nicht eingerichtet"; exit 0
+          fi
+          code=$(curl -s -o response.json -w "%{http_code}" \
+            -H "Authorization: Bearer $CRON_SECRET" \
+            "https://gentlelink.berkcanatesoglu.de/api/cron/deals?dry=$DRY")
+          cat response.json; echo
+          if [ "$code" = "503" ]; then echo "::warning::Autopilot: Zugangsdaten in Vercel fehlen noch"; exit 0; fi
+          if [ "$code" -ge 400 ]; then echo "::error::Autopilot antwortet mit HTTP $code"; exit 1; fi

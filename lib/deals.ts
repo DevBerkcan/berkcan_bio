@@ -53,6 +53,10 @@ export interface Deal {
   draft?: boolean;
   /** Wann der Deal in den Telegram-Kanal gepostet wurde (vom Skript gesetzt) */
   telegramPostedAt?: string;
+  /** Beschriftung des Vergleichspreises, z. B. "Ø 90 Tage" (Standard: "statt") */
+  oldPriceLabel?: string;
+  /** manual = von Hand / Skript, auto = vom Autopiloten gefunden */
+  source?: "manual" | "auto";
 }
 
 export interface Campaign {
@@ -65,6 +69,7 @@ export const campaign: Campaign = data.campaign;
 
 const allDeals = data.deals as Deal[];
 
+/** Nur die von Hand gepflegten Deals aus data/deals.json (für Autopilot: lib/deals-server.ts). */
 export function getDeals(): Deal[] {
   const showDrafts = process.env.NODE_ENV !== "production";
   return allDeals
@@ -145,7 +150,7 @@ export function caption(deal: Deal): string {
     "",
     deal.title,
     deal.price
-      ? `👉 ${formatPrice(deal.price)}${deal.oldPrice ? ` statt ${formatPrice(deal.oldPrice)}` : ""}${pct ? ` (-${pct}%)` : ""}`
+      ? `👉 ${formatPrice(deal.price)}${deal.oldPrice ? ` ${deal.oldPriceLabel ? `(${deal.oldPriceLabel}: ${formatPrice(deal.oldPrice)})` : `statt ${formatPrice(deal.oldPrice)}`}` : ""}${pct ? ` -${pct}%` : ""}`
       : "",
     savings(deal) ? `💰 Du sparst ${formatPrice(savings(deal)!)}` : "",
     `Preis Stand ${formatCheckedAt(deal.checkedAt)} Uhr – kann sich jederzeit ändern.`,

@@ -10,6 +10,31 @@
     "instagram": "berkcanat-ig-21",
     "telegram": "berkcanat-tg-21"
   },
+  "autopilot": {
+    "_hinweis": "Automatische Deals über Keepa. enabled=false stoppt den Bot sofort (nach Push).",
+    "enabled": true,
+    "categories": [
+      562066,
+      340843031,
+      300992
+    ],
+    "categoryNames": {
+      "562066": "Elektronik",
+      "340843031": "Computer",
+      "300992": "Gaming"
+    },
+    "minDiscount": 30,
+    "minRating": 4.0,
+    "maxSalesRank": 20000,
+    "minPrice": 15,
+    "maxPrice": 1500,
+    "maxPerRun": 2,
+    "maxPerDay": 20,
+    "quietHours": [
+      23,
+      7
+    ]
+  },
   "deals": [
     {
       "id": "beispiel-kopfhoerer",

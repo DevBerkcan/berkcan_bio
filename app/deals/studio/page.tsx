@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
-import { caption, getDeals, isPriceFresh, storyLink } from "@/lib/deals";
+import { caption, isPriceFresh, storyLink } from "@/lib/deals";
+import { getAllDeals } from "@/lib/deals-server";
 import { CopyButton } from "@/components/deals/CopyButton";
 
 export const dynamic = "force-dynamic";
@@ -15,8 +16,8 @@ export const metadata: Metadata = {
  * Arbeitsseite für Instagram: Story-Grafik herunterladen, Caption und
  * Sticker-Link kopieren. Nicht verlinkt und nicht indexiert.
  */
-export default function StudioPage() {
-  const deals = getDeals();
+export default async function StudioPage() {
+  const deals = await getAllDeals();
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-950">

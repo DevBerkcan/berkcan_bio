@@ -19,6 +19,7 @@ export interface DealView {
   url: string;
   price?: number;
   oldPrice?: number;
+  oldPriceLabel?: string;
   discount: number | null;
   savings: number | null;
   checkedLabel?: string;
@@ -171,10 +172,15 @@ export function DealsBoard({
                         <span className="text-2xl font-extrabold text-gray-900 dark:text-white">
                           {eur.format(d.price)}
                         </span>
-                        {d.oldPrice && d.oldPrice > d.price && (
+                        {d.oldPrice && d.oldPrice > d.price && !d.oldPriceLabel && (
                           <span className="text-sm text-gray-400 line-through">{eur.format(d.oldPrice)}</span>
                         )}
                       </div>
+                      {d.oldPriceLabel && d.oldPrice && (
+                        <p className="text-xs text-gray-500 dark:text-gray-400">
+                          {d.oldPriceLabel}: {eur.format(d.oldPrice)}
+                        </p>
+                      )}
                       {d.savings !== null && (
                         <span className="mt-1 inline-block rounded-md bg-green-100 px-2 py-0.5 text-sm font-bold text-green-700 dark:bg-green-900/40 dark:text-green-400">
                           Du sparst {eur.format(d.savings)}
