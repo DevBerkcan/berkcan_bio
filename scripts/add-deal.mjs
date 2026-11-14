@@ -10,10 +10,15 @@
  *
  *   npm run deal -- --list            alle Deals mit Alter des Preises
  *   npm run deal -- --remove <id>     Deal löschen
+ *
+ * Telegram (Token in .env.local, siehe .env.example):
+ *   ... --post                        Deal nach dem Speichern im Kanal posten
+ *   npm run deal -- --post-only <id>  vorhandenen Deal posten (--force: erneut)
  */
 import { readFile, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
+import { postDeal, telegramConfigured } from "./telegram.mjs";
 
 const FILE = path.join(path.dirname(fileURLToPath(import.meta.url)), "..", "data", "deals.json");
 
@@ -83,6 +88,14 @@ async function main() {
     return;
   }
 
+  if (args["post-only"]) {
+    const deal = data.deals.find((d) => d.id === args["post-only"] || d.asin === args["post-only"]);
+    if (!deal) throw new Error(`Kein Deal mit id/ASIN ${args["post-only"]}`);
+    await post(deal, data, args.force);
+    await writeFile(FILE, JSON.stringify(data, null, 2) + "\n");
+    return;
+  }
+
   if (args.remove) {
     const before = data.deals.length;
     data.deals = data.deals.filter((d) => d.id !== args.remove);
@@ -127,6 +140,24 @@ async function main() {
 
   await writeFile(FILE, JSON.stringify(data, null, 2) + "\n");
   console.log(`   https://www.amazon.de/dp/${asin}?tag=berkcanat-21`);
+
+  if (args.post) {
+    await post(data.deals.find((d) => d.asin === asin), data, args.force);
+    await writeFile(FILE, JSON.stringify(data, null, 2) + "\n");
+  } else if (telegramConfigured()) {
+    console.log("   Tipp: mit --post direkt in Telegram posten");
+  }
+}
+
+async function post(deal, data, force) {
+  if (deal.draft) throw new Error("Entwürfe werden nicht gepostet");
+  if (deal.telegramPostedAt && !force) {
+    console.log(`ℹ️  Schon am ${deal.telegramPostedAt} gepostet – mit --force erneut posten`);
+    return;
+  }
+  const msg = await postDeal(deal, data.campaign);
+  deal.telegramPostedAt = new Date().toISOString();
+  console.log(`📣 In Telegram gepostet (Nachricht ${msg.message_id})`);
 }
 
 main().catch((e) => {

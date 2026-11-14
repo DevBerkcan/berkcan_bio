@@ -6,6 +6,12 @@ export const AFFILIATE_TAG = "berkcanat-21";
 /** Öffentliche Domain der Link-in-Bio-Seite (für Story-Links mit UTM). */
 export const PUBLIC_BASE_URL = "https://gentlelink.berkcanatesoglu.de";
 
+/**
+ * Öffentlicher Link zum Telegram-Deal-Kanal, z. B. "https://t.me/berkcandeals".
+ * Leer = kein Telegram-Button auf der Deal-Seite.
+ */
+export const TELEGRAM_CHANNEL_URL = "https://t.me/+68M0ZAE8bnsyOTY6";
+
 /** Pflichthinweis laut Amazon-Partnerprogramm (Operating Agreement). */
 export const AMAZON_DISCLOSURE =
   "Als Amazon-Partner verdiene ich an qualifizierten Verkäufen.";
@@ -28,6 +34,8 @@ export interface Deal {
   featured?: boolean;
   /** Entwürfe sind nur lokal (npm run dev) sichtbar */
   draft?: boolean;
+  /** Wann der Deal in den Telegram-Kanal gepostet wurde (vom Skript gesetzt) */
+  telegramPostedAt?: string;
 }
 
 export interface Campaign {
