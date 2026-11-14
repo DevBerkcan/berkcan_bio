@@ -62,6 +62,7 @@ export interface Deal {
 export interface Campaign {
   name: string;
   slug: string;
+  startsAt?: string;
   endsAt: string;
 }
 
