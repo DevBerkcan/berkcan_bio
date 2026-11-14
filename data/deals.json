@@ -11,23 +11,30 @@
     "telegram": "berkcanat-tg-21"
   },
   "autopilot": {
-    "_hinweis": "Automatische Deals über Keepa. enabled=false stoppt den Bot sofort (nach Push).",
+    "_hinweis": "Automatische Deals aus mydealz-RSS (nur Händler Amazon). enabled=false stoppt den Bot.",
     "enabled": true,
-    "categories": [
-      562066,
-      340843031,
-      300992
+    "feeds": [
+      "trending",
+      "gruppe/kopfhoerer",
+      "gruppe/computer",
+      "gruppe/smart-home",
+      "gruppe/apple",
+      "gruppe/smartphone",
+      "gruppe/fernseher",
+      "gruppe/gaming",
+      "gruppe/elektronik"
     ],
-    "categoryNames": {
-      "562066": "Elektronik",
-      "340843031": "Computer",
-      "300992": "Gaming"
-    },
-    "minDiscount": 30,
-    "minRating": 4.0,
-    "maxSalesRank": 20000,
-    "minPrice": 15,
+    "categories": [
+      "Elektronik",
+      "Gaming",
+      "Home & Living",
+      "Telefon & Internet"
+    ],
+    "minTemperature": 100,
+    "requireSavings": true,
+    "minPrice": 10,
     "maxPrice": 1500,
+    "maxAgeHours": 20,
     "maxPerRun": 2,
     "maxPerDay": 20,
     "quietHours": [

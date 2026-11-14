@@ -49,7 +49,13 @@ export function buildMessage(deal, campaign) {
     deal.subtitle ? esc(deal.subtitle) : null,
     "",
     deal.price
-      ? `💶 <b>${eur(deal.price)}</b>${deal.oldPrice && deal.oldPrice > deal.price ? ` statt <s>${eur(deal.oldPrice)}</s>` : ""}`
+      ? `💶 <b>${eur(deal.price)}</b>${
+          deal.oldPrice && deal.oldPrice > deal.price
+            ? deal.oldPriceLabel
+              ? ` <i>(${esc(deal.oldPriceLabel)}: ${eur(deal.oldPrice)})</i>`
+              : ` statt <s>${eur(deal.oldPrice)}</s>`
+            : ""
+        }`
       : "💶 Preis auf Amazon ansehen",
     deal.price && deal.oldPrice && deal.oldPrice > deal.price
       ? `💰 <b>Du sparst ${eur(Math.round((deal.oldPrice - deal.price) * 100) / 100)}</b>`
@@ -66,6 +72,7 @@ export function cardUrl(deal) {
   const p = new URLSearchParams({ asin: deal.asin, title: deal.title, ts: deal.checkedAt });
   if (deal.price) p.set("price", String(deal.price));
   if (deal.oldPrice) p.set("old", String(deal.oldPrice));
+  if (deal.oldPriceLabel) p.set("ref", deal.oldPriceLabel);
   if (deal.image) p.set("img", deal.image);
   return `${PUBLIC_BASE_URL}/api/deal-card?${p.toString()}`;
 }

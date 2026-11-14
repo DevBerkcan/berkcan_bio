@@ -1,7 +1,7 @@
 name: Deal-Autopilot
 
-# Ruft alle 30 Minuten den Autopiloten auf Vercel auf:
-# neue Deals von Keepa holen → Telegram posten → auf /deals anzeigen.
+# Alle 30 Minuten: neue Amazon-Deals (mydealz-RSS) finden → Telegram posten →
+# data/auto-deals.json aktualisieren (erscheint automatisch auf /deals).
 on:
   schedule:
     - cron: "*/30 * * * *"
@@ -12,22 +12,44 @@ on:
         type: boolean
         default: false
 
+permissions:
+  contents: write
+
+concurrency:
+  group: deal-autopilot
+  cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 3
+    timeout-minutes: 5
     steps:
-      - name: Autopilot aufrufen
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Autopilot
         env:
-          CRON_SECRET: ${{ secrets.CRON_SECRET }}
-          DRY: ${{ github.event.inputs.dry == 'true' && '1' || '0' }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
         run: |
-          if [ -z "$CRON_SECRET" ]; then
-            echo "::warning::GitHub-Secret CRON_SECRET fehlt – Autopilot noch nicht eingerichtet"; exit 0
+          if [ "${{ github.event.inputs.dry }}" = "true" ]; then
+            node scripts/autopilot.mjs --dry; exit 0
           fi
-          code=$(curl -s -o response.json -w "%{http_code}" \
-            -H "Authorization: Bearer $CRON_SECRET" \
-            "https://gentlelink.berkcanatesoglu.de/api/cron/deals?dry=$DRY")
-          cat response.json; echo
-          if [ "$code" = "503" ]; then echo "::warning::Autopilot: Zugangsdaten in Vercel fehlen noch"; exit 0; fi
-          if [ "$code" -ge 400 ]; then echo "::error::Autopilot antwortet mit HTTP $code"; exit 1; fi
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHANNEL_ID" ]; then
+            echo "::warning::Secrets TELEGRAM_BOT_TOKEN / TELEGRAM_CHANNEL_ID fehlen – Autopilot pausiert"
+            node scripts/autopilot.mjs --dry; exit 0
+          fi
+          node scripts/autopilot.mjs
+
+      - name: Deals speichern
+        run: |
+          git config user.name "deal-autopilot[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/auto-deals.json data/autopilot-state.json
+          if git diff --cached --quiet; then echo "Keine Änderungen"; exit 0; fi
+          git commit -m "chore(autopilot): Deals aktualisiert [skip ci]"
+          git pull --rebase --autostash origin main
+          git push
