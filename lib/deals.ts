@@ -64,21 +64,11 @@ export function affiliateUrl(asin: string): string {
 }
 
 /**
- * Offizielles Produktbild über den Amazon-Partner-Bild-Link (wie SiteStripe „Bild“).
- * Wird genutzt, wenn kein eigenes Bild (image) hinterlegt ist.
+ * Hauptbild des Produkts direkt vom Amazon-Bild-CDN (per ASIN, wird nur verlinkt,
+ * nicht gespeichert). Wird genutzt, wenn kein eigenes Bild (image) hinterlegt ist.
  */
 export function amazonImageUrl(asin: string, size = 500): string {
-  const p = new URLSearchParams({
-    _encoding: "UTF8",
-    ASIN: asin,
-    Format: `_SL${size}_`,
-    ID: "AsinImage",
-    MarketPlace: "DE",
-    ServiceVersion: "20070822",
-    WS: "1",
-    tag: AFFILIATE_TAG,
-  });
-  return `https://ws-eu.amazon-adsystem.com/widgets/q?${p.toString()}`;
+  return `https://m.media-amazon.com/images/P/${encodeURIComponent(asin)}.01._SCLZZZZZZZ_SX${size}_.jpg`;
 }
 
 export function productImage(deal: Deal): string {
