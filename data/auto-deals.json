@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "id": "auto-b0f3jpz3r5",
+    "asin": "B0F3JPZ3R5",
+    "title": "Nintendo Switch 2 Joy-Con 2-Aufladehalterung",
+    "category": "Gaming",
+    "price": 20.58,
+    "oldPrice": 31.12,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-14T06:46:21.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-14T13:42:40.898Z"
+  },
+  {
+    "id": "auto-b0d9w7vczg",
+    "asin": "B0D9W7VCZG",
+    "title": "Nintendo Joy-Con-Ladeaufsteller für Switch",
+    "category": "Gaming",
+    "price": 14.58,
+    "oldPrice": 26.76,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-14T06:46:57.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-14T13:42:38.783Z"
+  },
+  {
+    "id": "auto-b0gvnn6fhn",
+    "asin": "B0GVNN6FHN",
+    "title": "Lost Ember Wolf Pack Edition",
+    "category": "Gaming",
+    "price": 24.99,
+    "oldPrice": 32.45,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-14T07:22:25.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-14T13:42:36.513Z"
+  }
+]
