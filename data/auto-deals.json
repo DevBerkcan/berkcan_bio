@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b0f9qggngt",
+    "asin": "B0F9QGGNGT",
+    "title": "Amazon: Docking-Station MD200 für Mobilfunk-Router von Netgear",
+    "category": "Tech",
+    "price": 65.06,
+    "checkedAt": "2026-11-15T15:27:56.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-15T16:55:13.499Z"
+  },
+  {
     "id": "auto-b0chs6slwk",
     "asin": "B0CHS6SLWK",
     "title": "24-teiliges Ibiza Steingut Geschirrset 6 Personen- Schüssel- und …",
@@ -287,16 +297,5 @@
     "checkedAt": "2026-11-14T17:25:08.000Z",
     "source": "auto",
     "telegramPostedAt": "2026-11-14T17:53:18.883Z"
-  },
-  {
-    "id": "auto-b0cdcfh17j",
-    "asin": "B0CDCFH17J",
-    "title": "Philips Kaffeevollautomat LatteGo 3300 Serie, Chrom, 6 Spezialitäten",
-    "subtitle": "🔥 110° bei mydealz",
-    "category": "Haushalt",
-    "price": 349,
-    "checkedAt": "2026-11-14T16:27:50.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-14T16:55:19.800Z"
   }
 ]
