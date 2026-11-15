@@ -1,5 +1,17 @@
 [
   {
+    "id": "auto-b0hn87tm74",
+    "asin": "B0HN87TM74",
+    "title": "MEDION MD19899 Filterkaffeemaschine mit Mahlwerk",
+    "category": "Haushalt",
+    "price": 99.95,
+    "oldPrice": 119.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-15T07:31:36.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-15T07:47:50.150Z"
+  },
+  {
     "id": "auto-b0csrwqntg",
     "asin": "B0CSRWQNTG",
     "title": "YAMAHA SEQTRAK Synth, Drums, Sequenzer",
@@ -91,38 +103,6 @@
     "checkedAt": "2026-11-14T17:25:08.000Z",
     "source": "auto",
     "telegramPostedAt": "2026-11-14T17:53:18.883Z"
-  },
-  {
-    "id": "queue-b088vcbbqr",
-    "asin": "B088VCBBQR",
-    "title": "Mafia Trilogy (PS4/PS5)",
-    "subtitle": "Alle drei Mafia-Teile als Definitive Edition inkl. Erweiterungen.",
-    "category": "Gaming",
-    "price": 14.95,
-    "checkedAt": "2026-11-14T07:21:15.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-14T17:53:04.882Z"
-  },
-  {
-    "id": "queue-b0d63y2qw4",
-    "asin": "B0D63Y2QW4",
-    "title": "Astro Bot (PS5)",
-    "subtitle": "Das gefeierte Jump’n’Run für PlayStation 5.",
-    "category": "Gaming",
-    "price": 38.66,
-    "checkedAt": "2026-11-14T07:43:49.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-14T17:38:46.991Z"
-  },
-  {
-    "id": "auto-b0drz2hdc2",
-    "asin": "B0DRZ2HDC2",
-    "title": "Bosch Wasserpumpenzange 250mm",
-    "category": "Werkzeug",
-    "price": 12.44,
-    "checkedAt": "2026-11-14T07:44:01.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-14T17:24:23.222Z"
   },
   {
     "id": "auto-b0bvfp6kxc",
@@ -253,17 +233,5 @@
     "checkedAt": "2026-11-14T14:25:19.000Z",
     "source": "auto",
     "telegramPostedAt": "2026-11-14T14:30:54.829Z"
-  },
-  {
-    "id": "auto-b0gvnn6fhn",
-    "asin": "B0GVNN6FHN",
-    "title": "Lost Ember Wolf Pack Edition",
-    "category": "Gaming",
-    "price": 24.99,
-    "oldPrice": 32.45,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-14T07:22:25.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-14T13:42:36.513Z"
   }
 ]
