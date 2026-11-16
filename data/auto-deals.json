@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b0d47vw64n",
+    "asin": "B0D47VW64N",
+    "title": "Assassin's Creed Shadows Nintendo Switch 2",
+    "category": "Gaming",
+    "price": 29.99,
+    "checkedAt": "2026-11-16T23:02:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D47VW64N.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b007mmg4yk",
+    "asin": "B007MMG4YK",
+    "title": "DEWALT 32-tlg. Schrauberbit-Set DT7969-QZ",
+    "subtitle": "🔥 103° bei mydealz",
+    "category": "Werkzeug",
+    "price": 8.49,
+    "checkedAt": "2026-11-16T23:05:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B007MMG4YK.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 103,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0090i3yss",
+    "asin": "B0090I3YSS",
+    "title": "Amazon Prime Diplomático Reserva Exclusiva Rum 0,7 l Botucal",
+    "subtitle": "🔥 106° bei mydealz",
+    "category": "Tech",
+    "price": 28.99,
+    "checkedAt": "2026-11-16T22:57:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0090I3YSS.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 106,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b007bsnocu",
+    "asin": "B007BSNOCU",
+    "title": "Wera Kraftform Big Pack 100 VDE, Schraubendreher Set 14-teilig, …",
+    "subtitle": "🔥 106° bei mydealz",
+    "category": "Werkzeug",
+    "price": 45.79,
+    "checkedAt": "2026-11-16T23:10:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B007BSNOCU.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 106,
+    "source": "auto"
+  },
+  {
     "id": "auto-b0chrxsj9d",
     "asin": "B0CHRXSJ9D",
     "title": "Fissler Original Profi Pfanne 28cm OHNE Novogrill (glatt), Premium …",
@@ -75,26 +121,6 @@
     "image": "https://m.media-amazon.com/images/P/B0GGSQRFT2.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:45:42.492Z"
-  },
-  {
-    "id": "auto-b0gfhdtj4l",
-    "asin": "B0GFHDTJ4L",
-    "title": "OLIGHT iMini 2 Mini LED Taschenlampe USB A Aufladbar Schlüsselanhänger …",
-    "category": "Sport & Outdoor",
-    "price": 16.77,
-    "checkedAt": "2026-11-15T23:09:52.000Z",
-    "image": "https://static.mydealz.de/threads/raw/8R9X5/2872120_1/re/768x768/qt/55/2872120_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0f45bld1h",
-    "asin": "B0F45BLD1H",
-    "title": "Xiaomi TV F Pro 75 (190 cm), 4K UHD QLED, Smart TV, Fire OS8, HDR10+, …",
-    "category": "TV & Heimkino",
-    "price": 499,
-    "checkedAt": "2026-11-15T23:10:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F45BLD1H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b092vwmbz2",
@@ -906,7 +932,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T09:47:14.000Z",
     "image": "https://m.media-amazon.com/images/P/B0G3NFQRW2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T23:16:13.839Z"
   },
   {
     "id": "auto-b09rktx8w3",
@@ -918,7 +945,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T15:48:47.000Z",
     "image": "https://m.media-amazon.com/images/P/B09RKTX8W3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T23:16:09.465Z"
   },
   {
     "id": "auto-b08gblsdcz",
@@ -930,7 +958,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T14:47:55.000Z",
     "image": "https://m.media-amazon.com/images/P/B08GBLSDCZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T23:16:01.005Z"
   },
   {
     "id": "auto-b07nbh69pl",
@@ -942,7 +971,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T14:48:16.000Z",
     "image": "https://m.media-amazon.com/images/P/B07NBH69PL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T23:15:56.876Z"
   },
   {
     "id": "auto-b07ky92lb6",
@@ -971,18 +1001,6 @@
     "telegramPostedAt": "2026-11-16T23:01:01.291Z"
   },
   {
-    "id": "auto-b0090i3yss",
-    "asin": "B0090I3YSS",
-    "title": "Amazon Prime Diplomático Reserva Exclusiva Rum 0,7 l Botucal",
-    "category": "Lebensmittel & Drinks",
-    "price": 28.99,
-    "oldPrice": 39.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-15T23:13:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0090I3YSS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b09rlnm8lz",
     "asin": "B09RLNM8LZ",
     "title": "Paladone Star Wars Darth Vader Lampe mit Sound",
@@ -1005,7 +1023,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T15:34:16.000Z",
     "image": "https://m.media-amazon.com/images/P/B09M2W28JT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T23:15:52.720Z"
   },
   {
     "id": "auto-b0f1tpnyvs",
@@ -2143,7 +2162,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T14:38:15.000Z",
     "image": "https://m.media-amazon.com/images/P/B0H3619GCS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T23:16:05.416Z"
   },
   {
     "id": "auto-b0hf1pk3tw",
