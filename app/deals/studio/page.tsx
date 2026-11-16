@@ -26,6 +26,16 @@ export default async function StudioPage() {
           <ArrowLeft size={20} /> Zur Deal-Seite
         </Link>
         <h1 className="text-2xl font-bold text-gray-900 dark:text-white">Deal-Studio</h1>
+        <Link
+          href="/deals/studio/social"
+          className="mt-4 flex items-center justify-between gap-3 rounded-2xl bg-gradient-to-r from-violet-600 to-fuchsia-600 p-4 text-white shadow-md"
+        >
+          <span>
+            <span className="block font-bold">📸 Social-Studio öffnen</span>
+            <span className="block text-sm text-white/85">Karussell-Post, Story-Serie & Werbe-Paket – täglich automatisch erstellt</span>
+          </span>
+          <span aria-hidden>→</span>
+        </Link>
         <ol className="mt-2 list-decimal space-y-0.5 pl-5 text-sm text-gray-600 dark:text-gray-400">
           <li>Story-Grafik herunterladen und als Instagram-Story hochladen</li>
           <li>Link-Sticker hinzufügen und den kopierten Sticker-Link einfügen</li>
