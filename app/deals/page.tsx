@@ -77,7 +77,7 @@ export default async function DealsPage() {
             Die besten Tech-Deals
           </h1>
           <p className="mx-auto mt-3 max-w-md text-gray-600 dark:text-gray-400">
-            Laufend aktualisiert – neue Amazon-Angebote alle 30 Minuten.
+            Laufend aktualisiert – neue Amazon-Angebote rund um die Uhr, sortiert nach Kategorie.
           </p>
           <Countdown startsAt={campaign.startsAt} endsAt={campaign.endsAt} />
         </header>
