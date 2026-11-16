@@ -1,5 +1,105 @@
 [
   {
+    "id": "auto-b0gfhdtj4l",
+    "asin": "B0GFHDTJ4L",
+    "title": "OLIGHT iMini 2 Mini LED Taschenlampe USB A Aufladbar Schlüsselanhänger …",
+    "category": "Sport & Outdoor",
+    "price": 16.77,
+    "checkedAt": "2026-11-15T23:09:52.000Z",
+    "image": "https://static.mydealz.de/threads/raw/8R9X5/2872120_1/re/768x768/qt/55/2872120_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f45bld1h",
+    "asin": "B0F45BLD1H",
+    "title": "Xiaomi TV F Pro 75 (190 cm), 4K UHD QLED, Smart TV, Fire OS8, HDR10+, …",
+    "category": "TV & Heimkino",
+    "price": 499,
+    "checkedAt": "2026-11-15T23:10:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F45BLD1H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b092vwmbz2",
+    "asin": "B092VWMBZ2",
+    "title": "FRITZ!Repeater 6000",
+    "category": "Computer",
+    "price": 199.99,
+    "checkedAt": "2026-11-15T23:39:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B092VWMBZ2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d1vv8k32",
+    "asin": "B0D1VV8K32",
+    "title": "Sony BRAVIA 8 OLED 65 Zoll 4K HDR Google Smart TV",
+    "category": "TV & Heimkino",
+    "price": 1399,
+    "checkedAt": "2026-11-15T23:43:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D1VV8K32.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f2tt8q7m",
+    "asin": "B0F2TT8Q7M",
+    "title": "Sony WH-1000XM6 - gebraucht wie neu",
+    "category": "Audio",
+    "price": 282.93,
+    "checkedAt": "2026-11-15T23:47:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F2TT8Q7M.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b078x52s84",
+    "asin": "B078X52S84",
+    "title": "Pirates of the Caribbean 1-5 Box [Blu-ray]",
+    "category": "Bücher & Filme",
+    "price": 27.99,
+    "checkedAt": "2026-11-15T23:51:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B078X52S84.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b01mz0c0ud",
+    "asin": "B01MZ0C0UD",
+    "title": "LEGO Classic Kreative Dinosaurier (11041)",
+    "category": "Spielzeug & LEGO",
+    "price": 20.3,
+    "checkedAt": "2026-11-16T17:07:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01MZ0C0UD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cssz94hq",
+    "asin": "B0CSSZ94HQ",
+    "title": "Prime - Beck Jungen SpiderHausschuh Baumwolle in 23 und 24",
+    "category": "Tech",
+    "price": 14.92,
+    "checkedAt": "2026-11-16T22:16:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CSSZ94HQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07f2q511b",
+    "asin": "B07F2Q511B",
+    "title": "Prime - PUMA Damen Cilia Mode Sneakers, Basic Sneakers Damen in vielen …",
+    "category": "Mode & Reise",
+    "price": 30.56,
+    "checkedAt": "2026-11-16T22:19:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07F2Q511B.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08b61wzmx",
+    "asin": "B08B61WZMX",
+    "title": "Prime - ONLY Damen Skinny Jeans Skinny Fit, Casual, Bei max. 40 grad …",
+    "category": "Mode & Reise",
+    "price": 18.85,
+    "checkedAt": "2026-11-16T22:24:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08B61WZMX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0g1bc4thx",
     "asin": "B0G1BC4THX",
     "title": "UGREEN NASync DXP4800 Pro 4 Bay NAS (ohne HDD)",
@@ -873,7 +973,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T11:12:25.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BW9M32PM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T22:30:38.984Z"
   },
   {
     "id": "auto-b08rb5h265",
@@ -885,7 +986,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T20:09:01.000Z",
     "image": "https://m.media-amazon.com/images/P/B08RB5H265.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T22:30:34.816Z"
   },
   {
     "id": "auto-b0cv4prfhk",
@@ -897,7 +999,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T13:44:01.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CV4PRFHK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T22:30:30.497Z"
   },
   {
     "id": "auto-b074p3l723",
@@ -909,7 +1012,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T11:41:15.000Z",
     "image": "https://m.media-amazon.com/images/P/B074P3L723.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T22:30:26.067Z"
   },
   {
     "id": "auto-b0cp324vs4",
@@ -921,7 +1025,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T08:03:02.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CP324VS4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T22:30:17.508Z"
   },
   {
     "id": "auto-b0f5b2d2yy",
@@ -1493,7 +1598,8 @@
     "checkedAt": "2026-11-16T21:22:33.000Z",
     "image": "https://m.media-amazon.com/images/P/B0D929RVFX.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 115,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T22:30:21.821Z"
   },
   {
     "id": "auto-b0dx2h6ryr",
