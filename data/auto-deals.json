@@ -1,5 +1,17 @@
 [
   {
+    "id": "auto-b0fc2sy56k",
+    "asin": "B0FC2SY56K",
+    "title": "Final Fantasy Tactics: The Ivalice Chronicles bei Amazon Prime",
+    "category": "Gaming",
+    "price": 29.99,
+    "oldPrice": 44.5,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-16T07:23:27.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T07:46:45.126Z"
+  },
+  {
     "id": "auto-b0g6156269",
     "asin": "B0G6156269",
     "title": "CORSAIR GALLEON 100 SD RGB Gaming-Tastatur mit Elgato Stream Deck",
@@ -278,17 +290,5 @@
     "checkedAt": "2026-11-15T08:01:50.000Z",
     "source": "auto",
     "telegramPostedAt": "2026-11-15T08:16:34.439Z"
-  },
-  {
-    "id": "auto-b0hn87tm74",
-    "asin": "B0HN87TM74",
-    "title": "MEDION MD19899 Filterkaffeemaschine mit Mahlwerk",
-    "category": "Haushalt",
-    "price": 99.95,
-    "oldPrice": 119.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-15T07:31:36.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T07:47:50.150Z"
   }
 ]
