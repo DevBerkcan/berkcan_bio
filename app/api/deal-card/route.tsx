@@ -1,4 +1,5 @@
 import { ImageResponse } from "next/og";
+import { BRAND, FONT_FAMILY, brandImageOptions } from "@/lib/brand";
 import { amazonImageUrl, campaign, formatPrice, savings } from "@/lib/deals";
 import { fetchImageDataUrl } from "@/lib/og";
 
@@ -28,12 +29,12 @@ export async function GET(req: Request) {
   const rate = q.get("rate");
   const badge =
     rate === "hot"
-      ? { text: "🔥 HOT DEAL", bg: "linear-gradient(90deg, #f97316, #dc2626)", color: "white" }
+      ? BRAND.rating.hot
       : rate === "good"
-        ? { text: "👍 GUTER DEAL", bg: "#10b981", color: "white" }
+        ? BRAND.rating.good
         : rate === "ok"
-          ? { text: "👌 SOLIDER DEAL", bg: "#e5e7eb", color: "#111827" }
-          : { text: `${campaign.name} Deal`, bg: "#fbbf24", color: "#0a0a0a" };
+          ? BRAND.rating.ok
+          : { text: `${campaign.name} Deal`, bg: BRAND.accentGrad, color: "#1a0d00" };
   const stamp = ts
     ? new Intl.DateTimeFormat("de-DE", {
         day: "2-digit",
@@ -58,10 +59,10 @@ export async function GET(req: Request) {
           height: "100%",
           display: "flex",
           flexDirection: "column",
-          background: "linear-gradient(150deg, #0a0a0a 0%, #1e1035 60%, #4c1d95 100%)",
+          background: BRAND.bg,
           color: "white",
           padding: 56,
-          fontFamily: "sans-serif",
+          fontFamily: FONT_FAMILY,
         }}
       >
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
@@ -86,7 +87,7 @@ export async function GET(req: Request) {
                 display: "flex",
                 padding: "12px 28px",
                 borderRadius: 24,
-                background: "#dc2626",
+                background: BRAND.sale,
                 fontSize: 64,
                 fontWeight: 900,
               }}
@@ -140,7 +141,7 @@ export async function GET(req: Request) {
                 ) : null}
               </div>
             ) : (
-              <span style={{ fontSize: 52, fontWeight: 800, color: "#fbbf24" }}>Preis auf Amazon ansehen</span>
+              <span style={{ fontSize: 52, fontWeight: 800, color: BRAND.accent }}>Preis auf Amazon ansehen</span>
             )}
             {stamp && (
               <span style={{ fontSize: 22, color: "#a1a1aa" }}>
@@ -156,7 +157,7 @@ export async function GET(req: Request) {
                 alignItems: "center",
                 padding: "14px 26px",
                 borderRadius: 24,
-                background: "#16a34a",
+                background: BRAND.save, color: "#06260f",
               }}
             >
               <span style={{ fontSize: 24, fontWeight: 700 }}>Du sparst</span>
@@ -166,11 +167,6 @@ export async function GET(req: Request) {
         </div>
       </div>
     ),
-    {
-      width: 1080,
-      height: 1080,
-      emoji: "twemoji",
-      headers: { "Cache-Control": "public, max-age=3600, s-maxage=3600" },
-    }
+    await brandImageOptions({ width: 1080, height: 1080 }, { headers: { "Cache-Control": "public, max-age=3600, s-maxage=3600" } })
   );
 }

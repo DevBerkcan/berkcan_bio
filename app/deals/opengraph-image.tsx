@@ -1,4 +1,5 @@
 import { ImageResponse } from "next/og";
+import { BRAND, FONT_FAMILY, brandImageOptions } from "@/lib/brand";
 
 // Vorschaubild beim Teilen von /deals (WhatsApp, Instagram-DM, Telegram, Facebook …)
 export const runtime = "edge";
@@ -6,7 +7,7 @@ export const alt = "Black Friday Tech-Deals – täglich neu";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
-export default function Image() {
+export default async function Image() {
   const chips = ["🎧 Audio", "💻 Computer", "📺 TV", "🎮 Gaming", "🏠 Smart Home", "🧹 Haushalt"];
   return new ImageResponse(
     (
@@ -18,9 +19,9 @@ export default function Image() {
           flexDirection: "column",
           justifyContent: "center",
           padding: "70px 80px",
-          background: "linear-gradient(140deg, #0a0a0a 0%, #1e1035 55%, #4c1d95 100%)",
+          background: BRAND.bg,
           color: "white",
-          fontFamily: "sans-serif",
+          fontFamily: FONT_FAMILY,
         }}
       >
         <div
@@ -29,8 +30,8 @@ export default function Image() {
             alignSelf: "flex-start",
             padding: "10px 26px",
             borderRadius: 999,
-            background: "#fbbf24",
-            color: "#0a0a0a",
+            background: BRAND.accentGrad,
+            color: "#1a0d00",
             fontSize: 28,
             fontWeight: 800,
             letterSpacing: 3,
@@ -38,7 +39,7 @@ export default function Image() {
         >
           BLACK FRIDAY WOCHE · 19.–30.11.
         </div>
-        <div style={{ display: "flex", marginTop: 36, fontSize: 84, fontWeight: 800, lineHeight: 1.05 }}>
+        <div style={{ display: "flex", marginTop: 36, fontSize: 88, fontWeight: 900, lineHeight: 1.05, letterSpacing: -3 }}>
           Die besten Tech-Deals
         </div>
         <div style={{ display: "flex", marginTop: 18, fontSize: 36, color: "#d4d4d8" }}>
@@ -52,7 +53,7 @@ export default function Image() {
                 display: "flex",
                 padding: "10px 22px",
                 borderRadius: 999,
-                background: "rgba(255,255,255,0.12)",
+                background: BRAND.chip,
                 fontSize: 28,
               }}
             >
@@ -65,6 +66,6 @@ export default function Image() {
         </div>
       </div>
     ),
-    { ...size, emoji: "twemoji" }
+    await brandImageOptions(size)
   );
 }

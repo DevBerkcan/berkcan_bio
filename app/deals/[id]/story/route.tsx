@@ -1,4 +1,5 @@
 import { ImageResponse } from "next/og";
+import { BRAND, FONT_FAMILY, brandImageOptions } from "@/lib/brand";
 import {
   campaign,
   discountPercent,
@@ -37,10 +38,10 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
           display: "flex",
           flexDirection: "column",
           alignItems: "center",
-          background: "linear-gradient(160deg, #0a0a0a 0%, #1e1035 55%, #4c1d95 100%)",
+          background: BRAND.bg,
           color: "white",
           padding: "120px 80px 0",
-          fontFamily: "sans-serif",
+          fontFamily: FONT_FAMILY,
         }}
       >
         <div
@@ -50,8 +51,8 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
             gap: 16,
             padding: "16px 36px",
             borderRadius: 999,
-            background: "#fbbf24",
-            color: "#0a0a0a",
+            background: BRAND.accentGrad,
+            color: "#1a0d00",
             fontSize: 40,
             fontWeight: 800,
             letterSpacing: 4,
@@ -91,7 +92,7 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
                 display: "flex",
                 padding: "24px 36px",
                 borderRadius: 32,
-                background: "#dc2626",
+                background: BRAND.sale,
                 fontSize: 84,
                 fontWeight: 900,
                 transform: "rotate(6deg)",
@@ -133,7 +134,7 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
                   display: "flex",
                   padding: "14px 36px",
                   borderRadius: 999,
-                  background: "#16a34a",
+                  background: BRAND.save, color: "#06260f",
                   fontSize: 48,
                   fontWeight: 800,
                 }}
@@ -146,7 +147,7 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
             </span>
           </div>
         ) : (
-          <div style={{ marginTop: 40, display: "flex", fontSize: 52, fontWeight: 700, color: "#fbbf24" }}>
+          <div style={{ marginTop: 40, display: "flex", fontSize: 52, fontWeight: 700, color: BRAND.accent }}>
             Jetzt Preis checken
           </div>
         )}
@@ -168,10 +169,6 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
         </div>
       </div>
     ),
-    {
-      width: 1080,
-      height: 1920,
-      headers: { "Cache-Control": "no-store" },
-    }
+    await brandImageOptions({ width: 1080, height: 1920 }, { headers: { "Cache-Control": "no-store" } })
   );
 }

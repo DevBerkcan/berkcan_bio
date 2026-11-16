@@ -1,23 +1,19 @@
 import { ImageResponse } from "next/og";
-import { campaign, formatPrice } from "@/lib/deals";
+import { formatPrice } from "@/lib/deals";
 import { fetchImageDataUrl } from "@/lib/og";
+import { BRAND, FONT_FAMILY, brandImageOptions } from "@/lib/brand";
 import { AD_FORMATS, categoryBySlug, pickDeals, type AdFormat, type SocialDeal, type SocialSet } from "@/lib/social";
 
 /**
  * Instagram-Grafiken aus den aktuellen Deals:
  *   ?kind=carousel&set=top|unter50&n=0..6     Karussell 1080×1350 (0 = Titel, 1–5 = Deals, 6 = Abschluss)
- *   ?kind=story&n=0..4                         Story 1080×1920 (0–3 = Hot Deals, 4 = Telegram-Aufruf)
+ *   ?kind=story&n=0..4                         Story 1080×1920 (0–3 = Hot Deals, danach Telegram-Aufruf)
  *   ?kind=ad&format=square|portrait|story&cat=<slug|alle>   Werbemotiv
  */
 export const runtime = "edge";
 export const dynamic = "force-dynamic";
 
-const BG = "linear-gradient(155deg, #0a0a0a 0%, #1e1035 55%, #4c1d95 100%)";
-const BADGE = {
-  hot: { text: "🔥 HOT DEAL", bg: "linear-gradient(90deg, #f97316, #dc2626)", color: "white" },
-  good: { text: "👍 GUTER DEAL", bg: "#10b981", color: "white" },
-  ok: { text: "👌 SOLIDER DEAL", bg: "#e5e7eb", color: "#111827" },
-} as const;
+const HANDLE = "@berkcandaily";
 
 function dateLabel() {
   return new Intl.DateTimeFormat("de-DE", { weekday: "long", day: "2-digit", month: "2-digit", timeZone: "Europe/Berlin" }).format(new Date());
@@ -27,32 +23,107 @@ async function imageFor(d: SocialDeal) {
   return d.image ? await fetchImageDataUrl(d.image) : null;
 }
 
-function Pill({ text, bg, color, size = 30 }: { text: string; bg: string; color: string; size?: number }) {
+const frame = (padding: number | string) =>
+  ({
+    width: "100%",
+    height: "100%",
+    display: "flex",
+    flexDirection: "column",
+    background: BRAND.bg,
+    color: BRAND.text,
+    padding,
+    fontFamily: FONT_FAMILY,
+  }) as const;
+
+function TopBar({ right }: { right?: string }) {
   return (
-    <div style={{ display: "flex", alignSelf: "flex-start", flexShrink: 0, padding: "10px 26px", borderRadius: 999, background: bg, color, fontSize: size, fontWeight: 800, letterSpacing: 2 }}>
-      {text}
+    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexShrink: 0 }}>
+      <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
+        <div style={{ width: 18, height: 18, borderRadius: 999, background: BRAND.accent, display: "flex" }} />
+        <div style={{ display: "flex", fontSize: 26, fontWeight: 800, letterSpacing: 4, color: BRAND.soft }}>BLACK FRIDAY DEALS</div>
+      </div>
+      {right ? <div style={{ display: "flex", fontSize: 26, fontWeight: 700, color: BRAND.muted }}>{right}</div> : null}
     </div>
   );
 }
 
 function Footer({ text = "Anzeige · Affiliate-Links · Preise können sich ändern" }: { text?: string }) {
-  return <div style={{ display: "flex", flexShrink: 0, marginTop: "auto", paddingTop: 16, fontSize: 24, color: "#a1a1aa" }}>{text}</div>;
+  return (
+    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexShrink: 0, marginTop: "auto", paddingTop: 18, fontSize: 22, color: BRAND.muted }}>
+      <span>{text}</span>
+      <span style={{ fontWeight: 700, color: BRAND.soft }}>{HANDLE}</span>
+    </div>
+  );
 }
 
-function PriceBlock({ d, big = 96 }: { d: SocialDeal; big?: number }) {
+function RatingPill({ rating }: { rating: SocialDeal["rating"] }) {
+  const b = BRAND.rating[rating];
   return (
-    <div style={{ display: "flex", flexDirection: "column" }}>
-      <div style={{ display: "flex", alignItems: "baseline", gap: 20 }}>
-        <span style={{ fontSize: big, fontWeight: 900 }}>{formatPrice(d.price ?? 0)}</span>
-        {d.oldPrice && d.price && d.oldPrice > d.price ? (
-          <span style={{ fontSize: big * 0.42, color: "#a1a1aa", textDecoration: d.oldPriceLabel ? "none" : "line-through" }}>
-            {d.oldPriceLabel ? `${d.oldPriceLabel}: ` : ""}
-            {formatPrice(d.oldPrice)}
+    <div style={{ display: "flex", flexShrink: 0, alignSelf: "flex-start", padding: "12px 26px", borderRadius: 999, background: b.bg, color: b.color, fontSize: 28, fontWeight: 900, letterSpacing: 2 }}>
+      {b.text}
+    </div>
+  );
+}
+
+function ProductCard({ img, size, discount, fallback }: { img: string | null; size: number; discount?: number; fallback: string }) {
+  return (
+    <div
+      style={{
+        height: size,
+        flexShrink: 0,
+        borderRadius: 44,
+        background: BRAND.card,
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        position: "relative",
+        boxShadow: "0 30px 70px rgba(0,0,0,0.5)",
+      }}
+    >
+      {img ? (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img src={img} alt="" width={size - 130} height={size - 130} style={{ objectFit: "contain" }} />
+      ) : (
+        <div style={{ display: "flex", fontSize: 52, fontWeight: 700, color: "#a1a1aa" }}>{fallback}</div>
+      )}
+      {discount && discount >= 5 ? (
+        <div
+          style={{
+            position: "absolute",
+            top: 28,
+            left: 28,
+            display: "flex",
+            padding: "12px 24px",
+            borderRadius: 20,
+            background: BRAND.sale,
+            color: "white",
+            fontSize: 56,
+            fontWeight: 900,
+            letterSpacing: -1,
+          }}
+        >
+          -{discount}%
+        </div>
+      ) : null}
+    </div>
+  );
+}
+
+function PriceBlock({ d, big = 104 }: { d: SocialDeal; big?: number }) {
+  const hasRef = d.oldPrice && d.price && d.oldPrice > d.price;
+  return (
+    <div style={{ display: "flex", flexDirection: "column", flexShrink: 0 }}>
+      <div style={{ display: "flex", alignItems: "baseline", gap: 22 }}>
+        <span style={{ fontSize: big, fontWeight: 900, letterSpacing: -3 }}>{formatPrice(d.price ?? 0)}</span>
+        {hasRef ? (
+          <span style={{ fontSize: big * 0.38, fontWeight: 500, color: BRAND.muted, textDecoration: d.oldPriceLabel ? "none" : "line-through" }}>
+            {d.oldPriceLabel ? `${d.oldPriceLabel} ` : "statt "}
+            {formatPrice(d.oldPrice!)}
           </span>
         ) : null}
       </div>
       {d.save ? (
-        <div style={{ display: "flex", alignSelf: "flex-start", marginTop: 14, padding: "10px 24px", borderRadius: 999, background: "#16a34a", fontSize: big * 0.4, fontWeight: 800 }}>
+        <div style={{ display: "flex", alignSelf: "flex-start", marginTop: 16, padding: "10px 24px", borderRadius: 999, background: "rgba(34,197,94,0.15)", border: `2px solid ${BRAND.save}`, color: BRAND.save, fontSize: big * 0.33, fontWeight: 800 }}>
           Du sparst {formatPrice(d.save)}
         </div>
       ) : null}
@@ -60,37 +131,27 @@ function PriceBlock({ d, big = 96 }: { d: SocialDeal; big?: number }) {
   );
 }
 
-function DealSlide({ d, img, rank, total, height }: { d: SocialDeal; img: string | null; rank?: number; total?: number; height: number }) {
-  const b = BADGE[d.rating];
-  const imgH = height > 1500 ? 820 : 600;
+function DealSlide({ d, img, rank, total, story }: { d: SocialDeal; img: string | null; rank?: number; total?: number; story?: boolean }) {
   return (
-    <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: "column", background: BG, color: "white", padding: 64, fontFamily: "sans-serif" }}>
-      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-        <Pill text={b.text} bg={b.bg} color={b.color} />
-        {rank ? <div style={{ display: "flex", fontSize: 40, fontWeight: 800, color: "#fbbf24" }}>#{rank}{total ? ` / ${total}` : ""}</div> : null}
+    <div style={frame(story ? "110px 72px 80px" : "64px 72px 56px")}>
+      <TopBar right={rank ? `${rank} / ${total}` : dateLabel()} />
+      <div style={{ display: "flex", marginTop: 36 }}>
+        <RatingPill rating={d.rating} />
       </div>
-      <div style={{ marginTop: 36, height: imgH, borderRadius: 40, background: "white", display: "flex", alignItems: "center", justifyContent: "center", position: "relative" }}>
-        {img ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img src={img} alt="" width={imgH - 120} height={imgH - 120} style={{ objectFit: "contain" }} />
-        ) : (
-          <div style={{ display: "flex", fontSize: 56, color: "#9ca3af" }}>{d.category}</div>
-        )}
-        {d.discount >= 5 ? (
-          <div style={{ position: "absolute", top: 24, right: 24, display: "flex", padding: "14px 26px", borderRadius: 24, background: "#dc2626", fontSize: 64, fontWeight: 900, color: "white" }}>
-            -{d.discount}%
-          </div>
-        ) : null}
+      <div style={{ display: "flex", flexDirection: "column", marginTop: 28 }}>
+        <ProductCard img={img} size={story ? 820 : 560} discount={d.discount} fallback={d.category} />
       </div>
-      <div style={{ display: "flex", marginTop: 36, fontSize: d.title.length > 45 ? 46 : 56, fontWeight: 800, lineHeight: 1.15 }}>{d.title}</div>
+      <div style={{ display: "flex", marginTop: 36, fontSize: d.title.length > 45 ? 46 : 56, fontWeight: 800, lineHeight: 1.12, letterSpacing: -1 }}>{d.title}</div>
       {d.subtitle && !/mydealz/i.test(d.subtitle) ? (
-        <div style={{ display: "flex", marginTop: 10, fontSize: 30, color: "#d4d4d8" }}>{d.subtitle}</div>
+        <div style={{ display: "flex", marginTop: 12, fontSize: 28, fontWeight: 500, color: BRAND.soft, lineHeight: 1.3 }}>{d.subtitle}</div>
       ) : null}
-      <div style={{ display: "flex", marginTop: 28 }}>
+      <div style={{ display: "flex", marginTop: 26 }}>
         <PriceBlock d={d} />
       </div>
-      {height > 1500 ? (
-        <div style={{ display: "flex", marginTop: 40, fontSize: 34, color: "#fbbf24", fontWeight: 700 }}>👆 Link zum Deal im Sticker</div>
+      {story ? (
+        <div style={{ display: "flex", marginTop: 44, alignSelf: "flex-start", padding: "16px 30px", borderRadius: 999, background: BRAND.accentGrad, color: "#1a0d00", fontSize: 34, fontWeight: 900 }}>
+          👆 Link im Sticker
+        </div>
       ) : null}
       <Footer />
     </div>
@@ -100,113 +161,137 @@ function DealSlide({ d, img, rank, total, height }: { d: SocialDeal; img: string
 async function carousel(set: SocialSet, n: number) {
   const deals = await pickDeals({ set, limit: 5 });
   const size = { width: 1080, height: 1350 };
+  const opts = await brandImageOptions(size);
   if (n === 0) {
     const thumbs = await Promise.all(deals.slice(0, 3).map(imageFor));
+    const maxPct = Math.max(0, ...deals.map((d) => d.discount));
     return new ImageResponse(
       (
-        <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: "column", background: BG, color: "white", padding: 80, fontFamily: "sans-serif" }}>
-          <Pill text={`${campaign.name.toUpperCase()} · ${dateLabel()}`} bg="#fbbf24" color="#0a0a0a" size={28} />
-          <div style={{ display: "flex", marginTop: 60, fontSize: 120, fontWeight: 900, lineHeight: 1 }}>
+        <div style={frame("72px 72px 56px")}>
+          <TopBar right={dateLabel()} />
+          <div style={{ display: "flex", marginTop: 90, fontSize: 40, fontWeight: 800, color: BRAND.accent, letterSpacing: 3 }}>
+            {set === "unter50" ? "SPAR-TIPPS UNTER 50 €" : "HEUTE IM ANGEBOT"}
+          </div>
+          <div style={{ display: "flex", marginTop: 14, fontSize: 132, fontWeight: 900, lineHeight: 0.95, letterSpacing: -5 }}>
             {set === "unter50" ? "Unter 50 €" : `Top ${deals.length}`}
           </div>
-          <div style={{ display: "flex", fontSize: 92, fontWeight: 800, lineHeight: 1.05, color: "#fbbf24" }}>Tech-Deals heute 🔥</div>
-          <div style={{ display: "flex", gap: 24, marginTop: 70 }}>
+          <div style={{ display: "flex", fontSize: 132, fontWeight: 900, lineHeight: 1, letterSpacing: -5, color: BRAND.accent }}>Tech-Deals</div>
+          {maxPct >= 10 ? (
+            <div style={{ display: "flex", marginTop: 26, fontSize: 44, fontWeight: 700, color: BRAND.soft }}>bis zu -{maxPct} % reduziert</div>
+          ) : null}
+          <div style={{ display: "flex", gap: 22, marginTop: 64 }}>
             {thumbs.map((t, i) => (
-              <div key={i} style={{ width: 290, height: 290, borderRadius: 32, background: "white", display: "flex", alignItems: "center", justifyContent: "center" }}>
+              <div key={i} style={{ width: 296, height: 296, borderRadius: 36, background: BRAND.card, display: "flex", alignItems: "center", justifyContent: "center", boxShadow: "0 20px 50px rgba(0,0,0,0.45)" }}>
                 {t ? (
                   // eslint-disable-next-line @next/next/no-img-element
-                  <img src={t} alt="" width={240} height={240} style={{ objectFit: "contain" }} />
+                  <img src={t} alt="" width={236} height={236} style={{ objectFit: "contain" }} />
                 ) : null}
               </div>
             ))}
           </div>
-          <div style={{ display: "flex", marginTop: 70, fontSize: 48, fontWeight: 700 }}>Wischen für alle Deals 👉</div>
+          <div style={{ display: "flex", marginTop: 56, alignSelf: "flex-start", padding: "18px 34px", borderRadius: 999, background: BRAND.accentGrad, color: "#1a0d00", fontSize: 36, fontWeight: 900 }}>
+            Wischen für alle Deals →
+          </div>
           <Footer />
         </div>
       ),
-      { ...size, emoji: "twemoji" }
+      opts
     );
   }
   if (n >= 1 && n <= deals.length) {
     const d = deals[n - 1];
-    return new ImageResponse(<DealSlide d={d} img={await imageFor(d)} rank={n} total={deals.length} height={size.height} />, { ...size, emoji: "twemoji" });
+    return new ImageResponse(<DealSlide d={d} img={await imageFor(d)} rank={n} total={deals.length} />, opts);
   }
   // Abschlussfolie
+  const items = ["Laufend neue Deals – nach Kategorie sortiert", "Sofort-Alarm über Telegram", "Speichern & Freunden schicken", "Folgen für tägliche Deals"];
   return new ImageResponse(
     (
-      <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: "column", justifyContent: "center", background: BG, color: "white", padding: 90, fontFamily: "sans-serif" }}>
-        <div style={{ display: "flex", fontSize: 96, fontWeight: 900, lineHeight: 1.05 }}>Alle Deals mit Link</div>
-        <div style={{ display: "flex", fontSize: 96, fontWeight: 900, color: "#fbbf24" }}>→ Link in Bio</div>
-        <div style={{ display: "flex", flexDirection: "column", gap: 26, marginTop: 70, fontSize: 44 }}>
-          <div style={{ display: "flex" }}>🔥 Laufend neue Deals – sortiert nach Kategorie</div>
-          <div style={{ display: "flex" }}>🔔 Sofort-Alarm über Telegram</div>
-          <div style={{ display: "flex" }}>💾 Speichern & Freunden schicken</div>
-          <div style={{ display: "flex" }}>➕ Folgen für tägliche Deals</div>
+      <div style={frame("72px 72px 56px")}>
+        <TopBar />
+        <div style={{ display: "flex", flexDirection: "column", marginTop: "auto", marginBottom: "auto" }}>
+          <div style={{ display: "flex", fontSize: 110, fontWeight: 900, lineHeight: 1, letterSpacing: -4 }}>Alle Deals</div>
+          <div style={{ display: "flex", fontSize: 110, fontWeight: 900, lineHeight: 1.05, letterSpacing: -4, color: BRAND.accent }}>Link in Bio</div>
+          <div style={{ display: "flex", flexDirection: "column", gap: 22, marginTop: 70 }}>
+            {items.map((t) => (
+              <div key={t} style={{ display: "flex", alignItems: "center", gap: 22, fontSize: 40, fontWeight: 600 }}>
+                <div style={{ width: 44, height: 44, borderRadius: 999, background: BRAND.accent, color: "#1a0d00", display: "flex", alignItems: "center", justifyContent: "center", fontSize: 28, fontWeight: 900 }}>✓</div>
+                {t}
+              </div>
+            ))}
+          </div>
         </div>
         <Footer />
       </div>
     ),
-    { ...size, emoji: "twemoji" }
+    opts
   );
 }
 
 async function story(n: number) {
   const size = { width: 1080, height: 1920 };
+  const opts = await brandImageOptions(size);
   const deals = await pickDeals({ limit: 4 });
   if (n < deals.length) {
     const d = deals[n];
-    return new ImageResponse(<DealSlide d={d} img={await imageFor(d)} height={size.height} />, { ...size, emoji: "twemoji" });
+    return new ImageResponse(<DealSlide d={d} img={await imageFor(d)} story />, opts);
   }
   return new ImageResponse(
     (
-      <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center", textAlign: "center", background: BG, color: "white", padding: 90, fontFamily: "sans-serif" }}>
-        <div style={{ display: "flex", fontSize: 160 }}>🔔</div>
-        <div style={{ display: "flex", marginTop: 30, fontSize: 92, fontWeight: 900, lineHeight: 1.05 }}>Nie wieder einen Deal verpassen</div>
-        <div style={{ display: "flex", marginTop: 40, fontSize: 48, color: "#d4d4d8" }}>Die besten Black-Friday-Deals sofort aufs Handy – kostenlos über Telegram</div>
-        <div style={{ display: "flex", marginTop: 80, padding: "26px 56px", borderRadius: 999, background: "#229ED9", fontSize: 52, fontWeight: 800 }}>👆 Link-Sticker antippen</div>
+      <div style={frame("110px 80px 80px")}>
+        <TopBar />
+        <div style={{ display: "flex", flexDirection: "column", alignItems: "center", textAlign: "center", marginTop: "auto", marginBottom: "auto" }}>
+          <div style={{ display: "flex", fontSize: 170 }}>🔔</div>
+          <div style={{ display: "flex", marginTop: 30, fontSize: 104, fontWeight: 900, lineHeight: 1, letterSpacing: -4 }}>Kein Deal</div>
+          <div style={{ display: "flex", fontSize: 104, fontWeight: 900, lineHeight: 1.05, letterSpacing: -4, color: BRAND.accent }}>mehr verpassen</div>
+          <div style={{ display: "flex", marginTop: 40, fontSize: 44, fontWeight: 500, color: BRAND.soft, lineHeight: 1.3 }}>Die besten Black-Friday-Deals sofort aufs Handy – kostenlos über Telegram</div>
+          <div style={{ display: "flex", marginTop: 80, padding: "26px 56px", borderRadius: 999, background: "#229ED9", fontSize: 50, fontWeight: 900 }}>👆 Link-Sticker antippen</div>
+        </div>
         <Footer text="Anzeige · Affiliate-Links" />
       </div>
     ),
-    { ...size, emoji: "twemoji" }
+    opts
   );
 }
 
 async function ad(format: AdFormat, catSlug: string) {
   const size = AD_FORMATS[format];
+  const opts = await brandImageOptions(size);
   const cat = categoryBySlug(catSlug);
   const deals = await pickDeals({ category: catSlug, limit: 4 });
   const imgs = (await Promise.all(deals.map(imageFor))).filter(Boolean) as string[];
   const maxPct = Math.max(0, ...deals.map((d) => d.discount));
-  const tile = format === "square" ? 270 : format === "portrait" ? 290 : 400;
   const perRow = format === "square" ? 3 : 2;
-  const topic = cat ? `${cat.emoji} ${cat.name}` : "🔥 Tech";
+  const tile = format === "square" ? 272 : format === "portrait" ? 300 : 410;
+  const topic = cat ? cat.name : "Tech";
   return new ImageResponse(
     (
-      <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: "column", alignItems: "center", textAlign: "center", background: BG, color: "white", padding: format === "story" ? "150px 70px 120px" : 70, fontFamily: "sans-serif" }}>
-        <div style={{ display: "flex", flexShrink: 0, padding: "10px 26px", borderRadius: 999, background: "#fbbf24", color: "#0a0a0a", fontSize: 26, fontWeight: 800, letterSpacing: 2 }}>
-          BLACK FRIDAY WOCHE · 19.–30.11.
+      <div style={frame(format === "story" ? "130px 72px 90px" : "64px 72px 52px")}>
+        <TopBar right="19.–30.11." />
+        <div style={{ display: "flex", flexDirection: "column", alignItems: "center", textAlign: "center", marginTop: format === "square" ? 36 : 64 }}>
+          <div style={{ display: "flex", fontSize: format === "square" ? 84 : 100, fontWeight: 900, lineHeight: 1, letterSpacing: -4 }}>
+            {cat?.emoji ?? "🔥"} {topic}-Deals
+          </div>
+          <div style={{ display: "flex", marginTop: 14, fontSize: format === "square" ? 52 : 62, fontWeight: 900, color: BRAND.accent, letterSpacing: -1 }}>
+            {maxPct >= 10 ? `bis zu -${maxPct} %` : "täglich neu reduziert"}
+          </div>
+          <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", gap: 22, marginTop: format === "square" ? 40 : 56, maxWidth: tile * perRow + 22 * (perRow - 1) + 4 }}>
+            {(imgs.length ? imgs : [null, null]).slice(0, perRow === 3 ? 3 : 4).map((src, i) => (
+              <div key={i} style={{ width: tile, height: tile, flexShrink: 0, borderRadius: 36, background: BRAND.card, display: "flex", alignItems: "center", justifyContent: "center", boxShadow: "0 20px 50px rgba(0,0,0,0.45)" }}>
+                {src ? (
+                  // eslint-disable-next-line @next/next/no-img-element
+                  <img src={src} alt="" width={tile - 56} height={tile - 56} style={{ objectFit: "contain" }} />
+                ) : null}
+              </div>
+            ))}
+          </div>
+          <div style={{ display: "flex", marginTop: format === "square" ? 40 : 60, padding: "22px 52px", borderRadius: 999, background: BRAND.accentGrad, color: "#1a0d00", fontSize: 42, fontWeight: 900 }}>
+            Jetzt Deals ansehen →
+          </div>
         </div>
-        <div style={{ display: "flex", marginTop: 34, fontSize: format === "square" ? 76 : 88, fontWeight: 900, lineHeight: 1.05 }}>{topic}-Deals</div>
-        <div style={{ display: "flex", marginTop: 10, fontSize: format === "square" ? 52 : 60, fontWeight: 800, color: "#fbbf24" }}>
-          {maxPct >= 10 ? `bis zu -${maxPct} %` : "täglich neu reduziert"}
-        </div>
-        <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", gap: 22, marginTop: format === "square" ? 36 : 50, maxWidth: tile * perRow + 22 * (perRow - 1) + 4, flexShrink: 0 }}>
-          {(imgs.length ? imgs : [null, null]).slice(0, perRow === 3 ? 3 : 4).map((src, i) => (
-            <div key={i} style={{ width: tile, height: tile, flexShrink: 0, borderRadius: 32, background: "white", display: "flex", alignItems: "center", justifyContent: "center" }}>
-              {src ? (
-                // eslint-disable-next-line @next/next/no-img-element
-                <img src={src} alt="" width={tile - 50} height={tile - 50} style={{ objectFit: "contain" }} />
-              ) : null}
-            </div>
-          ))}
-        </div>
-        <div style={{ display: "flex", flexShrink: 0, marginTop: format === "square" ? 40 : 50, padding: "22px 50px", borderRadius: 999, background: "white", color: "#4c1d95", fontSize: 44, fontWeight: 900 }}>
-          Jetzt Deals ansehen →
-        </div>
-        <Footer text="Anzeige · Affiliate-Links · Preise können sich ändern" />
+        <Footer />
       </div>
     ),
-    { ...size, emoji: "twemoji" }
+    opts
   );
 }
 
