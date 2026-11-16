@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-b075dl9jb1",
+    "asin": "B075DL9JB1",
+    "title": "WMF Classic Line Frühstücksmesser Set 6-teilig, 23 cm, Brötchenmesser …",
+    "category": "Haushalt",
+    "price": 12.99,
+    "oldPrice": 17.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-16T08:59:14.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T09:13:46.966Z"
+  },
+  {
+    "id": "queue-b091tv6lwn",
+    "asin": "B091TV6LWN",
+    "title": "UGREEN Nexode 100W GaN Ladegerät, 4 Ports",
+    "subtitle": "Kompaktes GaN-Netzteil mit 4 Ports – lädt Laptop und Handy zugleich.",
+    "category": "Tech",
+    "price": 30.36,
+    "checkedAt": "2026-11-16T07:41:30.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T09:13:35.656Z"
+  },
+  {
     "id": "queue-b0fkg6tdrr",
     "asin": "B0FKG6TDRR",
     "title": "Nothing CMF Headphone Pro Over-Ear Kopfhörer",
@@ -289,16 +312,6 @@
     "telegramPostedAt": "2026-11-15T11:38:31.140Z"
   },
   {
-    "id": "auto-b0fx8k4wxr",
-    "asin": "B0FX8K4WXR",
-    "title": "UGREEN 2.5G LAN Switch mit 5X 2.5G Ports, Unmanaged Netzwerk Switch",
-    "category": "Tech",
-    "price": 34.18,
-    "checkedAt": "2026-11-15T09:00:19.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T11:09:39.656Z"
-  },
-  {
     "id": "auto-b0d4znsq6l",
     "asin": "B0D4ZNSQ6L",
     "title": "De'Longhi Magnifica Evo Next ECAM312.80 Kaffeevollautomat",
@@ -328,16 +341,5 @@
     "checkedAt": "2026-11-15T09:26:49.000Z",
     "source": "auto",
     "telegramPostedAt": "2026-11-15T09:42:55.624Z"
-  },
-  {
-    "id": "auto-b0f8qqp1fl",
-    "asin": "B0F8QQP1FL",
-    "title": "Edifier G1000 II RGB Desktop-Gaming-Lautsprecher-Weiß o. Schwarz -2,5\" …",
-    "subtitle": "🔥 118° bei mydealz",
-    "category": "Gaming",
-    "price": 29.99,
-    "checkedAt": "2026-11-15T09:03:14.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T09:14:14.462Z"
   }
 ]
