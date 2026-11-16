@@ -1,5 +1,589 @@
 [
   {
+    "id": "auto-b0f5b2d2yy",
+    "asin": "B0F5B2D2YY",
+    "title": "CMF by Nothing Buds Pro 2 In-Ears mit ANC in 4 Farben",
+    "category": "Audio",
+    "price": 36.95,
+    "checkedAt": "2026-11-16T08:17:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F5B2D2YY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h2v9dmb4",
+    "asin": "B0H2V9DMB4",
+    "title": "Switchbot 3K Überwachungskamera Outdoor",
+    "category": "Smart Home",
+    "price": 55.99,
+    "checkedAt": "2026-11-16T08:23:46.000Z",
+    "image": "https://static.mydealz.de/threads/raw/BTrjI/2872397_1/re/768x768/qt/55/2872397_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fxgsdnl4",
+    "asin": "B0FXGSDNL4",
+    "title": "UGREEN Zapix 2-in-1 Qi2 25W Magnetisches Kabelloses Ladegerät inkl …",
+    "category": "Zubehör & Laden",
+    "price": 28.49,
+    "checkedAt": "2026-11-16T08:32:48.000Z",
+    "image": "https://static.mydealz.de/threads/raw/6Gmqw/2872406_1/re/768x768/qt/55/2872406_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fmgrbgd9",
+    "asin": "B0FMGRBGD9",
+    "title": "JBL Grip tragbarer Bluetooth-Lautsprecher",
+    "category": "Audio",
+    "price": 59,
+    "checkedAt": "2026-11-16T08:50:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FMGRBGD9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f7hkth4h",
+    "asin": "B0F7HKTH4H",
+    "title": "Star Wars Outlaws - Gold Edition inkl. Season Pass - Nintendo Switch 2",
+    "category": "Gaming",
+    "price": 29.99,
+    "checkedAt": "2026-11-16T08:56:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F7HKTH4H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fhl3kc13",
+    "asin": "B0FHL3KC13",
+    "title": "Lenovo Legion Pro 27UD-10 27\"",
+    "category": "Computer",
+    "price": 479,
+    "checkedAt": "2026-11-16T09:16:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FHL3KC13.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b096hb6xn5",
+    "asin": "B096HB6XN5",
+    "title": "Paladone Super Mario Bros 3D Boo Licht - Offiziell lizenziertes …",
+    "category": "Gaming",
+    "price": 12.96,
+    "checkedAt": "2026-11-16T09:28:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B096HB6XN5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dpxqn7r1",
+    "asin": "B0DPXQN7R1",
+    "title": "BISSELL PowerClean FurFinder kabelloser 3-in-1 Akku-Staubsauger",
+    "category": "Haushalt",
+    "price": 99.98,
+    "checkedAt": "2026-11-16T09:34:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DPXQN7R1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ccrtvtwb",
+    "asin": "B0CCRTVTWB",
+    "title": "RYOBI 18V ONE+ Akku- Nass-und Trockensauger RV1811-0, ohne Akku und …",
+    "category": "Haushalt",
+    "price": 103.49,
+    "checkedAt": "2026-11-16T09:45:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CCRTVTWB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dhgr23cn",
+    "asin": "B0DHGR23CN",
+    "title": "Bosch Heizkörperthermostat II (+M)",
+    "category": "Smart Home",
+    "price": 46.29,
+    "checkedAt": "2026-11-16T09:51:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DHGR23CN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0855t2bcc",
+    "asin": "B0855T2BCC",
+    "title": "Super Mario Sparschwein / Spardose - Offiziell Lizenziertes Nintendo , …",
+    "category": "Gaming",
+    "price": 12.98,
+    "checkedAt": "2026-11-16T09:56:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0855T2BCC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dkjzzmrm",
+    "asin": "B0DKJZZMRM",
+    "title": "Ring Intercom Audio durch Bundle Trick",
+    "category": "Amazon-Geräte",
+    "price": 11.25,
+    "checkedAt": "2026-11-16T10:26:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DKJZZMRM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dsc8jf59",
+    "asin": "B0DSC8JF59",
+    "title": "Garmin Instinct 3 AMOLED schwarz",
+    "category": "Smartphone & Tablet",
+    "price": 249,
+    "checkedAt": "2026-11-16T10:40:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DSC8JF59.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fh257nrl",
+    "asin": "B0FH257NRL",
+    "title": "Prime | Philips Hue Devote Slim Deckenleuchte, S, 291 mm Rund, Weiß",
+    "category": "Smart Home",
+    "price": 59.99,
+    "checkedAt": "2026-11-16T10:41:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FH257NRL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0hgf3x8r7",
+    "asin": "B0HGF3X8R7",
+    "title": "Reolink Akku-Türklingel-Kamera",
+    "category": "Smart Home",
+    "price": 109.99,
+    "checkedAt": "2026-11-16T10:55:30.000Z",
+    "image": "https://static.mydealz.de/threads/raw/I4WN4/2872620_1/re/768x768/qt/55/2872620_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dt4wr7zb",
+    "asin": "B0DT4WR7ZB",
+    "title": "Beats Powerbeats Pro 2 (in ear Kopfhörer)",
+    "category": "Audio",
+    "price": 189,
+    "checkedAt": "2026-11-16T11:06:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DT4WR7ZB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gbwrq11x",
+    "asin": "B0GBWRQ11X",
+    "title": "Gigabyte G27UP 27 Inch 4K UHD Gaming Monitor - Dual Mode",
+    "category": "Computer",
+    "price": 222,
+    "checkedAt": "2026-11-16T11:09:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GBWRQ11X.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gmh56trh",
+    "asin": "B0GMH56TRH",
+    "title": "Roborock Qrevo Edge 2 Saug-/Wischroboter Set (schwarz/weiß) inkl. …",
+    "category": "Haushalt",
+    "price": 499.99,
+    "checkedAt": "2026-11-16T11:13:20.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Wvyan/2872653_1/re/768x768/qt/55/2872653_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h7k5t17c",
+    "asin": "B0H7K5T17C",
+    "title": "EA Sports FC 27 Standard Edition Nintendo Switch Spielkarte",
+    "category": "Gaming",
+    "price": 31.99,
+    "checkedAt": "2026-11-16T11:22:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H7K5T17C.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fkt8y5h7",
+    "asin": "B0FKT8Y5H7",
+    "title": "Octopath Traveler 0 - Nintendo Switch 2 (GKC)",
+    "category": "Gaming",
+    "price": 29.99,
+    "checkedAt": "2026-11-16T11:41:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FKT8Y5H7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gqtcdx17",
+    "asin": "B0GQTCDX17",
+    "title": "ECOVACS DEEBOT T50 PRO Omni Gen3 Saugroboter mit Wischfunktion",
+    "category": "Haushalt",
+    "price": 298.99,
+    "checkedAt": "2026-11-16T12:16:23.000Z",
+    "image": "https://static.mydealz.de/threads/raw/ZmuXe/2872717_1/re/768x768/qt/55/2872717_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dzzs99cg",
+    "asin": "B0DZZS99CG",
+    "title": "Technics EAH-AZ100E-K (Schwarz) inkl. Versand aus UK",
+    "category": "Audio",
+    "price": 36.37,
+    "checkedAt": "2026-11-16T12:16:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DZZS99CG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dslk2p4j",
+    "asin": "B0DSLK2P4J",
+    "title": "roborock Saros Z70 – Saugroboter mit Wischfunktion und …",
+    "category": "Haushalt",
+    "price": 639,
+    "checkedAt": "2026-11-16T12:22:27.000Z",
+    "image": "https://static.mydealz.de/threads/raw/iJevO/2868388_1/re/768x768/qt/55/2868388_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0hfp4sbrl",
+    "asin": "B0HFP4SBRL",
+    "title": "Garmin Fenix 9 Pro inReach, 51 mm, GPS-Multisport-Smartwatch, Titan",
+    "category": "Smartphone & Tablet",
+    "price": 1129.81,
+    "checkedAt": "2026-11-16T12:31:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HFP4SBRL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fc31b66k",
+    "asin": "B0FC31B66K",
+    "title": "Anno 117: Pax Romana - Governor's Edition - [PlayStation 5]",
+    "category": "Gaming",
+    "price": 70.06,
+    "checkedAt": "2026-11-16T12:36:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FC31B66K.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gxdw4whh",
+    "asin": "B0GXDW4WHH",
+    "title": "WOLFBOX MF400 Akku-Laubbläser Kabellos 453W 72 m/s Air Duster …",
+    "category": "Haushalt",
+    "price": 129.99,
+    "checkedAt": "2026-11-16T12:54:11.000Z",
+    "image": "https://static.mydealz.de/threads/raw/WdecB/2872777_1/re/768x768/qt/55/2872777_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cw62nhnl",
+    "asin": "B0CW62NHNL",
+    "title": "Wera 7515/7 Kraftform Safe-Torque Speed Bicycle 1 Bit-Set 7teilig, …",
+    "category": "Werkzeug",
+    "price": 57.39,
+    "checkedAt": "2026-11-16T12:59:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CW62NHNL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b083dlz2v2",
+    "asin": "B083DLZ2V2",
+    "title": "Bosch Lochsäge 68mm 5x PRO Multi Material PC Plus Starter Set - Prime …",
+    "category": "Werkzeug",
+    "price": 19.99,
+    "checkedAt": "2026-11-16T13:04:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B083DLZ2V2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dt72l7cv",
+    "asin": "B0DT72L7CV",
+    "title": "Tefal Freemove Power kabelloses Dampfbügeleisen, 2600 Watt",
+    "category": "Haushalt",
+    "price": 59.99,
+    "checkedAt": "2026-11-16T13:10:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DT72L7CV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dxf66swr",
+    "asin": "B0DXF66SWR",
+    "title": "UGREEN KVM Switch 2 PC 2 Monitore",
+    "category": "Computer",
+    "price": 65.55,
+    "checkedAt": "2026-11-16T13:24:32.000Z",
+    "image": "https://static.mydealz.de/threads/raw/MyJ3h/2872813_1/re/768x768/qt/55/2872813_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b098dmjcbd",
+    "asin": "B098DMJCBD",
+    "title": "Bosch Professional GSR 18V-55 Akku-Bohrschrauber mit 2× 4 Ah, 82-tlg. …",
+    "category": "Werkzeug",
+    "price": 252.99,
+    "checkedAt": "2026-11-16T13:25:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B098DMJCBD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cf6r72f9",
+    "asin": "B0CF6R72F9",
+    "title": "AEG TR8AMZ68 / TR8T70680 Wärmepumpentrockner / 8kg / Testsieger …",
+    "category": "Haushalt",
+    "price": 612,
+    "checkedAt": "2026-11-16T13:48:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CF6R72F9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00531aqk0",
+    "asin": "B00531AQK0",
+    "title": "Bosch GTS 10 XC Tischkreissäge",
+    "category": "Werkzeug",
+    "price": 474.99,
+    "checkedAt": "2026-11-16T13:51:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00531AQK0.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d2hwzq4y",
+    "asin": "B0D2HWZQ4Y",
+    "title": "Bosch Professional 18V System Akku Hobel GHO 18V-26 1x Wood Razor …",
+    "category": "Werkzeug",
+    "price": 172.99,
+    "checkedAt": "2026-11-16T13:51:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D2HWZQ4Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dydst5qw",
+    "asin": "B0DYDST5QW",
+    "title": "Philips Hue White Ambiance GU10 Spot 5er-Pack",
+    "category": "Smart Home",
+    "price": 71.12,
+    "checkedAt": "2026-11-16T13:51:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DYDST5QW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cldpgtyn",
+    "asin": "B0CLDPGTYN",
+    "title": "ISSELL SpotClean HydroSteam Teppichreiniger & Dampfreiniger 1000W …",
+    "category": "Haushalt",
+    "price": 179,
+    "checkedAt": "2026-11-16T14:05:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CLDPGTYN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ctksnqwq",
+    "asin": "B0CTKSNQWQ",
+    "title": "Wiha SpeedE PocketDrive 45791 elektrischer Schraubendreher 31-tlg. mit …",
+    "category": "Werkzeug",
+    "price": 49.99,
+    "checkedAt": "2026-11-16T14:10:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CTKSNQWQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b096h9qp49",
+    "asin": "B096H9QP49",
+    "title": "Super Mario Kart Roter Koopa Panzer Licht mit Sound - Offiziell …",
+    "category": "Gaming",
+    "price": 11.49,
+    "checkedAt": "2026-11-16T14:22:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B096H9QP49.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cgx955c4",
+    "asin": "B0CGX955C4",
+    "title": "Akku-Bohrhammer Bosch Professional GBH 18v-22 inkl. L-Boxx",
+    "category": "Werkzeug",
+    "price": 132.99,
+    "checkedAt": "2026-11-16T14:30:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CGX955C4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gm1dj7t7",
+    "asin": "B0GM1DJ7T7",
+    "title": "Blink Outdoor 2K+ + Blink Mini 2K+ + Sync Module Core",
+    "category": "Amazon-Geräte",
+    "price": 34.99,
+    "checkedAt": "2026-11-16T14:37:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GM1DJ7T7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cdx1y9tx",
+    "asin": "B0CDX1Y9TX",
+    "title": "Scheppach Aluminium Werkzeugkoffer TB200 Werkzeug Set gefüllt - 141 …",
+    "category": "Werkzeug",
+    "price": 79.93,
+    "checkedAt": "2026-11-16T14:47:28.000Z",
+    "image": "https://static.mydealz.de/threads/raw/kpTq2/2872921_1/re/768x768/qt/55/2872921_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gr9545hz",
+    "asin": "B0GR9545HZ",
+    "title": "Toshiba Solomikrowelle 20 L mit LED Innenlicht und Auftaufunktion",
+    "category": "Haushalt",
+    "price": 58.99,
+    "checkedAt": "2026-11-16T14:48:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GR9545HZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fpnv7h69",
+    "asin": "B0FPNV7H69",
+    "title": "Beats Powerbeats Fit – Kabellose Workout In-Ear Kopfhörer mit …",
+    "category": "Audio",
+    "price": 109,
+    "checkedAt": "2026-11-16T15:02:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPNV7H69.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0czpmxgsh",
+    "asin": "B0CZPMXGSH",
+    "title": "Beats Solo 4 - Kabelloser Bluetooth On-Ear Kopfhörer, Apple & Android …",
+    "category": "Audio",
+    "price": 109,
+    "checkedAt": "2026-11-16T15:06:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CZPMXGSH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f2jc5s96",
+    "asin": "B0F2JC5S96",
+    "title": "The Legend of Zelda: Ocarina of Time - Nintendo Switch 2",
+    "category": "Gaming",
+    "price": 59.99,
+    "checkedAt": "2026-11-16T15:13:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F2JC5S96.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h6jymnxm",
+    "asin": "B0H6JYMNXM",
+    "title": "Samsung DW80H77U3UFU1 Geschirrspüler, Unterbaufähig [Energieklasse A]",
+    "category": "Küche",
+    "price": 806.08,
+    "checkedAt": "2026-11-16T15:17:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H6JYMNXM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0byzp8nk2",
+    "asin": "B0BYZP8NK2",
+    "title": "SONOFF SNZB-02D Zigbee Temperatur- und Luftfeuchtigkeitsensor mit …",
+    "category": "Smart Home",
+    "price": 10.7,
+    "checkedAt": "2026-11-16T15:19:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BYZP8NK2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fqtydw69",
+    "asin": "B0FQTYDW69",
+    "title": "AMAZON Prime: Bosch Professional 12V Akku-Bohrschrauber GSR 12V-32",
+    "category": "Werkzeug",
+    "price": 71.29,
+    "checkedAt": "2026-11-16T15:35:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FQTYDW69.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fdr157wc",
+    "asin": "B0FDR157WC",
+    "title": "Dremel 8150 Akku-Bürstenloses Multifunktionswerkzeug 7,2V …",
+    "category": "Werkzeug",
+    "price": 49.99,
+    "checkedAt": "2026-11-16T15:37:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FDR157WC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f677k62q",
+    "asin": "B0F677K62Q",
+    "title": "LG DB597TXS, EEK A, vollintegrierbarer Geschirrspüler / …",
+    "category": "Küche",
+    "price": 559,
+    "checkedAt": "2026-11-16T15:58:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F677K62Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fhkz9zts",
+    "asin": "B0FHKZ9ZTS",
+    "title": "Lenovo Legion 27QD-10",
+    "category": "Computer",
+    "price": 139,
+    "checkedAt": "2026-11-16T16:06:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FHKZ9ZTS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h4hmzpbt",
+    "asin": "B0H4HMZPBT",
+    "title": "Lenovo LOQ 32Q-10",
+    "category": "Computer",
+    "price": 149,
+    "checkedAt": "2026-11-16T16:15:58.000Z",
+    "image": "https://static.mydealz.de/threads/raw/SqIbV/2873008_1/re/768x768/qt/55/2873008_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0hkt6g7rs",
+    "asin": "B0HKT6G7RS",
+    "title": "Split Fiction, für Nintendo Switch 2, GKC",
+    "category": "Gaming",
+    "price": 37.99,
+    "checkedAt": "2026-11-16T16:18:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HKT6G7RS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0009w873q",
+    "asin": "B0009W873Q",
+    "title": "Bosch SDS plus-Adapter mit Bohrfutter [PRIME]",
+    "category": "Tech",
+    "price": 10.99,
+    "checkedAt": "2026-11-16T21:14:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0009W873Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d9c1dt62",
+    "asin": "B0D9C1DT62",
+    "title": "Corsair RM850x (2024) – 850 W ATX-Netzteil",
+    "category": "Zubehör & Laden",
+    "price": 107.9,
+    "checkedAt": "2026-11-16T21:23:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D9C1DT62.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h7h4rq6m",
+    "asin": "B0H7H4RQ6M",
+    "title": "Anker Smart Ladegerät für Laptops, 100W, 80% Ladebegrenzung für z.B. …",
+    "category": "Computer",
+    "price": 47.49,
+    "checkedAt": "2026-11-16T21:37:12.000Z",
+    "image": "https://static.mydealz.de/threads/raw/2Vqsg/2873264_1/re/768x768/qt/55/2873264_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d929rvfx",
+    "asin": "B0D929RVFX",
+    "title": "5er-Pack Osram E27 LED-Lampen",
+    "subtitle": "🔥 115° bei mydealz",
+    "category": "Tech",
+    "price": 14.99,
+    "checkedAt": "2026-11-16T21:22:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D929RVFX.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 115,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dx2h6ryr",
+    "asin": "B0DX2H6RYR",
+    "title": "Razer Barracuda X Chroma Phantom Green Gaming-Headset, kabellos, …",
+    "category": "Gaming",
+    "price": 75.09,
+    "oldPrice": 95.29,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-16T21:30:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DX2H6RYR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0h8dzc7ts",
     "asin": "B0H8DZC7TS",
     "title": "Wo Long: Fallen Dynasty Complete Edition - Nintendo Switch 2",
@@ -579,7 +1163,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T19:09:20.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GFXTF9YR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T21:44:09.000Z"
   },
   {
     "id": "auto-b0h349pprv",
@@ -591,7 +1176,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T13:59:12.000Z",
     "image": "https://static.mydealz.de/threads/raw/CDKMj/2872856_1/re/768x768/qt/55/2872856_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T21:44:07.250Z"
   },
   {
     "id": "auto-b01bgbj8y0",
