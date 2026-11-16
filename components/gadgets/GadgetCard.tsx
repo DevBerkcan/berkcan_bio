@@ -32,6 +32,9 @@ export function GadgetCard({ gadget: g }: { gadget: GadgetView }) {
             alt={g.name}
             loading="lazy"
             onError={() => setBroken(true)}
+            onLoad={(e) => {
+              if (e.currentTarget.naturalWidth <= 1) setBroken(true);
+            }}
             className="h-full w-full object-contain transition-transform duration-300 group-hover:scale-105"
           />
         ) : (

@@ -38,7 +38,8 @@ export async function GET(req: Request) {
   const custom = q.get("img");
   const img =
     (custom && /^https:\/\//.test(custom) ? await fetchImageDataUrl(custom) : null) ??
-    (await fetchImageDataUrl(amazonImageUrl(asin, 800)));
+    (await fetchImageDataUrl(amazonImageUrl(asin, 800, "03"))) ??
+    (await fetchImageDataUrl(amazonImageUrl(asin, 800, "01")));
 
   return new ImageResponse(
     (

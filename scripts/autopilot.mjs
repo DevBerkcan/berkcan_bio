@@ -170,6 +170,7 @@ async function readFeed(feed) {
   const xml = await res.text();
   return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map(([, it]) => {
     const merchant = it.match(/<pepper:merchant\s+name="([^"]*)"(?:\s+price="([^"]*)")?/);
+    const media = it.match(/<media:content[^>]*url="([^"]+)"/)?.[1];
     const title = tag(it, "title");
     const link = tag(it, "link");
     return {
@@ -183,6 +184,8 @@ async function readFeed(feed) {
       // Kategorie-Feeds enthalten keine Temperatur → null = unbekannt
       temperature: title.match(/^\s*(-?\d+)°/) ? Number(title.match(/^\s*(-?\d+)°/)[1]) : null,
       pubDate: tag(it, "pubDate"),
+      // Vorschaubild aus dem Feed (nur Ersatz, falls Amazon kein Bild zur ASIN liefert)
+      image: media ? media.replace(/\/re\/\d+x\d+\//, "/re/768x768/") : undefined,
     };
   });
 }
@@ -203,6 +206,28 @@ async function resolveAsin(threadId) {
   })();
   if (!/amazon\.de/i.test(target)) return null;
   return target.match(/\/(?:dp|gp\/product|gp\/aw\/d)\/([A-Z0-9]{10})/i)?.[1]?.toUpperCase() ?? null;
+}
+
+// ---------- Produktbild ----------
+
+async function imageOk(url) {
+  try {
+    const res = await fetch(url, { headers: { "User-Agent": UA } });
+    if (!res.ok || !(res.headers.get("content-type") ?? "").startsWith("image/")) return false;
+    return (await res.arrayBuffer()).byteLength > 1000; // Amazon liefert sonst ein 1×1-GIF
+  } catch {
+    return false;
+  }
+}
+
+/** Bestes verfügbares Bild: Amazon.de → Amazon.com → Feed-Bild. */
+async function pickImage(asin, fallback) {
+  for (const market of ["03", "01"]) {
+    const url = `https://m.media-amazon.com/images/P/${asin}.${market}._SCLZZZZZZZ_SX500_.jpg`;
+    if (await imageOk(url)) return url;
+  }
+  if (fallback && (await imageOk(fallback))) return fallback;
+  return undefined;
 }
 
 // ---------- Modus & Tages-Top-5 ----------
@@ -298,6 +323,7 @@ async function drainQueue(cfg, config, state, list, hour, mode) {
       price: fresh ? it.price : undefined,
       oldPrice: fresh ? it.oldPrice : undefined,
       checkedAt: fresh ? it.addedAt : new Date().toISOString(),
+      image: await pickImage(it.asin, it.image),
       source: "auto",
     };
     try {
@@ -433,6 +459,7 @@ async function main() {
       oldPrice: it.oldPrice,
       oldPriceLabel: it.oldPrice ? "Vergleichspreis" : undefined,
       checkedAt: new Date(Date.parse(it.pubDate)).toISOString(),
+      image: await pickImage(asin, it.image),
       source: "auto",
     };
 
@@ -478,4 +505,4 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.a
   });
 }
 
-export { readFeed, resolveAsin, findReferencePrice, cleanTitle, categoryFor, readJSON, FILES };
+export { readFeed, resolveAsin, findReferencePrice, cleanTitle, categoryFor, readJSON, writeJSON, pickImage, FILES };

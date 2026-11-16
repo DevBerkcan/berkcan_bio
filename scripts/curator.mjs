@@ -83,6 +83,7 @@ async function candidates() {
       mydealzCategory: it.category,
       description: it.description.replace(/\s+/g, " ").slice(0, 280),
       postedAt: new Date(Date.parse(it.pubDate)).toISOString(),
+      feedImage: it.image ?? null,
     });
   }
   await mkdir(OUT_DIR, { recursive: true });
@@ -104,6 +105,7 @@ async function enqueue() {
       ...(p.oldPrice && Number(p.oldPrice) > Number(p.price) ? { oldPrice: Number(p.oldPrice) } : {}),
       ...(p.note ? { note: String(p.note).slice(0, 120) } : {}),
       ...(p.category ? { category: String(p.category) } : {}),
+      ...(p.feedImage || p.image ? { image: String(p.feedImage ?? p.image) } : {}),
       addedAt: p.postedAt ?? now,
     }));
   await mkdir(FILES.queueDir, { recursive: true });

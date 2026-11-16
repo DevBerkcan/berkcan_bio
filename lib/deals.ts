@@ -90,8 +90,9 @@ export function affiliateUrl(asin: string, channel: Channel = "web"): string {
  * Hauptbild des Produkts direkt vom Amazon-Bild-CDN (per ASIN, wird nur verlinkt,
  * nicht gespeichert). Wird genutzt, wenn kein eigenes Bild (image) hinterlegt ist.
  */
-export function amazonImageUrl(asin: string, size = 500): string {
-  return `https://m.media-amazon.com/images/P/${encodeURIComponent(asin)}.01._SCLZZZZZZZ_SX${size}_.jpg`;
+export function amazonImageUrl(asin: string, size = 500, market: "03" | "01" = "03"): string {
+  // .03 = Amazon.de, .01 = Amazon.com – deutsche Produkte haben oft nur ein .03-Bild
+  return `https://m.media-amazon.com/images/P/${encodeURIComponent(asin)}.${market}._SCLZZZZZZZ_SX${size}_.jpg`;
 }
 
 export function productImage(deal: Deal): string {

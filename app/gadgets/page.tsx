@@ -32,7 +32,7 @@ function toView(g: GadgetItem): GadgetView {
     category: g.category,
     url,
     image: g.asin
-      ? `https://m.media-amazon.com/images/P/${g.asin}.01._SCLZZZZZZZ_SX300_.jpg`
+      ? `https://m.media-amazon.com/images/P/${g.asin}.03._SCLZZZZZZZ_SX300_.jpg`
       : undefined,
     mine: !!g.mine,
   };

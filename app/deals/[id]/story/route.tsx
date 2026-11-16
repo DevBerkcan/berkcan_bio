@@ -6,6 +6,7 @@ import {
   formatPrice,
   isPriceFresh,
   productImage,
+  amazonImageUrl,
   savings,
 } from "@/lib/deals";
 import { fetchImageDataUrl } from "@/lib/og";
@@ -23,7 +24,9 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
   const fresh = isPriceFresh(deal);
   const pct = fresh ? discountPercent(deal) : null;
   const save = fresh ? savings(deal) : null;
-  const img = await fetchImageDataUrl(productImage(deal));
+  const img =
+    (await fetchImageDataUrl(productImage(deal))) ??
+    (await fetchImageDataUrl(amazonImageUrl(deal.asin, 500, "01")));
 
   return new ImageResponse(
     (

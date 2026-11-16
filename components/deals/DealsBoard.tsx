@@ -132,6 +132,10 @@ export function DealsBoard({
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
                     onError={() => setBrokenImages((s) => new Set(s).add(d.id))}
+                    // Amazon liefert für fehlende Bilder ein 1×1-Pixel statt eines Fehlers
+                    onLoad={(e) => {
+                      if (e.currentTarget.naturalWidth <= 1) setBrokenImages((s) => new Set(s).add(d.id));
+                    }}
                     className="h-full w-full object-contain transition-transform duration-300 group-hover:scale-105"
                   />
                 ) : (
