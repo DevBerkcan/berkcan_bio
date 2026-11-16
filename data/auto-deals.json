@@ -1,5 +1,17 @@
 [
   {
+    "id": "auto-b0g6156269",
+    "asin": "B0G6156269",
+    "title": "CORSAIR GALLEON 100 SD RGB Gaming-Tastatur mit Elgato Stream Deck",
+    "category": "Gaming",
+    "price": 279.99,
+    "oldPrice": 349.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-16T06:26:29.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T07:17:55.190Z"
+  },
+  {
     "id": "auto-b0fn7cnwpq",
     "asin": "B0FN7CNWPQ",
     "title": "Ninja 3-in-1 Detect Power Blender Processor Pro TB401EUSTGD",
@@ -278,15 +290,5 @@
     "checkedAt": "2026-11-15T07:31:36.000Z",
     "source": "auto",
     "telegramPostedAt": "2026-11-15T07:47:50.150Z"
-  },
-  {
-    "id": "auto-b0csrwqntg",
-    "asin": "B0CSRWQNTG",
-    "title": "YAMAHA SEQTRAK Synth, Drums, Sequenzer",
-    "category": "Tech",
-    "price": 199,
-    "checkedAt": "2026-11-15T06:57:53.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T07:18:58.482Z"
   }
 ]
