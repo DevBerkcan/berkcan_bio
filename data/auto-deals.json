@@ -1,5 +1,52 @@
 [
   {
+    "id": "auto-b083dp86fb",
+    "asin": "B083DP86FB",
+    "title": "Bosch 43-tlg Extra Hard Schrauberbit-Set",
+    "category": "Werkzeug",
+    "price": 14.99,
+    "oldPrice": 25.71,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-16T10:47:29.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T11:09:41.416Z"
+  },
+  {
+    "id": "auto-b07rp1ss39",
+    "asin": "B07RP1SS39",
+    "title": "WMF Silit Calabria Bratpfanne Induktion 28 oder 24cm, Edelstahl …",
+    "category": "Haushalt",
+    "price": 23.79,
+    "oldPrice": 55.98,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-16T10:52:59.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T11:09:39.391Z"
+  },
+  {
+    "id": "auto-b0fnwwdgsx",
+    "asin": "B0FNWWDGSX",
+    "title": "UGREEN NASync DH2300 2-Bay NAS",
+    "category": "Computer",
+    "price": 169.99,
+    "oldPrice": 189.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-16T11:08:42.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T11:09:37.266Z"
+  },
+  {
+    "id": "queue-b0fhq1rz4w",
+    "asin": "B0FHQ1RZ4W",
+    "title": "Life is Strange Complete Edition (PS5)",
+    "subtitle": "Sammlung mit 5 Spielen der Life-is-Strange-Reihe für PS5.",
+    "category": "Gaming",
+    "price": 29.99,
+    "checkedAt": "2026-11-16T07:30:10.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T11:09:26.526Z"
+  },
+  {
     "id": "queue-b0cqkdkps6",
     "asin": "B0CQKDKPS6",
     "title": "Sennheiser ACCENTUM Plus ANC Kopfhörer",
