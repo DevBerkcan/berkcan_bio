@@ -12,6 +12,7 @@ interface InviteLink {
   name: string;
   url: string;
   medium: string;
+  content?: string;
   source: string;
 }
 
@@ -19,9 +20,15 @@ export async function GET(req: Request) {
   const params = new URL(req.url).searchParams;
   const tg = data.telegram as { channelUrl?: string; inviteLinks?: InviteLink[] };
   const medium = (params.get("utm_medium") ?? "").toLowerCase();
+  const content = (params.get("utm_content") ?? "").toLowerCase();
   const links = tg.inviteLinks ?? [];
+  // 1. eigener Link der Anzeige (utm_content) · 2. Link des Mediums · 3. Website-Link · 4. Kanal
   const target =
-    links.find((l) => l.medium === medium)?.url ?? links.find((l) => l.medium === "website")?.url ?? tg.channelUrl ?? "https://t.me";
+    (content && links.find((l) => l.content === content)?.url) ||
+    links.find((l) => l.medium === medium && !l.content)?.url ||
+    links.find((l) => l.medium === "website")?.url ||
+    tg.channelUrl ||
+    "https://t.me";
 
   await count("telegram_click", sourceKey(params));
   return new Response(null, {

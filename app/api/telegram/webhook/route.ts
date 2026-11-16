@@ -113,7 +113,7 @@ async function countJoin(cm: ChatMemberUpdate) {
   if (!joined) return;
   const links = ((data.telegram as { inviteLinks?: { name: string; source: string }[] }).inviteLinks ?? []);
   const link = links.find((l) => l.name === cm.invite_link?.name);
-  await count("join", link?.source ?? (cm.invite_link ? "telegram|anderer_link|-" : "telegram|direkt|-"));
+  await count("join", link?.source ?? (cm.invite_link ? "telegram|anderer_link|-|-" : "telegram|direkt|-|-"));
 }
 
 interface Update {

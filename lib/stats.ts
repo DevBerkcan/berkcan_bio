@@ -26,7 +26,8 @@ export function sourceKey(params: URLSearchParams | Record<string, string | unde
   const source = clean(get("utm_source"), "direkt");
   const medium = clean(get("utm_medium"), source === "direkt" ? "direkt" : "unbekannt");
   const campaign = clean(get("utm_campaign"), "-");
-  return `${source}|${medium}|${campaign}`;
+  const content = clean(get("utm_content"), "-");
+  return `${source}|${medium}|${campaign}|${content}`;
 }
 
 async function redis(cmd: (string | number)[]) {
@@ -57,6 +58,8 @@ export interface FunnelRow {
   source: string;
   medium: string;
   campaign: string;
+  /** utm_content = einzelne Anzeige (z. B. "vorab", "gaming"); "-" wenn nicht gesetzt. */
+  content: string;
   pageview: number;
   telegram_click: number;
   join: number;
@@ -72,10 +75,13 @@ export async function funnel(days = 14): Promise<{ rows: FunnelRow[]; perDay: { 
     const flat = ((await redis(["HGETALL", `stats:${day}`])) as string[] | null) ?? [];
     const totals = { day, pageview: 0, telegram_click: 0, join: 0 };
     for (let j = 0; j < flat.length; j += 2) {
-      const [source, medium, campaign, event] = flat[j].split("|");
+      // Alte Schlüssel: quelle|medium|kampagne|ereignis · neue: quelle|medium|kampagne|inhalt|ereignis
+      const parts = flat[j].split("|");
+      const event = parts.pop()!;
+      const [source, medium, campaign, content = "-"] = parts;
       const n = Number(flat[j + 1]) || 0;
-      const k = `${source}|${medium}|${campaign}`;
-      const row = rows.get(k) ?? { source, medium, campaign, pageview: 0, telegram_click: 0, join: 0 };
+      const k = `${source}|${medium}|${campaign}|${content}`;
+      const row = rows.get(k) ?? { source, medium, campaign, content, pageview: 0, telegram_click: 0, join: 0 };
       if (event === "pageview" || event === "telegram_click" || event === "join") {
         row[event] += n;
         totals[event] += n;

@@ -20,6 +20,27 @@
     ],
     "inviteLinks": [
       {
+        "name": "Meta Vorab",
+        "medium": "paid_social",
+        "content": "vorab",
+        "source": "instagram|paid_social|black_friday_2026|vorab",
+        "url": "https://t.me/+YfOLOSjJ_5o3Njhi"
+      },
+      {
+        "name": "Meta Gaming",
+        "medium": "paid_social",
+        "content": "gaming",
+        "source": "instagram|paid_social|black_friday_2026|gaming",
+        "url": "https://t.me/+qC4VKes13JhkZTNi"
+      },
+      {
+        "name": "Meta Küche",
+        "medium": "paid_social",
+        "content": "kueche",
+        "source": "instagram|paid_social|black_friday_2026|kueche",
+        "url": "https://t.me/+vLKY5IgryRdmZTUy"
+      },
+      {
         "name": "Instagram Anzeige",
         "medium": "paid_social",
         "source": "instagram|paid_social|black_friday_2026",
