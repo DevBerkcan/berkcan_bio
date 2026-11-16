@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-b0f457mqcq",
+    "asin": "B0F457MQCQ",
+    "title": "Xiaomi TV F 65\" + 3fach Payback = 353,63€ effektiv",
+    "category": "Tech",
+    "price": 359,
+    "oldPrice": 495,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-16T09:57:06.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T10:11:42.149Z"
+  },
+  {
+    "id": "queue-b0dw996637",
+    "asin": "B0DW996637",
+    "title": "TCL 75T6C 75\" 4K QLED Fernseher",
+    "subtitle": "Riesiger 75-Zoll-QLED mit 4K und integriertem Fire TV.",
+    "category": "TV",
+    "price": 479,
+    "checkedAt": "2026-11-16T06:56:41.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T10:11:30.573Z"
+  },
+  {
     "id": "queue-b09b13xfgy",
     "asin": "B09B13XFGY",
     "title": "Sonos Beam (Gen 2) Soundbar mit Dolby Atmos",
