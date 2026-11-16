@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0f9nxff48",
+    "asin": "B0F9NXFF48",
+    "title": "SANODESK elektrisch höhenverstellbarer Schreibtisch 120 x 60 cm",
+    "subtitle": "🔥 116° bei mydealz",
+    "category": "Haushalt",
+    "price": 89.99,
+    "oldPrice": 109.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-16T09:23:27.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T09:42:43.757Z"
+  },
+  {
+    "id": "queue-b0hnwf17bj",
+    "asin": "B0HNWF17BJ",
+    "title": "Ring Intercom Video + Door View Cam Bundle",
+    "subtitle": "Video-Gegensprechanlage plus Türspion-Kamera mit 1080p und 155° Sicht.",
+    "category": "Smart Home",
+    "price": 47.99,
+    "checkedAt": "2026-11-16T08:00:01.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T09:42:33.126Z"
+  },
+  {
     "id": "queue-b09cd57pmj",
     "asin": "B09CD57PMJ",
     "title": "ASUS ROG Strix XG27AQWMG 27\" Tandem-OLED, 280 Hz",
@@ -332,25 +356,5 @@
     "checkedAt": "2026-11-15T10:17:41.000Z",
     "source": "auto",
     "telegramPostedAt": "2026-11-15T10:40:45.676Z"
-  },
-  {
-    "id": "auto-b06y2grgv7",
-    "asin": "B06Y2GRGV7",
-    "title": "Stanley Nass und Trockensauger SXVC20PE (1200 W, 20 l) 64,99€ / 25 …",
-    "category": "Haushalt",
-    "price": 64.99,
-    "checkedAt": "2026-11-15T09:16:40.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T10:11:45.045Z"
-  },
-  {
-    "id": "auto-b0fd6m6trx",
-    "asin": "B0FD6M6TRX",
-    "title": "SEVERIN FR 2464 Pizza & More Heißluftfritteuse, 4 L, Sichtfenster, …",
-    "category": "Haushalt",
-    "price": 59.03,
-    "checkedAt": "2026-11-15T09:26:49.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T09:42:55.624Z"
   }
 ]
