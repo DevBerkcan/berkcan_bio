@@ -107,7 +107,7 @@ export default async function ZahlenPage({ searchParams }: { searchParams: { tag
           </p>
           <div className="mt-4 space-y-4">
             {ADS.map((a) => {
-              const r = rows.filter((x) => x.content === a.content).reduce(
+              const r = rows.filter((x) => x.content === a.content && x.source === "instagram").reduce(
                 (t, x) => ({ pageview: t.pageview + x.pageview, telegram_click: t.telegram_click + x.telegram_click, join: t.join + x.join }),
                 { pageview: 0, telegram_click: 0, join: 0 }
               );
