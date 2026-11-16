@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0fsdltxgp",
+    "asin": "B0FSDLTXGP",
+    "title": "Beko B5T68219 – Wärmepumpentrockner",
+    "category": "Haushalt",
+    "price": 447.9,
+    "oldPrice": 546.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-16T11:41:42.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T12:06:08.315Z"
+  },
+  {
+    "id": "auto-b0fs8nqztt",
+    "asin": "B0FS8NQZTT",
+    "title": "SANDISK Extreme Fit 256 GB USB-C Stick (400 MB/s Lesen)",
+    "category": "Tech",
+    "price": 42.9,
+    "oldPrice": 52.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-16T11:54:40.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T12:06:06.380Z"
+  },
+  {
+    "id": "queue-b0h8skrd9x",
+    "asin": "B0H8SKRD9X",
+    "title": "Panasonic TN-55W90C 55\" 4K QD-Mini-LED Google TV",
+    "subtitle": "QD-Mini-LED mit entspiegeltem Display, Game Mode und Google TV.",
+    "category": "TV",
+    "price": 599,
+    "checkedAt": "2026-11-16T06:18:03.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T12:05:57.786Z"
+  },
+  {
     "id": "queue-b0cx8mqf7r",
     "asin": "B0CX8MQF7R",
     "title": "Amazon Kindle Colorsoft 16 GB",
@@ -413,16 +448,6 @@
     "telegramPostedAt": "2026-11-15T15:57:32.279Z"
   },
   {
-    "id": "auto-b07mvr8g82",
-    "asin": "B07MVR8G82",
-    "title": "Wiha Torx-Feinschschraubendreher Set PicoFinish 42996 T7-T20 mit …",
-    "category": "Werkzeug",
-    "price": 19.99,
-    "checkedAt": "2026-11-15T11:20:00.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T13:05:15.222Z"
-  },
-  {
     "id": "auto-b0g83msf1v",
     "asin": "B0G83MSF1V",
     "title": "PAW PATROL Adventskalender 2026, ab 3 Jahren",
@@ -432,55 +457,5 @@
     "checkedAt": "2026-11-15T12:25:46.000Z",
     "source": "auto",
     "telegramPostedAt": "2026-11-15T12:36:14.946Z"
-  },
-  {
-    "id": "auto-b0cxq7l1dy",
-    "asin": "B0CXQ7L1DY",
-    "title": "Ninja Blast tragbarer Mixer & Smoothie Maker – Farbe: Weiß",
-    "category": "Haushalt",
-    "price": 39,
-    "checkedAt": "2026-11-15T11:27:02.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T12:07:26.122Z"
-  },
-  {
-    "id": "auto-b0fkh6c5kr",
-    "asin": "B0FKH6C5KR",
-    "title": "12 kg Creality Ender PLA Filament 1,75mm, Mehrfarbig",
-    "category": "Tech",
-    "price": 91.03,
-    "checkedAt": "2026-11-15T11:56:29.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T12:07:24.516Z"
-  },
-  {
-    "id": "auto-b0cw1kpqmh",
-    "asin": "B0CW1KPQMH",
-    "title": "SONGMICS Rollcontainer, Metallschrank, 4 Schubladen, abschließbar",
-    "category": "Haushalt",
-    "price": 54.21,
-    "checkedAt": "2026-11-15T11:27:11.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T11:38:34.991Z"
-  },
-  {
-    "id": "auto-b0fqcsf6ss",
-    "asin": "B0FQCSF6SS",
-    "title": "Philips OneUp 3000 Serie Elektrischer Wischmopp",
-    "category": "Haushalt",
-    "price": 89,
-    "checkedAt": "2026-11-15T11:31:07.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T11:38:33.044Z"
-  },
-  {
-    "id": "auto-b0dx283q1x",
-    "asin": "B0DX283Q1X",
-    "title": "Tefal Quickchef+ Stabmixer Set",
-    "category": "Haushalt",
-    "price": 39.9,
-    "checkedAt": "2026-11-15T11:36:09.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T11:38:31.140Z"
   }
 ]
