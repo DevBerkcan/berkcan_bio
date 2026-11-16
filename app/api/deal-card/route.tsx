@@ -25,6 +25,15 @@ export async function GET(req: Request) {
   const pct = save && oldPrice ? Math.round((save / oldPrice) * 100) : null;
   const ts = q.get("ts");
   const refLabel = (q.get("ref") ?? "").slice(0, 20);
+  const rate = q.get("rate");
+  const badge =
+    rate === "hot"
+      ? { text: "🔥 HOT DEAL", bg: "linear-gradient(90deg, #f97316, #dc2626)", color: "white" }
+      : rate === "good"
+        ? { text: "👍 GUTER DEAL", bg: "#10b981", color: "white" }
+        : rate === "ok"
+          ? { text: "👌 SOLIDER DEAL", bg: "#e5e7eb", color: "#111827" }
+          : { text: `${campaign.name} Deal`, bg: "#fbbf24", color: "#0a0a0a" };
   const stamp = ts
     ? new Intl.DateTimeFormat("de-DE", {
         day: "2-digit",
@@ -61,15 +70,15 @@ export async function GET(req: Request) {
               display: "flex",
               padding: "10px 26px",
               borderRadius: 999,
-              background: "#fbbf24",
-              color: "#0a0a0a",
-              fontSize: 30,
+              background: badge.bg,
+              color: badge.color,
+              fontSize: 32,
               fontWeight: 800,
               letterSpacing: 3,
               textTransform: "uppercase",
             }}
           >
-            {campaign.name} Deal
+            {badge.text}
           </div>
           {pct !== null && (
             <div
@@ -160,6 +169,7 @@ export async function GET(req: Request) {
     {
       width: 1080,
       height: 1080,
+      emoji: "twemoji",
       headers: { "Cache-Control": "public, max-age=3600, s-maxage=3600" },
     }
   );

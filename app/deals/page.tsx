@@ -15,6 +15,7 @@ import {
 } from "@/lib/deals";
 import { getAllDeals } from "@/lib/deals-server";
 import { categorize } from "@/scripts/categories.mjs";
+import { dealScore, rateDeal, temperatureFromSubtitle } from "@/scripts/rating.mjs";
 import { Countdown } from "@/components/deals/Countdown";
 import { DealsBoard, type DealView } from "@/components/deals/DealsBoard";
 import { Footer } from "@/components/Footer";
@@ -41,6 +42,10 @@ export default async function DealsPage() {
       title: d.title,
       subtitle: d.subtitle,
       category: categorize(d.title, "", d.category),
+      ...(() => {
+        const r = { price: d.price, oldPrice: d.oldPrice, temperature: d.temperature ?? temperatureFromSubtitle(d.subtitle) };
+        return { rating: rateDeal(r).key as "hot" | "good" | "ok", score: dealScore(r) };
+      })(),
       image: productImage(d),
       featured: !!d.featured,
       draft: !!d.draft,

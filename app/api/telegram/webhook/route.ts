@@ -12,6 +12,7 @@ import {
   type Deal,
 } from "@/lib/deals";
 import { categorize } from "@/scripts/categories.mjs";
+import { rateDeal } from "@/scripts/rating.mjs";
 import { enqueue, parseDeals, queueConfigured, queueSize, resolveAsin, type QueueItem } from "@/lib/inbox";
 
 /**
@@ -45,7 +46,10 @@ function caption(deal: Deal): string {
   const pct = discountPercent(deal);
   const save = savings(deal);
   return [
-    `🔥 <b>${esc(campaign.name)} Deal</b>${pct ? `  ·  <b>-${pct}%</b>` : ""}`,
+    `${(() => {
+      const r = rateDeal(deal).key;
+      return r === "hot" ? "🔥🔥🔥 <b>HOT DEAL</b>" : r === "good" ? "👍 <b>GUTER DEAL</b>" : "👌 <b>SOLIDER DEAL</b>";
+    })()}${pct ? `  ·  <b>-${pct}%</b>` : ""}  ·  ${esc(campaign.name)}`,
     "",
     `<b>${esc(deal.title)}</b>`,
     "",
@@ -65,6 +69,7 @@ function cardUrl(deal: Deal): string {
   const p = new URLSearchParams({ asin: deal.asin, title: deal.title, ts: deal.checkedAt });
   if (deal.price) p.set("price", String(deal.price));
   if (deal.oldPrice) p.set("old", String(deal.oldPrice));
+  p.set("rate", rateDeal(deal).key);
   return `${PUBLIC_BASE_URL}/api/deal-card?${p.toString()}`;
 }
 

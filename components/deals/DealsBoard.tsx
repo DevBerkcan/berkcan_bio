@@ -6,8 +6,9 @@ import { trackEvent } from "@/lib/tracking";
 import { channelFromSource, type Channel } from "@/lib/deals";
 import { CATEGORIES } from "@/scripts/categories.mjs";
 
-type SortKey = "neu" | "rabatt" | "ersparnis" | "preis";
+type SortKey = "beste" | "neu" | "rabatt" | "ersparnis" | "preis";
 const SORTS: { key: SortKey; label: string }[] = [
+  { key: "beste", label: "Beste Deals" },
   { key: "neu", label: "Neueste" },
   { key: "rabatt", label: "Höchster Rabatt" },
   { key: "ersparnis", label: "Größte Ersparnis" },
@@ -31,6 +32,8 @@ export interface DealView {
   oldPriceLabel?: string;
   discount: number | null;
   savings: number | null;
+  rating: "hot" | "good" | "ok";
+  score: number;
   checkedLabel?: string;
 }
 
@@ -70,7 +73,8 @@ export function DealsBoard({
     return [{ name: "Alle", emoji: "🔥", slug: "alle", count: deals.length }, ...known, ...extra];
   }, [deals]);
   const [active, setActive] = useState("Alle");
-  const [sort, setSort] = useState<SortKey>("neu");
+  const [sort, setSort] = useState<SortKey>("beste");
+  const [ratingFilter, setRatingFilter] = useState<"alle" | "hot" | "good">("alle");
 
   // Direktlink für Werbung: /deals?kategorie=audio
   useEffect(() => {
@@ -103,11 +107,14 @@ export function DealsBoard({
     return () => clearTimeout(t);
   }, []);
 
-  const filtered = active === "Alle" ? deals : deals.filter((d) => d.category === active);
+  const filtered = (active === "Alle" ? deals : deals.filter((d) => d.category === active)).filter(
+    (d) => ratingFilter === "alle" || (ratingFilter === "hot" ? d.rating === "hot" : d.rating !== "ok")
+  );
   const visible =
     sort === "neu"
       ? filtered
       : [...filtered].sort((a, b) => {
+          if (sort === "beste") return b.score - a.score;
           if (sort === "rabatt") return (b.discount ?? -1) - (a.discount ?? -1);
           if (sort === "ersparnis") return (b.savings ?? -1) - (a.savings ?? -1);
           return (a.price ?? Infinity) - (b.price ?? Infinity);
@@ -144,9 +151,29 @@ export function DealsBoard({
           </nav>
         )}
         <div className="flex items-center justify-between gap-3 text-sm">
-          <span className="text-gray-500 dark:text-gray-400">
-            {visible.length} {visible.length === 1 ? "Deal" : "Deals"}
-          </span>
+          <div className="flex items-center gap-1.5">
+            {(
+              [
+                ["alle", "Alle"],
+                ["hot", "🔥 Hot"],
+                ["good", "👍 Gut+"],
+              ] as const
+            ).map(([k, label]) => (
+              <button
+                key={k}
+                onClick={() => setRatingFilter(k)}
+                aria-pressed={ratingFilter === k}
+                className={`rounded-full px-2.5 py-1 text-xs font-bold transition-colors ${
+                  ratingFilter === k
+                    ? "bg-gray-900 text-white dark:bg-white dark:text-gray-900"
+                    : "bg-white text-gray-600 ring-1 ring-gray-200 dark:bg-gray-800 dark:text-gray-300 dark:ring-gray-700"
+                }`}
+              >
+                {label}
+              </button>
+            ))}
+            <span className="ml-1 text-gray-500 dark:text-gray-400">{visible.length}</span>
+          </div>
           <label className="flex items-center gap-2 text-gray-600 dark:text-gray-300">
             Sortieren:
             <select
@@ -209,6 +236,17 @@ export function DealsBoard({
                     -{d.discount}%
                   </span>
                 )}
+                <span
+                  className={`absolute bottom-3 right-3 rounded-full px-2.5 py-1 text-xs font-extrabold shadow ${
+                    d.rating === "hot"
+                      ? "bg-gradient-to-r from-orange-500 to-red-600 text-white"
+                      : d.rating === "good"
+                        ? "bg-emerald-500 text-white"
+                        : "bg-gray-200 text-gray-700 dark:bg-gray-700 dark:text-gray-200"
+                  }`}
+                >
+                  {d.rating === "hot" ? "🔥 Hot Deal" : d.rating === "good" ? "👍 Guter Deal" : "👌 Solider Deal"}
+                </span>
                 {d.featured && (
                   <span className="absolute right-3 top-3 inline-flex items-center gap-1 rounded-lg bg-amber-400 px-2 py-1 text-xs font-bold text-gray-900">
                     <Star size={12} fill="currentColor" /> Top-Deal

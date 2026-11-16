@@ -19,6 +19,7 @@ import { postDeal, shareButton, telegramApi, telegramConfigured } from "./telegr
 import { processInbox } from "./inbox.mjs";
 import { sendAlertOnce } from "./alert.mjs";
 import { categorize } from "./categories.mjs";
+import { dealScore } from "./rating.mjs";
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const FILES = {
@@ -314,6 +315,7 @@ async function drainQueue(cfg, config, state, list, hour, mode) {
       oldPrice: fresh ? it.oldPrice : undefined,
       checkedAt: fresh ? it.addedAt : new Date().toISOString(),
       image: await pickImage(it.asin, it.image),
+      ...(it.temperature ? { temperature: it.temperature } : {}),
       source: "auto",
     };
     try {
@@ -404,13 +406,8 @@ async function main() {
     .filter((it) => it.pubDate && now - Date.parse(it.pubDate) <= cfg.maxAgeHours * 3600 * 1000)
     .map((it) => ({ ...it, oldPrice: findReferencePrice(`${it.title} ${it.description}`, it.price) }))
     .filter((it) => !cfg.requireSavings || it.oldPrice)
-    // Deals mit Ersparnis zuerst, dann heißeste, dann neueste
-    .sort(
-      (a, b) =>
-        Number(!!b.oldPrice) - Number(!!a.oldPrice) ||
-        (b.temperature ?? 0) - (a.temperature ?? 0) ||
-        Date.parse(b.pubDate) - Date.parse(a.pubDate)
-    );
+    // Beste Deals zuerst (Hot → Gut → Solide, dann Rabatt/Temperatur), dann neueste
+    .sort((a, b) => dealScore(b) - dealScore(a) || Date.parse(b.pubDate) - Date.parse(a.pubDate));
 
   const postedToday = Object.values(state.posted).filter((at) => berlinDay(at) === day).length;
   const peak = (cfg.peakHours ?? []).some(([from, to]) => hour >= from && hour < to);
@@ -450,6 +447,7 @@ async function main() {
       oldPriceLabel: it.oldPrice ? "Vergleichspreis" : undefined,
       checkedAt: new Date(Date.parse(it.pubDate)).toISOString(),
       image: await pickImage(asin, it.image),
+      ...(it.temperature ? { temperature: it.temperature } : {}),
       source: "auto",
     };
 

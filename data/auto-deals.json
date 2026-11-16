@@ -220,7 +220,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T09:23:27.000Z",
     "source": "auto",
-    "telegramPostedAt": "2026-11-16T09:42:43.757Z"
+    "telegramPostedAt": "2026-11-16T09:42:43.757Z",
+    "temperature": 116
   },
   {
     "id": "queue-b0hnwf17bj",
@@ -232,7 +233,8 @@
     "checkedAt": "2026-11-16T08:00:01.000Z",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T09:42:33.126Z",
-    "image": "https://m.media-amazon.com/images/P/B0HNWF17BJ.03._SCLZZZZZZZ_SX500_.jpg"
+    "image": "https://m.media-amazon.com/images/P/B0HNWF17BJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 155
   },
   {
     "id": "queue-b09cd57pmj",

@@ -6,6 +6,7 @@
  *   TELEGRAM_CHANNEL_ID=@deinkanal        (oder numerische ID -100...)
  */
 import path from "node:path";
+import { rateDeal } from "./rating.mjs";
 import { fileURLToPath } from "node:url";
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -36,6 +37,12 @@ export function telegramConfigured() {
   return Boolean(process.env.TELEGRAM_BOT_TOKEN && process.env.TELEGRAM_CHANNEL_ID);
 }
 
+function ratingLine(deal, campaign, pct) {
+  const r = rateDeal(deal);
+  const head = r.key === "hot" ? "🔥🔥🔥 <b>HOT DEAL</b>" : r.key === "good" ? "👍 <b>GUTER DEAL</b>" : "👌 <b>SOLIDER DEAL</b>";
+  return `${head}${pct ? `  ·  <b>-${pct}%</b>` : ""}  ·  ${esc(campaign.name)}`;
+}
+
 export function buildMessage(deal, campaign) {
   const pct =
     deal.price && deal.oldPrice && deal.oldPrice > deal.price
@@ -43,7 +50,7 @@ export function buildMessage(deal, campaign) {
       : null;
 
   const lines = [
-    `🔥 <b>${esc(campaign.name)} Deal</b>${pct ? `  ·  <b>-${pct}%</b>` : ""}`,
+    ratingLine(deal, campaign, pct),
     "",
     `<b>${esc(deal.title)}</b>`,
     deal.subtitle ? esc(deal.subtitle) : null,
@@ -73,6 +80,7 @@ export function cardUrl(deal) {
   if (deal.price) p.set("price", String(deal.price));
   if (deal.oldPrice) p.set("old", String(deal.oldPrice));
   if (deal.oldPriceLabel) p.set("ref", deal.oldPriceLabel);
+  p.set("rate", rateDeal(deal).key);
   if (deal.image) p.set("img", deal.image);
   return `${PUBLIC_BASE_URL}/api/deal-card?${p.toString()}`;
 }

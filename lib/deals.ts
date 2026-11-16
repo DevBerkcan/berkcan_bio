@@ -55,6 +55,8 @@ export interface Deal {
   telegramPostedAt?: string;
   /** Beschriftung des Vergleichspreises, z. B. "Ø 90 Tage" (Standard: "statt") */
   oldPriceLabel?: string;
+  /** Beliebtheit bei mydealz in ° (für Hot/Gut/Solide-Bewertung) */
+  temperature?: number;
   /** manual = von Hand / Skript, auto = vom Autopiloten gefunden */
   source?: "manual" | "auto";
 }

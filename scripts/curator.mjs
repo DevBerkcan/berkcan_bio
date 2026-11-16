@@ -95,6 +95,14 @@ async function enqueue() {
   const file = args[0];
   if (!file) throw new Error("Pfad zur Auswahl-Datei fehlt");
   const picks = JSON.parse(await readFile(path.resolve(file), "utf8"));
+  // Temperatur (Beliebtheit) aus der Kandidatenliste übernehmen – für die Hot/Gut/Solide-Bewertung
+  let cands = [];
+  try {
+    cands = JSON.parse(await readFile(path.join(OUT_DIR, "candidates.json"), "utf8"));
+  } catch {
+    /* ohne Kandidatenliste keine Temperatur */
+  }
+  const tempOf = new Map(cands.map((c) => [c.asin, c.temperature]));
   const now = new Date().toISOString();
   const items = picks
     .filter((p) => /^[A-Z0-9]{10}$/.test(p.asin) && p.title)
@@ -105,6 +113,7 @@ async function enqueue() {
       ...(p.oldPrice && Number(p.oldPrice) > Number(p.price) ? { oldPrice: Number(p.oldPrice) } : {}),
       ...(p.note ? { note: String(p.note).slice(0, 120) } : {}),
       ...(p.category ? { category: String(p.category) } : {}),
+      ...(p.temperature ?? tempOf.get(p.asin) ? { temperature: Number(p.temperature ?? tempOf.get(p.asin)) } : {}),
       ...(p.feedImage || p.image ? { image: String(p.feedImage ?? p.image) } : {}),
       addedAt: p.postedAt ?? now,
     }));
