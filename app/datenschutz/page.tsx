@@ -317,6 +317,17 @@ export default function DatenschutzPage() {
                 (Art. 6 Abs. 1 lit. f DSGVO).
               </p>
 
+              <h3 className="text-xl font-semibold text-barber-black mt-4 mb-2">Reichweitenmessung der Deal-Seite</h3>
+              <p className="mb-4">
+                Um zu verstehen, über welche Kanäle (z. B. Instagram-Anzeige, Instagram-Story) Besucher auf die Deal-Seite kommen,
+                zähle ich Seitenaufrufe sowie Klicks auf „Telegram-Kanal beitreten“ als reine Summen je Tag und Kampagne
+                (anhand der UTM-Parameter im Link). Dabei werden keine Cookies gesetzt, keine IP-Adressen gespeichert und keine
+                Nutzerprofile gebildet. Die Zählwerte werden bei Upstash (Upstash, Inc., USA; Server in der EU) gespeichert und nach
+                120 Tagen gelöscht. Rechtsgrundlage ist mein berechtigtes Interesse an der Erfolgsmessung meines Angebots
+                (Art. 6 Abs. 1 lit. f DSGVO). Beitritte zum Telegram-Kanal zähle ich je Einladungslink als Summe, ohne zu speichern, wer
+                beigetreten ist.
+              </p>
+
               <h3 className="text-xl font-semibold text-barber-black mt-4 mb-2">Telegram-Kanal</h3>
               <p className="mb-4">
                 Auf der Seite „Black Friday Deals“ verlinke ich auf meinen Telegram-Kanal. Es handelt

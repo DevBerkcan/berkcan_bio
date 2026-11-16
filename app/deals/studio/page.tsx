@@ -36,6 +36,16 @@ export default async function StudioPage() {
           </span>
           <span aria-hidden>→</span>
         </Link>
+        <Link
+          href="/deals/studio/zahlen"
+          className="mt-3 flex items-center justify-between gap-3 rounded-2xl bg-white p-4 ring-1 ring-gray-200 dark:bg-gray-800 dark:ring-gray-700"
+        >
+          <span>
+            <span className="block font-bold text-gray-900 dark:text-white">📊 Zahlen ansehen</span>
+            <span className="block text-sm text-gray-500">Anzeige → Seitenaufrufe → Telegram-Klicks → Beitritte</span>
+          </span>
+          <span aria-hidden className="text-gray-400">→</span>
+        </Link>
         <ol className="mt-2 list-decimal space-y-0.5 pl-5 text-sm text-gray-600 dark:text-gray-400">
           <li>Story-Grafik herunterladen und als Instagram-Story hochladen</li>
           <li>Link-Sticker hinzufügen und den kopierten Sticker-Link einfügen</li>

@@ -47,8 +47,10 @@ export function categoryBySlug(slug?: string) {
 
 const TAGS = "#blackfriday #blackfriday2026 #deals #techdeals #angebote #schnäppchen #sparen #gadgets #technik";
 
+export const UTM_CAMPAIGN = "black_friday_2026";
+
 export function dealsLink(source: string, medium: string, category?: string): string {
-  const p = new URLSearchParams({ utm_source: source, utm_medium: medium, utm_campaign: campaign.slug });
+  const p = new URLSearchParams({ utm_source: source, utm_medium: medium, utm_campaign: UTM_CAMPAIGN });
   if (category && category !== "alle") p.set("kategorie", category);
   return `${PUBLIC_BASE_URL}/deals?${p.toString()}`;
 }

@@ -1,8 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowLeft, Download } from "lucide-react";
-import { TELEGRAM_CHANNEL_URL, storyLink } from "@/lib/deals";
-import { AD_FORMATS, adCopies, carouselCaption, dealsLink, pickDeals, type AdFormat, type SocialSet } from "@/lib/social";
+import { PUBLIC_BASE_URL, TELEGRAM_CHANNEL_URL } from "@/lib/deals";
+import { AD_FORMATS, UTM_CAMPAIGN, adCopies, carouselCaption, dealsLink, pickDeals, type AdFormat, type SocialSet } from "@/lib/social";
+
+/** Sticker-Link für eine Story: Deal-Seite mit Sprungmarke + Kampagnen-Parametern. */
+function storyLink(id: string) {
+  return `${dealsLink("instagram", "organic_story")}&utm_content=${encodeURIComponent(id)}#${id}`;
+}
 import { CATEGORIES } from "@/scripts/categories.mjs";
 import { CopyButton } from "@/components/deals/CopyButton";
 
@@ -105,12 +110,14 @@ export default async function SocialStudio({ searchParams }: { searchParams: { s
             {storyDeals.map((d, n) => (
               <div key={d.id} className="space-y-1.5">
                 <Img src={`/api/social?kind=story&n=${n}&v=${v}`} name={`story-${n + 1}`} ratio="aspect-[9/16]" />
-                <CopyButton label="Sticker-Link" text={storyLink(d)} />
+                <CopyButton label="Sticker-Link" text={storyLink(d.id)} />
               </div>
             ))}
             <div className="space-y-1.5">
               <Img src={`/api/social?kind=story&n=9&v=${v}`} name="story-telegram" ratio="aspect-[9/16]" />
-              {TELEGRAM_CHANNEL_URL && <CopyButton label="Telegram-Link" text={TELEGRAM_CHANNEL_URL} />}
+              {TELEGRAM_CHANNEL_URL && (
+                <CopyButton label="Telegram-Link" text={`${PUBLIC_BASE_URL}/go/telegram?utm_source=instagram&utm_medium=organic_story&utm_campaign=${UTM_CAMPAIGN}`} />
+              )}
             </div>
           </div>
         </Section>
@@ -140,7 +147,7 @@ export default async function SocialStudio({ searchParams }: { searchParams: { s
                     ))}
                   </div>
                   <div className="mt-3 grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
-                    <CopyButton label="Ziel-Link (Website)" text={dealsLink("ig", "paid", c.slug)} />
+                    <CopyButton label="Ziel-Link (Anzeige)" text={dealsLink("instagram", "paid_social", c.slug)} />
                     {copies.map((cp, i) => (
                       <CopyButton key={i} label={`Text ${i + 1}: ${cp.headline}`} text={`Primärtext:\n${cp.primary}\n\nÜberschrift:\n${cp.headline}\n\nBeschreibung:\n${cp.description}`} />
                     ))}
@@ -172,7 +179,8 @@ export default async function SocialStudio({ searchParams }: { searchParams: { s
               Call-to-Action „Mehr dazu“. Drei Textvarianten als Varianten anlegen – Meta testet automatisch, welche am besten läuft.
             </li>
             <li>
-              <b>Auswerten:</b> Nach 2–3 Tagen im Partnernet die Tracking-ID <code>berkcanat-ig-21</code> prüfen. Kategorien mit Verkäufen hochfahren, andere pausieren.
+              <b>Auswerten:</b> Unter <a className="underline" href="/deals/studio/zahlen">Deal-Studio → Zahlen</a> siehst du Seitenaufrufe, Telegram-Klicks und
+              Beitritte je Quelle; im Partnernet die Verkäufe über <code>berkcanat-ig-21</code>. Kategorien mit Ergebnis hochfahren, andere pausieren.
             </li>
           </ol>
           <div className="mt-4 rounded-xl bg-amber-50 p-3 text-xs text-amber-900 dark:bg-amber-900/30 dark:text-amber-200">

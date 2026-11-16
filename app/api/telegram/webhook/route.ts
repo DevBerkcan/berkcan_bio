@@ -12,6 +12,7 @@ import {
   type Deal,
 } from "@/lib/deals";
 import { categorize } from "@/scripts/categories.mjs";
+import { count } from "@/lib/stats";
 import { rateDeal } from "@/scripts/rating.mjs";
 import { enqueue, parseDeals, queueConfigured, queueSize, resolveAsin, type QueueItem } from "@/lib/inbox";
 
@@ -99,6 +100,22 @@ async function postToChannel(deal: Deal) {
   }
 }
 
+interface ChatMemberUpdate {
+  chat: { id: number };
+  old_chat_member: { status: string };
+  new_chat_member: { status: string };
+  invite_link?: { name?: string; invite_link: string };
+}
+
+/** Kanal-Beitritt zählen – zugeordnet über den benannten Einladungslink. */
+async function countJoin(cm: ChatMemberUpdate) {
+  const joined = ["member", "restricted"].includes(cm.new_chat_member.status) && ["left", "kicked"].includes(cm.old_chat_member.status);
+  if (!joined) return;
+  const links = ((data.telegram as { inviteLinks?: { name: string; source: string }[] }).inviteLinks ?? []);
+  const link = links.find((l) => l.name === cm.invite_link?.name);
+  await count("join", link?.source ?? (cm.invite_link ? "telegram|anderer_link|-" : "telegram|direkt|-"));
+}
+
 interface Update {
   message?: { chat: { id: number; type: string }; from?: { id: number }; text?: string; caption?: string; date: number };
 }
@@ -112,7 +129,11 @@ export async function POST(req: Request) {
     return new Response("not configured", { status: 503 });
   }
 
-  const update = (await req.json()) as Update;
+  const update = (await req.json()) as Update & { chat_member?: ChatMemberUpdate };
+  if (update.chat_member) {
+    await countJoin(update.chat_member);
+    return Response.json({ ok: true });
+  }
   const msg = update.message;
   if (!msg || msg.chat.type !== "private") return Response.json({ ok: true });
 

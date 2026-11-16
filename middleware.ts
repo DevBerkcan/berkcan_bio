@@ -31,7 +31,8 @@ export function middleware(request: NextRequest) {
   }
 
   // API Routes: Nicht cachen
-  if (pathname.startsWith("/api/")) {
+  // API-Routen und Zähl-Weiterleitungen (/go/…): nie cachen, sonst werden Klicks nicht gezählt
+  if (pathname.startsWith("/api/") || pathname.startsWith("/go/")) {
     response.headers.set(
       "Cache-Control",
       "private, no-cache, no-store, must-revalidate"

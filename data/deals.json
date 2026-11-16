@@ -17,7 +17,28 @@
     "_hinweis": "ownerIds = deine Telegram-Nutzer-ID(s). Nur diese dürfen dem Bot Deals schicken (Deal-Inbox).",
     "ownerIds": [
       "7963931782"
-    ]
+    ],
+    "inviteLinks": [
+      {
+        "name": "Instagram Anzeige",
+        "medium": "paid_social",
+        "source": "instagram|paid_social|black_friday_2026",
+        "url": "https://t.me/+wX9hsjhVaN02ZTBi"
+      },
+      {
+        "name": "Instagram Story",
+        "medium": "organic_story",
+        "source": "instagram|organic_story|black_friday_2026",
+        "url": "https://t.me/+U8MOCKmceMYxNjAy"
+      },
+      {
+        "name": "Website",
+        "medium": "website",
+        "source": "website|alle|-",
+        "url": "https://t.me/+Sj7naz4L95A0NDJi"
+      }
+    ],
+    "_hinweis_inviteLinks": "Eigene Einladungslinks je Quelle – so zählt der Bot, woher neue Abonnenten kommen."
   },
   "autopilot": {
     "_hinweis": "Automatische Deals aus mydealz-RSS (nur Händler Amazon.de). enabled=false stoppt den Bot. categories gilt nur für die allgemeinen Feeds.",

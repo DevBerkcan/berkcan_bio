@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { ArrowLeft, Flame, Send } from "lucide-react";
+import { ArrowLeft, Flame } from "lucide-react";
 import {
   AMAZON_DISCLOSURE,
   TELEGRAM_CHANNEL_URL,
@@ -16,6 +16,7 @@ import {
 import { getAllDeals } from "@/lib/deals-server";
 import { categorize } from "@/scripts/categories.mjs";
 import { dealScore, rateDeal, temperatureFromSubtitle } from "@/scripts/rating.mjs";
+import { TelegramCta } from "@/components/deals/TelegramCta";
 import { Countdown } from "@/components/deals/Countdown";
 import { DealsBoard, type DealView } from "@/components/deals/DealsBoard";
 import { Footer } from "@/components/Footer";
@@ -87,25 +88,7 @@ export default async function DealsPage() {
           <Countdown startsAt={campaign.startsAt} endsAt={campaign.endsAt} />
         </header>
 
-        {TELEGRAM_CHANNEL_URL && (
-          <a
-            href={TELEGRAM_CHANNEL_URL}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="mb-6 flex items-center gap-3 rounded-2xl bg-[#229ED9] px-5 py-4 text-white shadow-md transition-transform hover:-translate-y-0.5"
-          >
-            <Send size={24} className="shrink-0" />
-            <span className="flex-1">
-              <span className="block font-bold">Deal-Alarm auf Telegram</span>
-              <span className="block text-sm text-white/85">
-                Neue Deals sofort aufs Handy – bevor sie ausverkauft sind.
-              </span>
-            </span>
-            <span className="rounded-full bg-white px-3 py-1 text-sm font-bold text-[#229ED9]">
-              Beitreten
-            </span>
-          </a>
-        )}
+        {TELEGRAM_CHANNEL_URL && <TelegramCta />}
 
         <DealsBoard deals={deals} trackingIds={TRACKING_IDS} />
 
