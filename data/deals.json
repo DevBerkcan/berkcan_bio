@@ -128,10 +128,10 @@
     "minPrice": 5,
     "maxPrice": 1500,
     "maxAgeHours": 24,
-    "maxPerRun": 5,
-    "maxPerDay": 60,
+    "maxPerRun": 10,
+    "maxPerDay": 150,
     "quietHours": [
-      23,
+      1,
       7
     ],
     "generalFeeds": [
@@ -141,7 +141,7 @@
       "hot"
     ],
     "intervalMinutes": 15,
-    "offPeakPerRun": 2,
+    "offPeakPerRun": 6,
     "peakHours": [
       [
         12,
@@ -157,16 +157,16 @@
       "from": "2026-11-19",
       "to": "2026-11-30",
       "intervalMinutes": 15,
-      "maxPerRun": 8,
-      "offPeakPerRun": 5,
-      "maxPerDay": 200,
+      "maxPerRun": 15,
+      "offPeakPerRun": 10,
+      "maxPerDay": 350,
       "queuePerRun": 3,
       "peakDays": [
         "2026-11-27",
         "2026-11-30"
       ],
-      "peakDayMaxPerRun": 10,
-      "peakDayMaxPerDay": 300
+      "peakDayMaxPerRun": 20,
+      "peakDayMaxPerDay": 500
     },
     "digest": {
       "enabled": true,

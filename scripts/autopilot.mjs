@@ -136,6 +136,8 @@ function berlinDay(iso) {
   return new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Berlin" }).format(new Date(iso));
 }
 
+const pause = (ms) => new Promise((r) => setTimeout(r, ms));
+
 function isQuiet(hour, [from, to]) {
   return from > to ? hour >= from || hour < to : hour >= from && hour < to;
 }
@@ -321,6 +323,7 @@ async function drainQueue(cfg, config, state, list, hour, mode) {
       source: "auto",
     };
     try {
+      if (posted) await pause(3000); // Telegram: max. ~20 Nachrichten/Min
       await postDeal(deal, config.campaign, config.tracking.telegram);
       deal.telegramPostedAt = new Date().toISOString();
       state.posted[it.asin] = deal.telegramPostedAt;
@@ -448,6 +451,7 @@ async function main() {
     if (onSite) {
       if (DRY || budget <= 0) continue;
       try {
+        if (posted.length) await pause(3000); // Telegram: max. ~20 Nachrichten/Min
         await postDeal(onSite, config.campaign, config.tracking.telegram);
         onSite.telegramPostedAt = new Date().toISOString();
         state.posted[asin] = onSite.telegramPostedAt;
@@ -486,6 +490,7 @@ async function main() {
     siteAdded++;
     if (budget <= 0) continue; // nur Seite
     try {
+      if (posted.length) await pause(3000); // Telegram: max. ~20 Nachrichten/Min
       await postDeal(deal, config.campaign, config.tracking.telegram);
       deal.telegramPostedAt = new Date().toISOString();
       state.posted[asin] = deal.telegramPostedAt;
