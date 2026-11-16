@@ -16,6 +16,13 @@ export const CATEGORIES = [
   { name: "Werkzeug", emoji: "🔧", slug: "werkzeug" },
   { name: "Foto & Video", emoji: "📷", slug: "foto" },
   { name: "Zubehör & Laden", emoji: "🔌", slug: "zubehoer" },
+  { name: "Spielzeug & LEGO", emoji: "🧸", slug: "spielzeug" },
+  { name: "Beauty & Pflege", emoji: "💄", slug: "beauty" },
+  { name: "Sport & Outdoor", emoji: "⚽", slug: "sport" },
+  { name: "Licht & Garten", emoji: "💡", slug: "garten" },
+  { name: "Bücher & Filme", emoji: "📚", slug: "medien" },
+  { name: "Lebensmittel & Drinks", emoji: "🛒", slug: "lebensmittel" },
+  { name: "Mode & Reise", emoji: "👟", slug: "mode" },
   { name: "Tech", emoji: "⚡", slug: "tech" },
 ];
 
@@ -33,6 +40,13 @@ const RULES = [
   ["Haushalt", /(staubsauger|saugroboter|wischroboter|sauger\b|trockner|waschmaschine|geschirrsp[üu]ler|luftreiniger|luftentfeuchter|heizl[üu]fter|ventilator|b[üu]geleisen|dampfreiniger|trinkflasche)/i],
   ["Werkzeug", /(akku-?(schrauber|bohr|s[äa]ge|winkel)|bohrer|bohrmaschine|schrauber|bit-?set|werkzeug|zange|\bs[äa]ge\b|l[öo]tkolben|multimeter|kompressor|bosch professional|makita|metabo|einhell|dewalt|ryobi|\bwera\b|knipex)/i],
   ["Foto & Video", /(kamera|objektiv|gopro|action ?cam|drohne|\bdji\b|gimbal|insta360)/i],
+  ["Spielzeug & LEGO", /(\blego\b|playmobil|spielzeug|puppe|barbie|hot wheels|brettspiel|gesellschaftsspiel|puzzle|kinderspiel|tonie|ravensburger|hasbro|monopoly)/i],
+  ["Beauty & Pflege", /(rasierer|zahnb[üu]rste|oral-?b|philips sonicare|epilierer|haartrockner|f[öo]hn\b|gl[äa]tteisen|dyson airwrap|parf[üu]m|eau de|duschgel|shampoo|creme|bartschneider|haarschneider|braun series)/i],
+  ["Sport & Outdoor", /(fitness|hantel|laufband|yoga|sportuhr|fahrrad|e-?bike|zelt|schlafsack|rucksack|wanderschuh|camping|thermosflasche|isomatte)/i],
+  ["Licht & Garten", /(rasenm[äa]her|m[äa]hroboter|hochdruckreiniger|k[äa]rcher|gartenschlauch|heckenschere|grill\b|led-?(streifen|strip|lampe|leuchte)|lichterkette|stehlampe|deckenleuchte|solarleuchte)/i],
+  ["Bücher & Filme", /(blu-?ray|\bdvd\b|4k uhd|steelbook|taschenbuch|gebundene ausgabe|\bbuch\b|roman|h[öo]rbuch|kindle edition|manga|comic)/i],
+  ["Lebensmittel & Drinks", /(kaffeebohnen|\bkaffee\b|\btee\b|schokolade|haribo|snack|m[üu]sli|whisky|\bgin\b|\bwein\b|\bbier\b|energy ?drink|mineralwasser|protein)/i],
+  ["Mode & Reise", /(sneaker|schuhe|jacke|hoodie|t-?shirt|jeans|koffer|trolley|reisetasche|sonnenbrille|armbanduhr|portemonnaie|geldb[öo]rse)/i],
   ["Zubehör & Laden", /(ladeger[äa]t|charger|netzteil|powerbank|ladekabel|ladestation|magsafe|\bgan\b|nexode)/i],
 ];
 
@@ -58,6 +72,25 @@ const FEED_CATEGORY = {
   "gruppe/playstation": "Gaming",
   "gruppe/nintendo": "Gaming",
   "gruppe/xbox": "Gaming",
+  "gruppe/router": "Computer",
+  "gruppe/usb-stick": "Computer",
+  "gruppe/kindle": "Amazon-Geräte",
+  "gruppe/spielzeug": "Spielzeug & LEGO",
+  "gruppe/lego": "Spielzeug & LEGO",
+  "gruppe/beauty": "Beauty & Pflege",
+  "gruppe/rasierer": "Beauty & Pflege",
+  "gruppe/parfum": "Beauty & Pflege",
+  "gruppe/sport": "Sport & Outdoor",
+  "gruppe/fitness": "Sport & Outdoor",
+  "gruppe/outdoor": "Sport & Outdoor",
+  "gruppe/garten": "Licht & Garten",
+  "gruppe/beleuchtung": "Licht & Garten",
+  "gruppe/buecher": "Bücher & Filme",
+  "gruppe/blu-ray": "Bücher & Filme",
+  "gruppe/lebensmittel": "Lebensmittel & Drinks",
+  "gruppe/getraenke": "Lebensmittel & Drinks",
+  "gruppe/schuhe": "Mode & Reise",
+  "gruppe/koffer": "Mode & Reise",
 };
 
 const KNOWN = new Set(CATEGORIES.map((c) => c.name));

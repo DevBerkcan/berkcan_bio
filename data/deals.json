@@ -89,7 +89,27 @@
       "gruppe/playstation",
       "gruppe/nintendo",
       "gruppe/xbox",
-      "gruppe/elektronik"
+      "gruppe/elektronik",
+      "hot",
+      "gruppe/router",
+      "gruppe/usb-stick",
+      "gruppe/kindle",
+      "gruppe/spielzeug",
+      "gruppe/lego",
+      "gruppe/beauty",
+      "gruppe/rasierer",
+      "gruppe/parfum",
+      "gruppe/sport",
+      "gruppe/fitness",
+      "gruppe/outdoor",
+      "gruppe/garten",
+      "gruppe/beleuchtung",
+      "gruppe/buecher",
+      "gruppe/blu-ray",
+      "gruppe/lebensmittel",
+      "gruppe/getraenke",
+      "gruppe/schuhe",
+      "gruppe/koffer"
     ],
     "categories": [
       "Elektronik",
@@ -97,11 +117,15 @@
       "Home & Living",
       "Garten & Baumarkt",
       "Beauty & Gesundheit",
-      "Lebensmittel & Haushalt"
+      "Lebensmittel & Haushalt",
+      "Kultur & Freizeit",
+      "Familie & Kinder",
+      "Sport & Outdoor",
+      "Fashion & Accessoires"
     ],
     "minTemperature": 20,
     "requireSavings": false,
-    "minPrice": 10,
+    "minPrice": 5,
     "maxPrice": 1500,
     "maxAgeHours": 24,
     "maxPerRun": 5,
@@ -113,9 +137,10 @@
     "generalFeeds": [
       "trending",
       "new",
-      "deals"
+      "deals",
+      "hot"
     ],
-    "intervalMinutes": 30,
+    "intervalMinutes": 15,
     "offPeakPerRun": 2,
     "peakHours": [
       [

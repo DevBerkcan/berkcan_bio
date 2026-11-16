@@ -33,9 +33,9 @@ const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36";
 const DAY = 24 * 3600 * 1000;
 const REPOST_AFTER = 7 * DAY;
-const MAX_LIST = 150; // Deals auf der Seite
-const SITE_PER_RUN = 60; // neue Deals pro Lauf auf die Seite
-const MAX_LOOKUPS = 60; // ASIN-Abfragen bei mydealz pro Lauf
+const MAX_LIST = 300; // Deals auf der Seite
+const SITE_PER_RUN = 100; // neue Deals pro Lauf auf die Seite
+const MAX_LOOKUPS = 100; // ASIN-Abfragen bei mydealz pro Lauf
 const DRY = process.argv.includes("--dry");
 
 const readJSON = async (f, fallback) => {
