@@ -18,6 +18,7 @@ import { fileURLToPath } from "node:url";
 import { postDeal, shareButton, telegramApi, telegramConfigured } from "./telegram.mjs";
 import { processInbox } from "./inbox.mjs";
 import { sendAlertOnce } from "./alert.mjs";
+import { categorize } from "./categories.mjs";
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const FILES = {
@@ -94,6 +95,15 @@ function cleanTitle(raw) {
     .replace(/\s+-\s*Prime\s*$/i, "")
     .replace(/\s+/g, " ")
     .trim();
+  t = t
+    .replace(/\s+bei Amazon\b[\s\S]*$/i, "")
+    .replace(/\s*\+\s*\d*\s*-?fach Payback[\s\S]*$/i, "")
+    .replace(/\s+(?:\(?Amazon Prime\)?|\(?Prime\)?)\s*$/i, "")
+    .replace(/\s+verschiedene (?:Farben|Modelle|Größen)[\s\S]*$/i, "")
+    .trim();
+  // "Marke Modell • Typ • Feature • …" → "Marke Modell – Typ"
+  const bullets = t.split(/\s+[•·]\s+/);
+  if (bullets.length > 2) t = bullets.slice(0, 2).join(" – ");
   // "Produkt | Variante | Amazon Prime / Joybuy" → "Produkt"
   const first = t.split(/\s+[|►]\s+/)[0];
   if (first.length >= 15) t = first;
@@ -127,36 +137,8 @@ function isQuiet(hour, [from, to]) {
   return from > to ? hour >= from || hour < to : hour >= from && hour < to;
 }
 
-const FEED_CATEGORY = {
-  "gruppe/kopfhoerer": "Audio",
-  "gruppe/lautsprecher": "Audio",
-  "gruppe/computer": "Computer",
-  "gruppe/monitor": "Computer",
-  "gruppe/ssd": "Computer",
-  "gruppe/drucker": "Computer",
-  "gruppe/smartphone": "Smartphone",
-  "gruppe/tablet": "Smartphone",
-  "gruppe/smartwatch": "Smartphone",
-  "gruppe/apple": "Apple",
-  "gruppe/kamera": "Foto",
-  "gruppe/fernseher": "TV",
-  "gruppe/smart-home": "Smart Home",
-  "gruppe/staubsauger": "Haushalt",
-  "gruppe/haushaltsgeraete": "Haushalt",
-  "gruppe/kueche": "Haushalt",
-  "gruppe/werkzeug": "Werkzeug",
-  "gruppe/gaming": "Gaming",
-  "gruppe/playstation": "Gaming",
-  "gruppe/nintendo": "Gaming",
-  "gruppe/xbox": "Gaming",
-};
-
 function categoryFor(it) {
-  if (FEED_CATEGORY[it.feed]) return FEED_CATEGORY[it.feed];
-  if (it.category === "Gaming") return "Gaming";
-  if (it.category === "Garten & Baumarkt") return "Werkzeug";
-  if (it.category === "Home & Living") return "Haushalt";
-  return "Tech";
+  return categorize(cleanTitle(it.title), it.feed);
 }
 
 // ---------- mydealz ----------
@@ -236,7 +218,15 @@ async function pickImage(asin, fallback) {
 function activeMode(cfg, day) {
   const bf = cfg.blackFriday;
   if (bf && day >= bf.from && day <= bf.to) {
-    return { name: "Black Friday", intervalMinutes: bf.intervalMinutes, maxPerRun: bf.maxPerRun, offPeakPerRun: bf.offPeakPerRun, maxPerDay: bf.maxPerDay };
+    const peakDay = (bf.peakDays ?? []).includes(day);
+    return {
+      name: peakDay ? "Black Friday (Haupttag)" : "Black Friday",
+      intervalMinutes: bf.intervalMinutes,
+      maxPerRun: peakDay ? bf.peakDayMaxPerRun ?? bf.maxPerRun : bf.maxPerRun,
+      offPeakPerRun: peakDay ? bf.maxPerRun : bf.offPeakPerRun,
+      maxPerDay: peakDay ? bf.peakDayMaxPerDay ?? bf.maxPerDay : bf.maxPerDay,
+      queuePerRun: bf.queuePerRun ?? 2,
+    };
   }
   return {
     name: "Normal",
@@ -308,7 +298,7 @@ async function drainQueue(cfg, config, state, list, hour, mode) {
     await unlink(path.join(FILES.queueDir, f));
   }
 
-  const perRun = isQuiet(hour, cfg.quietHours) ? 0 : mode.name === "Black Friday" ? 2 : 1;
+  const perRun = isQuiet(hour, cfg.quietHours) ? 0 : mode.queuePerRun ?? 1;
   let posted = 0;
   while (posted < perRun && queue.length) {
     const it = queue.shift();
@@ -318,7 +308,7 @@ async function drainQueue(cfg, config, state, list, hour, mode) {
       asin: it.asin,
       title: it.title,
       subtitle: it.note,
-      category: it.category ?? "Deal",
+      category: categorize(it.title, "", it.category),
       // Preis älter als 20 h → ohne Preis posten (Amazon-Regel: Preise max. 24 h)
       price: fresh ? it.price : undefined,
       oldPrice: fresh ? it.oldPrice : undefined,
@@ -409,7 +399,7 @@ async function main() {
     .filter((it) => /^amazon(\.de)?$/i.test(it.merchant.trim()))
     // Themen-Feeds (gruppe/…) sind schon passend; nur allgemeine Feeds nach Kategorie filtern
     .filter((it) => !(cfg.generalFeeds ?? []).includes(it.feed) || cfg.categories.includes(it.category))
-    .filter((it) => it.temperature === null || it.temperature >= cfg.minTemperature)
+    .filter((it) => it.temperature === null || it.temperature >= (mode.name.startsWith("Black Friday") ? Math.min(cfg.minTemperature, 30) : cfg.minTemperature))
     .filter((it) => it.price && it.price >= cfg.minPrice && it.price <= cfg.maxPrice)
     .filter((it) => it.pubDate && now - Date.parse(it.pubDate) <= cfg.maxAgeHours * 3600 * 1000)
     .map((it) => ({ ...it, oldPrice: findReferencePrice(`${it.title} ${it.description}`, it.price) }))
@@ -506,3 +496,4 @@ if (process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.a
 }
 
 export { readFeed, resolveAsin, findReferencePrice, cleanTitle, categoryFor, readJSON, writeJSON, pickImage, FILES };
+export { categorize };

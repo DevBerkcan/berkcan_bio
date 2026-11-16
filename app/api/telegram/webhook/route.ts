@@ -11,6 +11,7 @@ import {
   savings,
   type Deal,
 } from "@/lib/deals";
+import { categorize } from "@/scripts/categories.mjs";
 import { enqueue, parseDeals, queueConfigured, queueSize, resolveAsin, type QueueItem } from "@/lib/inbox";
 
 /**
@@ -198,7 +199,7 @@ export async function POST(req: Request) {
     id: `inbox-${it.asin.toLowerCase()}`,
     asin: it.asin,
     title: it.title,
-    category: "Deal",
+    category: categorize(it.title),
     price: it.price,
     oldPrice: it.oldPrice,
     checkedAt: it.addedAt,

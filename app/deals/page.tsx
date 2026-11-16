@@ -14,6 +14,7 @@ import {
   savings,
 } from "@/lib/deals";
 import { getAllDeals } from "@/lib/deals-server";
+import { categorize } from "@/scripts/categories.mjs";
 import { Countdown } from "@/components/deals/Countdown";
 import { DealsBoard, type DealView } from "@/components/deals/DealsBoard";
 import { Footer } from "@/components/Footer";
@@ -39,7 +40,7 @@ export default async function DealsPage() {
       id: d.id,
       title: d.title,
       subtitle: d.subtitle,
-      category: d.category,
+      category: categorize(d.title, "", d.category),
       image: productImage(d),
       featured: !!d.featured,
       draft: !!d.draft,

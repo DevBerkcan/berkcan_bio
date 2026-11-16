@@ -12,6 +12,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  // Absolute URLs für Vorschaubilder beim Teilen (WhatsApp, Telegram, Facebook …)
+  metadataBase: new URL("https://gentlelink.berkcanatesoglu.de"),
   title: "Berk-Can Atesoglu | Software Developer & Entrepreneur",
   description:
     "Software Developer & Entrepreneur aus Düsseldorf. Spezialisiert auf React, Next.js & TypeScript. Portfolio, GitHub & Kontakt.",

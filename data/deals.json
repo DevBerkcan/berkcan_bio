@@ -83,13 +83,20 @@
       ]
     ],
     "blackFriday": {
-      "_hinweis": "Turbo-Modus: alle 15 Min, mehr Deals pro Lauf",
+      "_hinweis": "Turbo-Modus 19.–30.11.: alle 15 Min, deutlich mehr Deals; am Black Friday (27.11.) und Cyber Monday (30.11.) Maximum",
       "from": "2026-11-19",
       "to": "2026-11-30",
       "intervalMinutes": 15,
-      "maxPerRun": 5,
-      "offPeakPerRun": 3,
-      "maxPerDay": 80
+      "maxPerRun": 6,
+      "offPeakPerRun": 4,
+      "maxPerDay": 150,
+      "queuePerRun": 3,
+      "peakDays": [
+        "2026-11-27",
+        "2026-11-30"
+      ],
+      "peakDayMaxPerRun": 8,
+      "peakDayMaxPerDay": 220
     },
     "digest": {
       "enabled": true,

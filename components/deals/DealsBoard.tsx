@@ -4,6 +4,15 @@ import { useEffect, useMemo, useState } from "react";
 import { ExternalLink, ShoppingBag, Star } from "lucide-react";
 import { trackEvent } from "@/lib/tracking";
 import { channelFromSource, type Channel } from "@/lib/deals";
+import { CATEGORIES } from "@/scripts/categories.mjs";
+
+type SortKey = "neu" | "rabatt" | "ersparnis" | "preis";
+const SORTS: { key: SortKey; label: string }[] = [
+  { key: "neu", label: "Neueste" },
+  { key: "rabatt", label: "Höchster Rabatt" },
+  { key: "ersparnis", label: "Größte Ersparnis" },
+  { key: "preis", label: "Günstigste" },
+];
 
 const CHANNEL_KEY = "deals_channel";
 
@@ -50,11 +59,35 @@ export function DealsBoard({
   const hrefFor = (d: DealView) =>
     `https://www.amazon.de/dp/${encodeURIComponent(d.asin)}?tag=${trackingIds[channel]}`;
 
-  const categories = useMemo(
-    () => ["Alle", ...Array.from(new Set(deals.map((d) => d.category)))],
-    [deals]
-  );
+  // Kategorien in fester Reihenfolge, nur solche mit Deals, mit Anzahl
+  const categories = useMemo(() => {
+    const counts = new Map<string, number>();
+    deals.forEach((d) => counts.set(d.category, (counts.get(d.category) ?? 0) + 1));
+    const known = CATEGORIES.filter((c) => counts.has(c.name)).map((c) => ({ ...c, count: counts.get(c.name)! }));
+    const extra = [...counts.keys()]
+      .filter((n) => !CATEGORIES.some((c) => c.name === n))
+      .map((n) => ({ name: n, emoji: "🏷️", slug: n.toLowerCase(), count: counts.get(n)! }));
+    return [{ name: "Alle", emoji: "🔥", slug: "alle", count: deals.length }, ...known, ...extra];
+  }, [deals]);
   const [active, setActive] = useState("Alle");
+  const [sort, setSort] = useState<SortKey>("neu");
+
+  // Direktlink für Werbung: /deals?kategorie=audio
+  useEffect(() => {
+    const want = new URLSearchParams(window.location.search).get("kategorie")?.toLowerCase();
+    const match = want && categories.find((c) => c.slug === want || c.name.toLowerCase() === want);
+    if (match) setActive(match.name);
+  }, [categories]);
+
+  const selectCategory = (name: string) => {
+    setActive(name);
+    const slug = categories.find((c) => c.name === name)?.slug;
+    const url = new URL(window.location.href);
+    if (!slug || slug === "alle") url.searchParams.delete("kategorie");
+    else url.searchParams.set("kategorie", slug);
+    window.history.replaceState(null, "", url.toString());
+    trackEvent("deal_category", { category: name });
+  };
   const [highlight, setHighlight] = useState<string | null>(null);
   const [brokenImages, setBrokenImages] = useState<Set<string>>(() => new Set());
 
@@ -70,7 +103,15 @@ export function DealsBoard({
     return () => clearTimeout(t);
   }, []);
 
-  const visible = active === "Alle" ? deals : deals.filter((d) => d.category === active);
+  const filtered = active === "Alle" ? deals : deals.filter((d) => d.category === active);
+  const visible =
+    sort === "neu"
+      ? filtered
+      : [...filtered].sort((a, b) => {
+          if (sort === "rabatt") return (b.discount ?? -1) - (a.discount ?? -1);
+          if (sort === "ersparnis") return (b.savings ?? -1) - (a.savings ?? -1);
+          return (a.price ?? Infinity) - (b.price ?? Infinity);
+        });
 
   if (deals.length === 0) {
     return (
@@ -82,24 +123,46 @@ export function DealsBoard({
 
   return (
     <>
-      {categories.length > 2 && (
-        <nav className="-mx-4 mb-6 flex gap-2 overflow-x-auto px-4 pb-1" aria-label="Kategorien">
-          {categories.map((c) => (
-            <button
-              key={c}
-              onClick={() => setActive(c)}
-              aria-pressed={active === c}
-              className={`shrink-0 rounded-full px-4 py-2 text-sm font-semibold transition-colors ${
-                active === c
-                  ? "bg-violet-600 text-white"
-                  : "bg-white text-gray-700 ring-1 ring-gray-200 hover:ring-violet-400 dark:bg-gray-800 dark:text-gray-300 dark:ring-gray-700"
-              }`}
+      <div className="sticky top-0 z-10 -mx-4 mb-6 bg-gray-50/90 px-4 pb-3 pt-3 backdrop-blur dark:bg-gray-950/90">
+        {categories.length > 2 && (
+          <nav className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-2" aria-label="Kategorien">
+            {categories.map((c) => (
+              <button
+                key={c.name}
+                onClick={() => selectCategory(c.name)}
+                aria-pressed={active === c.name}
+                className={`shrink-0 rounded-full px-3.5 py-2 text-sm font-semibold transition-colors ${
+                  active === c.name
+                    ? "bg-violet-600 text-white"
+                    : "bg-white text-gray-700 ring-1 ring-gray-200 hover:ring-violet-400 dark:bg-gray-800 dark:text-gray-300 dark:ring-gray-700"
+                }`}
+              >
+                <span aria-hidden>{c.emoji}</span> {c.name}{" "}
+                <span className={active === c.name ? "text-white/75" : "text-gray-400"}>{c.count}</span>
+              </button>
+            ))}
+          </nav>
+        )}
+        <div className="flex items-center justify-between gap-3 text-sm">
+          <span className="text-gray-500 dark:text-gray-400">
+            {visible.length} {visible.length === 1 ? "Deal" : "Deals"}
+          </span>
+          <label className="flex items-center gap-2 text-gray-600 dark:text-gray-300">
+            Sortieren:
+            <select
+              value={sort}
+              onChange={(e) => setSort(e.target.value as SortKey)}
+              className="rounded-lg bg-white px-2 py-1.5 text-sm font-semibold ring-1 ring-gray-200 dark:bg-gray-800 dark:ring-gray-700"
             >
-              {c}
-            </button>
-          ))}
-        </nav>
-      )}
+              {SORTS.map((s) => (
+                <option key={s.key} value={s.key}>
+                  {s.label}
+                </option>
+              ))}
+            </select>
+          </label>
+        </div>
+      </div>
 
       <ul className="grid gap-4 sm:grid-cols-2">
         {visible.map((d, i) => (
