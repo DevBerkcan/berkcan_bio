@@ -1,5 +1,16 @@
 [
   {
+    "id": "queue-b0dp5dqprc",
+    "asin": "B0DP5DQPRC",
+    "title": "ASUS TUF Gaming B850-PLUS WIFI Mainboard (AM5)",
+    "subtitle": "AM5-Mainboard mit WLAN für aktuelle AMD-Ryzen-Prozessoren.",
+    "category": "Computer",
+    "price": 139,
+    "checkedAt": "2026-11-16T07:14:27.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T12:34:59.359Z"
+  },
+  {
     "id": "queue-b0b42xqnmh",
     "asin": "B0B42XQNMH",
     "title": "Razer Basilisk V3 Pro Kabellose Gaming-Maus",
@@ -457,16 +468,5 @@
     "checkedAt": "2026-11-15T15:38:18.000Z",
     "source": "auto",
     "telegramPostedAt": "2026-11-15T15:57:32.279Z"
-  },
-  {
-    "id": "auto-b0g83msf1v",
-    "asin": "B0G83MSF1V",
-    "title": "PAW PATROL Adventskalender 2026, ab 3 Jahren",
-    "subtitle": "🔥 103° bei mydealz",
-    "category": "Haushalt",
-    "price": 11.99,
-    "checkedAt": "2026-11-15T12:25:46.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T12:36:14.946Z"
   }
 ]
