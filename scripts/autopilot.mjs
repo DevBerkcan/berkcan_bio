@@ -33,7 +33,9 @@ const UA =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36";
 const DAY = 24 * 3600 * 1000;
 const REPOST_AFTER = 7 * DAY;
-const MAX_LIST = 60;
+const MAX_LIST = 150; // Deals auf der Seite
+const SITE_PER_RUN = 60; // neue Deals pro Lauf auf die Seite
+const MAX_LOOKUPS = 60; // ASIN-Abfragen bei mydealz pro Lauf
 const DRY = process.argv.includes("--dry");
 
 const readJSON = async (f, fallback) => {
@@ -419,14 +421,19 @@ async function main() {
       `heute gepostet: ${postedToday} · Budget: ${budget}${isQuiet(hour, cfg.quietHours) ? " (Ruhezeit)" : ""}${DRY ? " · TESTLAUF" : ""}`
   );
 
+  // Seite: ALLE passenden Deals (bis MAX_LIST). Telegram: nur die besten, im Rahmen des Budgets.
   const posted = [];
   const postErrors = [];
+  let siteAdded = 0;
+  let lookups = 0;
   for (const it of candidates) {
-    if (!DRY && budget <= 0) break;
     if (DRY && posted.length >= 15) break;
+    if (!DRY && budget <= 0 && (siteAdded >= SITE_PER_RUN || list.length >= MAX_LIST)) break;
 
     let asin = state.threads[it.threadId]?.asin;
     if (asin === undefined) {
+      if (lookups >= MAX_LOOKUPS) continue; // mydealz schonen; Rest beim nächsten Lauf
+      lookups++;
       try {
         asin = await resolveAsin(it.threadId);
       } catch {
@@ -434,7 +441,25 @@ async function main() {
       }
       state.threads[it.threadId] = { asin, at: new Date().toISOString() };
     }
-    if (!asin || state.posted[asin] || manualAsins.has(asin) || list.some((d) => d.asin === asin)) continue;
+    if (!asin || state.posted[asin] || manualAsins.has(asin)) continue;
+
+    // Schon auf der Seite (noch nicht auf Telegram) → nur posten, wenn Budget da ist
+    const onSite = list.find((d) => d.asin === asin);
+    if (onSite) {
+      if (DRY || budget <= 0) continue;
+      try {
+        await postDeal(onSite, config.campaign, config.tracking.telegram);
+        onSite.telegramPostedAt = new Date().toISOString();
+        state.posted[asin] = onSite.telegramPostedAt;
+        posted.push(asin);
+        budget--;
+        console.log(`📣 ${onSite.title} (${asin})`);
+      } catch (e) {
+        postErrors.push(e.message);
+      }
+      continue;
+    }
+    if (!DRY && budget <= 0 && (siteAdded >= SITE_PER_RUN || list.length >= MAX_LIST)) continue;
 
     const deal = {
       id: `auto-${asin.toLowerCase()}`,
@@ -457,11 +482,13 @@ async function main() {
       continue;
     }
 
+    list.unshift(deal);
+    siteAdded++;
+    if (budget <= 0) continue; // nur Seite
     try {
       await postDeal(deal, config.campaign, config.tracking.telegram);
       deal.telegramPostedAt = new Date().toISOString();
       state.posted[asin] = deal.telegramPostedAt;
-      list.unshift(deal);
       posted.push(asin);
       budget--;
       console.log(`📣 ${deal.title} (${asin})`);
@@ -470,6 +497,7 @@ async function main() {
       console.warn(`⚠️  ${asin}: ${e.message}`);
     }
   }
+  if (siteAdded) console.log(`🌐 ${siteAdded} neue Deals auf der Seite (davon ${posted.length} auch auf Telegram)`);
 
   if (!DRY && postErrors.length && !posted.length) {
     await sendAlertOnce(state, "post", `Posten in den Kanal schlägt fehl: <code>${postErrors[0].replace(/</g, "&lt;")}</code>
