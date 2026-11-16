@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0fl7qlh89",
+    "asin": "B0FL7QLH89",
+    "title": "Logitech G321 Lightspeed • kabelloses Gaming-Headset • Bluetooth • 20 …",
+    "category": "Gaming",
+    "price": 39.99,
+    "oldPrice": 49.97,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-16T08:12:00.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T08:15:38.797Z"
+  },
+  {
+    "id": "queue-b0cn41gmdk",
+    "asin": "B0CN41GMDK",
+    "title": "Amazon Fire TV Stick 4K Select",
+    "subtitle": "Streaming in 4K – macht jeden Fernseher smart, ganze Fire-TV-Reihe reduziert.",
+    "category": "TV",
+    "price": 23.99,
+    "oldPrice": 74.99,
+    "checkedAt": "2026-11-16T08:00:02.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-16T08:15:27.041Z"
+  },
+  {
     "id": "auto-b0fc2sy56k",
     "asin": "B0FC2SY56K",
     "title": "Final Fantasy Tactics: The Ivalice Chronicles bei Amazon Prime",
@@ -280,15 +304,5 @@
     "checkedAt": "2026-11-15T08:39:48.000Z",
     "source": "auto",
     "telegramPostedAt": "2026-11-15T08:45:25.220Z"
-  },
-  {
-    "id": "auto-b0bq1tcc6f",
-    "asin": "B0BQ1TCC6F",
-    "title": "Cecotec Espressomaschine Power Espresso Touch ColdBrew Espresso und …",
-    "category": "Haushalt",
-    "price": 57.99,
-    "checkedAt": "2026-11-15T08:01:50.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-15T08:16:34.439Z"
   }
 ]
