@@ -1,5 +1,47 @@
 [
   {
+    "id": "auto-b079kjldf2",
+    "asin": "B079KJLDF2",
+    "title": "Mattel Games UNO Harry Potter Kartenspiel, ab 7 Jahren, 2–10 Spieler",
+    "category": "Spielzeug & LEGO",
+    "price": 5.69,
+    "checkedAt": "2026-11-17T12:56:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B079KJLDF2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dcdf1327",
+    "asin": "B0DCDF1327",
+    "title": "Prime: The Pogues - The Best of the Pogues Limited Edition orange …",
+    "category": "Tech",
+    "price": 19.99,
+    "checkedAt": "2026-11-17T13:22:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DCDF1327.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0g7lxpcjn",
+    "asin": "B0G7LXPCJN",
+    "title": "Bosch ErgoMaster Serie 8 Stabmixer MSM8M960",
+    "category": "Küche",
+    "price": 99,
+    "checkedAt": "2026-11-17T13:27:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G7LXPCJN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f3jqmdr5",
+    "asin": "B0F3JQMDR5",
+    "title": "Stealth Nintendo Switch 2 Premium Travel Case",
+    "category": "Gaming",
+    "price": 12.55,
+    "oldPrice": 21.89,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T13:23:10.000Z",
+    "image": "https://static.mydealz.de/threads/raw/ZCezt/2873811_1/re/768x768/qt/55/2873811_1.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0049nnuy2",
     "asin": "B0049NNUY2",
     "title": "Atari Messenger Umhängetasche mit japanischem Logo in Dunkelrot",
@@ -41,7 +83,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T13:18:16.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F3WLVMV9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T13:34:32.729Z"
   },
   {
     "id": "auto-b0f3wjq19h",
@@ -2133,36 +2176,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0dhs9y433",
-    "asin": "B0DHS9Y433",
-    "title": "LEGO Speed Champions Mercedes-AMG F1 W15 Rennauto 77244",
-    "category": "Spielzeug & LEGO",
-    "price": 16.49,
-    "checkedAt": "2026-11-16T13:24:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHS9Y433.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0cdb2ts8m",
-    "asin": "B0CDB2TS8M",
-    "title": "Philips Sonicare kabelloser Power Flosser 3000 Munddusche schwarz",
-    "category": "Beauty & Pflege",
-    "price": 52.99,
-    "checkedAt": "2026-11-16T13:25:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CDB2TS8M.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dhsf1pw6",
-    "asin": "B0DHSF1PW6",
-    "title": "LEGO Speed Champions BWT Alpine F1 Team A524 Rennauto 77248",
-    "category": "Spielzeug & LEGO",
-    "price": 15.99,
-    "checkedAt": "2026-11-16T13:32:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHSF1PW6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0byjsj768",
     "asin": "B0BYJSJ768",
     "title": "Pattex Montage Multi 3, 3in1 Montagekleber, für innen und außen**, …",
@@ -2387,19 +2400,6 @@
     "telegramPostedAt": "2026-11-17T08:07:32.436Z"
   },
   {
-    "id": "auto-b0fr9jj67l",
-    "asin": "B0FR9JJ67L",
-    "title": "PROPHETE GENIESSER 5.0 E-Bike 28 Zoll",
-    "category": "Sport & Outdoor",
-    "price": 1469.65,
-    "oldPrice": 1768.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T13:25:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FR9JJ67L.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:21:57.956Z"
-  },
-  {
     "id": "auto-b0g495fgld",
     "asin": "B0G495FGLD",
     "title": "Amazon Fire TV 4K Plus Stick",
@@ -2527,19 +2527,6 @@
     "telegramPostedAt": "2026-11-16T23:15:52.720Z"
   },
   {
-    "id": "auto-b08886xc8p",
-    "asin": "B08886XC8P",
-    "title": "Paladone The Mandalorian The Child Grogu Baby Yoda Stressball",
-    "category": "Spielzeug & LEGO",
-    "price": 9.99,
-    "oldPrice": 15.28,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T13:19:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08886XC8P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T22:45:46.934Z"
-  },
-  {
     "id": "auto-b08rb5h265",
     "asin": "B08RB5H265",
     "title": "Philips Lumea IPL 9000 Series (BRI955/00) - 46% Rabatt",
@@ -2564,26 +2551,6 @@
     "image": "https://m.media-amazon.com/images/P/B0CV4PRFHK.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:30.497Z"
-  },
-  {
-    "id": "auto-b0dxf66swr",
-    "asin": "B0DXF66SWR",
-    "title": "UGREEN KVM Switch 2 PC 2 Monitore",
-    "category": "Computer",
-    "price": 65.55,
-    "checkedAt": "2026-11-16T13:24:32.000Z",
-    "image": "https://static.mydealz.de/threads/raw/MyJ3h/2872813_1/re/768x768/qt/55/2872813_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b098dmjcbd",
-    "asin": "B098DMJCBD",
-    "title": "Bosch Professional GSR 18V-55 Akku-Bohrschrauber mit 2× 4 Ah, 82-tlg. …",
-    "category": "Werkzeug",
-    "price": 252.99,
-    "checkedAt": "2026-11-16T13:25:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B098DMJCBD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0cf6r72f9",
@@ -3249,19 +3216,6 @@
     "image": "https://m.media-amazon.com/images/P/B0BTCP2PH2.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:45:55.785Z"
-  },
-  {
-    "id": "auto-b0dw96cfkl",
-    "asin": "B0DW96CFKL",
-    "title": "TCL 65T6C 65\" QLED 4K Fire TV + z.B. Aufbau, TV-Einrichtung, …",
-    "category": "Amazon-Geräte",
-    "price": 349,
-    "oldPrice": 526.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T13:20:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DW96CFKL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T22:45:51.435Z"
   },
   {
     "id": "auto-b01msdr3e5",
