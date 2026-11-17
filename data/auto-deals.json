@@ -1,5 +1,110 @@
 [
   {
+    "id": "auto-b0dpq6g71q",
+    "asin": "B0DPQ6G71Q",
+    "title": "Cosori Airfryer, Turbo Tower Pro, 10,8L mit Keramikbeschichtung",
+    "category": "Küche",
+    "price": 182.91,
+    "checkedAt": "2026-11-17T12:19:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DPQ6G71Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09dd1n4wp",
+    "asin": "B09DD1N4WP",
+    "title": "Weller WLIRPK8023C 80-Watt-Lötkolbenkit",
+    "category": "Werkzeug",
+    "price": 32.87,
+    "checkedAt": "2026-11-17T12:21:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09DD1N4WP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gnmw7qrd",
+    "asin": "B0GNMW7QRD",
+    "title": "Krups Harmony EA5088E0 Kaffeevollautomat Schwarz – 4 Kafferezepte, …",
+    "category": "Küche",
+    "price": 249.99,
+    "checkedAt": "2026-11-17T12:21:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GNMW7QRD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fprjllnb",
+    "asin": "B0FPRJLLNB",
+    "title": "DJI ROMO S Saugroboter mit Wischfunktion, 25.000 Pa Saugkraft",
+    "category": "Haushalt",
+    "price": 399,
+    "checkedAt": "2026-11-17T12:21:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPRJLLNB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gn99bxfq",
+    "asin": "B0GN99BXFQ",
+    "title": "SteelSeries Arctis Nova Pro Omni: Wireless Gaming-Headset mit ANC",
+    "category": "Gaming",
+    "price": 329,
+    "checkedAt": "2026-11-17T12:25:26.000Z",
+    "image": "https://static.mydealz.de/threads/raw/2FZs4/2873738_1/re/768x768/qt/55/2873738_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ccdcbsyy",
+    "asin": "B0CCDCBSYY",
+    "title": "VAUDE Okab II Rucksack",
+    "category": "Sport & Outdoor",
+    "price": 61.69,
+    "checkedAt": "2026-11-17T12:26:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CCDCBSYY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h414wgy7",
+    "asin": "B0H414WGY7",
+    "title": "NARWAL Freo 20 Edge Saugroboter mit Wischfunktion, FlowWash Track Mopp",
+    "category": "Haushalt",
+    "price": 499,
+    "checkedAt": "2026-11-17T12:28:46.000Z",
+    "image": "https://static.mydealz.de/threads/raw/IRjjc/2873741_1/re/768x768/qt/55/2873741_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09wkrfkx9",
+    "asin": "B09WKRFKX9",
+    "title": "Selen Tabletten 365x mit 200 µg Selen",
+    "category": "Smartphone & Tablet",
+    "price": 6.41,
+    "checkedAt": "2026-11-17T12:30:23.000Z",
+    "image": "https://static.mydealz.de/threads/raw/wI7l0/2873746_1/re/768x768/qt/55/2873746_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dbqy5ms2",
+    "asin": "B0DBQY5MS2",
+    "title": "Steingut Geschirrset 4 Personen Ibiza 12 tlg.",
+    "category": "Küche",
+    "price": 49.95,
+    "oldPrice": 129.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T12:22:26.000Z",
+    "image": "https://static.mydealz.de/threads/raw/AgeJH/2873737_1/re/768x768/qt/55/2873737_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T12:35:13.531Z"
+  },
+  {
+    "id": "queue-b0gsrvqb6d",
+    "asin": "B0GSRVQB6D",
+    "title": "Dreame L40 Ultra A Saug- und Wischroboter",
+    "subtitle": "24.000 Pa Saugkraft und doppeltes Anti-Tangle-System.",
+    "category": "Haushalt",
+    "price": 299,
+    "checkedAt": "2026-11-16T17:59:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GSRVQB6D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T12:34:50.955Z"
+  },
+  {
     "id": "auto-b09km4xxg6",
     "asin": "B09KM4XXG6",
     "title": "Razer Kaira Pro PS5 Headset, Dual Wireless, HyperSense Haptik, 50mm …",
@@ -1801,16 +1906,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b074qgdyvb",
-    "asin": "B074QGDYVB",
-    "title": "Siemens Kaffeevollautomat EQ6 plus s300, 11 Getränke, TE653501DE, …",
-    "category": "Küche",
-    "price": 399,
-    "checkedAt": "2026-11-16T12:31:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B074QGDYVB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0gf1j99s4",
     "asin": "B0GF1J99S4",
     "title": "GL.iNet GL-MT3600BE Beryl 7 Dual-Band Wi-Fi 7 Reiserouter",
@@ -2312,16 +2407,6 @@
     "telegramPostedAt": "2026-11-16T22:30:30.497Z"
   },
   {
-    "id": "auto-b0hfp4sbrl",
-    "asin": "B0HFP4SBRL",
-    "title": "Garmin Fenix 9 Pro inReach, 51 mm, GPS-Multisport-Smartwatch, Titan",
-    "category": "Smartphone & Tablet",
-    "price": 1129.81,
-    "checkedAt": "2026-11-16T12:31:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HFP4SBRL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0fc31b66k",
     "asin": "B0FC31B66K",
     "title": "Anno 117: Pax Romana - Governor's Edition - [PlayStation 5]",
@@ -2728,16 +2813,6 @@
     "price": 29.99,
     "checkedAt": "2026-11-16T17:48:03.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BX722HFN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gsrvqb6d",
-    "asin": "B0GSRVQB6D",
-    "title": "DREAME L40 Ultra A Saugroboter mit Wischfunktion mit 24.000 Pa …",
-    "category": "Haushalt",
-    "price": 299,
-    "checkedAt": "2026-11-16T17:59:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GSRVQB6D.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
