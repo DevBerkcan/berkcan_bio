@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0blzj6g2f",
+    "asin": "B0BLZJ6G2F",
+    "title": "TRELOCK FS 280/100 TWO.GO Code Faltschloss – Länge 100 cm – …",
+    "category": "Tech",
+    "price": 33.59,
+    "checkedAt": "2026-11-17T07:54:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BLZJ6G2F.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:07:23.804Z"
+  },
+  {
+    "id": "auto-b001bay79i",
+    "asin": "B001BAY79I",
+    "title": "Brennenstuhl Baustellen-Verlängerungskabel 10m IP44",
+    "category": "Tech",
+    "price": 13.4,
+    "checkedAt": "2026-11-17T07:56:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B001BAY79I.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:07:18.592Z"
+  },
+  {
     "id": "auto-b0f43rs71l",
     "asin": "B0F43RS71L",
     "title": "Pukka Bio Tee Adventskalender 2026, Geschenkset, 24 Teebeutel, 12 …",
@@ -674,7 +696,8 @@
     "price": 14.92,
     "checkedAt": "2026-11-16T22:16:40.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CSSZ94HQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:07:28.147Z"
   },
   {
     "id": "auto-b07f2q511b",
@@ -695,16 +718,6 @@
     "price": 18.85,
     "checkedAt": "2026-11-16T22:24:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B08B61WZMX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fs898s9h",
-    "asin": "B0FS898S9H",
-    "title": "SANDISK Extreme Fit 512 GB, USB-C Laufwerk, bis 400 MB/s Lesen USB …",
-    "category": "Computer",
-    "price": 89.9,
-    "checkedAt": "2026-11-16T08:04:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FS898S9H.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -1148,7 +1161,8 @@
     "price": 109.99,
     "checkedAt": "2026-11-16T21:52:01.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FJ8Z7XY3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:07:41.473Z"
   },
   {
     "id": "auto-b0dc8jyjqx",
@@ -1178,7 +1192,8 @@
     "price": 835.05,
     "checkedAt": "2026-11-16T22:00:43.000Z",
     "image": "https://static.mydealz.de/threads/raw/3ylQJ/2873281_1/re/768x768/qt/55/2873281_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:07:37.042Z"
   },
   {
     "id": "auto-b0f93sy4bh",
@@ -1188,7 +1203,8 @@
     "price": 65.69,
     "checkedAt": "2026-11-16T22:02:25.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F93SY4BH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:07:32.436Z"
   },
   {
     "id": "auto-b0dt4y11lc",
@@ -1483,19 +1499,6 @@
     "image": "https://m.media-amazon.com/images/P/B074P3L723.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:26.067Z"
-  },
-  {
-    "id": "auto-b0cp324vs4",
-    "asin": "B0CP324VS4",
-    "title": "Amazon Kindle Black Friday Angebote",
-    "category": "Amazon-Geräte",
-    "price": 99.99,
-    "oldPrice": 699.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T08:03:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CP324VS4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T22:30:17.508Z"
   },
   {
     "id": "auto-b0f5b2d2yy",
@@ -2711,19 +2714,6 @@
     "telegramPostedAt": "2026-11-16T21:14:08.422Z"
   },
   {
-    "id": "auto-b0bcr8z7ql",
-    "asin": "B0BCR8Z7QL",
-    "title": "Amazon Echo Geräte im Black Friday Sale",
-    "category": "Audio",
-    "price": 89.99,
-    "oldPrice": 501.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T08:02:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BCR8Z7QL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T21:14:05.993Z"
-  },
-  {
     "id": "auto-b0fsdltxgp",
     "asin": "B0FSDLTXGP",
     "title": "Beko B5T68219 – Wärmepumpentrockner",
@@ -2829,19 +2819,6 @@
     "temperature": 116
   },
   {
-    "id": "queue-b0hnwf17bj",
-    "asin": "B0HNWF17BJ",
-    "title": "Ring Intercom Video + Door View Cam Bundle",
-    "subtitle": "Video-Gegensprechanlage plus Türspion-Kamera mit 1080p und 155° Sicht.",
-    "category": "Amazon-Geräte",
-    "price": 47.99,
-    "checkedAt": "2026-11-16T08:00:01.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T09:42:33.126Z",
-    "image": "https://m.media-amazon.com/images/P/B0HNWF17BJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 155
-  },
-  {
     "id": "auto-b075dl9jb1",
     "asin": "B075DL9JB1",
     "title": "WMF Classic Line Frühstücksmesser Set 6-teilig, 23 cm, Brötchenmesser …",
@@ -2879,18 +2856,5 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T08:15:38.797Z",
     "image": "https://m.media-amazon.com/images/P/B0FL7QLH89.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "queue-b0cn41gmdk",
-    "asin": "B0CN41GMDK",
-    "title": "Amazon Fire TV Stick 4K Select",
-    "subtitle": "Streaming in 4K – macht jeden Fernseher smart, ganze Fire-TV-Reihe reduziert.",
-    "category": "Amazon-Geräte",
-    "price": 23.99,
-    "oldPrice": 74.99,
-    "checkedAt": "2026-11-16T08:00:02.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T08:15:27.041Z",
-    "image": "https://m.media-amazon.com/images/P/B0CN41GMDK.03._SCLZZZZZZZ_SX500_.jpg"
   }
 ]
