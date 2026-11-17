@@ -1,5 +1,84 @@
 [
   {
+    "id": "auto-b0f5b9nf4l",
+    "asin": "B0F5B9NF4L",
+    "title": "adidas Unisex Cushioned Crew Socks 6 Paar Pack Socken Gr 31/33 bis …",
+    "category": "Tech",
+    "price": 13.74,
+    "checkedAt": "2026-11-17T10:07:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F5B9NF4L.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07f2ypwkj",
+    "asin": "B07F2YPWKJ",
+    "title": "PUMA Damen Cilia Mode Sneakers, Basic Sneakers Damen Gr.35,5 - 42,5",
+    "category": "Mode & Reise",
+    "price": 30.56,
+    "checkedAt": "2026-11-17T10:12:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07F2YPWKJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09x5g16zm",
+    "asin": "B09X5G16ZM",
+    "title": "Razer Barracuda X - Kabelloses Multiplattform-Headset für Gaming und …",
+    "category": "Gaming",
+    "price": 64.09,
+    "checkedAt": "2026-11-17T10:18:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09X5G16ZM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0glyscmrb",
+    "asin": "B0GLYSCMRB",
+    "title": "Digimon Story: Time Stranger für Nintendo Switch 2",
+    "category": "Gaming",
+    "price": 49.99,
+    "oldPrice": 55.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T10:12:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GLYSCMRB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0c3dcsm2p",
+    "asin": "B0C3DCSM2P",
+    "title": "Blackstone 36\" Griddle Grillstation mit Airfryer",
+    "category": "Küche",
+    "price": 699,
+    "oldPrice": 1028.9,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T10:14:54.000Z",
+    "image": "https://static.mydealz.de/threads/raw/BSBk4/2873601_1/re/768x768/qt/55/2873601_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0722xd7kd",
+    "asin": "B0722XD7KD",
+    "title": "Paladone Chip / Tassilo Tasse Die Schöne und das Biest",
+    "category": "Tech",
+    "price": 7.98,
+    "oldPrice": 19.89,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T10:03:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0722XD7KD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T10:21:21.398Z"
+  },
+  {
+    "id": "queue-b0d2ps2hzq",
+    "asin": "B0D2PS2HZQ",
+    "title": "Thomson 55QG7C14 55\" QLED 4K Google TV",
+    "subtitle": "144 Hz, HDMI 2.1, Dolby Vision und Atmos mit Google TV.",
+    "category": "TV & Heimkino",
+    "price": 195.09,
+    "checkedAt": "2026-11-16T16:29:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D2PS2HZQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T10:20:56.880Z"
+  },
+  {
     "id": "auto-b0c5pgf6cf",
     "asin": "B0C5PGF6CF",
     "title": "Paladone Harry Potter Digitaler Wecker",
@@ -1128,27 +1207,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0cjk658df",
-    "asin": "B0CJK658DF",
-    "title": "Oatly Barista Haferdrink Barista Edition (6er Pack) perfekt für …",
-    "category": "Lebensmittel & Drinks",
-    "price": 10.55,
-    "checkedAt": "2026-11-16T10:16:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CJK658DF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:07:11.655Z"
-  },
-  {
-    "id": "auto-b0d5r7c417",
-    "asin": "B0D5R7C417",
-    "title": "deuter Trans Alpine Pro 26 SL Damen Fahrradrucksack",
-    "category": "Sport & Outdoor",
-    "price": 116.99,
-    "checkedAt": "2026-11-16T10:16:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D5R7C417.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b09k41kxxs",
     "asin": "B09K41KXXS",
     "title": "VAUDE Avox 75+10 Trekkingrucksack (Schwarz)",
@@ -2226,16 +2284,6 @@
     "price": 19.99,
     "checkedAt": "2026-11-16T16:24:55.000Z",
     "image": "https://static.mydealz.de/threads/raw/VswoZ/2873014_1/re/768x768/qt/55/2873014_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0d2ps2hzq",
-    "asin": "B0D2PS2HZQ",
-    "title": "Thomson 55QG7C14 55\" QLED Pro 4K Google Smart TV",
-    "category": "TV & Heimkino",
-    "price": 195.09,
-    "checkedAt": "2026-11-16T16:29:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D2PS2HZQ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
