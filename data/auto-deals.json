@@ -1,5 +1,31 @@
 [
   {
+    "id": "auto-b0cfy2fjw8",
+    "asin": "B0CFY2FJW8",
+    "title": "Sonoff TRVZB Gen1 2er-Pack, ~15,45€ pro Stück",
+    "subtitle": "🔥 150° bei mydealz",
+    "category": "Tech",
+    "price": 30.85,
+    "checkedAt": "2026-11-17T19:54:48.000Z",
+    "image": "https://static.mydealz.de/threads/raw/UlFxF/2874120_1/re/768x768/qt/55/2874120_1.jpg",
+    "temperature": 150,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T20:08:37.776Z"
+  },
+  {
+    "id": "auto-b0dydv1kdm",
+    "asin": "B0DYDV1KDM",
+    "title": "Microsoft Surface Pro, 12\"",
+    "subtitle": "🔥 154° bei mydealz",
+    "category": "Tech",
+    "price": 799,
+    "checkedAt": "2026-11-17T19:52:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DYDV1KDM.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 154,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T20:08:31.469Z"
+  },
+  {
     "id": "auto-b0dzp21rxy",
     "asin": "B0DZP21RXY",
     "title": "UGREEN 40 Gbps USB‑C Kabel 240 W PD3.1 4K/8K Video Schnellladen …",
@@ -2980,16 +3006,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0fldpb8pf",
-    "asin": "B0FLDPB8PF",
-    "title": "Rowenta Premiss 2.0 Personenwaage",
-    "category": "Beauty & Pflege",
-    "price": 9.49,
-    "checkedAt": "2026-11-16T20:07:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FLDPB8PF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0fj8z7xy3",
     "asin": "B0FJ8Z7XY3",
     "title": "Philips Hue Smart LED A60 Lampen, E27, 4er Pack",
@@ -3148,16 +3164,6 @@
     "image": "https://m.media-amazon.com/images/P/B0DX2H6RYR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:31:05.502Z"
-  },
-  {
-    "id": "auto-b07w5jkb8z",
-    "asin": "B07W5JKB8Z",
-    "title": "Logitech G PRO X Lightspeed Kabelloses Gaming-Headset",
-    "category": "Gaming",
-    "price": 89.99,
-    "checkedAt": "2026-11-16T19:56:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07W5JKB8Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0dsw11c1s",
