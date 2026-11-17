@@ -1,5 +1,118 @@
 [
   {
+    "id": "auto-b09km4xxg6",
+    "asin": "B09KM4XXG6",
+    "title": "Razer Kaira Pro PS5 Headset, Dual Wireless, HyperSense Haptik, 50mm …",
+    "category": "Gaming",
+    "price": 69.49,
+    "checkedAt": "2026-11-17T12:08:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09KM4XXG6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0bp1b52gd",
+    "asin": "B0BP1B52GD",
+    "title": "GRIFEMA Schlüsseltresor Wandmontage Wetterfest - Schlüsselsafe 4 …",
+    "category": "Tech",
+    "price": 8.84,
+    "checkedAt": "2026-11-17T12:11:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BP1B52GD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gfxbw7yx",
+    "asin": "B0GFXBW7YX",
+    "title": "ASUS Prime 850W Gold Black Edition ATX-Netzteil, 850 W, ATX 3.1, PCIe …",
+    "category": "Zubehör & Laden",
+    "price": 79,
+    "checkedAt": "2026-11-17T12:17:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GFXBW7YX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dp7blrbg",
+    "asin": "B0DP7BLRBG",
+    "title": "MILLET GRAVIC 20 (Schwarz)",
+    "category": "Tech",
+    "price": 68.03,
+    "checkedAt": "2026-11-17T12:18:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DP7BLRBG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08hgpz1q5",
+    "asin": "B08HGPZ1Q5",
+    "title": "Grateful Dead - American Beauty Vinyl",
+    "subtitle": "🔥 100° bei mydealz",
+    "category": "Tech",
+    "price": 17.59,
+    "checkedAt": "2026-11-17T12:16:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08HGPZ1Q5.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 100,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gvp7xy36",
+    "asin": "B0GVP7XY36",
+    "title": "Dyson V8 Origin (2026) Kabelloser Staubsauger, Silver und Nickel, 130 …",
+    "subtitle": "🔥 703° bei mydealz",
+    "category": "Haushalt",
+    "price": 249,
+    "checkedAt": "2026-11-17T12:09:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GVP7XY36.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 703,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b095z3hvsc",
+    "asin": "B095Z3HVSC",
+    "title": "ONLY ONLJUICY Life HW Wide Leg NAS365 NOOS",
+    "category": "Tech",
+    "price": 25.72,
+    "oldPrice": 49.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T12:14:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B095Z3HVSC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09zj7bfcp",
+    "asin": "B09ZJ7BFCP",
+    "title": "ONLY Mädchen Kogcomet Wide DNM Pim528 Noos Hose, Washed Black, 152 EU",
+    "category": "Tech",
+    "price": 14.23,
+    "oldPrice": 29.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T12:13:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09ZJ7BFCP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07jghhvs8",
+    "asin": "B07JGHHVS8",
+    "title": "PUMA Damen Carina L Sneakers, Puma White-Puma White-Puma Silver, 39 EU",
+    "category": "Mode & Reise",
+    "price": 30.19,
+    "oldPrice": 64.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T12:18:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07JGHHVS8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T12:20:18.406Z"
+  },
+  {
+    "id": "queue-b0d384k6l9",
+    "asin": "B0D384K6L9",
+    "title": "Razer DeathAdder V3 HyperSpeed Gaming-Maus",
+    "subtitle": "Kabellos, nur 55 g, Focus X 26K Sensor.",
+    "category": "Computer",
+    "price": 55.49,
+    "checkedAt": "2026-11-17T09:02:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D384K6L9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T12:19:53.726Z"
+  },
+  {
     "id": "auto-b0dwxzmh5v",
     "asin": "B0DWXZMH5V",
     "title": "Elden Ring Nightreign Collector's Edition (PS5)",
@@ -800,16 +913,6 @@
     "price": 12.38,
     "checkedAt": "2026-11-17T08:57:25.000Z",
     "image": "https://m.media-amazon.com/images/P/B000FWHWGS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0d384k6l9",
-    "asin": "B0D384K6L9",
-    "title": "Razer DeathAdder V3 HyperSpeed Kabellose Gaming-Maus, 55 g, Focus X …",
-    "category": "Computer",
-    "price": 55.49,
-    "checkedAt": "2026-11-17T09:02:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D384K6L9.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -1698,16 +1801,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0c86hn5q7",
-    "asin": "B0C86HN5Q7",
-    "title": "deuter Trail 18 Wanderrucksack (Schwarz)",
-    "category": "Sport & Outdoor",
-    "price": 59.99,
-    "checkedAt": "2026-11-16T12:12:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C86HN5Q7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b074qgdyvb",
     "asin": "B074QGDYVB",
     "title": "Siemens Kaffeevollautomat EQ6 plus s300, 11 Getränke, TE653501DE, …",
@@ -2217,26 +2310,6 @@
     "image": "https://m.media-amazon.com/images/P/B0CV4PRFHK.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:30.497Z"
-  },
-  {
-    "id": "auto-b0gqtcdx17",
-    "asin": "B0GQTCDX17",
-    "title": "ECOVACS DEEBOT T50 PRO Omni Gen3 Saugroboter mit Wischfunktion",
-    "category": "Haushalt",
-    "price": 298.99,
-    "checkedAt": "2026-11-16T12:16:23.000Z",
-    "image": "https://static.mydealz.de/threads/raw/ZmuXe/2872717_1/re/768x768/qt/55/2872717_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dzzs99cg",
-    "asin": "B0DZZS99CG",
-    "title": "Technics EAH-AZ100E-K (Schwarz) inkl. Versand aus UK",
-    "category": "Audio",
-    "price": 36.37,
-    "checkedAt": "2026-11-16T12:16:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DZZS99CG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0hfp4sbrl",
