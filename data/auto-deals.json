@@ -1,5 +1,68 @@
 [
   {
+    "id": "auto-b0c4lfhmr1",
+    "asin": "B0C4LFHMR1",
+    "title": "Brennenstuhl BREMAXX Verlängerungskabel 5m [Prime]",
+    "category": "Tech",
+    "price": 13.57,
+    "checkedAt": "2026-11-17T15:03:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C4LFHMR1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fr44r88g",
+    "asin": "B0FR44R88G",
+    "title": "AOC 27G4ZR 27 Zoll FHD Gaming-Monitor, 260 Hz (OC), Fast IPS, 1 ms …",
+    "category": "Computer",
+    "price": 109,
+    "checkedAt": "2026-11-17T15:05:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FR44R88G.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0bt4vrzgv",
+    "asin": "B0BT4VRZGV",
+    "title": "Razer Basilisk V3 X HyperSpeed Maus",
+    "category": "Computer",
+    "price": 39.9,
+    "checkedAt": "2026-11-17T15:05:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BT4VRZGV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0c3bv19q3",
+    "asin": "B0C3BV19Q3",
+    "title": "HP HyperX Cloud III Kopfhörer Headset",
+    "category": "Audio",
+    "price": 49.99,
+    "checkedAt": "2026-11-17T15:07:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C3BV19Q3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cdbz6d4v",
+    "asin": "B0CDBZ6D4V",
+    "title": "Razer Huntsman V3 Pro Tastatur",
+    "category": "Computer",
+    "price": 134.99,
+    "checkedAt": "2026-11-17T15:10:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CDBZ6D4V.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b082pdqt3g",
+    "asin": "B082PDQT3G",
+    "title": "ZWILLING Smoothie Maker / Standmixer mit 600-ml-Trinkflasche, 300 W, …",
+    "category": "Küche",
+    "price": 24.99,
+    "oldPrice": 39.9,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T15:05:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B082PDQT3G.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T15:18:15.456Z"
+  },
+  {
     "id": "auto-b0fh51hvdt",
     "asin": "B0FH51HVDT",
     "title": "UGREEN FineTrack Slim Tracker Karte – Kabelloses Laden, IP68 …",
@@ -1454,18 +1517,6 @@
     "telegramPostedAt": "2026-11-17T09:51:35.322Z"
   },
   {
-    "id": "queue-b0czpmxgsh",
-    "asin": "B0CZPMXGSH",
-    "title": "Beats Solo 4 Bluetooth On-Ear-Kopfhörer",
-    "subtitle": "Bis zu 50 Std. Akku, kompatibel mit Apple und Android.",
-    "category": "Audio",
-    "price": 109,
-    "checkedAt": "2026-11-16T15:06:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CZPMXGSH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T09:51:18.878Z"
-  },
-  {
     "id": "auto-b0fh5jqq15",
     "asin": "B0FH5JQQ15",
     "title": "Corsair K55 CORE TKL RGB Gaming-Tastatur, QWERTZ DE, Membrantasten, …",
@@ -2763,16 +2814,6 @@
     "telegramPostedAt": "2026-11-16T22:30:34.816Z"
   },
   {
-    "id": "auto-b0f2jc5s96",
-    "asin": "B0F2JC5S96",
-    "title": "The Legend of Zelda: Ocarina of Time - Nintendo Switch 2",
-    "category": "Gaming",
-    "price": 59.99,
-    "checkedAt": "2026-11-16T15:13:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F2JC5S96.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0h6jymnxm",
     "asin": "B0H6JYMNXM",
     "title": "Samsung DW80H77U3UFU1 Geschirrspüler, Unterbaufähig [Energieklasse A]",
@@ -3215,19 +3256,6 @@
     "image": "https://m.media-amazon.com/images/P/B07DYMLQJT.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 124,
     "source": "auto"
-  },
-  {
-    "id": "auto-b0f9fnq9m1",
-    "asin": "B0F9FNQ9M1",
-    "title": "Paladone Super Mario Boo Room Guard",
-    "category": "Gaming",
-    "price": 13.79,
-    "oldPrice": 17.4,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T15:14:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F9FNQ9M1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:31:13.689Z"
   },
   {
     "id": "auto-b0btcp2ph2",
