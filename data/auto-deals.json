@@ -1,5 +1,67 @@
 [
   {
+    "id": "auto-b0gvk2bgkq",
+    "asin": "B0GVK2BGKQ",
+    "title": "Comfee 262L Kühl-Gefrier-Kombkination",
+    "category": "Tech",
+    "price": 271.39,
+    "checkedAt": "2026-11-17T12:49:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GVK2BGKQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0hgb7zb76",
+    "asin": "B0HGB7ZB76",
+    "title": "Philips Hue Play HDMI Sync Box 4K - Ambilight für das ganze Wohnzimmer …",
+    "category": "Smart Home",
+    "price": 103.99,
+    "checkedAt": "2026-11-17T12:56:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HGB7ZB76.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f2mr53d6",
+    "asin": "B0F2MR53D6",
+    "title": "GL.iNet GL-BE3600 (Slate 7) Mobile Reise-Router, WiFi 7",
+    "category": "Computer",
+    "price": 132.79,
+    "checkedAt": "2026-11-17T12:57:52.000Z",
+    "image": "https://static.mydealz.de/threads/raw/0FzMd/2873784_1/re/768x768/qt/55/2873784_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b06y64m5zb",
+    "asin": "B06Y64M5ZB",
+    "title": "Prime: Iggy Pop The Idiot Vinyl LP",
+    "category": "Tech",
+    "price": 15.99,
+    "checkedAt": "2026-11-17T13:00:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B06Y64M5ZB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0851yvlv6",
+    "asin": "B0851YVLV6",
+    "title": "PALADONE - Super Mario Bros Piranha-Pflanze Lampe",
+    "category": "Tech",
+    "price": 21.26,
+    "checkedAt": "2026-11-17T13:04:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0851YVLV6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b01m8m8g23",
+    "asin": "B01M8M8G23",
+    "title": "Logitech G Saitek Farm Sim Controller – Steuerpult für Farming …",
+    "category": "Gaming",
+    "price": 94.99,
+    "oldPrice": 121.24,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T12:57:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01M8M8G23.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0fx9qbxxy",
     "asin": "B0FX9QBXXY",
     "title": "Fire TV Stick 4K Plus + Luna-Controller",
@@ -91,7 +153,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T12:41:56.000Z",
     "image": "https://m.media-amazon.com/images/P/B00ZWOUH4S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T13:05:01.586Z"
   },
   {
     "id": "auto-b0dpq6g71q",
@@ -2001,16 +2064,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b07g2np63w",
-    "asin": "B07G2NP63W",
-    "title": "Fettercairn 12 Jahre Highland Single Malt Scotch Whisky 0,7l 40%",
-    "category": "Lebensmittel & Drinks",
-    "price": 31.34,
-    "checkedAt": "2026-11-16T12:59:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07G2NP63W.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0gxdkfpdr",
     "asin": "B0GXDKFPDR",
     "title": "GL.iNet Slate 7 Pro (GL-BE10000) WLAN 7 Reiserouter, 6GHz, 2,5G, …",
@@ -2275,19 +2328,6 @@
     "telegramPostedAt": "2026-11-17T08:07:32.436Z"
   },
   {
-    "id": "auto-b07qt525vm",
-    "asin": "B07QT525VM",
-    "title": "SEVERIN EZ 7407 Kompakt-Eismaschine & Joghurtbereiter",
-    "category": "Spielzeug & LEGO",
-    "price": 155.99,
-    "oldPrice": 179.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T12:52:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07QT525VM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:22:15.854Z"
-  },
-  {
     "id": "auto-b0fr9jj67l",
     "asin": "B0FR9JJ67L",
     "title": "PROPHETE GENIESSER 5.0 E-Bike 28 Zoll",
@@ -2490,36 +2530,6 @@
     "image": "https://m.media-amazon.com/images/P/B0CV4PRFHK.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:30.497Z"
-  },
-  {
-    "id": "auto-b0gxdw4whh",
-    "asin": "B0GXDW4WHH",
-    "title": "WOLFBOX MF400 Akku-Laubbläser Kabellos 453W 72 m/s Air Duster …",
-    "category": "Haushalt",
-    "price": 129.99,
-    "checkedAt": "2026-11-16T12:54:11.000Z",
-    "image": "https://static.mydealz.de/threads/raw/WdecB/2872777_1/re/768x768/qt/55/2872777_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0cw62nhnl",
-    "asin": "B0CW62NHNL",
-    "title": "Wera 7515/7 Kraftform Safe-Torque Speed Bicycle 1 Bit-Set 7teilig, …",
-    "category": "Werkzeug",
-    "price": 57.39,
-    "checkedAt": "2026-11-16T12:59:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CW62NHNL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b083dlz2v2",
-    "asin": "B083DLZ2V2",
-    "title": "Bosch Lochsäge 68mm 5x PRO Multi Material PC Plus Starter Set - Prime …",
-    "category": "Werkzeug",
-    "price": 19.99,
-    "checkedAt": "2026-11-16T13:04:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B083DLZ2V2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0dt72l7cv",
@@ -3238,18 +3248,6 @@
     "image": "https://m.media-amazon.com/images/P/B0DW96CFKL.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:45:51.435Z"
-  },
-  {
-    "id": "auto-b07668gjp6",
-    "asin": "B07668GJP6",
-    "title": "fischer FIXtainer DuoPower Dübel-Set 210-teilig",
-    "category": "Werkzeug",
-    "price": 19.86,
-    "oldPrice": 30.5,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T12:56:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07668GJP6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b01msdr3e5",
