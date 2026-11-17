@@ -1,5 +1,50 @@
 [
   {
+    "id": "auto-b0fh5jqq15",
+    "asin": "B0FH5JQQ15",
+    "title": "Corsair K55 CORE TKL RGB Gaming-Tastatur, QWERTZ DE, Membrantasten, …",
+    "category": "Computer",
+    "price": 29.99,
+    "checkedAt": "2026-11-17T09:23:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FH5JQQ15.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09m2yhxrv",
+    "asin": "B09M2YHXRV",
+    "title": "Tenda SG108 LAN Switch 8 Port Gigabit Netzwerk Switch Unmanaged LAN …",
+    "category": "Tech",
+    "price": 11.89,
+    "checkedAt": "2026-11-17T09:32:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09M2YHXRV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dkfhx4xk",
+    "asin": "B0DKFHX4XK",
+    "title": "THERMOcafé TC Bottle von Thermos 500 ml",
+    "category": "Tech",
+    "price": 13.99,
+    "oldPrice": 21.29,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T09:32:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DKFHX4XK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T09:36:55.198Z"
+  },
+  {
+    "id": "queue-b0dqv9m7hp",
+    "asin": "B0DQV9M7HP",
+    "title": "Bosch Professional GSB 18V-65 Schlagbohrschrauber",
+    "subtitle": "Inkl. 2× 4,0-Ah-Akkus und Ladegerät – starker Allrounder.",
+    "category": "Werkzeug",
+    "price": 219.99,
+    "checkedAt": "2026-11-16T17:16:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQV9M7HP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T09:36:37.280Z"
+  },
+  {
     "id": "auto-b0h21h62l6",
     "asin": "B0H21H62L6",
     "title": "Rexona FIFA World Cup 2026TM Superstar Collection Geschenkset …",
@@ -985,26 +1030,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0bw15xq7n",
-    "asin": "B0BW15XQ7N",
-    "title": "RYOBI 18 V ONE+ Akku-Tauchpumpe RY18SPA-0, 4200 l/h Fördermenge, ohne …",
-    "category": "Werkzeug",
-    "price": 135.49,
-    "checkedAt": "2026-11-16T09:26:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BW15XQ7N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0c69r67w3",
-    "asin": "B0C69R67W3",
-    "title": "REV Deckenlampe - 50cm, Stoff-Lampenschirm im Vintage Look, taupe",
-    "category": "Licht & Garten",
-    "price": 46.65,
-    "checkedAt": "2026-11-16T09:30:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C69R67W3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b08yj3cgg2",
     "asin": "B08YJ3CGG2",
     "title": "LIPTON ICE TEA Sparkling Lemon",
@@ -1691,26 +1716,6 @@
     "telegramPostedAt": "2026-11-16T22:30:26.067Z"
   },
   {
-    "id": "auto-b096hb6xn5",
-    "asin": "B096HB6XN5",
-    "title": "Paladone Super Mario Bros 3D Boo Licht - Offiziell lizenziertes …",
-    "category": "Gaming",
-    "price": 12.96,
-    "checkedAt": "2026-11-16T09:28:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B096HB6XN5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dpxqn7r1",
-    "asin": "B0DPXQN7R1",
-    "title": "BISSELL PowerClean FurFinder kabelloser 3-in-1 Akku-Staubsauger",
-    "category": "Haushalt",
-    "price": 99.98,
-    "checkedAt": "2026-11-16T09:34:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DPXQN7R1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0ccrtvtwb",
     "asin": "B0CCRTVTWB",
     "title": "RYOBI 18V ONE+ Akku- Nass-und Trockensauger RV1811-0, ohne Akku und …",
@@ -2300,16 +2305,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0dqv9m7hp",
-    "asin": "B0DQV9M7HP",
-    "title": "Bosch Professional GSB 18V-65 Akku-Schlagbohrschrauber 2x4,0Ah Akkus, …",
-    "category": "Werkzeug",
-    "price": 219.99,
-    "checkedAt": "2026-11-16T17:16:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQV9M7HP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0bx722hfn",
     "asin": "B0BX722HFN",
     "title": "GXTrust Forta PS5 Gaming Headset Lizenziert für PlayStation 5, Weiß",
@@ -2631,19 +2626,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0fg7jfdn8",
-    "asin": "B0FG7JFDN8",
-    "title": "UGREEN Bluetooth-Transmitter für Flugzeug & TV",
-    "category": "TV & Heimkino",
-    "price": 16.13,
-    "oldPrice": 20.3,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T09:29:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/EUiSO/2872479_1/re/768x768/qt/55/2872479_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:31:18.517Z"
-  },
-  {
     "id": "auto-b0f9fnq9m1",
     "asin": "B0F9FNQ9M1",
     "title": "Paladone Super Mario Boo Room Guard",
@@ -2911,19 +2893,5 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T10:11:42.149Z",
     "image": "https://m.media-amazon.com/images/P/B0F457MQCQ.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "auto-b0f9nxff48",
-    "asin": "B0F9NXFF48",
-    "title": "SANODESK elektrisch höhenverstellbarer Schreibtisch 120 x 60 cm",
-    "subtitle": "🔥 116° bei mydealz",
-    "category": "Computer",
-    "price": 89.99,
-    "oldPrice": 109.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T09:23:27.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T09:42:43.757Z",
-    "temperature": 116
   }
 ]
