@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0f43rs71l",
+    "asin": "B0F43RS71L",
+    "title": "Pukka Bio Tee Adventskalender 2026, Geschenkset, 24 Teebeutel, 12 …",
+    "subtitle": "🔥 203° bei mydealz",
+    "category": "Lebensmittel & Drinks",
+    "price": 9.33,
+    "checkedAt": "2026-11-17T07:37:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F43RS71L.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 203,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:52:20.552Z"
+  },
+  {
     "id": "auto-b075c74zjp",
     "asin": "B075C74ZJP",
     "title": "WMF Kult Pro Hochleistungsmixer - Testsieger bei Warentest - inkl. To …",
@@ -241,7 +254,8 @@
     "price": 8.54,
     "checkedAt": "2026-11-17T05:57:18.000Z",
     "image": "https://static.mydealz.de/threads/raw/jl97Z/2873390_1/re/768x768/qt/55/2873390_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:52:26.507Z"
   },
   {
     "id": "auto-b0f3pqg5t8",
@@ -337,7 +351,8 @@
     "price": 45.59,
     "checkedAt": "2026-11-17T05:16:24.000Z",
     "image": "https://m.media-amazon.com/images/P/B085CS7Q97.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:52:30.619Z"
   },
   {
     "id": "auto-b0gl7sdg8v",
@@ -487,7 +502,8 @@
     "price": 31.34,
     "checkedAt": "2026-11-16T23:59:38.000Z",
     "image": "https://m.media-amazon.com/images/P/B001HU7THE.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:52:34.701Z"
   },
   {
     "id": "auto-b001p4yyh0",
@@ -497,7 +513,8 @@
     "price": 21.68,
     "checkedAt": "2026-11-16T23:35:45.000Z",
     "image": "https://m.media-amazon.com/images/P/B001P4YYH0.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:52:38.920Z"
   },
   {
     "id": "auto-b00m0hmyiw",
@@ -667,7 +684,8 @@
     "price": 30.56,
     "checkedAt": "2026-11-16T22:19:53.000Z",
     "image": "https://m.media-amazon.com/images/P/B07F2Q511B.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:52:43.119Z"
   },
   {
     "id": "auto-b08b61wzmx",
@@ -677,16 +695,6 @@
     "price": 18.85,
     "checkedAt": "2026-11-16T22:24:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B08B61WZMX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0h1n4f5l9",
-    "asin": "B0H1N4F5L9",
-    "title": "Sennheiser CX 80U – Kabelgebundene USB-C In-Ear-Kopfhörer",
-    "category": "Audio",
-    "price": 29,
-    "checkedAt": "2026-11-16T07:40:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H1N4F5L9.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -2742,18 +2750,6 @@
     "image": "https://m.media-amazon.com/images/P/B0FS8NQZTT.03._SCLZZZZZZZ_SX500_.jpg"
   },
   {
-    "id": "queue-b0cx8mqf7r",
-    "asin": "B0CX8MQF7R",
-    "title": "Amazon Kindle Colorsoft 16 GB",
-    "subtitle": "E-Reader mit 7-Zoll-Farbdisplay und hohem Kontrast.",
-    "category": "Amazon-Geräte",
-    "price": 164.99,
-    "checkedAt": "2026-11-16T07:48:41.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T11:24:04.316Z",
-    "image": "https://m.media-amazon.com/images/P/B0CX8MQF7R.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
     "id": "auto-b083dp86fb",
     "asin": "B083DP86FB",
     "title": "Bosch 43-tlg Extra Hard Schrauberbit-Set",
@@ -2804,18 +2800,6 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T10:40:34.952Z",
     "image": "https://m.media-amazon.com/images/P/B0FN85RFTN.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "queue-b0dtkjjjht",
-    "asin": "B0DTKJJJHT",
-    "title": "CHERRY KW 300 MX Kompakttastatur, MX2A Silent Red",
-    "subtitle": "Leise, kompakte mechanische Tastatur mit Hot-Swap-Switches.",
-    "category": "Computer",
-    "price": 89.99,
-    "checkedAt": "2026-11-16T07:48:48.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T10:40:26.253Z",
-    "image": "https://m.media-amazon.com/images/P/B0DTKJJJHT.03._SCLZZZZZZZ_SX500_.jpg"
   },
   {
     "id": "auto-b0f457mqcq",
@@ -2869,18 +2853,6 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T09:13:46.966Z",
     "image": "https://m.media-amazon.com/images/P/B075DL9JB1.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "queue-b091tv6lwn",
-    "asin": "B091TV6LWN",
-    "title": "UGREEN Nexode 100W GaN Ladegerät, 4 Ports",
-    "subtitle": "Kompaktes GaN-Netzteil mit 4 Ports – lädt Laptop und Handy zugleich.",
-    "category": "Zubehör & Laden",
-    "price": 30.36,
-    "checkedAt": "2026-11-16T07:41:30.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T09:13:35.656Z",
-    "image": "https://m.media-amazon.com/images/P/B091TV6LWN.03._SCLZZZZZZZ_SX500_.jpg"
   },
   {
     "id": "auto-b0cwv5lg6m",
