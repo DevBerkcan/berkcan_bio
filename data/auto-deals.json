@@ -1,5 +1,67 @@
 [
   {
+    "id": "auto-b0fshyrz2s",
+    "asin": "B0FSHYRZ2S",
+    "title": "Kreator - Krushers of the World Vinyl",
+    "category": "Tech",
+    "price": 20.79,
+    "checkedAt": "2026-11-17T16:53:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FSHYRZ2S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dqm7h82v",
+    "asin": "B0DQM7H82V",
+    "title": "Gigabyte B850 Aorus Elite WIFI7 Ice Mainboard",
+    "category": "Computer",
+    "price": 153,
+    "checkedAt": "2026-11-17T16:53:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQM7H82V.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ck8p3srg",
+    "asin": "B0CK8P3SRG",
+    "title": "Corsair CX750 750W 80 Plus Bronze PC Netzteil",
+    "category": "Zubehör & Laden",
+    "price": 47.99,
+    "checkedAt": "2026-11-17T16:54:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CK8P3SRG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fv8sdftw",
+    "asin": "B0FV8SDFTW",
+    "title": "PUMA VARION 3 Indoor Unisex Hallenschuhe Sneaker - Gr. 45",
+    "category": "Mode & Reise",
+    "price": 26.93,
+    "checkedAt": "2026-11-17T16:55:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FV8SDFTW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b01kzvqb42",
+    "asin": "B01KZVQB42",
+    "title": "Logitech M720 Triathlon Multi-Device Kabellose Maus, Bluetooth und …",
+    "category": "Computer",
+    "price": 35.99,
+    "checkedAt": "2026-11-17T16:59:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01KZVQB42.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0b2kxprwx",
+    "asin": "B0B2KXPRWX",
+    "title": "Prime: Foo Fighters - The Essential Foo Fighters 2 Vinyl LP",
+    "subtitle": "🔥 102° bei mydealz",
+    "category": "Tech",
+    "price": 23.99,
+    "checkedAt": "2026-11-17T16:52:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B2KXPRWX.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 102,
+    "source": "auto"
+  },
+  {
     "id": "auto-b07ystgp17",
     "asin": "B07YSTGP17",
     "title": "Gardena Viereckregner AquaZoom compact 216 m²",
@@ -137,7 +199,8 @@
     "price": 45,
     "checkedAt": "2026-11-17T16:00:14.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FQJH54TR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T17:02:22.812Z"
   },
   {
     "id": "auto-b0f677k62q",
@@ -2723,16 +2786,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b07pynbymy",
-    "asin": "B07PYNBYMY",
-    "title": "Stanley Stay Chill Stein 0.71 Liter Krug mit Vakuum-Isolierung",
-    "category": "Sport & Outdoor",
-    "price": 23.8,
-    "checkedAt": "2026-11-16T16:52:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07PYNBYMY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b01ieqr25c",
     "asin": "B01IEQR25C",
     "title": "Haake Beck Pils Dosenbier, Bier im Amazon prime Sparabo",
@@ -2968,26 +3021,6 @@
     "image": "https://m.media-amazon.com/images/P/B0DX2H6RYR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:31:05.502Z"
-  },
-  {
-    "id": "auto-b0cl5kn4kd",
-    "asin": "B0CL5KN4KD",
-    "title": "Ring Stick Up Cam Akku + Innenkamera (2. Gen.)",
-    "category": "Amazon-Geräte",
-    "price": 34.99,
-    "checkedAt": "2026-11-16T16:55:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CL5KN4KD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0943bmjdd",
-    "asin": "B0943BMJDD",
-    "title": "Wiha zai Hause Akku Heißklebepistole Set inkl. Sticks 7 mm mit …",
-    "category": "Werkzeug",
-    "price": 11.89,
-    "checkedAt": "2026-11-16T16:58:15.000Z",
-    "image": "https://static.mydealz.de/threads/raw/nKnXd/2873047_1/re/768x768/qt/55/2873047_1.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0bx722hfn",
