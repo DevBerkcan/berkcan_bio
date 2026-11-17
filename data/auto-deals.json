@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b07w5jj85z",
+    "asin": "B07W5JJ85Z",
+    "title": "Logitech Signature M650 L Kabellose Maus, Bluetooth und Logi Bolt, 5 …",
+    "category": "Computer",
+    "price": 24.99,
+    "checkedAt": "2026-11-17T11:12:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07W5JJ85Z.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07nj9ty6l",
+    "asin": "B07NJ9TY6L",
+    "title": "JACK & JONES Herren Glenn Original Jeans",
+    "category": "Mode & Reise",
+    "price": 18.95,
+    "checkedAt": "2026-11-17T11:15:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07NJ9TY6L.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b09svvvg16",
     "asin": "B09SVVVG16",
     "title": "Alexa-Sprachfernbedienung Pro von Amazon für Fire TV, mit Remote …",
@@ -89,7 +109,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T10:58:19.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BRYX6RQR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T11:20:34.875Z"
   },
   {
     "id": "auto-b0d5r765tm",
@@ -1410,36 +1431,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b09k41kxxs",
-    "asin": "B09K41KXXS",
-    "title": "VAUDE Avox 75+10 Trekkingrucksack (Schwarz)",
-    "category": "Sport & Outdoor",
-    "price": 177.29,
-    "checkedAt": "2026-11-16T11:10:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09K41KXXS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07bn2txbh",
-    "asin": "B07BN2TXBH",
-    "title": "Mattel Games Phase 10 Strategiespiel für 2-6 Spieler ab 7 Jahren - …",
-    "category": "Spielzeug & LEGO",
-    "price": 17.06,
-    "checkedAt": "2026-11-16T11:18:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07BN2TXBH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b000nwgm8o",
-    "asin": "B000NWGM8O",
-    "title": "JOOP! Homme After Shave, mit blumig-holzigem Herrenduft, entspannt, …",
-    "category": "Beauty & Pflege",
-    "price": 12.68,
-    "checkedAt": "2026-11-16T11:19:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000NWGM8O.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0c86hn5q7",
     "asin": "B0C86HN5Q7",
     "title": "deuter Trail 18 Wanderrucksack (Schwarz)",
@@ -1935,19 +1926,6 @@
     "telegramPostedAt": "2026-11-16T22:45:46.934Z"
   },
   {
-    "id": "auto-b0bw9m32pm",
-    "asin": "B0BW9M32PM",
-    "title": "Rieker Herren Winterstiefel U0074, Männer Stiefel, lose Einlage, …",
-    "category": "Mode & Reise",
-    "price": 47.99,
-    "oldPrice": 79.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T11:12:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BW9M32PM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T22:30:38.984Z"
-  },
-  {
     "id": "auto-b08rb5h265",
     "asin": "B08RB5H265",
     "title": "Philips Lumea IPL 9000 Series (BRI955/00) - 46% Rabatt",
@@ -1985,26 +1963,6 @@
     "image": "https://m.media-amazon.com/images/P/B074P3L723.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:26.067Z"
-  },
-  {
-    "id": "auto-b0dt4wr7zb",
-    "asin": "B0DT4WR7ZB",
-    "title": "Beats Powerbeats Pro 2 (in ear Kopfhörer)",
-    "category": "Audio",
-    "price": 189,
-    "checkedAt": "2026-11-16T11:06:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DT4WR7ZB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gmh56trh",
-    "asin": "B0GMH56TRH",
-    "title": "Roborock Qrevo Edge 2 Saug-/Wischroboter Set (schwarz/weiß) inkl. …",
-    "category": "Haushalt",
-    "price": 499.99,
-    "checkedAt": "2026-11-16T11:13:20.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Wvyan/2872653_1/re/768x768/qt/55/2872653_1.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0h7k5t17c",
@@ -2967,18 +2925,5 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T12:06:06.380Z",
     "image": "https://m.media-amazon.com/images/P/B0FS8NQZTT.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "auto-b0fnwwdgsx",
-    "asin": "B0FNWWDGSX",
-    "title": "UGREEN NASync DH2300 2-Bay NAS",
-    "category": "Computer",
-    "price": 169.99,
-    "oldPrice": 189.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T11:08:42.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T11:09:37.266Z",
-    "image": "https://static.mydealz.de/threads/raw/Iqy37/2872643_1/re/768x768/qt/55/2872643_1.jpg"
   }
 ]
