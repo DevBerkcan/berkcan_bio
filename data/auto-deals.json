@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b0gx65yvc8",
+    "asin": "B0GX65YVC8",
+    "title": "Comfee Luftentfeuchter 20L/24h,Raumgröße …",
+    "category": "Haushalt",
+    "price": 143.99,
+    "checkedAt": "2026-11-17T15:19:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GX65YVC8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08d3rqfjf",
+    "asin": "B08D3RQFJF",
+    "title": "Plus-Plus Bausteine Mix in Aufbewahrungsbox",
+    "category": "Tech",
+    "price": 45.82,
+    "checkedAt": "2026-11-17T15:25:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08D3RQFJF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0c4lfhmr1",
     "asin": "B0C4LFHMR1",
     "title": "Brennenstuhl BREMAXX Verlängerungskabel 5m [Prime]",
@@ -126,7 +146,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T14:59:33.000Z",
     "image": "https://m.media-amazon.com/images/P/B0024LJSXI.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T15:33:10.771Z"
   },
   {
     "id": "auto-b0gqlkgd1f",
@@ -2539,26 +2560,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0dydz2tmw",
-    "asin": "B0DYDZ2TMW",
-    "title": "Flexispot Walking Pad, Laufband für Zuhause mit 7 % Steigung 1–12 …",
-    "category": "Sport & Outdoor",
-    "price": 99.99,
-    "checkedAt": "2026-11-16T15:20:11.000Z",
-    "image": "https://static.mydealz.de/threads/raw/huG5R/2872936_1/re/768x768/qt/55/2872936_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dsj3l2r3",
-    "asin": "B0DSJ3L2R3",
-    "title": ". 3x 750G Vorteilspack: SALLOS Lakritz-Bonbon, das Original",
-    "category": "Lebensmittel & Drinks",
-    "price": 10.77,
-    "checkedAt": "2026-11-16T15:27:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DSJ3L2R3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0gv4xj5wd",
     "asin": "B0GV4XJ5WD",
     "title": "Beurer PowerReload compact Massagepistole",
@@ -2812,26 +2813,6 @@
     "image": "https://m.media-amazon.com/images/P/B08RB5H265.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:34.816Z"
-  },
-  {
-    "id": "auto-b0h6jymnxm",
-    "asin": "B0H6JYMNXM",
-    "title": "Samsung DW80H77U3UFU1 Geschirrspüler, Unterbaufähig [Energieklasse A]",
-    "category": "Küche",
-    "price": 806.08,
-    "checkedAt": "2026-11-16T15:17:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H6JYMNXM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0byzp8nk2",
-    "asin": "B0BYZP8NK2",
-    "title": "SONOFF SNZB-02D Zigbee Temperatur- und Luftfeuchtigkeitsensor mit …",
-    "category": "Smart Home",
-    "price": 10.7,
-    "checkedAt": "2026-11-16T15:19:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BYZP8NK2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0fqtydw69",
