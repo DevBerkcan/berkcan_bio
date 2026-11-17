@@ -1,5 +1,60 @@
 [
   {
+    "id": "auto-b06xpj5432",
+    "asin": "B06XPJ5432",
+    "title": "Corsini Caffe Super Cremoso Espresso 1 kg Bohnen Kaffeebohnen",
+    "category": "Küche",
+    "price": 11.4,
+    "checkedAt": "2026-11-17T14:23:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B06XPJ5432.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0c8yd16zy",
+    "asin": "B0C8YD16ZY",
+    "title": "Die Tribute von Panem Gesamtedition BluRay",
+    "category": "Bücher & Filme",
+    "price": 15.99,
+    "checkedAt": "2026-11-17T14:31:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C8YD16ZY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h94kqlmj",
+    "asin": "B0H94KQLMJ",
+    "title": "ECOVACS T90S PRO OMNI Saugroboter mit Wischfunktion",
+    "category": "Haushalt",
+    "price": 499,
+    "checkedAt": "2026-11-17T14:32:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H94KQLMJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09s151knj",
+    "asin": "B09S151KNJ",
+    "title": "Hansgrohe Pulsify Handbrause - absoluter Deal!",
+    "category": "Tech",
+    "price": 24.19,
+    "oldPrice": 29.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T14:24:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09S151KNJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b001hbs0i0",
+    "asin": "B001HBS0I0",
+    "title": "STANLEY MAXSTEEL – Multi-Winkel-Schraubstock",
+    "subtitle": "🔥 384° bei mydealz",
+    "category": "Tech",
+    "price": 22.99,
+    "checkedAt": "2026-11-17T14:19:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B001HBS0I0.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 384,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T14:33:35.958Z"
+  },
+  {
     "id": "auto-b01n7tiwtd",
     "asin": "B01N7TIWTD",
     "title": "fischer DuoPower 8 x 65 – Universaldübel, leistungsstarker …",
@@ -2614,26 +2669,6 @@
     "telegramPostedAt": "2026-11-16T22:30:34.816Z"
   },
   {
-    "id": "auto-b096h9qp49",
-    "asin": "B096H9QP49",
-    "title": "Super Mario Kart Roter Koopa Panzer Licht mit Sound - Offiziell …",
-    "category": "Gaming",
-    "price": 11.49,
-    "checkedAt": "2026-11-16T14:22:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B096H9QP49.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0cgx955c4",
-    "asin": "B0CGX955C4",
-    "title": "Akku-Bohrhammer Bosch Professional GBH 18v-22 inkl. L-Boxx",
-    "category": "Werkzeug",
-    "price": 132.99,
-    "checkedAt": "2026-11-16T14:30:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CGX955C4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0gm1dj7t7",
     "asin": "B0GM1DJ7T7",
     "title": "Blink Outdoor 2K+ + Blink Mini 2K+ + Sync Module Core",
@@ -3030,19 +3065,6 @@
     "image": "https://static.mydealz.de/threads/raw/QmbeM/2872987_1/re/768x768/qt/55/2872987_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T06:22:07.178Z"
-  },
-  {
-    "id": "auto-b0df8l5fh1",
-    "asin": "B0DF8L5FH1",
-    "title": "Samsung Odyssey OLED G81SF - LS27FG814SUXEN Gaming-Monitor",
-    "category": "Computer",
-    "price": 585.92,
-    "oldPrice": 699.89,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T14:22:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DF8L5FH1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:22:02.378Z"
   },
   {
     "id": "auto-b0bj6pgfpm",
