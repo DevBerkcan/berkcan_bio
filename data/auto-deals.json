@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-b0f32tyhxy",
+    "asin": "B0F32TYHXY",
+    "title": "ESN Magnesiumbisglycinat Kapseln - mit 194 mg Magnesium pro …",
+    "category": "Tech",
+    "price": 8.54,
+    "checkedAt": "2026-11-17T05:57:18.000Z",
+    "image": "https://static.mydealz.de/threads/raw/jl97Z/2873390_1/re/768x768/qt/55/2873390_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f3pqg5t8",
+    "asin": "B0F3PQG5T8",
+    "title": "Doritos BBQ 12 x 110 g",
+    "category": "Tech",
+    "price": 13.29,
+    "checkedAt": "2026-11-17T05:58:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F3PQG5T8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b06w5h9ffj",
+    "asin": "B06W5H9FFJ",
+    "title": "IK Multimedia iRig Pro I/O Pocket-Audio MIDI-Interface",
+    "category": "Tech",
+    "price": 106.24,
+    "checkedAt": "2026-11-17T06:05:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B06W5H9FFJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b09w5xlpww",
     "asin": "B09W5XLPWW",
     "title": "Handmixer Krups 3Mix 9000",
@@ -21,7 +51,8 @@
     "checkedAt": "2026-11-17T05:29:51.000Z",
     "image": "https://m.media-amazon.com/images/P/B0178OBYU0.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 102,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:07:20.109Z"
   },
   {
     "id": "auto-b0050dmgdg",
@@ -33,7 +64,8 @@
     "checkedAt": "2026-11-17T05:31:09.000Z",
     "image": "https://m.media-amazon.com/images/P/B0050DMGDG.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 106,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:07:15.914Z"
   },
   {
     "id": "auto-b0756f92mm",
@@ -45,7 +77,8 @@
     "checkedAt": "2026-11-17T05:26:33.000Z",
     "image": "https://m.media-amazon.com/images/P/B0756F92MM.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 403,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:07:02.911Z"
   },
   {
     "id": "auto-b0155ogeuu",
@@ -57,7 +90,8 @@
     "checkedAt": "2026-11-17T05:25:58.000Z",
     "image": "https://m.media-amazon.com/images/P/B0155OGEUU.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 432,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:06:58.586Z"
   },
   {
     "id": "auto-b085cs7q97",
@@ -195,7 +229,8 @@
     "price": 59.84,
     "checkedAt": "2026-11-17T00:59:51.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BD5R277S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:07:07.505Z"
   },
   {
     "id": "auto-b0ckxslthy",
@@ -407,26 +442,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0fpmvm2yv",
-    "asin": "B0FPMVM2YV",
-    "title": "FRITZ!Repeater 2700",
-    "category": "Computer",
-    "price": 118.99,
-    "checkedAt": "2026-11-16T05:52:34.000Z",
-    "image": "https://static.mydealz.de/threads/raw/5CBYc/2872268_1/re/768x768/qt/55/2872268_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0f544cwql",
-    "asin": "B0F544CWQL",
-    "title": "JBL Xtreme 4, Musikbox, Tragbare Bluetooth-Lautsprecher-Box, Schwarz …",
-    "category": "Audio",
-    "price": 164.99,
-    "checkedAt": "2026-11-16T06:05:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F544CWQL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0bkh4fx9y",
     "asin": "B0BKH4FX9Y",
     "title": "Jabra Evolve2 Buds (20797-999-999) True Wireless In-Ear Bluetooth ANC …",
@@ -614,7 +629,8 @@
     "price": 10.55,
     "checkedAt": "2026-11-16T10:16:12.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CJK658DF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:07:11.655Z"
   },
   {
     "id": "auto-b0d5r7c417",
