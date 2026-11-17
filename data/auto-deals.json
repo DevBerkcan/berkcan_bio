@@ -1,5 +1,65 @@
 [
   {
+    "id": "auto-b09w5xlpww",
+    "asin": "B09W5XLPWW",
+    "title": "Handmixer Krups 3Mix 9000",
+    "subtitle": "🔥 101° bei mydealz",
+    "category": "Küche",
+    "price": 59.99,
+    "checkedAt": "2026-11-17T05:22:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09W5XLPWW.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 101,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0178obyu0",
+    "asin": "B0178OBYU0",
+    "title": "Ardmore 12 Jahre Port Wood Finish Single Malt Scotch Whisky 0,7l 46%",
+    "subtitle": "🔥 102° bei mydealz",
+    "category": "Lebensmittel & Drinks",
+    "price": 32.84,
+    "checkedAt": "2026-11-17T05:29:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0178OBYU0.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 102,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0050dmgdg",
+    "asin": "B0050DMGDG",
+    "title": "Victorinox Küchenschere Professional, Mehrzweckschere Rostfrei, 197 mm",
+    "subtitle": "🔥 106° bei mydealz",
+    "category": "Tech",
+    "price": 35.99,
+    "checkedAt": "2026-11-17T05:31:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0050DMGDG.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 106,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0756f92mm",
+    "asin": "B0756F92MM",
+    "title": "Skechers Delson - Camben Gr 39 bis 50,5",
+    "subtitle": "🔥 403° bei mydealz",
+    "category": "Tech",
+    "price": 38.43,
+    "checkedAt": "2026-11-17T05:26:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0756F92MM.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 403,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0155ogeuu",
+    "asin": "B0155OGEUU",
+    "title": "Sammeldeal Yankee Candle zB Christmas Eve Duftkerze im Glas (groß) …",
+    "subtitle": "🔥 432° bei mydealz",
+    "category": "Tech",
+    "price": 17.05,
+    "checkedAt": "2026-11-17T05:25:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0155OGEUU.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 432,
+    "source": "auto"
+  },
+  {
     "id": "auto-b085cs7q97",
     "asin": "B085CS7Q97",
     "title": "Wera Schraubendreher 827 T i Kraftform Turbo, Elektro VDE, …",
@@ -344,16 +404,6 @@
     "price": 18.85,
     "checkedAt": "2026-11-16T22:24:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B08B61WZMX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gwdmct6r",
-    "asin": "B0GWDMCT6R",
-    "title": "Avatar 3-Movie-Collection - 3 Filme als Set - 4K Blu-ray + Blu",
-    "category": "Bücher & Filme",
-    "price": 47.99,
-    "checkedAt": "2026-11-16T05:29:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GWDMCT6R.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -2616,18 +2666,6 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T10:11:30.573Z",
     "image": "https://m.media-amazon.com/images/P/B0DW996637.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "queue-b09b13xfgy",
-    "asin": "B09B13XFGY",
-    "title": "Sonos Beam (Gen 2) Soundbar mit Dolby Atmos",
-    "subtitle": "Kompakte Soundbar mit Dolby Atmos, in Schwarz oder Weiß.",
-    "category": "TV & Heimkino",
-    "price": 349,
-    "checkedAt": "2026-11-16T05:33:17.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T09:57:05.644Z",
-    "image": "https://m.media-amazon.com/images/P/B09B13XFGY.03._SCLZZZZZZZ_SX500_.jpg"
   },
   {
     "id": "auto-b0f9nxff48",
