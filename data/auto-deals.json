@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b0ckxslthy",
+    "asin": "B0CKXSLTHY",
+    "title": "Adidas Terrex Anylander Mid Rain.Rdy Gr 39 bis 48",
+    "category": "Tech",
+    "price": 53.91,
+    "checkedAt": "2026-11-16T23:55:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CKXSLTHY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b001hu7the",
+    "asin": "B001HU7THE",
+    "title": "Caol Ila 12 Jahre Single Malt Scotch Whisky",
+    "category": "Lebensmittel & Drinks",
+    "price": 31.34,
+    "checkedAt": "2026-11-16T23:59:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B001HU7THE.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b001p4yyh0",
     "asin": "B001P4YYH0",
     "title": "Woodford Reserve Kentucky Straight Bourbon Whiskey (Whisky)",
@@ -147,26 +167,6 @@
     "image": "https://m.media-amazon.com/images/P/B0GGSQRFT2.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:45:42.492Z"
-  },
-  {
-    "id": "auto-b0f2tt8q7m",
-    "asin": "B0F2TT8Q7M",
-    "title": "Sony WH-1000XM6 - gebraucht wie neu",
-    "category": "Audio",
-    "price": 282.93,
-    "checkedAt": "2026-11-15T23:47:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F2TT8Q7M.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b078x52s84",
-    "asin": "B078X52S84",
-    "title": "Pirates of the Caribbean 1-5 Box [Blu-ray]",
-    "category": "Bücher & Filme",
-    "price": 27.99,
-    "checkedAt": "2026-11-15T23:51:20.000Z",
-    "image": "https://m.media-amazon.com/images/P/B078X52S84.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b01mz0c0ud",
@@ -917,19 +917,6 @@
     "image": "https://static.mydealz.de/threads/raw/5lSk8/2872618_1/re/768x768/qt/55/2872618_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:31:01.265Z"
-  },
-  {
-    "id": "auto-b0djcsrbr9",
-    "asin": "B0DJCSRBR9",
-    "title": "Der Wilde Roboter (Blu-ray) (Dolby-Atmos) IMDb 8,2/10",
-    "category": "Bücher & Filme",
-    "price": 7.99,
-    "oldPrice": 10.49,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-15T23:48:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJCSRBR9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:30:51.202Z"
   },
   {
     "id": "auto-b0g3nfqrw2",
@@ -2630,19 +2617,6 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T09:13:35.656Z",
     "image": "https://m.media-amazon.com/images/P/B091TV6LWN.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "queue-b0fkg6tdrr",
-    "asin": "B0FKG6TDRR",
-    "title": "Nothing CMF Headphone Pro Over-Ear Kopfhörer",
-    "subtitle": "Kabellose Over-Ear-Kopfhörer von Nothings Marke CMF.",
-    "category": "Audio",
-    "price": 49.99,
-    "oldPrice": 71.3,
-    "checkedAt": "2026-11-15T23:49:03.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T08:59:00.980Z",
-    "image": "https://m.media-amazon.com/images/P/B0FKG6TDRR.03._SCLZZZZZZZ_SX500_.jpg"
   },
   {
     "id": "auto-b0cwv5lg6m",
