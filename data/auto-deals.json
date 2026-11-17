@@ -1,5 +1,37 @@
 [
   {
+    "id": "auto-b07nxg4nv9",
+    "asin": "B07NXG4NV9",
+    "title": "Amazon Basics 24er-Pack wiederaufladbare AAA-NiMH-Leistungsbatterien, …",
+    "category": "Tech",
+    "price": 13.76,
+    "checkedAt": "2026-11-17T22:08:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07NXG4NV9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dg6vy1gy",
+    "asin": "B0DG6VY1GY",
+    "title": "KRUPS Sensation Milk Kaffeevollautomat",
+    "category": "Küche",
+    "price": 369.99,
+    "checkedAt": "2026-11-17T22:17:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DG6VY1GY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d5cv18vb",
+    "asin": "B0D5CV18VB",
+    "title": "Philips 27 Zoll QHD Monitor, IPS, 100 Hz, USB-C (65 W PD), USB-Hub, …",
+    "subtitle": "🔥 109° bei mydealz",
+    "category": "Computer",
+    "price": 149,
+    "checkedAt": "2026-11-17T22:08:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D5CV18VB.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 109,
+    "source": "auto"
+  },
+  {
     "id": "auto-b0dqvh4jzs",
     "asin": "B0DQVH4JZS",
     "title": "TRELOCK TORO Faltschloss mit SOLD SECURE GOLD 90 cm – Sicherheitsstufe …",
@@ -29,7 +61,8 @@
     "checkedAt": "2026-11-17T22:04:59.000Z",
     "image": "https://m.media-amazon.com/images/P/B08Z888ZQT.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 101,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T22:22:22.187Z"
   },
   {
     "id": "auto-b0fdgz17nb",
@@ -3279,28 +3312,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0cssz94hq",
-    "asin": "B0CSSZ94HQ",
-    "title": "Prime - Beck Jungen SpiderHausschuh Baumwolle in 23 und 24",
-    "category": "Tech",
-    "price": 14.92,
-    "checkedAt": "2026-11-16T22:16:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CSSZ94HQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:07:28.147Z"
-  },
-  {
-    "id": "auto-b07f2q511b",
-    "asin": "B07F2Q511B",
-    "title": "Prime - PUMA Damen Cilia Mode Sneakers, Basic Sneakers Damen in vielen …",
-    "category": "Mode & Reise",
-    "price": 30.56,
-    "checkedAt": "2026-11-16T22:19:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07F2Q511B.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:52:43.119Z"
-  },
-  {
     "id": "auto-b08b61wzmx",
     "asin": "B08B61WZMX",
     "title": "Prime - ONLY Damen Skinny Jeans Skinny Fit, Casual, Bei max. 40 grad …",
@@ -3308,18 +3319,6 @@
     "price": 18.85,
     "checkedAt": "2026-11-16T22:24:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B08B61WZMX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0g495fgld",
-    "asin": "B0G495FGLD",
-    "title": "Amazon Fire TV 4K Plus Stick",
-    "subtitle": "🔥 110° bei mydealz",
-    "category": "Amazon-Geräte",
-    "price": 18.35,
-    "checkedAt": "2026-11-16T22:09:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G495FGLD.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 110,
     "source": "auto"
   }
 ]
