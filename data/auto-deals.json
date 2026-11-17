@@ -1,5 +1,55 @@
 [
   {
+    "id": "auto-b0d5r6m5g9",
+    "asin": "B0D5R6M5G9",
+    "title": "MTB Rucksack Deuter Trans Alpin 28 Pro",
+    "category": "Sport & Outdoor",
+    "price": 127.49,
+    "checkedAt": "2026-11-17T17:56:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D5R6M5G9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fk5xzmgv",
+    "asin": "B0FK5XZMGV",
+    "title": "neuer Philips Body Groomer 7000 Series BG7485/30 69,99€ 64,22€ .es …",
+    "category": "Beauty & Pflege",
+    "price": 69.99,
+    "checkedAt": "2026-11-17T18:00:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FK5XZMGV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0848chrg5",
+    "asin": "B0848CHRG5",
+    "title": "Gummistiefel Viking Stavern Gr.41",
+    "category": "Mode & Reise",
+    "price": 29.26,
+    "checkedAt": "2026-11-17T18:11:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0848CHRG5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f4kxjq42",
+    "asin": "B0F4KXJQ42",
+    "title": "Sony BRAVIA 3 - Direct LED 55 Zoll Fernseher (K55S32) mit Google TV, …",
+    "category": "TV & Heimkino",
+    "price": 499,
+    "checkedAt": "2026-11-17T21:29:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F4KXJQ42.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b093zxc8t2",
+    "asin": "B093ZXC8T2",
+    "title": "Wiha zai Hause 4V Akkuschrauber Set mit 4 Bits und USB C Ladekabel, …",
+    "category": "Werkzeug",
+    "price": 17.99,
+    "checkedAt": "2026-11-17T21:36:14.000Z",
+    "image": "https://static.mydealz.de/threads/raw/XoiCC/2874203_1/re/768x768/qt/55/2874203_1.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b09rgb84ft",
     "asin": "B09RGB84FT",
     "title": "Corona Cero 0,0% Alkoholfrei Lager Bier, MEHRWEG im Kasten, …",
@@ -141,7 +191,8 @@
     "price": 20.94,
     "checkedAt": "2026-11-17T20:07:59.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FFTB14VW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T21:37:54.514Z"
   },
   {
     "id": "auto-b0dkfnvvb5",
@@ -3279,63 +3330,5 @@
     "image": "https://m.media-amazon.com/images/P/B0G495FGLD.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 110,
     "source": "auto"
-  },
-  {
-    "id": "auto-b07kn2d4m6",
-    "asin": "B07KN2D4M6",
-    "title": "Fischer Duopower 6 x 30",
-    "subtitle": "🔥 120° bei mydealz",
-    "category": "Tech",
-    "price": 9.99,
-    "checkedAt": "2026-11-16T21:31:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07KN2D4M6.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 120,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b001ilccns",
-    "asin": "B001ILCCNS",
-    "title": "BGS 1192 Maul-Ringschlüssel-Satz – 8-tlg., SW 6–19 mm, …",
-    "subtitle": "🔥 135° bei mydealz",
-    "category": "Tech",
-    "price": 6.99,
-    "checkedAt": "2026-11-16T21:26:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B001ILCCNS.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 135,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0d9c1dt62",
-    "asin": "B0D9C1DT62",
-    "title": "Corsair RM850x (2024) – 850 W ATX-Netzteil",
-    "category": "Zubehör & Laden",
-    "price": 107.9,
-    "checkedAt": "2026-11-16T21:23:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D9C1DT62.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:22:18.112Z"
-  },
-  {
-    "id": "auto-b0h7h4rq6m",
-    "asin": "B0H7H4RQ6M",
-    "title": "Anker Smart Ladegerät für Laptops, 100W, 80% Ladebegrenzung für z.B. …",
-    "category": "Computer",
-    "price": 47.49,
-    "checkedAt": "2026-11-16T21:37:12.000Z",
-    "image": "https://static.mydealz.de/threads/raw/2Vqsg/2873264_1/re/768x768/qt/55/2873264_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dx2h6ryr",
-    "asin": "B0DX2H6RYR",
-    "title": "Razer Barracuda X Chroma Phantom Green Gaming-Headset, kabellos, …",
-    "category": "Gaming",
-    "price": 75.09,
-    "oldPrice": 95.29,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T21:30:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DX2H6RYR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:31:05.502Z"
   }
 ]
