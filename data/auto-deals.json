@@ -1,5 +1,57 @@
 [
   {
+    "id": "auto-b09t9p4msl",
+    "asin": "B09T9P4MSL",
+    "title": "ASUS ROG Strix 1200W Platinum Gaming Netzteil",
+    "subtitle": "🔥 117° bei mydealz",
+    "category": "Gaming",
+    "price": 159.99,
+    "checkedAt": "2026-11-17T19:01:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09T9P4MSL.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 117,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:09:15.244Z"
+  },
+  {
+    "id": "auto-b000ybzrz8",
+    "asin": "B000YBZRZ8",
+    "title": "Brennenstuhl Super-Solid Steckdosenleiste 8-Fach Mehrfachsteckdose mit …",
+    "subtitle": "🔥 129° bei mydealz",
+    "category": "Smart Home",
+    "price": 12.99,
+    "checkedAt": "2026-11-17T18:55:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000YBZRZ8.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 129,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:08:14.049Z"
+  },
+  {
+    "id": "auto-b0d1zsc62p",
+    "asin": "B0D1ZSC62P",
+    "title": "Amazon Fire TV Soundbar Plus 3.1 mit Dolby Atmos & DTS:X",
+    "subtitle": "🔥 158° bei mydealz",
+    "category": "Amazon-Geräte",
+    "price": 148.49,
+    "checkedAt": "2026-11-17T18:38:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D1ZSC62P.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 158,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:06:56.177Z"
+  },
+  {
+    "id": "auto-b0gf7s88yd",
+    "asin": "B0GF7S88YD",
+    "title": "FLEXISPOT E1 Pro Höhenverstellbares Schreibtischgestell in Schwarz",
+    "category": "Computer",
+    "price": 129.99,
+    "oldPrice": 199.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T19:01:23.000Z",
+    "image": "https://static.mydealz.de/threads/raw/nTupZ/2874097_1/re/768x768/qt/55/2874097_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:06:52.152Z"
+  },
+  {
     "id": "auto-b0gxzjw37v",
     "asin": "B0GXZJW37V",
     "title": "Samsung Crystal U7099H 4K 50 Zoll (125 cm), UHD Fernseher, Smart AI …",
@@ -134,7 +186,8 @@
     "price": 47.99,
     "checkedAt": "2026-11-17T16:54:08.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CK8P3SRG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:07:23.626Z"
   },
   {
     "id": "auto-b0fv8sdftw",
@@ -154,7 +207,8 @@
     "price": 35.99,
     "checkedAt": "2026-11-17T16:59:54.000Z",
     "image": "https://m.media-amazon.com/images/P/B01KZVQB42.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:08:17.229Z"
   },
   {
     "id": "auto-b0b2kxprwx",
@@ -489,7 +543,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T14:53:16.000Z",
     "image": "https://m.media-amazon.com/images/P/B0146TE812.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:08:47.873Z"
   },
   {
     "id": "auto-b0024ljsxi",
@@ -2850,27 +2905,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0965j4ht5",
-    "asin": "B0965J4HT5",
-    "title": "Shelly Plus 1PM",
-    "category": "Smart Home",
-    "price": 9.99,
-    "checkedAt": "2026-11-16T18:44:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0965J4HT5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b08t6kzgnh",
-    "asin": "B08T6KZGNH",
-    "title": "K-Swiss Rinzler Herren Sneaker",
-    "category": "Mode & Reise",
-    "price": 49.31,
-    "checkedAt": "2026-11-16T18:52:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08T6KZGNH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:37:30.239Z"
-  },
-  {
     "id": "auto-b0fldpb8pf",
     "asin": "B0FLDPB8PF",
     "title": "Rowenta Premiss 2.0 Personenwaage",
@@ -3296,31 +3330,5 @@
     "image": "https://m.media-amazon.com/images/P/B01MSDR3E5.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 312,
     "source": "auto"
-  },
-  {
-    "id": "auto-b0gfxtf9yr",
-    "asin": "B0GFXTF9YR",
-    "title": "Der neue Amazon Echo Time- Spare 20% mit Trade-in",
-    "category": "Audio",
-    "price": 117.72,
-    "oldPrice": 214.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T19:09:20.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GFXTF9YR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T21:44:09.000Z"
-  },
-  {
-    "id": "auto-b01bgbj8y0",
-    "asin": "B01BGBJ8Y0",
-    "title": "Logitech C270 HD-Webcam (720p, Mikrofon, USB)",
-    "category": "Computer",
-    "price": 13.9,
-    "oldPrice": 34.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T19:29:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01BGBJ8Y0.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T21:14:08.422Z"
   }
 ]
