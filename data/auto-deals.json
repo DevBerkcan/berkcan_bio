@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b0c5pgf6cf",
+    "asin": "B0C5PGF6CF",
+    "title": "Paladone Harry Potter Digitaler Wecker",
+    "category": "Tech",
+    "price": 18.34,
+    "checkedAt": "2026-11-17T09:58:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C5PGF6CF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0hf188rp8",
+    "asin": "B0HF188RP8",
+    "title": "CORSAIR HS80 v2 MAX WIRELESS Kopfhörer Headset",
+    "category": "Audio",
+    "price": 159.99,
+    "checkedAt": "2026-11-17T10:00:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HF188RP8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0976xgzls",
     "asin": "B0976XGZLS",
     "title": "Old Spice Rockstar Deo Stick 6er Pack personalisiert",
@@ -161,7 +181,8 @@
     "checkedAt": "2026-11-17T09:11:29.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DYVD72P2.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 277,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T10:06:27.713Z"
   },
   {
     "id": "auto-b0gk9cdsvx",
@@ -1107,46 +1128,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0dnhsyfxp",
-    "asin": "B0DNHSYFXP",
-    "title": "Amazon Basics 10kg Neopren Hantelset",
-    "category": "Sport & Outdoor",
-    "price": 35.65,
-    "checkedAt": "2026-11-16T09:56:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DNHSYFXP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0h8t3clb1",
-    "asin": "B0H8T3CLB1",
-    "title": "Pokemon Sammelkartenspiel: 30 Jahre Jubiläum Ultra Premium Kollektion …",
-    "category": "Spielzeug & LEGO",
-    "price": 209.99,
-    "checkedAt": "2026-11-16T10:02:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H8T3CLB1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0h8svzj12",
-    "asin": "B0H8SVZJ12",
-    "title": "Pokémon-Sammelkartenspiel: Ultra-Premium-Kollektion 30 Jahre: Tag",
-    "category": "Spielzeug & LEGO",
-    "price": 209.99,
-    "checkedAt": "2026-11-16T10:05:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H8SVZJ12.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0h4qg6wxk",
-    "asin": "B0H4QG6WXK",
-    "title": "Philips LED-Lampe GU10, WarmGlow, Dimmbar, 6er-Pack",
-    "category": "Licht & Garten",
-    "price": 13.48,
-    "checkedAt": "2026-11-16T10:05:26.000Z",
-    "image": "https://static.mydealz.de/threads/raw/oLlVU/2872538_1/re/768x768/qt/55/2872538_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0cjk658df",
     "asin": "B0CJK658DF",
     "title": "Oatly Barista Haferdrink Barista Edition (6er Pack) perfekt für …",
@@ -1770,26 +1751,6 @@
     "telegramPostedAt": "2026-11-16T22:30:26.067Z"
   },
   {
-    "id": "auto-b0dhgr23cn",
-    "asin": "B0DHGR23CN",
-    "title": "Bosch Heizkörperthermostat II (+M)",
-    "category": "Smart Home",
-    "price": 46.29,
-    "checkedAt": "2026-11-16T09:51:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHGR23CN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0855t2bcc",
-    "asin": "B0855T2BCC",
-    "title": "Super Mario Sparschwein / Spardose - Offiziell Lizenziertes Nintendo , …",
-    "category": "Gaming",
-    "price": 12.98,
-    "checkedAt": "2026-11-16T09:56:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0855T2BCC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0dkjzzmrm",
     "asin": "B0DKJZZMRM",
     "title": "Ring Intercom Audio durch Bundle Trick",
@@ -1897,16 +1858,6 @@
     "price": 36.37,
     "checkedAt": "2026-11-16T12:16:48.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DZZS99CG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dslk2p4j",
-    "asin": "B0DSLK2P4J",
-    "title": "roborock Saros Z70 – Saugroboter mit Wischfunktion und …",
-    "category": "Haushalt",
-    "price": 639,
-    "checkedAt": "2026-11-16T12:22:27.000Z",
-    "image": "https://static.mydealz.de/threads/raw/iJevO/2868388_1/re/768x768/qt/55/2868388_1.jpg",
     "source": "auto"
   },
   {
@@ -2914,18 +2865,5 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T10:40:34.952Z",
     "image": "https://m.media-amazon.com/images/P/B0FN85RFTN.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "auto-b0f457mqcq",
-    "asin": "B0F457MQCQ",
-    "title": "Xiaomi TV F 65\"",
-    "category": "TV & Heimkino",
-    "price": 359,
-    "oldPrice": 495,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T09:57:06.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T10:11:42.149Z",
-    "image": "https://m.media-amazon.com/images/P/B0F457MQCQ.03._SCLZZZZZZZ_SX500_.jpg"
   }
 ]
