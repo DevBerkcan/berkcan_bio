@@ -1,5 +1,50 @@
 [
   {
+    "id": "auto-b0d5r765tm",
+    "asin": "B0D5R765TM",
+    "title": "MILLET Prolighter 22 (Schwarz/Blau)",
+    "category": "Tech",
+    "price": 57.53,
+    "checkedAt": "2026-11-17T10:38:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D5R765TM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fj2y9gk1",
+    "asin": "B0FJ2Y9GK1",
+    "title": "CORSAIR 3500X RS-R ARGB Panoramaglas Mid-Tower-PC-Gehäuse – Weiß",
+    "category": "Tech",
+    "price": 62.99,
+    "checkedAt": "2026-11-17T10:45:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FJ2Y9GK1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08swfll6z",
+    "asin": "B08SWFLL6Z",
+    "title": "Brennenstuhl Textil-Verlängerungskabel 3 m für Innen mit beleuchtetem …",
+    "category": "Tech",
+    "price": 6.99,
+    "oldPrice": 10.53,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T10:48:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08SWFLL6Z.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T10:50:57.755Z"
+  },
+  {
+    "id": "queue-b0fjy2lkzv",
+    "asin": "B0FJY2LKZV",
+    "title": "Battlefield 6 (PS5)",
+    "subtitle": "Der aktuelle Battlefield-Shooter als Disc-Version für PS5.",
+    "category": "Gaming",
+    "price": 19.99,
+    "checkedAt": "2026-11-16T18:27:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FJY2LKZV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T10:50:37.770Z"
+  },
+  {
     "id": "auto-b0d9y821z7",
     "asin": "B0D9Y821Z7",
     "title": "TechniSat VIOLA 231 OD Baustellenradio mit DAB+, Bluetooth und …",
@@ -1874,26 +1919,6 @@
     "telegramPostedAt": "2026-11-16T22:30:26.067Z"
   },
   {
-    "id": "auto-b0dsc8jf59",
-    "asin": "B0DSC8JF59",
-    "title": "Garmin Instinct 3 AMOLED schwarz",
-    "category": "Smartphone & Tablet",
-    "price": 249,
-    "checkedAt": "2026-11-16T10:40:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DSC8JF59.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fh257nrl",
-    "asin": "B0FH257NRL",
-    "title": "Prime | Philips Hue Devote Slim Deckenleuchte, S, 291 mm Rund, Weiß",
-    "category": "Smart Home",
-    "price": 59.99,
-    "checkedAt": "2026-11-16T10:41:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FH257NRL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0hgf3x8r7",
     "asin": "B0HGF3X8R7",
     "title": "Reolink Akku-Türklingel-Kamera",
@@ -2413,16 +2438,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0fjy2lkzv",
-    "asin": "B0FJY2LKZV",
-    "title": "Battlefield 6 – PS5 / PlayStation 5 (Disc, USK 18)",
-    "category": "Gaming",
-    "price": 19.99,
-    "checkedAt": "2026-11-16T18:27:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJY2LKZV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0cwpdxwhp",
     "asin": "B0CWPDXWHP",
     "title": "tado° Smartes Heizkörperthermostat X – Trio Pack",
@@ -2904,19 +2919,6 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T12:06:06.380Z",
     "image": "https://m.media-amazon.com/images/P/B0FS8NQZTT.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "auto-b083dp86fb",
-    "asin": "B083DP86FB",
-    "title": "Bosch 43-tlg Extra Hard Schrauberbit-Set",
-    "category": "Werkzeug",
-    "price": 14.99,
-    "oldPrice": 25.71,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T10:47:29.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T11:09:41.416Z",
-    "image": "https://m.media-amazon.com/images/P/B083DP86FB.03._SCLZZZZZZZ_SX500_.jpg"
   },
   {
     "id": "auto-b07rp1ss39",
