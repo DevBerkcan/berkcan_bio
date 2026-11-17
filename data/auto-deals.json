@@ -1,5 +1,69 @@
 [
   {
+    "id": "auto-b0d9y821z7",
+    "asin": "B0D9Y821Z7",
+    "title": "TechniSat VIOLA 231 OD Baustellenradio mit DAB+, Bluetooth und …",
+    "category": "Tech",
+    "price": 89.62,
+    "checkedAt": "2026-11-17T10:24:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D9Y821Z7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d9q4nb5v",
+    "asin": "B0D9Q4NB5V",
+    "title": "LÄSSIG Kinder Brotdose Edelstahl mit herausnehmbarer Trennung, …",
+    "category": "Tech",
+    "price": 7.53,
+    "checkedAt": "2026-11-17T10:32:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D9Q4NB5V.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09ys1k5gt",
+    "asin": "B09YS1K5GT",
+    "title": "PALADONE - PlayStation Formen-Tasse",
+    "category": "Gaming",
+    "price": 12.78,
+    "checkedAt": "2026-11-17T10:34:01.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09YS1K5GT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cz43567w",
+    "asin": "B0CZ43567W",
+    "title": "Anker Nano 240 W USB C Cable Flexible Coloured Braided [1.8 m]",
+    "category": "Tech",
+    "price": 11.3,
+    "checkedAt": "2026-11-17T10:35:12.000Z",
+    "image": "https://static.mydealz.de/threads/raw/n0TYZ/2873616_1/re/768x768/qt/55/2873616_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0bckjbwc9",
+    "asin": "B0BCKJBWC9",
+    "title": "GreenPan Elite 6-in-1 Kontaktgrill",
+    "category": "Licht & Garten",
+    "price": 172,
+    "oldPrice": 249,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T10:31:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BCKJBWC9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "queue-b07fydgd7r",
+    "asin": "B07FYDGD7R",
+    "title": "Philips Hue Play LED-Lightbar 2er-Pack schwarz",
+    "subtitle": "Ambilight-Feeling: Licht passend zu Filmen, Spielen und Musik.",
+    "category": "Smart Home",
+    "price": 77.93,
+    "checkedAt": "2026-11-16T20:20:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07FYDGD7R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T10:35:51.027Z"
+  },
+  {
     "id": "auto-b0f5b9nf4l",
     "asin": "B0F5B9NF4L",
     "title": "adidas Unisex Cushioned Crew Socks 6 Paar Pack Socken Gr 31/33 bis …",
@@ -51,7 +115,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T10:14:54.000Z",
     "image": "https://static.mydealz.de/threads/raw/BSBk4/2873601_1/re/768x768/qt/55/2873601_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T10:36:09.794Z"
   },
   {
     "id": "auto-b0722xd7kd",
@@ -1809,16 +1874,6 @@
     "telegramPostedAt": "2026-11-16T22:30:26.067Z"
   },
   {
-    "id": "auto-b0dkjzzmrm",
-    "asin": "B0DKJZZMRM",
-    "title": "Ring Intercom Audio durch Bundle Trick",
-    "category": "Amazon-Geräte",
-    "price": 11.25,
-    "checkedAt": "2026-11-16T10:26:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DKJZZMRM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0dsc8jf59",
     "asin": "B0DSC8JF59",
     "title": "Garmin Instinct 3 AMOLED schwarz",
@@ -2774,18 +2829,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b07fydgd7r",
-    "asin": "B07FYDGD7R",
-    "title": "Philips Hue Play LED-Lightbar, 2er-Pack, Schwarz",
-    "subtitle": "🔥 333° bei mydealz",
-    "category": "Smart Home",
-    "price": 77.93,
-    "checkedAt": "2026-11-16T20:34:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07FYDGD7R.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 333,
-    "source": "auto"
-  },
-  {
     "id": "auto-b0cy2cfphw",
     "asin": "B0CY2CFPHW",
     "title": "Empire of the Ants - Limited Edition",
@@ -2900,18 +2943,5 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T11:09:37.266Z",
     "image": "https://static.mydealz.de/threads/raw/Iqy37/2872643_1/re/768x768/qt/55/2872643_1.jpg"
-  },
-  {
-    "id": "auto-b0fn85rftn",
-    "asin": "B0FN85RFTN",
-    "title": "Hisense HAF2700DCD Doppelkorb-Heißluftfritteuse",
-    "category": "Küche",
-    "price": 77,
-    "oldPrice": 143.13,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T10:23:14.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T10:40:34.952Z",
-    "image": "https://m.media-amazon.com/images/P/B0FN85RFTN.03._SCLZZZZZZZ_SX500_.jpg"
   }
 ]
