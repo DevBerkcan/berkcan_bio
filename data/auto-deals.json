@@ -1,5 +1,56 @@
 [
   {
+    "id": "auto-b0chmtljvv",
+    "asin": "B0CHMTLJVV",
+    "title": ":herb: NATURTREU Vitaminquelle Multivitamin-Komplex",
+    "category": "Lebensmittel & Drinks",
+    "price": 16.99,
+    "oldPrice": 19.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T19:35:24.000Z",
+    "image": "https://static.mydealz.de/threads/raw/wF8VA/2874129_1/re/768x768/qt/55/2874129_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b007fqb5ry",
+    "asin": "B007FQB5RY",
+    "title": "RYOBI 18V ONE+ Akku-Säbelsäge RRS1801M",
+    "subtitle": "🔥 122° bei mydealz",
+    "category": "Werkzeug",
+    "price": 46.49,
+    "checkedAt": "2026-11-17T19:42:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B007FQB5RY.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 122,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T20:23:49.627Z"
+  },
+  {
+    "id": "auto-b0757jmqg8",
+    "asin": "B0757JMQG8",
+    "title": "Metallica Master of Puppets (Remastered 180g Vinyl)",
+    "subtitle": "🔥 136° bei mydealz",
+    "category": "Spielzeug & LEGO",
+    "price": 26.39,
+    "checkedAt": "2026-11-17T19:38:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0757JMQG8.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 136,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T20:23:43.958Z"
+  },
+  {
+    "id": "auto-b00s82rzwi",
+    "asin": "B00S82RZWI",
+    "title": "HiKOKI 24-teiliger Bit-Satz mit Ratsche, Enthält Torx, PH, PZ, SL Bits …",
+    "subtitle": "🔥 341° bei mydealz",
+    "category": "Tech",
+    "price": 14.87,
+    "checkedAt": "2026-11-17T20:19:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00S82RZWI.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 341,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T20:23:34.221Z"
+  },
+  {
     "id": "auto-b0cfy2fjw8",
     "asin": "B0CFY2FJW8",
     "title": "Sonoff TRVZB Gen1 2er-Pack, ~15,45€ pro Stück",
@@ -1839,18 +1890,6 @@
     "telegramPostedAt": "2026-11-17T11:05:46.982Z"
   },
   {
-    "id": "queue-b07fydgd7r",
-    "asin": "B07FYDGD7R",
-    "title": "Philips Hue Play LED-Lightbar 2er-Pack schwarz",
-    "subtitle": "Ambilight-Feeling: Licht passend zu Filmen, Spielen und Musik.",
-    "category": "Smart Home",
-    "price": 77.93,
-    "checkedAt": "2026-11-16T20:20:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07FYDGD7R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T10:35:51.027Z"
-  },
-  {
     "id": "auto-b0f5b9nf4l",
     "asin": "B0F5B9NF4L",
     "title": "adidas Unisex Cushioned Crew Socks 6 Paar Pack Socken Gr 31/33 bis …",
@@ -2961,19 +3000,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0ggsqrft2",
-    "asin": "B0GGSQRFT2",
-    "title": "LEGO Friends Adventskalender 2026",
-    "category": "Spielzeug & LEGO",
-    "price": 16.99,
-    "oldPrice": 26.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T20:18:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GGSQRFT2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T22:45:42.492Z"
-  },
-  {
     "id": "auto-b0cssz94hq",
     "asin": "B0CSSZ94HQ",
     "title": "Prime - Beck Jungen SpiderHausschuh Baumwolle in 23 und 24",
@@ -3095,19 +3121,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b08rb5h265",
-    "asin": "B08RB5H265",
-    "title": "Philips Lumea IPL 9000 Series (BRI955/00) - 46% Rabatt",
-    "category": "Beauty & Pflege",
-    "price": 299.99,
-    "oldPrice": 559.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T20:09:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08RB5H265.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T22:30:34.816Z"
-  },
-  {
     "id": "auto-b0009w873q",
     "asin": "B0009W873Q",
     "title": "Bosch SDS plus-Adapter mit Bohrfutter [PRIME]",
@@ -3164,16 +3177,6 @@
     "image": "https://m.media-amazon.com/images/P/B0DX2H6RYR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:31:05.502Z"
-  },
-  {
-    "id": "auto-b0dsw11c1s",
-    "asin": "B0DSW11C1S",
-    "title": "Beurer BM 25 Oberarm Blutdruckmessgerät",
-    "category": "Tech",
-    "price": 19.99,
-    "checkedAt": "2026-11-16T20:15:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DSW11C1S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b00bce30rs",
