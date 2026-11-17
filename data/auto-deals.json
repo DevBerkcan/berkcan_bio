@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-b0dd4b94mh",
+    "asin": "B0DD4B94MH",
+    "title": "Thermaltake Toughpower GT 750W ATX-Netzteil, ATX 3.1, 80 PLUS Gold, …",
+    "category": "Zubehör & Laden",
+    "price": 63.08,
+    "checkedAt": "2026-11-17T16:22:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DD4B94MH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h3483qbf",
+    "asin": "B0H3483QBF",
+    "title": "Philips 43PUS7061/12 43 Zoll 4K LED Smart-TV Pixel Precise Ultra HD, …",
+    "category": "TV & Heimkino",
+    "price": 236,
+    "checkedAt": "2026-11-17T16:25:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H3483QBF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cd23bmn4",
+    "asin": "B0CD23BMN4",
+    "title": "Govee Outdoor Neon LED Strip 10m, IP67 Wasserdicht, RGBIC LED …",
+    "category": "Tech",
+    "price": 139,
+    "checkedAt": "2026-11-17T16:26:34.000Z",
+    "image": "https://static.mydealz.de/threads/raw/HTDgi/2871279_1/re/768x768/qt/55/2871279_1.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0886sspyb",
     "asin": "B0886SSPYB",
     "title": "CASO HW 660 Heißwasserspender",
@@ -232,7 +262,8 @@
     "price": 22.39,
     "checkedAt": "2026-11-17T14:55:16.000Z",
     "image": "https://m.media-amazon.com/images/P/B00A81MG9Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T16:32:26.164Z"
   },
   {
     "id": "auto-b0fr4vxqmv",
@@ -1564,18 +1595,6 @@
     "telegramPostedAt": "2026-11-17T10:21:21.398Z"
   },
   {
-    "id": "queue-b0d2ps2hzq",
-    "asin": "B0D2PS2HZQ",
-    "title": "Thomson 55QG7C14 55\" QLED 4K Google TV",
-    "subtitle": "144 Hz, HDMI 2.1, Dolby Vision und Atmos mit Google TV.",
-    "category": "TV & Heimkino",
-    "price": 195.09,
-    "checkedAt": "2026-11-16T16:29:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D2PS2HZQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T10:20:56.880Z"
-  },
-  {
     "id": "auto-b0c5pgf6cf",
     "asin": "B0C5PGF6CF",
     "title": "Paladone Harry Potter Digitaler Wecker",
@@ -2683,16 +2702,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0f9fk4mxm",
-    "asin": "B0F9FK4MXM",
-    "title": "VAUDE Proof 28 (Heron)",
-    "category": "Sport & Outdoor",
-    "price": 93.29,
-    "checkedAt": "2026-11-16T16:32:00.000Z",
-    "image": "https://static.mydealz.de/threads/raw/epGIK/2872561_1/re/768x768/qt/55/2872561_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0dbq5wp76",
     "asin": "B0DBQ5WP76",
     "title": "Nici Kuscheltier Alpaka Elli Paka, 25 cm - 61505",
@@ -2948,26 +2957,6 @@
     "image": "https://m.media-amazon.com/images/P/B0DX2H6RYR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:31:05.502Z"
-  },
-  {
-    "id": "auto-b0h8dzc7ts",
-    "asin": "B0H8DZC7TS",
-    "title": "Wo Long: Fallen Dynasty Complete Edition - Nintendo Switch 2",
-    "category": "Gaming",
-    "price": 49.99,
-    "checkedAt": "2026-11-16T16:22:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H8DZC7TS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07p6pkr4s",
-    "asin": "B07P6PKR4S",
-    "title": "Bosch Professional PRO Impact Mixed Set, 35-teilig – Bits und …",
-    "category": "Werkzeug",
-    "price": 19.99,
-    "checkedAt": "2026-11-16T16:24:55.000Z",
-    "image": "https://static.mydealz.de/threads/raw/VswoZ/2873014_1/re/768x768/qt/55/2873014_1.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b07j24m6wx",
