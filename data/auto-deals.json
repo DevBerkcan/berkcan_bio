@@ -1,5 +1,57 @@
 [
   {
+    "id": "auto-b0flb2lrm3",
+    "asin": "B0FLB2LRM3",
+    "title": "Amazon Alexa Tablet 8 (personalisiert)",
+    "category": "Smartphone & Tablet",
+    "price": 114.99,
+    "checkedAt": "2026-11-17T15:54:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FLB2LRM3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0hmhjz6lq",
+    "asin": "B0HMHJZ6LQ",
+    "title": "Anker Smart universelles Ladegerät, kompakter 100W GaN USB C …",
+    "category": "Zubehör & Laden",
+    "price": 64.59,
+    "checkedAt": "2026-11-17T15:58:12.000Z",
+    "image": "https://static.mydealz.de/threads/raw/lfH1M/2873942_1/re/768x768/qt/55/2873942_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07l6zncr7",
+    "asin": "B07L6ZNCR7",
+    "title": "Marmot Nanowave 45 Sommer-Schlafsack (198cm)",
+    "category": "Sport & Outdoor",
+    "price": 54.49,
+    "checkedAt": "2026-11-17T16:00:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07L6ZNCR7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fqjh54tr",
+    "asin": "B0FQJH54TR",
+    "title": "DJI Mic Mini, drahtloses Lavalier-Mikrofon, USB-C, 300 m Reichweite, …",
+    "category": "Audio",
+    "price": 45,
+    "checkedAt": "2026-11-17T16:00:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FQJH54TR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f677k62q",
+    "asin": "B0F677K62Q",
+    "title": "LG DB597TXS, EEK A, vollintegrierbarer Geschirrspüler / …",
+    "subtitle": "🔥 130° bei mydealz",
+    "category": "Küche",
+    "price": 559,
+    "checkedAt": "2026-11-17T14:53:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F677K62Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 130,
+    "source": "auto"
+  },
+  {
     "id": "auto-b075kxxd3g",
     "asin": "B075KXXD3G",
     "title": "WMF Küchenminis Dörrautomat Edelstahl",
@@ -1399,7 +1451,8 @@
     "price": 13.74,
     "checkedAt": "2026-11-17T10:07:35.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F5B9NF4L.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T16:02:48.175Z"
   },
   {
     "id": "auto-b07f2ypwkj",
@@ -2579,26 +2632,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0gv4xj5wd",
-    "asin": "B0GV4XJ5WD",
-    "title": "Beurer PowerReload compact Massagepistole",
-    "category": "Beauty & Pflege",
-    "price": 37.99,
-    "checkedAt": "2026-11-16T15:54:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GV4XJ5WD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0ccdcjmgz",
-    "asin": "B0CCDCJMGZ",
-    "title": "VAUDE CityGo II 23 L (Schwarz)",
-    "category": "Sport & Outdoor",
-    "price": 65.39,
-    "checkedAt": "2026-11-16T15:58:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CCDCJMGZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0f9fk4mxm",
     "asin": "B0F9FK4MXM",
     "title": "VAUDE Proof 28 (Heron)",
@@ -2769,19 +2802,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b09rktx8w3",
-    "asin": "B09RKTX8W3",
-    "title": "Paladone Xbox Flow-Lampe",
-    "category": "Gaming",
-    "price": 27.88,
-    "oldPrice": 36.7,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T15:48:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09RKTX8W3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:16:09.465Z"
-  },
-  {
     "id": "auto-b07ky92lb6",
     "asin": "B07KY92LB6",
     "title": "Eastpak Delegate+ Messenger Bag / Umhängetasche",
@@ -2819,16 +2839,6 @@
     "image": "https://m.media-amazon.com/images/P/B08RB5H265.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:34.816Z"
-  },
-  {
-    "id": "auto-b0f677k62q",
-    "asin": "B0F677K62Q",
-    "title": "LG DB597TXS, EEK A, vollintegrierbarer Geschirrspüler / …",
-    "category": "Küche",
-    "price": 559,
-    "checkedAt": "2026-11-16T15:58:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F677K62Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0fhkz9zts",
@@ -3124,19 +3134,6 @@
     "image": "https://m.media-amazon.com/images/P/B0FQFQ71TG.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T08:37:42.613Z"
-  },
-  {
-    "id": "auto-b0h45s7p7p",
-    "asin": "B0H45S7P7P",
-    "title": "UGREEN NASync US2000 72W NAS-USV",
-    "category": "Computer",
-    "price": 59.99,
-    "oldPrice": 69.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T16:01:16.000Z",
-    "image": "https://static.mydealz.de/threads/raw/QmbeM/2872987_1/re/768x768/qt/55/2872987_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:22:07.178Z"
   },
   {
     "id": "auto-b0bj6pgfpm",
