@@ -1,5 +1,109 @@
 [
   {
+    "id": "auto-b0c16nc9wx",
+    "asin": "B0C16NC9WX",
+    "title": "Only&Sons Onceres Herren Sweatshirt diverse Farben",
+    "category": "Mode & Reise",
+    "price": 18.43,
+    "checkedAt": "2026-11-17T11:34:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C16NC9WX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f5z4gkz8",
+    "asin": "B0F5Z4GKZ8",
+    "title": "Lenovo LOQ | Laptop | i7 | 16GB | 512GB | RTX 5070",
+    "category": "Computer",
+    "price": 1249.99,
+    "checkedAt": "2026-11-17T11:35:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F5Z4GKZ8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gsflrpnp",
+    "asin": "B0GSFLRPNP",
+    "title": "Bosch Laser-Entfernungsmesser Zamo Messbereich bis 40 m, Laden über …",
+    "category": "Küche",
+    "price": 34.99,
+    "checkedAt": "2026-11-17T11:37:42.000Z",
+    "image": "https://static.mydealz.de/threads/raw/GCIq8/2873685_1/re/768x768/qt/55/2873685_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07w6jn8n7",
+    "asin": "B07W6JN8N7",
+    "title": "Logitech G203 LIGHTSYNC Gaming-Maus, kabelgebunden, 6 programmierbare …",
+    "category": "Computer",
+    "price": 19.74,
+    "checkedAt": "2026-11-17T11:41:42.000Z",
+    "image": "https://static.mydealz.de/threads/raw/t44Pp/2873695_1/re/768x768/qt/55/2873695_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0czxxvks7",
+    "asin": "B0CZXXVKS7",
+    "title": "Ninja MAX PRO Heißluftfritteuse AF180EUCP",
+    "category": "Küche",
+    "price": 89.99,
+    "checkedAt": "2026-11-17T11:43:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CZXXVKS7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cbnfl7gf",
+    "asin": "B0CBNFL7GF",
+    "title": "Jack & Jones Herren Jeans Jjiglenn Jjoriginal Sq 330 Noos",
+    "category": "Mode & Reise",
+    "price": 18.18,
+    "checkedAt": "2026-11-17T11:43:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CBNFL7GF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cdcfrxpn",
+    "asin": "B0CDCFRXPN",
+    "title": "Philips Kaffeevollautomat mit Panarello 3300 Serie",
+    "category": "Küche",
+    "price": 299.97,
+    "checkedAt": "2026-11-17T11:44:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CDCFRXPN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ftsqdbyd",
+    "asin": "B0FTSQDBYD",
+    "title": "Blink Outdoor 4 Kamera (Außenkamera) mit Sync Module Core, Blink Mini …",
+    "category": "Amazon-Geräte",
+    "price": 47.99,
+    "checkedAt": "2026-11-17T11:46:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FTSQDBYD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0c3bsz56d",
+    "asin": "B0C3BSZ56D",
+    "title": "HyperX Cloud III: Gaming-Headset in Schwarz oder Schwarz/Rot",
+    "category": "Gaming",
+    "price": 49.99,
+    "oldPrice": 59,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T11:34:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C3BSZ56D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "queue-b0cwpdxwhp",
+    "asin": "B0CWPDXWHP",
+    "title": "tado° Smartes Heizkörperthermostat X Trio Pack",
+    "subtitle": "Heizung per App steuern, kompatibel mit Alexa, Siri und Google.",
+    "category": "Smart Home",
+    "price": 142.49,
+    "checkedAt": "2026-11-16T19:11:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CWPDXWHP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T11:49:55.563Z"
+  },
+  {
     "id": "auto-b0cytfb73v",
     "asin": "B0CYTFB73V",
     "title": "Adidas Herren VL Court 3.0 Schuhe",
@@ -564,7 +668,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T09:20:11.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GK9CDSVX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T11:50:16.962Z"
   },
   {
     "id": "auto-b0ggb61fkv",
@@ -2019,29 +2124,6 @@
     "telegramPostedAt": "2026-11-16T22:30:30.497Z"
   },
   {
-    "id": "auto-b074p3l723",
-    "asin": "B074P3L723",
-    "title": "ARENA Spider Schwimmbrille in Blau für Erwachsene",
-    "category": "Sport & Outdoor",
-    "price": 6.99,
-    "oldPrice": 17.02,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T11:41:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B074P3L723.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T22:30:26.067Z"
-  },
-  {
-    "id": "auto-b0fkt8y5h7",
-    "asin": "B0FKT8Y5H7",
-    "title": "Octopath Traveler 0 - Nintendo Switch 2 (GKC)",
-    "category": "Gaming",
-    "price": 29.99,
-    "checkedAt": "2026-11-16T11:41:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FKT8Y5H7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0gqtcdx17",
     "asin": "B0GQTCDX17",
     "title": "ECOVACS DEEBOT T50 PRO Omni Gen3 Saugroboter mit Wischfunktion",
@@ -2491,16 +2573,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0cwpdxwhp",
-    "asin": "B0CWPDXWHP",
-    "title": "tado° Smartes Heizkörperthermostat X – Trio Pack",
-    "category": "Smart Home",
-    "price": 142.49,
-    "checkedAt": "2026-11-16T19:11:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CWPDXWHP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b09kgxkbqd",
     "asin": "B09KGXKBQD",
     "title": "Hammerdeal - 3 Hammer für 15,99",
@@ -2933,19 +3005,6 @@
     "image": "https://m.media-amazon.com/images/P/B01BGBJ8Y0.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T21:14:08.422Z"
-  },
-  {
-    "id": "auto-b0fsdltxgp",
-    "asin": "B0FSDLTXGP",
-    "title": "Beko B5T68219 – Wärmepumpentrockner",
-    "category": "Haushalt",
-    "price": 447.9,
-    "oldPrice": 546.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T11:41:42.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T12:06:08.315Z",
-    "image": "https://m.media-amazon.com/images/P/B0FSDLTXGP.03._SCLZZZZZZZ_SX500_.jpg"
   },
   {
     "id": "auto-b0fs8nqztt",
