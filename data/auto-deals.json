@@ -1,5 +1,37 @@
 [
   {
+    "id": "auto-b0dqvh4jzs",
+    "asin": "B0DQVH4JZS",
+    "title": "TRELOCK TORO Faltschloss mit SOLD SECURE GOLD 90 cm – Sicherheitsstufe …",
+    "category": "Sport & Outdoor",
+    "price": 59.79,
+    "checkedAt": "2026-11-17T17:06:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQVH4JZS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07nxgg55w",
+    "asin": "B07NXGG55W",
+    "title": "Amazon Basics 24er-Pack wiederaufladbare AA-NiMH-Akkus, 2000 mAh, 1,2 …",
+    "category": "Tech",
+    "price": 18.1,
+    "checkedAt": "2026-11-17T21:59:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07NXGG55W.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08z888zqt",
+    "asin": "B08Z888ZQT",
+    "title": "SIGG Edelstahl-Trinkflasche 1 Liter brushed",
+    "subtitle": "🔥 101° bei mydealz",
+    "category": "Haushalt",
+    "price": 15.9,
+    "checkedAt": "2026-11-17T22:04:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08Z888ZQT.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 101,
+    "source": "auto"
+  },
+  {
     "id": "auto-b0fdgz17nb",
     "asin": "B0FDGZ17NB",
     "title": "Car Napping - Bestellt, geklaut, geliefert (1980) - 4K Blu-ray + Blu",
@@ -47,7 +79,8 @@
     "price": 499,
     "checkedAt": "2026-11-17T21:29:17.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F4KXJQ42.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T22:07:40.016Z"
   },
   {
     "id": "auto-b093zxc8t2",
@@ -3276,48 +3309,6 @@
     "checkedAt": "2026-11-16T22:24:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B08B61WZMX.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0dc8jyjqx",
-    "asin": "B0DC8JYJQX",
-    "title": "OXO Brew Rapid Brewer – Tragbare manuelle Kaffeemaschine",
-    "category": "Küche",
-    "price": 28.89,
-    "checkedAt": "2026-11-16T21:57:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DC8JYJQX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b00bmtws9e",
-    "asin": "B00BMTWS9E",
-    "title": "Victorinox Swiss Classic, Frühstücksmesser, Brötchenmesser, Scharfe …",
-    "category": "Küche",
-    "price": 24.35,
-    "checkedAt": "2026-11-16T21:59:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00BMTWS9E.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0h3mh5t8j",
-    "asin": "B0H3MH5T8J",
-    "title": "LG OLED42C64LA - 42 (Modell 2026) Amazon",
-    "category": "Tech",
-    "price": 835.05,
-    "checkedAt": "2026-11-16T22:00:43.000Z",
-    "image": "https://static.mydealz.de/threads/raw/3ylQJ/2873281_1/re/768x768/qt/55/2873281_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:07:37.042Z"
-  },
-  {
-    "id": "auto-b0f93sy4bh",
-    "asin": "B0F93SY4BH",
-    "title": "Razer BlackShark V3 X HyperSpeed kabelloses Kopfhörer Headset",
-    "category": "Audio",
-    "price": 65.69,
-    "checkedAt": "2026-11-16T22:02:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F93SY4BH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:07:32.436Z"
   },
   {
     "id": "auto-b0g495fgld",
