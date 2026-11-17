@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-b0bj2wjld7",
+    "asin": "B0BJ2WJLD7",
+    "title": "WMF Iconic Bratentopf 24 cm mit Deckel",
+    "category": "Tech",
+    "price": 85.48,
+    "checkedAt": "2026-11-17T13:44:02.000Z",
+    "image": "https://static.mydealz.de/threads/raw/g73Pc/2873825_1/re/768x768/qt/55/2873825_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f3jxn476",
+    "asin": "B0F3JXN476",
+    "title": "STEALTH Reiseset für Nintendo Switch 2",
+    "category": "Gaming",
+    "price": 8.94,
+    "oldPrice": 24.94,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T13:37:19.000Z",
+    "image": "https://static.mydealz.de/threads/raw/ld833/2873820_1/re/768x768/qt/55/2873820_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T13:49:18.760Z"
+  },
+  {
     "id": "auto-b079kjldf2",
     "asin": "B079KJLDF2",
     "title": "Mattel Games UNO Harry Potter Kartenspiel, ab 7 Jahren, 2–10 Spieler",
@@ -2540,29 +2563,6 @@
     "telegramPostedAt": "2026-11-16T22:30:34.816Z"
   },
   {
-    "id": "auto-b0cv4prfhk",
-    "asin": "B0CV4PRFHK",
-    "title": "Paladone Super Mario Bros Thermo-Effekt Tasse 295 ml",
-    "category": "Gaming",
-    "price": 9.98,
-    "oldPrice": 18.94,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T13:44:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CV4PRFHK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T22:30:30.497Z"
-  },
-  {
-    "id": "auto-b0cf6r72f9",
-    "asin": "B0CF6R72F9",
-    "title": "AEG TR8AMZ68 / TR8T70680 Wärmepumpentrockner / 8kg / Testsieger …",
-    "category": "Haushalt",
-    "price": 612,
-    "checkedAt": "2026-11-16T13:48:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CF6R72F9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b00531aqk0",
     "asin": "B00531AQK0",
     "title": "Bosch GTS 10 XC Tischkreissäge",
@@ -3190,19 +3190,6 @@
     "image": "https://m.media-amazon.com/images/P/B0F7Y4VH17.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:01:05.450Z"
-  },
-  {
-    "id": "auto-b0001p18pa",
-    "asin": "B0001P18PA",
-    "title": "Wera Kraftform Micro Elektroniker-Schraubendrehersatz 2035/6 A + Rack",
-    "category": "Werkzeug",
-    "price": 18.39,
-    "oldPrice": 25.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T13:48:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0001P18PA.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T22:46:04.310Z"
   },
   {
     "id": "auto-b0btcp2ph2",
