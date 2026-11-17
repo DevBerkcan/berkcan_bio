@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b00e3862de",
+    "asin": "B00E3862DE",
+    "title": "Philips Fusselrasierer, Blau, 2 Höheneinstellungen",
+    "subtitle": "🔥 116° bei mydealz",
+    "category": "Beauty & Pflege",
+    "price": 7.49,
+    "checkedAt": "2026-11-17T20:28:01.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00E3862DE.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 116,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T20:38:43.182Z"
+  },
+  {
     "id": "auto-b0chmtljvv",
     "asin": "B0CHMTLJVV",
     "title": ":herb: NATURTREU Vitaminquelle Multivitamin-Komplex",
@@ -9,7 +22,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T19:35:24.000Z",
     "image": "https://static.mydealz.de/threads/raw/wF8VA/2874129_1/re/768x768/qt/55/2874129_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T20:38:48.483Z"
   },
   {
     "id": "auto-b007fqb5ry",
@@ -169,7 +183,8 @@
     "price": 28.49,
     "checkedAt": "2026-11-17T19:19:11.000Z",
     "image": "https://m.media-amazon.com/images/P/B00BT0G5UY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T20:38:37.148Z"
   },
   {
     "id": "auto-b09t9p4msl",
@@ -3177,16 +3192,6 @@
     "image": "https://m.media-amazon.com/images/P/B0DX2H6RYR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:31:05.502Z"
-  },
-  {
-    "id": "auto-b00bce30rs",
-    "asin": "B00BCE30RS",
-    "title": "Logitech MK270 Kabelloses Tastatur- und Maus-Set",
-    "category": "Computer",
-    "price": 17.09,
-    "checkedAt": "2026-11-16T20:30:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00BCE30RS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0d92c53gh",
