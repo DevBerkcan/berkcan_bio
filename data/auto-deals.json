@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b077mlz1ks",
+    "asin": "B077MLZ1KS",
+    "title": "Prime - Puma Unisex Puma Smash V2 LSneaker schwarz weiß",
+    "category": "Mode & Reise",
+    "price": 25.91,
+    "checkedAt": "2026-11-17T22:39:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B077MLZ1KS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b00a0df494",
     "asin": "B00A0DF494",
     "title": "Amazon Prime: Gin Mare Mediterraner Gin 0,7 l - 42,7% Vol. Mit Oliven, …",
@@ -217,7 +227,8 @@
     "price": 39.93,
     "checkedAt": "2026-11-17T19:31:21.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F1NF3J68.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T22:52:00.331Z"
   },
   {
     "id": "auto-b07sbwmczc",
@@ -1192,7 +1203,8 @@
     "price": 6.99,
     "checkedAt": "2026-11-17T14:04:55.000Z",
     "image": "https://m.media-amazon.com/images/P/B01N7TIWTD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T22:51:55.826Z"
   },
   {
     "id": "auto-b00cd229q6",
