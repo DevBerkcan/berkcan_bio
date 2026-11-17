@@ -1,5 +1,41 @@
 [
   {
+    "id": "auto-b09pd79c2r",
+    "asin": "B09PD79C2R",
+    "title": "Hellcool Switch 2 Controller Kabellos",
+    "subtitle": "🔥 104° bei mydealz",
+    "category": "Gaming",
+    "price": 24.99,
+    "checkedAt": "2026-11-17T17:05:34.000Z",
+    "image": "https://static.mydealz.de/threads/raw/VFLhB/2870284_1/re/768x768/qt/55/2870284_1.jpg",
+    "temperature": 104,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d5r7c417",
+    "asin": "B0D5R7C417",
+    "title": "deuter Trans Alpine Pro 26 SL Damen Fahrradrucksack",
+    "subtitle": "🔥 106° bei mydealz",
+    "category": "Sport & Outdoor",
+    "price": 116.99,
+    "checkedAt": "2026-11-17T17:04:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D5R7C417.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 106,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dkjzzmrm",
+    "asin": "B0DKJZZMRM",
+    "title": "Ring Intercom Audio durch Bundle Trick",
+    "subtitle": "🔥 106° bei mydealz",
+    "category": "Amazon-Geräte",
+    "price": 11.25,
+    "checkedAt": "2026-11-17T17:04:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DKJZZMRM.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 106,
+    "source": "auto"
+  },
+  {
     "id": "auto-b0fshyrz2s",
     "asin": "B0FSHYRZ2S",
     "title": "Kreator - Krushers of the World Vinyl",
@@ -282,7 +318,8 @@
     "price": 109,
     "checkedAt": "2026-11-17T15:05:46.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FR44R88G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T17:17:30.230Z"
   },
   {
     "id": "auto-b0bt4vrzgv",
@@ -1797,18 +1834,6 @@
     "telegramPostedAt": "2026-11-17T09:36:55.198Z"
   },
   {
-    "id": "queue-b0dqv9m7hp",
-    "asin": "B0DQV9M7HP",
-    "title": "Bosch Professional GSB 18V-65 Schlagbohrschrauber",
-    "subtitle": "Inkl. 2× 4,0-Ah-Akkus und Ladegerät – starker Allrounder.",
-    "category": "Werkzeug",
-    "price": 219.99,
-    "checkedAt": "2026-11-16T17:16:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQV9M7HP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T09:36:37.280Z"
-  },
-  {
     "id": "auto-b0h21h62l6",
     "asin": "B0H21H62L6",
     "title": "Rexona FIFA World Cup 2026TM Superstar Collection Geschenkset …",
@@ -2744,16 +2769,6 @@
     "telegramPostedAt": "2026-11-16T22:45:42.492Z"
   },
   {
-    "id": "auto-b01mz0c0ud",
-    "asin": "B01MZ0C0UD",
-    "title": "LEGO Classic Kreative Dinosaurier (11041)",
-    "category": "Spielzeug & LEGO",
-    "price": 20.3,
-    "checkedAt": "2026-11-16T17:07:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01MZ0C0UD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0cssz94hq",
     "asin": "B0CSSZ94HQ",
     "title": "Prime - Beck Jungen SpiderHausschuh Baumwolle in 23 und 24",
@@ -2937,19 +2952,6 @@
     "image": "https://m.media-amazon.com/images/P/B07KY92LB6.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:01:09.728Z"
-  },
-  {
-    "id": "auto-b09d7r2yx7",
-    "asin": "B09D7R2YX7",
-    "title": "Gillette Fusion5 – 24 Original-Rasierklingen",
-    "category": "Beauty & Pflege",
-    "price": 49.99,
-    "oldPrice": 68.32,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T17:12:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09D7R2YX7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:01:01.291Z"
   },
   {
     "id": "auto-b08rb5h265",
