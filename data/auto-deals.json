@@ -1,5 +1,74 @@
 [
   {
+    "id": "auto-b0049nnuy2",
+    "asin": "B0049NNUY2",
+    "title": "Atari Messenger Umhängetasche mit japanischem Logo in Dunkelrot",
+    "category": "Tech",
+    "price": 25.97,
+    "checkedAt": "2026-11-17T13:05:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0049NNUY2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fprk3fnv",
+    "asin": "B0FPRK3FNV",
+    "title": "DJI ROMO P Saugroboter mit Wischfunktion, 25.000 Pa Saugkraft",
+    "category": "Haushalt",
+    "price": 624.04,
+    "checkedAt": "2026-11-17T13:06:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPRK3FNV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d6bq8f34",
+    "asin": "B0D6BQ8F34",
+    "title": "Nightmare Before Christmas Salz- & Pfefferstreuer",
+    "category": "Tech",
+    "price": 11.18,
+    "oldPrice": 19.85,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T13:08:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D6BQ8F34.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f3wlvmv9",
+    "asin": "B0F3WLVMV9",
+    "title": "Venom Nintendo Switch 2/Nintendo Switch/Nintendo Switch OLED Travel …",
+    "category": "Gaming",
+    "price": 21.27,
+    "oldPrice": 38.89,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T13:18:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F3WLVMV9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f3wjq19h",
+    "asin": "B0F3WJQ19H",
+    "title": "Venom Tragetasche + Panzerglas für Nintendo Switch 2",
+    "category": "Gaming",
+    "price": 7.5,
+    "oldPrice": 19.29,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T13:11:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F3WJQ19H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T13:19:48.163Z"
+  },
+  {
+    "id": "queue-b0h8sbrrsb",
+    "asin": "B0H8SBRRSB",
+    "title": "Panasonic W95C QD-Mini-LED-TV 55\" Google TV",
+    "subtitle": "QD-Mini-LED mit 144 Hz und Google TV, Modell 2026.",
+    "category": "TV & Heimkino",
+    "price": 799,
+    "checkedAt": "2026-11-16T19:44:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H8SBRRSB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T13:19:28.792Z"
+  },
+  {
     "id": "auto-b0gvk2bgkq",
     "asin": "B0GVK2BGKQ",
     "title": "Comfee 262L Kühl-Gefrier-Kombkination",
@@ -2064,16 +2133,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0gxdkfpdr",
-    "asin": "B0GXDKFPDR",
-    "title": "GL.iNet Slate 7 Pro (GL-BE10000) WLAN 7 Reiserouter, 6GHz, 2,5G, …",
-    "category": "Computer",
-    "price": 185.99,
-    "checkedAt": "2026-11-16T13:12:38.000Z",
-    "image": "https://static.mydealz.de/threads/raw/gTRYS/2872797_1/re/768x768/qt/55/2872797_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0dhs9y433",
     "asin": "B0DHS9Y433",
     "title": "LEGO Speed Champions Mercedes-AMG F1 W15 Rennauto 77244",
@@ -2468,31 +2527,6 @@
     "telegramPostedAt": "2026-11-16T23:15:52.720Z"
   },
   {
-    "id": "auto-b0f1tpnyvs",
-    "asin": "B0F1TPNYVS",
-    "title": "Mars Gaming MC-REV White – weißes Panorama-Gehäuse",
-    "category": "Gaming",
-    "price": 61.8,
-    "oldPrice": 87.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T13:09:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F1TPNYVS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T22:46:00.085Z"
-  },
-  {
-    "id": "auto-b0ffgxntzj",
-    "asin": "B0FFGXNTZJ",
-    "title": "Beurer BF 450 Körperfettwaage mit App-Anbindung via Bluetooth",
-    "category": "Beauty & Pflege",
-    "price": 19.99,
-    "oldPrice": 29.89,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T13:05:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FFGXNTZJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b08886xc8p",
     "asin": "B08886XC8P",
     "title": "Paladone The Mandalorian The Child Grogu Baby Yoda Stressball",
@@ -2530,16 +2564,6 @@
     "image": "https://m.media-amazon.com/images/P/B0CV4PRFHK.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:30.497Z"
-  },
-  {
-    "id": "auto-b0dt72l7cv",
-    "asin": "B0DT72L7CV",
-    "title": "Tefal Freemove Power kabelloses Dampfbügeleisen, 2600 Watt",
-    "category": "Haushalt",
-    "price": 59.99,
-    "checkedAt": "2026-11-16T13:10:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DT72L7CV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0dxf66swr",
@@ -2931,16 +2955,6 @@
     "image": "https://m.media-amazon.com/images/P/B0CSXLGQJ7.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T06:37:14.750Z"
-  },
-  {
-    "id": "auto-b0h8sbrrsb",
-    "asin": "B0H8SBRRSB",
-    "title": "Panasonic W95C QD-Mini LED Fernseher (2026) mit Google TV und 144Hz in …",
-    "category": "TV & Heimkino",
-    "price": 799,
-    "checkedAt": "2026-11-16T19:44:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H8SBRRSB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b07w5jkb8z",
