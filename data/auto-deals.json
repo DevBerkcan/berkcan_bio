@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0db9dkn7k",
+    "asin": "B0DB9DKN7K",
+    "title": "Louis Armstrong – Wonderful World: The Best Of Louis Armstrong (Vinyl) …",
+    "category": "Tech",
+    "price": 15.99,
+    "checkedAt": "2026-11-17T06:27:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DB9DKN7K.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09kzp35q6",
+    "asin": "B09KZP35Q6",
+    "title": "Mammut Lithium 40-Liter Trekking- bzw. Wanderrucksack inkl. Regenhülle",
+    "category": "Sport & Outdoor",
+    "price": 91.9,
+    "checkedAt": "2026-11-17T06:31:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09KZP35Q6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fh8slqbh",
+    "asin": "B0FH8SLQBH",
+    "title": "Herr Rossi sucht das Glück - Gesamtedition - plus Extras (3x DVD-9) …",
+    "category": "Bücher & Filme",
+    "price": 20.79,
+    "oldPrice": 24.9,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T06:30:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FH8SLQBH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:37:20.389Z"
+  },
+  {
     "id": "auto-b0f32tyhxy",
     "asin": "B0F32TYHXY",
     "title": "ESN Magnesiumbisglycinat Kapseln - mit 194 mg Magnesium pro …",
@@ -240,7 +273,8 @@
     "price": 53.91,
     "checkedAt": "2026-11-16T23:55:03.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CKXSLTHY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:37:05.185Z"
   },
   {
     "id": "auto-b001hu7the",
@@ -509,7 +543,8 @@
     "price": 75.99,
     "checkedAt": "2026-11-16T08:26:10.000Z",
     "image": "https://m.media-amazon.com/images/P/B07WH16LF3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:37:00.767Z"
   },
   {
     "id": "auto-b0gqgzy1nv",
@@ -972,7 +1007,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T09:12:07.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DT4Y11LC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:37:24.748Z"
   },
   {
     "id": "auto-b0fr9swddg",
@@ -2027,7 +2063,8 @@
     "price": 309.98,
     "checkedAt": "2026-11-16T19:28:23.000Z",
     "image": "https://static.mydealz.de/threads/raw/IRCHv/2873152_1/re/768x768/qt/55/2873152_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:37:10.050Z"
   },
   {
     "id": "auto-b0csxlgqj7",
@@ -2037,7 +2074,8 @@
     "price": 99,
     "checkedAt": "2026-11-16T19:31:43.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CSXLGQJ7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:37:14.750Z"
   },
   {
     "id": "auto-b0h8sbrrsb",
@@ -2606,18 +2644,6 @@
     "image": "https://m.media-amazon.com/images/P/B0FHQ1RZ4W.03._SCLZZZZZZZ_SX500_.jpg"
   },
   {
-    "id": "queue-b0cqkdkps6",
-    "asin": "B0CQKDKPS6",
-    "title": "Sennheiser ACCENTUM Plus ANC Kopfhörer",
-    "subtitle": "Noise Cancelling, Schnellladung und bis zu 50 Std. Akkulaufzeit.",
-    "category": "Audio",
-    "price": 109.99,
-    "checkedAt": "2026-11-16T06:24:54.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T10:54:57.375Z",
-    "image": "https://m.media-amazon.com/images/P/B0CQKDKPS6.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
     "id": "auto-b0fn85rftn",
     "asin": "B0FN85RFTN",
     "title": "Hisense HAF2700DCD Doppelkorb-Heißluftfritteuse",
@@ -2782,30 +2808,5 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T07:46:45.126Z",
     "image": "https://m.media-amazon.com/images/P/B0FC2SY56K.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "auto-b0g6156269",
-    "asin": "B0G6156269",
-    "title": "CORSAIR GALLEON 100 SD RGB Gaming-Tastatur mit Elgato Stream Deck",
-    "category": "Computer",
-    "price": 279.99,
-    "oldPrice": 349.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T06:26:29.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T07:17:55.190Z"
-  },
-  {
-    "id": "auto-b0fn7cnwpq",
-    "asin": "B0FN7CNWPQ",
-    "title": "Ninja 3-in-1 Detect Power Blender Processor Pro TB401EUSTGD",
-    "category": "Küche",
-    "price": 149.99,
-    "oldPrice": 193.56,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T06:28:04.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T06:49:03.233Z",
-    "image": "https://m.media-amazon.com/images/P/B0FN7CNWPQ.03._SCLZZZZZZZ_SX500_.jpg"
   }
 ]
