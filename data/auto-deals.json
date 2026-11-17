@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b07ystgp17",
+    "asin": "B07YSTGP17",
+    "title": "Gardena Viereckregner AquaZoom compact 216 m²",
+    "category": "Tech",
+    "price": 20,
+    "checkedAt": "2026-11-17T16:35:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07YSTGP17.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cnxkmsjg",
+    "asin": "B0CNXKMSJG",
+    "title": "Razer Seiren V3 Chroma USB-Mikrofon, Supernieren-Kondensator, 96 …",
+    "category": "Audio",
+    "price": 79.99,
+    "checkedAt": "2026-11-17T16:43:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CNXKMSJG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0dd4b94mh",
     "asin": "B0DD4B94MH",
     "title": "Thermaltake Toughpower GT 750W ATX-Netzteil, ATX 3.1, 80 PLUS Gold, …",
@@ -360,7 +380,8 @@
     "price": 59.99,
     "checkedAt": "2026-11-17T14:47:17.000Z",
     "image": "https://m.media-amazon.com/images/P/B07W6FQ659.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T16:47:16.315Z"
   },
   {
     "id": "auto-b0d9p7zd86",
@@ -2702,16 +2723,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0dbq5wp76",
-    "asin": "B0DBQ5WP76",
-    "title": "Nici Kuscheltier Alpaka Elli Paka, 25 cm - 61505",
-    "category": "Spielzeug & LEGO",
-    "price": 12.51,
-    "checkedAt": "2026-11-16T16:34:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DBQ5WP76.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b07pynbymy",
     "asin": "B07PYNBYMY",
     "title": "Stanley Stay Chill Stein 0.71 Liter Krug mit Vakuum-Isolierung",
@@ -2957,37 +2968,6 @@
     "image": "https://m.media-amazon.com/images/P/B0DX2H6RYR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:31:05.502Z"
-  },
-  {
-    "id": "auto-b07j24m6wx",
-    "asin": "B07J24M6WX",
-    "title": "Bosch Professional Ringmaul-Ratschenschlüssel-Set, 10-teilig, 8–19 mm …",
-    "category": "Werkzeug",
-    "price": 69.99,
-    "checkedAt": "2026-11-16T16:32:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07J24M6WX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b083dmn2lq",
-    "asin": "B083DMN2LQ",
-    "title": "Bosch 36x PRO Impact Schrauberbit Set 36-tlg [Prime]",
-    "category": "Werkzeug",
-    "price": 25.99,
-    "checkedAt": "2026-11-16T16:36:08.000Z",
-    "image": "https://m.media-amazon.com/images/P/B083DMN2LQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:46:02.885Z"
-  },
-  {
-    "id": "auto-b0fj8x8d1r",
-    "asin": "B0FJ8X8D1R",
-    "title": "Philips Hue Essential Smart LED A60 Lampe, E27, 4er Pack White and …",
-    "category": "Smart Home",
-    "price": 44.99,
-    "checkedAt": "2026-11-16T16:44:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJ8X8D1R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0cl5kn4kd",
