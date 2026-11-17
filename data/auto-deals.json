@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b0bd5r277s",
+    "asin": "B0BD5R277S",
+    "title": "HAZET SmartHolder Werkzeughalter 2300SH-1, 1/4 Zoll Ratsche ...",
+    "category": "Werkzeug",
+    "price": 59.84,
+    "checkedAt": "2026-11-17T00:59:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BD5R277S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0ckxslthy",
     "asin": "B0CKXSLTHY",
     "title": "Adidas Terrex Anylander Mid Rain.Rdy Gr 39 bis 48",
@@ -206,16 +216,6 @@
     "price": 18.85,
     "checkedAt": "2026-11-16T22:24:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B08B61WZMX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0g1bc4thx",
-    "asin": "B0G1BC4THX",
-    "title": "UGREEN NASync DXP4800 Pro 4 Bay NAS (ohne HDD)",
-    "category": "Computer",
-    "price": 599.99,
-    "checkedAt": "2026-11-16T01:04:56.000Z",
-    "image": "https://static.mydealz.de/threads/raw/lo9pR/2872188_1/re/768x768/qt/55/2872188_1.jpg",
     "source": "auto"
   },
   {
@@ -2580,18 +2580,6 @@
     "telegramPostedAt": "2026-11-16T09:42:33.126Z",
     "image": "https://m.media-amazon.com/images/P/B0HNWF17BJ.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 155
-  },
-  {
-    "id": "queue-b09cd57pmj",
-    "asin": "B09CD57PMJ",
-    "title": "ASUS ROG Strix XG27AQWMG 27\" Tandem-OLED, 280 Hz",
-    "subtitle": "QHD-Tandem-OLED mit 280 Hz und TrueBlack-Glossy-Display.",
-    "category": "Gaming",
-    "price": 446.99,
-    "checkedAt": "2026-11-16T01:11:27.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T09:28:12.595Z",
-    "image": "https://m.media-amazon.com/images/P/B09CD57PMJ.03._SCLZZZZZZZ_SX500_.jpg"
   },
   {
     "id": "auto-b075dl9jb1",
