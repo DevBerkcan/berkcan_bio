@@ -1,5 +1,71 @@
 [
   {
+    "id": "auto-b0fh51hvdt",
+    "asin": "B0FH51HVDT",
+    "title": "UGREEN FineTrack Slim Tracker Karte – Kabelloses Laden, IP68 …",
+    "category": "Tech",
+    "price": 15.99,
+    "checkedAt": "2026-11-17T14:49:13.000Z",
+    "image": "https://static.mydealz.de/threads/raw/7jcv1/2873889_1/re/768x768/qt/55/2873889_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00a81mg9y",
+    "asin": "B00A81MG9Y",
+    "title": "Entombed - Left Hand Path Vinyl",
+    "category": "Tech",
+    "price": 22.39,
+    "checkedAt": "2026-11-17T14:55:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00A81MG9Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fr4vxqmv",
+    "asin": "B0FR4VXQMV",
+    "title": "AOC 24G4ZR 23,8 Zoll FHD Gaming-Monitor, 260 Hz (OC), Fast IPS, 1 ms …",
+    "category": "Computer",
+    "price": 99,
+    "checkedAt": "2026-11-17T14:56:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FR4VXQMV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09nqckyxc",
+    "asin": "B09NQCKYXC",
+    "title": "STIEBEL ELTRON elektronischer Mini Durchlauferhitzer DEM 3 - 3,5 kW, …",
+    "subtitle": "🔥 104° bei mydealz",
+    "category": "Tech",
+    "price": 181.09,
+    "checkedAt": "2026-11-17T14:53:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09NQCKYXC.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 104,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0146te812",
+    "asin": "B0146TE812",
+    "title": "Pattex White Line Pistolenschaum 750 ml",
+    "category": "Tech",
+    "price": 8.99,
+    "oldPrice": 11.5,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T14:53:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0146TE812.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0024ljsxi",
+    "asin": "B0024LJSXI",
+    "title": "Stanley FatMax Cuttermesser 0-10-486",
+    "category": "Küche",
+    "price": 10.49,
+    "oldPrice": 13.93,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T14:59:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0024LJSXI.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0gqlkgd1f",
     "asin": "B0GQLKGD1F",
     "title": "Anker Smart Ladegerät, Anker Nano 45W USB C Ladegerät mit Display GaN",
@@ -59,7 +125,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T14:33:38.000Z",
     "image": "https://m.media-amazon.com/images/P/B0D9P7ZD86.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T15:03:24.250Z"
   },
   {
     "id": "auto-b06xpj5432",
@@ -2421,16 +2488,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0dwkkdtq7",
-    "asin": "B0DWKKDTQ7",
-    "title": "Gusseisene Brotbackform mit Deckel / dutch oven (KRUSTENZAUBER) für …",
-    "category": "Lebensmittel & Drinks",
-    "price": 32.99,
-    "checkedAt": "2026-11-16T14:55:53.000Z",
-    "image": "https://static.mydealz.de/threads/raw/MUzdM/2872930_1/re/768x768/qt/55/2872930_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0dydz2tmw",
     "asin": "B0DYDZ2TMW",
     "title": "Flexispot Walking Pad, Laufband für Zuhause mit 7 % Steigung 1–12 …",
@@ -2654,19 +2711,6 @@
     "telegramPostedAt": "2026-11-16T23:16:09.465Z"
   },
   {
-    "id": "auto-b07nbh69pl",
-    "asin": "B07NBH69PL",
-    "title": "NIVEA SUN Eau de Toilette 30 ml",
-    "category": "Beauty & Pflege",
-    "price": 12.81,
-    "oldPrice": 17.08,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T14:48:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07NBH69PL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:15:56.876Z"
-  },
-  {
     "id": "auto-b07ky92lb6",
     "asin": "B07KY92LB6",
     "title": "Eastpak Delegate+ Messenger Bag / Umhängetasche",
@@ -2717,26 +2761,6 @@
     "image": "https://m.media-amazon.com/images/P/B08RB5H265.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:34.816Z"
-  },
-  {
-    "id": "auto-b0gr9545hz",
-    "asin": "B0GR9545HZ",
-    "title": "Toshiba Solomikrowelle 20 L mit LED Innenlicht und Auftaufunktion",
-    "category": "Haushalt",
-    "price": 58.99,
-    "checkedAt": "2026-11-16T14:48:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GR9545HZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fpnv7h69",
-    "asin": "B0FPNV7H69",
-    "title": "Beats Powerbeats Fit – Kabellose Workout In-Ear Kopfhörer mit …",
-    "category": "Audio",
-    "price": 109,
-    "checkedAt": "2026-11-16T15:02:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPNV7H69.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0f2jc5s96",
@@ -3228,18 +3252,6 @@
     "checkedAt": "2026-11-16T21:13:25.000Z",
     "image": "https://m.media-amazon.com/images/P/B01MSDR3E5.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 312,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0cy2cfphw",
-    "asin": "B0CY2CFPHW",
-    "title": "Empire of the Ants - Limited Edition",
-    "category": "Gaming",
-    "price": 19.95,
-    "oldPrice": 33.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T14:59:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CY2CFPHW.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
