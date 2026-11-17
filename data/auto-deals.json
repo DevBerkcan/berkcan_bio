@@ -442,16 +442,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0bkh4fx9y",
-    "asin": "B0BKH4FX9Y",
-    "title": "Jabra Evolve2 Buds (20797-999-999) True Wireless In-Ear Bluetooth ANC …",
-    "category": "Audio",
-    "price": 109,
-    "checkedAt": "2026-11-16T06:20:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BKH4FX9Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0blcq3hgp",
     "asin": "B0BLCQ3HGP",
     "title": "Puma Caven 2.0 Unisex Sneaker in vielen Größen",
@@ -1006,7 +996,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T12:52:04.000Z",
     "image": "https://m.media-amazon.com/images/P/B07QT525VM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:22:15.854Z"
   },
   {
     "id": "auto-b0771jpt1d",
@@ -1031,7 +1022,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T13:25:29.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FR9JJ67L.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:21:57.956Z"
   },
   {
     "id": "auto-b0g495fgld",
@@ -2157,7 +2149,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T08:13:11.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FHKYBPS1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:22:20.034Z"
   },
   {
     "id": "auto-b0fl2kl9cl",
@@ -2169,7 +2162,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T14:11:45.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FL2KL9CL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:22:11.505Z"
   },
   {
     "id": "auto-b0h45s7p7p",
@@ -2181,7 +2175,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T16:01:16.000Z",
     "image": "https://static.mydealz.de/threads/raw/QmbeM/2872987_1/re/768x768/qt/55/2872987_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:22:07.178Z"
   },
   {
     "id": "auto-b0df8l5fh1",
@@ -2193,7 +2188,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-16T14:22:43.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DF8L5FH1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T06:22:02.378Z"
   },
   {
     "id": "auto-b0bj6pgfpm",
@@ -2547,18 +2543,6 @@
     "image": "https://m.media-amazon.com/images/P/B0FS8NQZTT.03._SCLZZZZZZZ_SX500_.jpg"
   },
   {
-    "id": "queue-b0h8skrd9x",
-    "asin": "B0H8SKRD9X",
-    "title": "Panasonic TN-55W90C 55\" 4K QD-Mini-LED Google TV",
-    "subtitle": "QD-Mini-LED mit entspiegeltem Display, Game Mode und Google TV.",
-    "category": "TV & Heimkino",
-    "price": 599,
-    "checkedAt": "2026-11-16T06:18:03.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T12:05:57.786Z",
-    "image": "https://m.media-amazon.com/images/P/B0H8SKRD9X.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
     "id": "queue-b0cx8mqf7r",
     "asin": "B0CX8MQF7R",
     "title": "Amazon Kindle Colorsoft 16 GB",
@@ -2823,18 +2807,5 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T06:49:03.233Z",
     "image": "https://m.media-amazon.com/images/P/B0FN7CNWPQ.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "auto-b0gv3rcbgq",
-    "asin": "B0GV3RCBGQ",
-    "title": "UGREEN NASync GT Reihe",
-    "category": "Computer",
-    "price": 399.98,
-    "oldPrice": 595.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T06:13:17.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T06:20:14.822Z",
-    "image": "https://static.mydealz.de/threads/raw/BCk8i/2872275_1/re/768x768/qt/55/2872275_1.jpg"
   }
 ]
