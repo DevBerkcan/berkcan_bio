@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b0gjtb5tr6",
+    "asin": "B0GJTB5TR6",
+    "title": "Cricut EasyPress SE",
+    "category": "Tech",
+    "price": 99.99,
+    "checkedAt": "2026-11-17T08:38:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GJTB5TR6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:52:34.649Z"
+  },
+  {
+    "id": "auto-b0g2ctvdkx",
+    "asin": "B0G2CTVDKX",
+    "title": "Gorenje BOA6737AO1X Einbaubackofen, 73 L, Heißluft, 9 Funktionen, bis …",
+    "category": "Küche",
+    "price": 199,
+    "checkedAt": "2026-11-17T08:43:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G2CTVDKX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:52:29.386Z"
+  },
+  {
+    "id": "auto-b0d8ljwzpb",
+    "asin": "B0D8LJWZPB",
+    "title": "Amazon Luna Controller [PRIME ONLY]",
+    "category": "Gaming",
+    "price": 39.99,
+    "checkedAt": "2026-11-17T08:45:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D8LJWZPB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:52:24.279Z"
+  },
+  {
+    "id": "auto-b00r6bo3o0",
+    "asin": "B00R6BO3O0",
+    "title": "Kenwood KAX643ME Trommelraffel mit 5 Einsätzen – auch für Wilfa …",
+    "subtitle": "🔥 103° bei mydealz",
+    "category": "Tech",
+    "price": 67.99,
+    "checkedAt": "2026-11-17T08:14:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00R6BO3O0.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 103,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:52:19.247Z"
+  },
+  {
     "id": "auto-b0h8sb7yy1",
     "asin": "B0H8SB7YY1",
     "title": "DREO Smart Luftreiniger 530S für Schlafzimmer, CADR 221 m³/h",
@@ -839,16 +885,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0fvfwk6nv",
-    "asin": "B0FVFWK6NV",
-    "title": "FRITZ!Box 5690 | Glasfaser-Router",
-    "category": "Computer",
-    "price": 246.99,
-    "checkedAt": "2026-11-16T08:40:59.000Z",
-    "image": "https://static.mydealz.de/threads/raw/JCNX5/2872419_1/re/768x768/qt/55/2872419_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b09m2lwr25",
     "asin": "B09M2LWR25",
     "title": "Tenda AX12 Pro WiFi 6 Router AX3000 Dualband, 7dBi 180° klappbare …",
@@ -1576,16 +1612,6 @@
     "image": "https://m.media-amazon.com/images/P/B074P3L723.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:26.067Z"
-  },
-  {
-    "id": "auto-b0fmgrbgd9",
-    "asin": "B0FMGRBGD9",
-    "title": "JBL Grip tragbarer Bluetooth-Lautsprecher",
-    "category": "Audio",
-    "price": 59,
-    "checkedAt": "2026-11-16T08:50:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FMGRBGD9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0f7hkth4h",
@@ -2356,7 +2382,8 @@
     "price": 16.96,
     "checkedAt": "2026-11-16T20:45:09.000Z",
     "image": "https://m.media-amazon.com/images/P/B0D92C53GH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:52:42.865Z"
   },
   {
     "id": "auto-b09lvqxhbg",
@@ -2386,7 +2413,8 @@
     "price": 158.99,
     "checkedAt": "2026-11-16T20:59:47.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F1DKQ351.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:52:38.770Z"
   },
   {
     "id": "auto-b00tii4cya",
@@ -2853,18 +2881,5 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T09:13:46.966Z",
     "image": "https://m.media-amazon.com/images/P/B075DL9JB1.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "auto-b0cwv5lg6m",
-    "asin": "B0CWV5LG6M",
-    "title": "UGREEN HiTune Max5c – Over-Ear-Kopfhörer",
-    "category": "Audio",
-    "price": 19.94,
-    "oldPrice": 24.02,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T08:38:22.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T08:44:38.969Z",
-    "image": "https://static.mydealz.de/threads/raw/ncpLB/2872417_1/re/768x768/qt/55/2872417_1.jpg"
   }
 ]
