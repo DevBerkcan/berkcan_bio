@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b0fdgz17nb",
+    "asin": "B0FDGZ17NB",
+    "title": "Car Napping - Bestellt, geklaut, geliefert (1980) - 4K Blu-ray + Blu",
+    "category": "Bücher & Filme",
+    "price": 10,
+    "checkedAt": "2026-11-17T17:27:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FDGZ17NB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0d5r6m5g9",
     "asin": "B0D5R6M5G9",
     "title": "MTB Rucksack Deuter Trans Alpin 28 Pro",
@@ -841,7 +851,8 @@
     "price": 13.57,
     "checkedAt": "2026-11-17T15:03:30.000Z",
     "image": "https://m.media-amazon.com/images/P/B0C4LFHMR1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T21:52:53.689Z"
   },
   {
     "id": "auto-b0fr44r88g",
@@ -3265,17 +3276,6 @@
     "checkedAt": "2026-11-16T22:24:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B08B61WZMX.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0fj8z7xy3",
-    "asin": "B0FJ8Z7XY3",
-    "title": "Philips Hue Smart LED A60 Lampen, E27, 4er Pack",
-    "category": "Smart Home",
-    "price": 109.99,
-    "checkedAt": "2026-11-16T21:52:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJ8Z7XY3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:07:41.473Z"
   },
   {
     "id": "auto-b0dc8jyjqx",
