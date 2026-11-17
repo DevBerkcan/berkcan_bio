@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-b07w6hdb55",
+    "asin": "B07W6HDB55",
+    "title": "Logitech G G502 X Plus",
+    "category": "Tech",
+    "price": 79.99,
+    "checkedAt": "2026-11-17T19:11:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07W6HDB55.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f6l1rxgz",
+    "asin": "B0F6L1RXGZ",
+    "title": "eSUN PLA Basic Filament 1.75mm, Orange, 2KG - 3D Drucker Filament, 1KG …",
+    "category": "Computer",
+    "price": 17.69,
+    "checkedAt": "2026-11-17T19:13:27.000Z",
+    "image": "https://static.mydealz.de/threads/raw/YdGL6/2874110_1/re/768x768/qt/55/2874110_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00bt0g5uy",
+    "asin": "B00BT0G5UY",
+    "title": "Wera Bit-Check Zyklop Mini 10-teilig inkl Ratsche",
+    "category": "Werkzeug",
+    "price": 28.49,
+    "checkedAt": "2026-11-17T19:19:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00BT0G5UY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b09t9p4msl",
     "asin": "B09T9P4MSL",
     "title": "ASUS ROG Strix 1200W Platinum Gaming Netzteil",
@@ -1365,7 +1395,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T11:51:08.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FJNCTLJK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:23:56.158Z"
   },
   {
     "id": "auto-b07x5xmzzd",
@@ -1473,18 +1504,6 @@
     "source": "auto"
   },
   {
-    "id": "queue-b0cwpdxwhp",
-    "asin": "B0CWPDXWHP",
-    "title": "tado° Smartes Heizkörperthermostat X Trio Pack",
-    "subtitle": "Heizung per App steuern, kompatibel mit Alexa, Siri und Google.",
-    "category": "Smart Home",
-    "price": 142.49,
-    "checkedAt": "2026-11-16T19:11:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CWPDXWHP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T11:49:55.563Z"
-  },
-  {
     "id": "auto-b0cytfb73v",
     "asin": "B0CYTFB73V",
     "title": "Adidas Herren VL Court 3.0 Schuhe",
@@ -1524,7 +1543,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T11:22:47.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FP5SZ9PG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:24:00.353Z"
   },
   {
     "id": "auto-b0044n2tcg",
@@ -1889,7 +1909,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T09:46:27.000Z",
     "image": "https://m.media-amazon.com/images/P/B0024LTUN6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:23:47.824Z"
   },
   {
     "id": "auto-b084866nxn",
@@ -3073,26 +3094,6 @@
     "image": "https://m.media-amazon.com/images/P/B0DX2H6RYR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:31:05.502Z"
-  },
-  {
-    "id": "auto-b09kgxkbqd",
-    "asin": "B09KGXKBQD",
-    "title": "Hammerdeal - 3 Hammer für 15,99",
-    "category": "Werkzeug",
-    "price": 15.99,
-    "checkedAt": "2026-11-16T19:13:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09KGXKBQD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fftm5w79",
-    "asin": "B0FFTM5W79",
-    "title": "Turok Trilogy (T. 1+2+3) - PS5 Playstation - Atari - Disc Version - …",
-    "category": "Gaming",
-    "price": 21.57,
-    "checkedAt": "2026-11-16T19:20:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FFTM5W79.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0f6cr39wr",
