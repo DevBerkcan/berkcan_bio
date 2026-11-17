@@ -1,5 +1,44 @@
 [
   {
+    "id": "auto-b075c74zjp",
+    "asin": "B075C74ZJP",
+    "title": "WMF Kult Pro Hochleistungsmixer - Testsieger bei Warentest - inkl. To …",
+    "category": "Küche",
+    "price": 79.99,
+    "oldPrice": 92.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T07:29:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B075C74ZJP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:37:35.946Z"
+  },
+  {
+    "id": "auto-b0b3y7sty9",
+    "asin": "B0B3Y7STY9",
+    "title": "Ninjamas Pyjama Pants Raumschiff, 60 absorbierende Nachthöschen, 4-7 …",
+    "category": "Tech",
+    "price": 22.97,
+    "oldPrice": 32.4,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T07:30:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B3Y7STY9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:37:26.024Z"
+  },
+  {
+    "id": "auto-b00ggkmnto",
+    "asin": "B00GGKMNTO",
+    "title": "Bosch V-Line Titanium Bohrer- & Bit-Set 91-teilig",
+    "category": "Werkzeug",
+    "price": 23.99,
+    "oldPrice": 35.94,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T07:36:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00GGKMNTO.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:37:20.781Z"
+  },
+  {
     "id": "auto-b0f5x1gppb",
     "asin": "B0F5X1GPPB",
     "title": "Shark FlexBreeze HydroGo Ventilator mit Sprühnebel, 5 Stufen",
@@ -7,7 +46,8 @@
     "price": 79.99,
     "checkedAt": "2026-11-17T07:10:18.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F5X1GPPB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:37:44.396Z"
   },
   {
     "id": "auto-b0fr9hlngw",
@@ -17,7 +57,8 @@
     "price": 5.91,
     "checkedAt": "2026-11-17T07:12:22.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FR9HLNGW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:37:40.213Z"
   },
   {
     "id": "auto-b017a5htga",
@@ -639,16 +680,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b09wyvy187",
-    "asin": "B09WYVY187",
-    "title": "VAUDE Unisex Bike Facemask – Fleece, atmungsaktiv & schnelltrocknend, …",
-    "category": "Sport & Outdoor",
-    "price": 15.29,
-    "checkedAt": "2026-11-16T07:35:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09WYVY187.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0h1n4f5l9",
     "asin": "B0H1N4F5L9",
     "title": "Sennheiser CX 80U – Kabelgebundene USB-C In-Ear-Kopfhörer",
@@ -1088,7 +1119,8 @@
     "price": 49.31,
     "checkedAt": "2026-11-16T18:52:32.000Z",
     "image": "https://m.media-amazon.com/images/P/B08T6KZGNH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:37:30.239Z"
   },
   {
     "id": "auto-b0fldpb8pf",
@@ -2761,18 +2793,6 @@
     "image": "https://static.mydealz.de/threads/raw/Iqy37/2872643_1/re/768x768/qt/55/2872643_1.jpg"
   },
   {
-    "id": "queue-b0fhq1rz4w",
-    "asin": "B0FHQ1RZ4W",
-    "title": "Life is Strange Complete Edition (PS5)",
-    "subtitle": "Sammlung mit 5 Spielen der Life-is-Strange-Reihe für PS5.",
-    "category": "Gaming",
-    "price": 29.99,
-    "checkedAt": "2026-11-16T07:30:10.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T11:09:26.526Z",
-    "image": "https://m.media-amazon.com/images/P/B0FHQ1RZ4W.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
     "id": "auto-b0fn85rftn",
     "asin": "B0FN85RFTN",
     "title": "Hisense HAF2700DCD Doppelkorb-Heißluftfritteuse",
@@ -2876,18 +2896,6 @@
     "image": "https://static.mydealz.de/threads/raw/ncpLB/2872417_1/re/768x768/qt/55/2872417_1.jpg"
   },
   {
-    "id": "queue-b0h2wfmb5f",
-    "asin": "B0H2WFMB5F",
-    "title": "GIGABYTE GO27Q24A 27\" QD-OLED Monitor, WQHD 240 Hz",
-    "subtitle": "QD-OLED-Panel mit 240 Hz und schnellen Reaktionszeiten für Gaming.",
-    "category": "Computer",
-    "price": 289,
-    "checkedAt": "2026-11-16T07:26:54.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T08:30:01.575Z",
-    "image": "https://m.media-amazon.com/images/P/B0H2WFMB5F.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
     "id": "auto-b0fl7qlh89",
     "asin": "B0FL7QLH89",
     "title": "Logitech G321 Lightspeed – kabelloses Gaming-Headset",
@@ -2912,18 +2920,5 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T08:15:27.041Z",
     "image": "https://m.media-amazon.com/images/P/B0CN41GMDK.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "auto-b0fc2sy56k",
-    "asin": "B0FC2SY56K",
-    "title": "Final Fantasy Tactics: The Ivalice Chronicles",
-    "category": "Gaming",
-    "price": 29.99,
-    "oldPrice": 44.5,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T07:23:27.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T07:46:45.126Z",
-    "image": "https://m.media-amazon.com/images/P/B0FC2SY56K.03._SCLZZZZZZZ_SX500_.jpg"
   }
 ]
