@@ -1,5 +1,37 @@
 [
   {
+    "id": "auto-b0fr8dwwdc",
+    "asin": "B0FR8DWWDC",
+    "title": "PAW Patrol Dino-Film: Dino-Abenteuer Figuren-Set mit 6 Figuren, ab 3 …",
+    "category": "Spielzeug & LEGO",
+    "price": 17.89,
+    "checkedAt": "2026-11-17T21:08:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FR8DWWDC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09zlbcs1y",
+    "asin": "B09ZLBCS1Y",
+    "title": "eneloop 8x AAA",
+    "category": "Tech",
+    "price": 16.1,
+    "checkedAt": "2026-11-17T23:01:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09ZLBCS1Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T23:06:47.163Z"
+  },
+  {
+    "id": "auto-b0gvp85zkm",
+    "asin": "B0GVP85ZKM",
+    "title": "Mortal Shell II - PS5 PlayStation 5 (Soulslike)",
+    "category": "Gaming",
+    "price": 39.99,
+    "checkedAt": "2026-11-17T23:01:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GVP85ZKM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T23:06:41.879Z"
+  },
+  {
     "id": "auto-b077mlz1ks",
     "asin": "B077MLZ1KS",
     "title": "Prime - Puma Unisex Puma Smash V2 LSneaker schwarz weiß",
@@ -7,7 +39,8 @@
     "price": 25.91,
     "checkedAt": "2026-11-17T22:39:35.000Z",
     "image": "https://m.media-amazon.com/images/P/B077MLZ1KS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T23:06:51.417Z"
   },
   {
     "id": "auto-b00a0df494",
@@ -17,7 +50,8 @@
     "price": 23.7,
     "checkedAt": "2026-11-17T22:25:29.000Z",
     "image": "https://m.media-amazon.com/images/P/B00A0DF494.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T23:07:01.217Z"
   },
   {
     "id": "auto-b0f6mtk3z6",
@@ -27,7 +61,8 @@
     "price": 17.59,
     "checkedAt": "2026-11-17T22:34:47.000Z",
     "image": "https://static.mydealz.de/threads/raw/Vkp0W/2874220_1/re/768x768/qt/55/2874220_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T23:06:56.830Z"
   },
   {
     "id": "auto-b07nxg4nv9",
@@ -47,7 +82,8 @@
     "price": 369.99,
     "checkedAt": "2026-11-17T22:17:19.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DG6VY1GY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T23:07:05.526Z"
   },
   {
     "id": "auto-b0d5cv18vb",
@@ -3233,42 +3269,6 @@
     "telegramPostedAt": "2026-11-16T23:30:56.478Z"
   },
   {
-    "id": "auto-b0d47vw64n",
-    "asin": "B0D47VW64N",
-    "title": "Assassin's Creed Shadows Nintendo Switch 2",
-    "category": "Gaming",
-    "price": 29.99,
-    "checkedAt": "2026-11-16T23:02:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D47VW64N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:22:22.344Z"
-  },
-  {
-    "id": "auto-b007mmg4yk",
-    "asin": "B007MMG4YK",
-    "title": "DEWALT 32-tlg. Schrauberbit-Set DT7969-QZ",
-    "subtitle": "🔥 103° bei mydealz",
-    "category": "Werkzeug",
-    "price": 8.49,
-    "checkedAt": "2026-11-16T23:05:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B007MMG4YK.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 103,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:46:20.121Z"
-  },
-  {
-    "id": "auto-b0090i3yss",
-    "asin": "B0090I3YSS",
-    "title": "Amazon Prime Diplomático Reserva Exclusiva Rum 0,7 l Botucal",
-    "subtitle": "🔥 106° bei mydealz",
-    "category": "Tech",
-    "price": 28.99,
-    "checkedAt": "2026-11-16T22:57:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0090I3YSS.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 106,
-    "source": "auto"
-  },
-  {
     "id": "auto-b007bsnocu",
     "asin": "B007BSNOCU",
     "title": "Wera Kraftform Big Pack 100 VDE, Schraubendreher Set 14-teilig, …",
@@ -3280,60 +3280,5 @@
     "temperature": 106,
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:46:15.827Z"
-  },
-  {
-    "id": "auto-b0chrxsj9d",
-    "asin": "B0CHRXSJ9D",
-    "title": "Fissler Original Profi Pfanne 28cm OHNE Novogrill (glatt), Premium …",
-    "category": "Küche",
-    "price": 92.39,
-    "checkedAt": "2026-11-16T22:51:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CHRXSJ9D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0chry437c",
-    "asin": "B0CHRY437C",
-    "title": "Fissler Orignial Profi Collection Edelstahl Pfanne (28cm) Set mit …",
-    "category": "Küche",
-    "price": 107.89,
-    "checkedAt": "2026-11-16T22:56:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CHRY437C.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dk23lfwc",
-    "asin": "B0DK23LFWC",
-    "title": "Moritz & Moritz Profi Küchenmesser Komplett-Set",
-    "category": "Küche",
-    "price": 62.99,
-    "checkedAt": "2026-11-16T22:57:39.000Z",
-    "image": "https://static.mydealz.de/threads/raw/VF3Dq/2873301_1/re/768x768/qt/55/2873301_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dwxznr2q",
-    "asin": "B0DWXZNR2Q",
-    "title": "Razer Firefly V2 Pro Gaming-Mauspad, Chroma RGB (15 Zonen), …",
-    "subtitle": "🔥 104° bei mydealz",
-    "category": "Gaming",
-    "price": 51.19,
-    "checkedAt": "2026-11-16T22:55:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWXZNR2Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 104,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dcyr5vnr",
-    "asin": "B0DCYR5VNR",
-    "title": "INIU 45W Powerbank 20.000mAh",
-    "subtitle": "🔥 114° bei mydealz",
-    "category": "Zubehör & Laden",
-    "price": 25.81,
-    "checkedAt": "2026-11-16T22:54:02.000Z",
-    "image": "https://static.mydealz.de/threads/raw/rMSe1/2872435_1/re/768x768/qt/55/2872435_1.jpg",
-    "temperature": 114,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:45:58.169Z"
   }
 ]
