@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b0dfnm3xz9",
+    "asin": "B0DFNM3XZ9",
+    "title": "Amazon Ember 4-Serie mit Fire TV, 55-Zoll-Smart-TV in 4K Ultra-HD, …",
+    "category": "Amazon-Geräte",
+    "price": 349.99,
+    "checkedAt": "2026-11-17T06:56:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DFNM3XZ9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:07:30.228Z"
+  },
+  {
+    "id": "auto-b00bd1dkie",
+    "asin": "B00BD1DKIE",
+    "title": "WMF Touch Messerset 2-teilig – Küchenmesser-Set aus …",
+    "category": "Küche",
+    "price": 11.09,
+    "checkedAt": "2026-11-17T06:59:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00BD1DKIE.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:07:21.604Z"
+  },
+  {
+    "id": "auto-b0clwjmwck",
+    "asin": "B0CLWJMWCK",
+    "title": "Columbia Unisex Kinder Portlander Omni-Heat Boot **erneut …",
+    "category": "Tech",
+    "price": 46.75,
+    "checkedAt": "2026-11-17T07:00:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CLWJMWCK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:07:16.412Z"
+  },
+  {
+    "id": "auto-b0bw8rfsj7",
+    "asin": "B0BW8RFSJ7",
+    "title": "Emsa N20221 Travel Mug Classic Isolierbecher 0,5 Liter, 6h heiß und …",
+    "subtitle": "🔥 100° bei mydealz",
+    "category": "Tech",
+    "price": 15.48,
+    "checkedAt": "2026-11-17T06:42:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BW8RFSJ7.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 100,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:07:11.161Z"
+  },
+  {
     "id": "auto-b0f9fkp8cb",
     "asin": "B0F9FKP8CB",
     "title": "VAUDE Bike & Hike Essential Erste Hilfe Set",
@@ -96,7 +142,8 @@
     "price": 13.29,
     "checkedAt": "2026-11-17T05:58:34.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F3PQG5T8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:07:39.247Z"
   },
   {
     "id": "auto-b06w5h9ffj",
@@ -106,7 +153,8 @@
     "price": 106.24,
     "checkedAt": "2026-11-17T06:05:10.000Z",
     "image": "https://m.media-amazon.com/images/P/B06W5H9FFJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:07:34.747Z"
   },
   {
     "id": "auto-b09w5xlpww",
@@ -1080,19 +1128,6 @@
     "image": "https://m.media-amazon.com/images/P/B07QT525VM.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T06:22:15.854Z"
-  },
-  {
-    "id": "auto-b0771jpt1d",
-    "asin": "B0771JPT1D",
-    "title": "Eastpak Tranverz L Koffer / Rollreisetasche",
-    "category": "Mode & Reise",
-    "price": 91,
-    "oldPrice": 105.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T06:58:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0771JPT1D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:46:24.398Z"
   },
   {
     "id": "auto-b0fr9jj67l",
@@ -2726,18 +2761,6 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T10:11:42.149Z",
     "image": "https://m.media-amazon.com/images/P/B0F457MQCQ.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "queue-b0dw996637",
-    "asin": "B0DW996637",
-    "title": "TCL 75T6C 75\" 4K QLED Fernseher",
-    "subtitle": "Riesiger 75-Zoll-QLED mit 4K und integriertem Fire TV.",
-    "category": "TV & Heimkino",
-    "price": 479,
-    "checkedAt": "2026-11-16T06:56:41.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T10:11:30.573Z",
-    "image": "https://m.media-amazon.com/images/P/B0DW996637.03._SCLZZZZZZZ_SX500_.jpg"
   },
   {
     "id": "auto-b0f9nxff48",
