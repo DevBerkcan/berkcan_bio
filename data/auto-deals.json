@@ -1,5 +1,39 @@
 [
   {
+    "id": "auto-b0fftb14vw",
+    "asin": "B0FFTB14VW",
+    "title": "Ame & Yuki - Die Wolfskinder ~ 20,94€",
+    "category": "Tech",
+    "price": 20.94,
+    "checkedAt": "2026-11-17T20:07:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FFTB14VW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dkfnvvb5",
+    "asin": "B0DKFNVVB5",
+    "title": "Stanley 1913 Classic Legendary Thermosflasche 1.9L - Hammertone Lake",
+    "category": "Sport & Outdoor",
+    "price": 48.39,
+    "checkedAt": "2026-11-17T20:17:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DKFNVVB5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T20:53:40.855Z"
+  },
+  {
+    "id": "auto-b09s6cx3m2",
+    "asin": "B09S6CX3M2",
+    "title": "Christiane F. - Wir Kinder vom Bahnhof Zoo (4K Ultra HD) (+ Blu-ray2D) …",
+    "subtitle": "🔥 102° bei mydealz",
+    "category": "Bücher & Filme",
+    "price": 11.99,
+    "checkedAt": "2026-11-17T20:45:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09S6CX3M2.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 102,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T20:53:28.446Z"
+  },
+  {
     "id": "auto-b00e3862de",
     "asin": "B00E3862DE",
     "title": "Philips Fusselrasierer, Blau, 2 Höheneinstellungen",
@@ -1945,7 +1979,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T10:12:26.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GLYSCMRB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T20:53:33.930Z"
   },
   {
     "id": "auto-b0c3dcsm2p",
@@ -3194,27 +3229,6 @@
     "telegramPostedAt": "2026-11-16T23:31:05.502Z"
   },
   {
-    "id": "auto-b0d92c53gh",
-    "asin": "B0D92C53GH",
-    "title": "Osram LED Birne E27 EEK A (3,8 W) 806 lm 2700 K klar 15er Pack [ohne …",
-    "category": "Tech",
-    "price": 16.96,
-    "checkedAt": "2026-11-16T20:45:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D92C53GH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:52:42.865Z"
-  },
-  {
-    "id": "auto-b09lvqxhbg",
-    "asin": "B09LVQXHBG",
-    "title": "ASUS PRIME B550M-A WIFI II - AM4 - DDR4 für AMD Ryzen",
-    "category": "Computer",
-    "price": 73.99,
-    "checkedAt": "2026-11-16T20:48:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09LVQXHBG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0dqdbx6tt",
     "asin": "B0DQDBX6TT",
     "title": "Katzenstreu Everclean im Großpack 20L alle Sorten Sparabo oder einzeln",
@@ -3339,18 +3353,6 @@
     "checkedAt": "2026-11-16T21:03:58.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FQNP451J.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 117,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07dymlqjt",
-    "asin": "B07DYMLQJT",
-    "title": "STANLEY FatMax Demontage Hammer 620g",
-    "subtitle": "🔥 124° bei mydealz",
-    "category": "Tech",
-    "price": 24.19,
-    "checkedAt": "2026-11-16T20:47:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07DYMLQJT.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 124,
     "source": "auto"
   }
 ]
