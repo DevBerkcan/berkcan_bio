@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b00a0df494",
+    "asin": "B00A0DF494",
+    "title": "Amazon Prime: Gin Mare Mediterraner Gin 0,7 l - 42,7% Vol. Mit Oliven, …",
+    "category": "Lebensmittel & Drinks",
+    "price": 23.7,
+    "checkedAt": "2026-11-17T22:25:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00A0DF494.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f6mtk3z6",
+    "asin": "B0F6MTK3Z6",
+    "title": "Prime - SONGMICS Kopfkissen, ergonomisch, höhenverstellbar, Memory …",
+    "category": "Tech",
+    "price": 17.59,
+    "checkedAt": "2026-11-17T22:34:47.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Vkp0W/2874220_1/re/768x768/qt/55/2874220_1.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b07nxg4nv9",
     "asin": "B07NXG4NV9",
     "title": "Amazon Basics 24er-Pack wiederaufladbare AAA-NiMH-Leistungsbatterien, …",
@@ -29,7 +49,8 @@
     "checkedAt": "2026-11-17T22:08:15.000Z",
     "image": "https://m.media-amazon.com/images/P/B0D5CV18VB.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 109,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T22:37:09.379Z"
   },
   {
     "id": "auto-b0dqvh4jzs",
@@ -1533,7 +1554,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T12:45:24.000Z",
     "image": "https://m.media-amazon.com/images/P/B08GK9QS9G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T22:37:04.921Z"
   },
   {
     "id": "auto-b00zwouh4s",
@@ -2132,7 +2154,8 @@
     "price": 62.99,
     "checkedAt": "2026-11-17T10:45:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FJ2Y9GK1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T22:37:00.480Z"
   },
   {
     "id": "auto-b08swfll6z",
@@ -3300,25 +3323,5 @@
     "temperature": 114,
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:45:58.169Z"
-  },
-  {
-    "id": "auto-b09kc6yf9z",
-    "asin": "B09KC6YF9Z",
-    "title": "Prime - BOSS Herren Connio Gürtel aus italienischem Leder mit …",
-    "category": "Tech",
-    "price": 39.85,
-    "checkedAt": "2026-11-16T22:29:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09KC6YF9Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b08b61wzmx",
-    "asin": "B08B61WZMX",
-    "title": "Prime - ONLY Damen Skinny Jeans Skinny Fit, Casual, Bei max. 40 grad …",
-    "category": "Mode & Reise",
-    "price": 18.85,
-    "checkedAt": "2026-11-16T22:24:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08B61WZMX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
