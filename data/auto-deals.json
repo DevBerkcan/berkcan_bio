@@ -1,5 +1,97 @@
 [
   {
+    "id": "auto-b09svvvg16",
+    "asin": "B09SVVVG16",
+    "title": "Alexa-Sprachfernbedienung Pro von Amazon für Fire TV, mit Remote …",
+    "category": "Amazon-Geräte",
+    "price": 21.99,
+    "checkedAt": "2026-11-17T10:52:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09SVVVG16.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0793m7hrk",
+    "asin": "B0793M7HRK",
+    "title": "Paladone Super Mario Brothers Mushroom Figurenlicht Nachtlicht Lampe …",
+    "category": "Tech",
+    "price": 13.3,
+    "checkedAt": "2026-11-17T10:53:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0793M7HRK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08l17wbd2",
+    "asin": "B08L17WBD2",
+    "title": "Cherry MW 4500 Ergonomische Vertikalmaus für Rechtshänder, kabellos …",
+    "category": "Tech",
+    "price": 18.99,
+    "checkedAt": "2026-11-17T10:54:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08L17WBD2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0bwyl2d8p",
+    "asin": "B0BWYL2D8P",
+    "title": "Tefal OptiGrill Waffelplatten (Waffeleisen) passend für OptiGrill+ und …",
+    "category": "Küche",
+    "price": 54.99,
+    "checkedAt": "2026-11-17T10:54:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BWYL2D8P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b006g0ex1u",
+    "asin": "B006G0EX1U",
+    "title": "Schwiizer Schüümli Crema Mild",
+    "category": "Tech",
+    "price": 18.59,
+    "checkedAt": "2026-11-17T10:55:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B006G0EX1U.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dk5vyqfp",
+    "asin": "B0DK5VYQFP",
+    "title": "KitchenAid Artisan Küchenmaschine 4,7L Fresh Linen",
+    "category": "Küche",
+    "price": 329.99,
+    "checkedAt": "2026-11-17T10:57:11.000Z",
+    "image": "https://static.mydealz.de/threads/raw/GBdIN/2873634_1/re/768x768/qt/55/2873634_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00109o2t0",
+    "asin": "B00109O2T0",
+    "title": "STANLEY 8 m Tylon Bandmaß, Angebotsmenge limitiert",
+    "category": "Tech",
+    "price": 6.39,
+    "checkedAt": "2026-11-17T10:59:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00109O2T0.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fj2pylfb",
+    "asin": "B0FJ2PYLFB",
+    "title": "CORSAIR Frame 4500X RS-R ARGB Panoramaglas Mid-Tower-PC-Gehäuse – …",
+    "category": "Tech",
+    "price": 67.99,
+    "checkedAt": "2026-11-17T11:02:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FJ2PYLFB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0bryx6rqr",
+    "asin": "B0BRYX6RQR",
+    "title": "ASUS ROG Tessen Mobile Gaming Controller",
+    "category": "Gaming",
+    "price": 55.99,
+    "oldPrice": 78.25,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T10:58:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BRYX6RQR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0d5r765tm",
     "asin": "B0D5R765TM",
     "title": "MILLET Prolighter 22 (Schwarz/Blau)",
@@ -94,7 +186,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T10:31:16.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BCKJBWC9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T11:05:46.982Z"
   },
   {
     "id": "queue-b07fydgd7r",
@@ -1651,18 +1744,6 @@
     "telegramPostedAt": "2026-11-17T08:07:32.436Z"
   },
   {
-    "id": "auto-b0fr9swddg",
-    "asin": "B0FR9SWDDG",
-    "title": "Prophete Geniesser 2.0 City E-Bike 28 Zoll",
-    "category": "Sport & Outdoor",
-    "price": 976.64,
-    "oldPrice": 1059,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T11:04:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FR9SWDDG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b07qt525vm",
     "asin": "B07QT525VM",
     "title": "SEVERIN EZ 7407 Kompakt-Eismaschine & Joghurtbereiter",
@@ -1723,19 +1804,6 @@
     "image": "https://m.media-amazon.com/images/P/B001ILCCNS.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 135,
     "source": "auto"
-  },
-  {
-    "id": "auto-b0fh5b6ms7",
-    "asin": "B0FH5B6MS7",
-    "title": "GARMIO Hängematte mit Stahlgestell in 4 Farben",
-    "category": "Licht & Garten",
-    "price": 46.49,
-    "oldPrice": 59.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T10:54:16.000Z",
-    "image": "https://static.mydealz.de/threads/raw/5lSk8/2872618_1/re/768x768/qt/55/2872618_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:31:01.265Z"
   },
   {
     "id": "auto-b09rktx8w3",
@@ -1919,16 +1987,6 @@
     "telegramPostedAt": "2026-11-16T22:30:26.067Z"
   },
   {
-    "id": "auto-b0hgf3x8r7",
-    "asin": "B0HGF3X8R7",
-    "title": "Reolink Akku-Türklingel-Kamera",
-    "category": "Smart Home",
-    "price": 109.99,
-    "checkedAt": "2026-11-16T10:55:30.000Z",
-    "image": "https://static.mydealz.de/threads/raw/I4WN4/2872620_1/re/768x768/qt/55/2872620_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0dt4wr7zb",
     "asin": "B0DT4WR7ZB",
     "title": "Beats Powerbeats Pro 2 (in ear Kopfhörer)",
@@ -1936,16 +1994,6 @@
     "price": 189,
     "checkedAt": "2026-11-16T11:06:46.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DT4WR7ZB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gbwrq11x",
-    "asin": "B0GBWRQ11X",
-    "title": "Gigabyte G27UP 27 Inch 4K UHD Gaming Monitor - Dual Mode",
-    "category": "Computer",
-    "price": 222,
-    "checkedAt": "2026-11-16T11:09:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GBWRQ11X.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -2919,19 +2967,6 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T12:06:06.380Z",
     "image": "https://m.media-amazon.com/images/P/B0FS8NQZTT.03._SCLZZZZZZZ_SX500_.jpg"
-  },
-  {
-    "id": "auto-b07rp1ss39",
-    "asin": "B07RP1SS39",
-    "title": "WMF Silit Calabria Bratpfanne Induktion 28 oder 24cm, Edelstahl …",
-    "category": "Küche",
-    "price": 23.79,
-    "oldPrice": 55.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T10:52:59.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T11:09:39.391Z",
-    "image": "https://m.media-amazon.com/images/P/B07RP1SS39.03._SCLZZZZZZZ_SX500_.jpg"
   },
   {
     "id": "auto-b0fnwwdgsx",
