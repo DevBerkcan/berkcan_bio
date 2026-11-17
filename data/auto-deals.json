@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b0fskrjfkt",
+    "asin": "B0FSKRJFKT",
+    "title": "EarFun Air Pro 4+",
+    "category": "Tech",
+    "price": 64.8,
+    "checkedAt": "2026-11-17T13:55:16.000Z",
+    "image": "https://static.mydealz.de/threads/raw/k8Kff/2873830_1/re/768x768/qt/55/2873830_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09m2d69zc",
+    "asin": "B09M2D69ZC",
+    "title": "Überwachungskamera (WLAN, Wi-Fi 6, für Innenräume)",
+    "category": "Smart Home",
+    "price": 13.29,
+    "checkedAt": "2026-11-17T14:02:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09M2D69ZC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0bj2wjld7",
     "asin": "B0BJ2WJLD7",
     "title": "WMF Iconic Bratentopf 24 cm mit Deckel",
@@ -194,7 +214,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T12:57:13.000Z",
     "image": "https://m.media-amazon.com/images/P/B01M8M8G23.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T14:04:04.580Z"
   },
   {
     "id": "auto-b0fx9qbxxy",
@@ -2199,16 +2220,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0byjsj768",
-    "asin": "B0BYJSJ768",
-    "title": "Pattex Montage Multi 3, 3in1 Montagekleber, für innen und außen**, …",
-    "category": "Tech",
-    "price": 7.19,
-    "checkedAt": "2026-11-16T13:56:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BYJSJ768.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b09tl2lscl",
     "asin": "B09TL2LSCL",
     "title": "WERA 05033404001 9500 Magnet SB, Magnetisiergerät, Entmagnetisierer …",
@@ -2561,36 +2572,6 @@
     "image": "https://m.media-amazon.com/images/P/B08RB5H265.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:34.816Z"
-  },
-  {
-    "id": "auto-b00531aqk0",
-    "asin": "B00531AQK0",
-    "title": "Bosch GTS 10 XC Tischkreissäge",
-    "category": "Werkzeug",
-    "price": 474.99,
-    "checkedAt": "2026-11-16T13:51:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00531AQK0.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0d2hwzq4y",
-    "asin": "B0D2HWZQ4Y",
-    "title": "Bosch Professional 18V System Akku Hobel GHO 18V-26 1x Wood Razor …",
-    "category": "Werkzeug",
-    "price": 172.99,
-    "checkedAt": "2026-11-16T13:51:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D2HWZQ4Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dydst5qw",
-    "asin": "B0DYDST5QW",
-    "title": "Philips Hue White Ambiance GU10 Spot 5er-Pack",
-    "category": "Smart Home",
-    "price": 71.12,
-    "checkedAt": "2026-11-16T13:51:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DYDST5QW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0cldpgtyn",
@@ -3240,19 +3221,6 @@
     "image": "https://m.media-amazon.com/images/P/B0GFXTF9YR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T21:44:09.000Z"
-  },
-  {
-    "id": "auto-b0h349pprv",
-    "asin": "B0H349PPRV",
-    "title": "PHILIPS PUS8001 Ambilight TV in verschiedenen Größen",
-    "category": "TV & Heimkino",
-    "price": 309,
-    "oldPrice": 603.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T13:59:12.000Z",
-    "image": "https://static.mydealz.de/threads/raw/CDKMj/2872856_1/re/768x768/qt/55/2872856_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T21:44:07.250Z"
   },
   {
     "id": "auto-b01bgbj8y0",
