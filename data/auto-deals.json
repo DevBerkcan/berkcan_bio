@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-b075kxxd3g",
+    "asin": "B075KXXD3G",
+    "title": "WMF Küchenminis Dörrautomat Edelstahl",
+    "category": "Tech",
+    "price": 79.99,
+    "checkedAt": "2026-11-17T15:38:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B075KXXD3G.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fx9sfx21",
+    "asin": "B0FX9SFX21",
+    "title": "Fire TV Stick 4K Max + Luna-Controller [PRIME]",
+    "category": "Amazon-Geräte",
+    "price": 86.98,
+    "checkedAt": "2026-11-17T15:39:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FX9SFX21.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00g5yp1ze",
+    "asin": "B00G5YP1ZE",
+    "title": "53,99 € in schwarz",
+    "category": "Tech",
+    "price": 55.89,
+    "checkedAt": "2026-11-17T15:40:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00G5YP1ZE.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0gx65yvc8",
     "asin": "B0GX65YVC8",
     "title": "Comfee Luftentfeuchter 20L/24h,Raumgröße …",
@@ -220,7 +250,8 @@
     "price": 11.4,
     "checkedAt": "2026-11-17T14:23:42.000Z",
     "image": "https://m.media-amazon.com/images/P/B06XPJ5432.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T15:47:49.019Z"
   },
   {
     "id": "auto-b0c8yd16zy",
@@ -1136,18 +1167,6 @@
     "image": "https://m.media-amazon.com/images/P/B0044N2TCG.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T11:35:25.777Z"
-  },
-  {
-    "id": "queue-b0fdr157wc",
-    "asin": "B0FDR157WC",
-    "title": "Dremel 8150 Akku-Multifunktionswerkzeug",
-    "subtitle": "Bürstenloser Motor, 7,2 V und LED-Frontlicht.",
-    "category": "Werkzeug",
-    "price": 49.99,
-    "checkedAt": "2026-11-16T15:37:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FDR157WC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T11:35:02.666Z"
   },
   {
     "id": "auto-b07w5jj85z",
@@ -2789,19 +2808,6 @@
     "telegramPostedAt": "2026-11-16T23:01:01.291Z"
   },
   {
-    "id": "auto-b09m2w28jt",
-    "asin": "B09M2W28JT",
-    "title": "Tenda 4G03 Pro V2.0 LTE-Router mit SIM-Slot",
-    "category": "Computer",
-    "price": 39.99,
-    "oldPrice": 55.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T15:34:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09M2W28JT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:15:52.720Z"
-  },
-  {
     "id": "auto-b08rb5h265",
     "asin": "B08RB5H265",
     "title": "Philips Lumea IPL 9000 Series (BRI955/00) - 46% Rabatt",
@@ -2813,16 +2819,6 @@
     "image": "https://m.media-amazon.com/images/P/B08RB5H265.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:34.816Z"
-  },
-  {
-    "id": "auto-b0fqtydw69",
-    "asin": "B0FQTYDW69",
-    "title": "AMAZON Prime: Bosch Professional 12V Akku-Bohrschrauber GSR 12V-32",
-    "category": "Werkzeug",
-    "price": 71.29,
-    "checkedAt": "2026-11-16T15:35:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FQTYDW69.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0f677k62q",
