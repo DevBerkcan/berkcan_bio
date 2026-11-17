@@ -1,5 +1,44 @@
 [
   {
+    "id": "auto-b0dzp21rxy",
+    "asin": "B0DZP21RXY",
+    "title": "UGREEN 40 Gbps USB‑C Kabel 240 W PD3.1 4K/8K Video Schnellladen …",
+    "subtitle": "🔥 130° bei mydealz",
+    "category": "Tech",
+    "price": 11.46,
+    "checkedAt": "2026-11-17T19:47:00.000Z",
+    "image": "https://static.mydealz.de/threads/raw/UvXwB/2874124_1/re/768x768/qt/55/2874124_1.jpg",
+    "temperature": 130,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:53:48.111Z"
+  },
+  {
+    "id": "auto-b0c2vzdvyx",
+    "asin": "B0C2VZDVYX",
+    "title": "12er Pack Antonio Rossi Boxershorts",
+    "subtitle": "🔥 390° bei mydealz",
+    "category": "Tech",
+    "price": 30.76,
+    "checkedAt": "2026-11-17T19:43:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C2VZDVYX.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 390,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:53:37.939Z"
+  },
+  {
+    "id": "auto-b09sfpjs27",
+    "asin": "B09SFPJS27",
+    "title": "UGREEN (90545) 2.4G Wireless Maus",
+    "subtitle": "🔥 426° bei mydealz",
+    "category": "Computer",
+    "price": 7.59,
+    "checkedAt": "2026-11-17T19:45:38.000Z",
+    "image": "https://static.mydealz.de/threads/raw/1tX3t/2835989_1/re/768x768/qt/55/2835989_1.jpg",
+    "temperature": 426,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:53:32.560Z"
+  },
+  {
     "id": "auto-b0djdf92jw",
     "asin": "B0DJDF92JW",
     "title": "ASUS ROG Strix Z890-A Gaming WiFi Mainboard Sockel Intel LGA 1851",
@@ -962,18 +1001,6 @@
     "image": "https://m.media-amazon.com/images/P/B0F3WJQ19H.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T13:19:48.163Z"
-  },
-  {
-    "id": "queue-b0h8sbrrsb",
-    "asin": "B0H8SBRRSB",
-    "title": "Panasonic W95C QD-Mini-LED-TV 55\" Google TV",
-    "subtitle": "QD-Mini-LED mit 144 Hz und Google TV, Modell 2026.",
-    "category": "TV & Heimkino",
-    "price": 799,
-    "checkedAt": "2026-11-16T19:44:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H8SBRRSB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T13:19:28.792Z"
   },
   {
     "id": "auto-b0gvk2bgkq",
@@ -3310,31 +3337,6 @@
     "checkedAt": "2026-11-16T20:47:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B07DYMLQJT.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 124,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0btcp2ph2",
-    "asin": "B0BTCP2PH2",
-    "title": "ASUS ROG Harpe Ace Aim Lab Edition White RGB Gaming Maus weiß …",
-    "category": "Computer",
-    "price": 53.99,
-    "oldPrice": 78,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T20:58:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BTCP2PH2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T22:45:55.785Z"
-  },
-  {
-    "id": "auto-b01msdr3e5",
-    "asin": "B01MSDR3E5",
-    "title": "SIKA - Fliesenkleber - SikaCeram-290 Starlight - Grau - 15kg Für Wand …",
-    "subtitle": "🔥 312° bei mydealz",
-    "category": "Tech",
-    "price": 33.15,
-    "checkedAt": "2026-11-16T21:13:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01MSDR3E5.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 312,
     "source": "auto"
   }
 ]
