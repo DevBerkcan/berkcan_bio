@@ -1,5 +1,73 @@
 [
   {
+    "id": "auto-b0f5x1gppb",
+    "asin": "B0F5X1GPPB",
+    "title": "Shark FlexBreeze HydroGo Ventilator mit Sprühnebel, 5 Stufen",
+    "category": "Haushalt",
+    "price": 79.99,
+    "checkedAt": "2026-11-17T07:10:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F5X1GPPB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fr9hlngw",
+    "asin": "B0FR9HLNGW",
+    "title": "Axe Duschgel Black XXL 900ml [Prime]",
+    "category": "Beauty & Pflege",
+    "price": 5.91,
+    "checkedAt": "2026-11-17T07:12:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FR9HLNGW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b017a5htga",
+    "asin": "B017A5HTGA",
+    "title": "Sammeldeal: Red Bull Energy Drink verschiedene Sorten",
+    "category": "Lebensmittel & Drinks",
+    "price": 20.24,
+    "checkedAt": "2026-11-17T07:15:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B017A5HTGA.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:22:42.324Z"
+  },
+  {
+    "id": "auto-b0gr19rzv1",
+    "asin": "B0GR19RZV1",
+    "title": "Apple 13\" MacBook Air Laptop, M5 Chip, 10‑Core CPU & 8‑Core GPU",
+    "category": "Computer",
+    "price": 1199,
+    "checkedAt": "2026-11-17T07:19:39.000Z",
+    "image": "https://static.mydealz.de/threads/raw/bVsOp/2873345_1/re/768x768/qt/55/2873345_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:22:37.192Z"
+  },
+  {
+    "id": "auto-b0052t7jr6",
+    "asin": "B0052T7JR6",
+    "title": "Prime: Nine Inch Nails Pretty Hate Machine Vinyl LP",
+    "subtitle": "🔥 103° bei mydealz",
+    "category": "Tech",
+    "price": 15.99,
+    "checkedAt": "2026-11-17T07:11:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0052T7JR6.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 103,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:22:31.201Z"
+  },
+  {
+    "id": "auto-b0h448ldsh",
+    "asin": "B0H448LDSH",
+    "title": "XIAOMI TV 43 Zoll 2026, 4K UHD, Smart TV, Fire OS8, HDR10, L43MB-FAVEU …",
+    "subtitle": "🔥 406° bei mydealz",
+    "category": "TV & Heimkino",
+    "price": 259,
+    "checkedAt": "2026-11-17T07:13:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H448LDSH.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 406,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:22:13.814Z"
+  },
+  {
     "id": "auto-b0dfnm3xz9",
     "asin": "B0DFNM3XZ9",
     "title": "Amazon Ember 4-Serie mit Fire TV, 55-Zoll-Smart-TV in 4K Ultra-HD, …",
@@ -411,7 +479,8 @@
     "price": 29.99,
     "checkedAt": "2026-11-16T23:02:38.000Z",
     "image": "https://m.media-amazon.com/images/P/B0D47VW64N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:22:22.344Z"
   },
   {
     "id": "auto-b007mmg4yk",
@@ -567,16 +636,6 @@
     "price": 18.85,
     "checkedAt": "2026-11-16T22:24:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B08B61WZMX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0blcq3hgp",
-    "asin": "B0BLCQ3HGP",
-    "title": "Puma Caven 2.0 Unisex Sneaker in vielen Größen",
-    "category": "Mode & Reise",
-    "price": 31.13,
-    "checkedAt": "2026-11-16T07:13:57.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BLCQ3HGP.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -1947,7 +2006,8 @@
     "price": 107.9,
     "checkedAt": "2026-11-16T21:23:25.000Z",
     "image": "https://m.media-amazon.com/images/P/B0D9C1DT62.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T07:22:18.112Z"
   },
   {
     "id": "auto-b0h7h4rq6m",
@@ -2622,18 +2682,6 @@
     "image": "https://m.media-amazon.com/images/P/B0BCR8Z7QL.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T21:14:05.993Z"
-  },
-  {
-    "id": "queue-b0dp5dqprc",
-    "asin": "B0DP5DQPRC",
-    "title": "ASUS TUF Gaming B850-PLUS WIFI Mainboard (AM5)",
-    "subtitle": "AM5-Mainboard mit WLAN für aktuelle AMD-Ryzen-Prozessoren.",
-    "category": "Computer",
-    "price": 139,
-    "checkedAt": "2026-11-16T07:14:27.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T12:34:59.359Z",
-    "image": "https://m.media-amazon.com/images/P/B0DP5DQPRC.03._SCLZZZZZZZ_SX500_.jpg"
   },
   {
     "id": "auto-b0fsdltxgp",
