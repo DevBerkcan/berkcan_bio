@@ -417,7 +417,15 @@ async function main() {
   const postedToday = Object.values(state.posted).filter((at) => berlinDay(at) === day).length;
   const peak = (cfg.peakHours ?? []).some(([from, to]) => hour >= from && hour < to);
   const perRun = peak ? mode.maxPerRun : mode.offPeakPerRun;
-  let budget = isQuiet(hour, cfg.quietHours) ? 0 : Math.min(perRun, Math.max(0, mode.maxPerDay - postedToday));
+  // Tagesbudget gleichmäßig über die aktive Zeit verteilen (sonst ist es mittags weg und abends kommt nichts).
+  // In Stoßzeiten darf ein Lauf etwas vorgreifen.
+  const [quietFrom, quietTo] = cfg.quietHours ?? [0, 0];
+  const activeHours = (quietFrom - quietTo + 24) % 24 || 24;
+  const elapsed = (hour + new Date().getMinutes() / 60 - quietTo + 24) % 24;
+  const paced = Math.ceil(mode.maxPerDay * Math.min(1, (elapsed + 0.25) / activeHours)) + (peak ? perRun : 0);
+  let budget = isQuiet(hour, cfg.quietHours)
+    ? 0
+    : Math.max(postedToday < mode.maxPerDay ? 1 : 0, Math.min(perRun, paced - postedToday, mode.maxPerDay - postedToday)); // mind. 1 pro Lauf
 
   console.log(
     `Modus: ${mode.name}${peak ? " · Stoßzeit" : ""} · Feeds: ${items.size} Deals · passend: ${candidates.length} · ` +

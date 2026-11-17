@@ -129,7 +129,7 @@
     "maxPrice": 1500,
     "maxAgeHours": 24,
     "maxPerRun": 10,
-    "maxPerDay": 150,
+    "maxPerDay": 200,
     "quietHours": [
       1,
       7
