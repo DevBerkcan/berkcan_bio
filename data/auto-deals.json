@@ -1,5 +1,31 @@
 [
   {
+    "id": "auto-b0djdf92jw",
+    "asin": "B0DJDF92JW",
+    "title": "ASUS ROG Strix Z890-A Gaming WiFi Mainboard Sockel Intel LGA 1851",
+    "subtitle": "🔥 104° bei mydealz",
+    "category": "Computer",
+    "price": 196.99,
+    "checkedAt": "2026-11-17T19:35:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJDF92JW.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 104,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:38:51.818Z"
+  },
+  {
+    "id": "auto-b0brnf257d",
+    "asin": "B0BRNF257D",
+    "title": "Jujutsu Kaisen 0: The Movie - Limited Steelbook Edition [Blu-ray]",
+    "subtitle": "🔥 105° bei mydealz",
+    "category": "Bücher & Filme",
+    "price": 12.79,
+    "checkedAt": "2026-11-17T19:34:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BRNF257D.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 105,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:38:46.338Z"
+  },
+  {
     "id": "auto-b07w6hdb55",
     "asin": "B07W6HDB55",
     "title": "Logitech G G502 X Plus",
@@ -361,7 +387,8 @@
     "price": 114.99,
     "checkedAt": "2026-11-17T15:54:54.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FLB2LRM3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T19:38:40.663Z"
   },
   {
     "id": "auto-b0hmhjz6lq",
@@ -3094,28 +3121,6 @@
     "image": "https://m.media-amazon.com/images/P/B0DX2H6RYR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:31:05.502Z"
-  },
-  {
-    "id": "auto-b0f6cr39wr",
-    "asin": "B0F6CR39WR",
-    "title": "Ugreen NASync DH4300 Plus",
-    "category": "Computer",
-    "price": 309.98,
-    "checkedAt": "2026-11-16T19:28:23.000Z",
-    "image": "https://static.mydealz.de/threads/raw/IRCHv/2873152_1/re/768x768/qt/55/2873152_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:37:10.050Z"
-  },
-  {
-    "id": "auto-b0csxlgqj7",
-    "asin": "B0CSXLGQJ7",
-    "title": "GIGABYTE AORUS Waterforce X II 360 ICE weiß",
-    "category": "Tech",
-    "price": 99,
-    "checkedAt": "2026-11-16T19:31:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CSXLGQJ7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:37:14.750Z"
   },
   {
     "id": "auto-b07w5jkb8z",
