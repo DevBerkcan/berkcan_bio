@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b09rgb84ft",
+    "asin": "B09RGB84FT",
+    "title": "Corona Cero 0,0% Alkoholfrei Lager Bier, MEHRWEG im Kasten, …",
+    "category": "Lebensmittel & Drinks",
+    "price": 19.94,
+    "checkedAt": "2026-11-17T18:15:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09RGB84FT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cthxmyl8",
+    "asin": "B0CTHXMYL8",
+    "title": "Crucial Pro DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL36",
+    "category": "Computer",
+    "price": 499.99,
+    "checkedAt": "2026-11-17T21:15:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CTHXMYL8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08hvt5dqp",
+    "asin": "B08HVT5DQP",
+    "title": "Wiha zai Hause Elektrischer Akku Schraubendreher mit 8 Bits, 3,6 V …",
+    "subtitle": "🔥 205° bei mydealz",
+    "category": "Tech",
+    "price": 22.99,
+    "checkedAt": "2026-11-17T21:10:52.000Z",
+    "image": "https://static.mydealz.de/threads/raw/B1rp6/2849092_1/re/768x768/qt/55/2849092_1.jpg",
+    "temperature": 205,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T21:23:11.650Z"
+  },
+  {
     "id": "auto-b079r7w737",
     "asin": "B079R7W737",
     "title": "Siku: MAN Feuerwehr Drehleiter (2114)",
@@ -3272,17 +3305,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0009w873q",
-    "asin": "B0009W873Q",
-    "title": "Bosch SDS plus-Adapter mit Bohrfutter [PRIME]",
-    "category": "Tech",
-    "price": 10.99,
-    "checkedAt": "2026-11-16T21:14:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0009W873Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:46:07.069Z"
-  },
-  {
     "id": "auto-b0d9c1dt62",
     "asin": "B0D9C1DT62",
     "title": "Corsair RM850x (2024) – 850 W ATX-Netzteil",
@@ -3304,19 +3326,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0d929rvfx",
-    "asin": "B0D929RVFX",
-    "title": "5er-Pack Osram E27 LED-Lampen",
-    "subtitle": "🔥 115° bei mydealz",
-    "category": "Tech",
-    "price": 14.99,
-    "checkedAt": "2026-11-16T21:22:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D929RVFX.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 115,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T22:30:21.821Z"
-  },
-  {
     "id": "auto-b0dx2h6ryr",
     "asin": "B0DX2H6RYR",
     "title": "Razer Barracuda X Chroma Phantom Green Gaming-Headset, kabellos, …",
@@ -3328,16 +3337,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DX2H6RYR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:31:05.502Z"
-  },
-  {
-    "id": "auto-b0fqfq71tg",
-    "asin": "B0FQFQ71TG",
-    "title": "Apple iPhone Air 256GB (weiß)",
-    "category": "Smartphone & Tablet",
-    "price": 799,
-    "checkedAt": "2026-11-16T21:12:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FQFQ71TG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:37:42.613Z"
   }
 ]
