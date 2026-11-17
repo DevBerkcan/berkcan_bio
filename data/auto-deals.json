@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b000fwhwgs",
+    "asin": "B000FWHWGS",
+    "title": "Lavazza Crema e Aroma Kaffeebohnen 1kg",
+    "category": "Lebensmittel & Drinks",
+    "price": 12.38,
+    "checkedAt": "2026-11-17T08:57:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000FWHWGS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d384k6l9",
+    "asin": "B0D384K6L9",
+    "title": "Razer DeathAdder V3 HyperSpeed Kabellose Gaming-Maus, 55 g, Focus X …",
+    "category": "Computer",
+    "price": 55.49,
+    "checkedAt": "2026-11-17T09:02:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D384K6L9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fnych1vl",
+    "asin": "B0FNYCH1VL",
+    "title": "Philips Stacked Airfryer 4000 (NA460/00) schwarz",
+    "category": "Küche",
+    "price": 139.99,
+    "oldPrice": 177.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T08:56:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FNYCH1VL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T09:07:20.768Z"
+  },
+  {
     "id": "auto-b0gjtb5tr6",
     "asin": "B0GJTB5TR6",
     "title": "Cricut EasyPress SE",
@@ -1614,26 +1647,6 @@
     "telegramPostedAt": "2026-11-16T22:30:26.067Z"
   },
   {
-    "id": "auto-b0f7hkth4h",
-    "asin": "B0F7HKTH4H",
-    "title": "Star Wars Outlaws - Gold Edition inkl. Season Pass - Nintendo Switch 2",
-    "category": "Gaming",
-    "price": 29.99,
-    "checkedAt": "2026-11-16T08:56:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F7HKTH4H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fhl3kc13",
-    "asin": "B0FHL3KC13",
-    "title": "Lenovo Legion Pro 27UD-10 27\"",
-    "category": "Computer",
-    "price": 479,
-    "checkedAt": "2026-11-16T09:16:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FHL3KC13.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b096hb6xn5",
     "asin": "B096HB6XN5",
     "title": "Paladone Super Mario Bros 3D Boo Licht - Offiziell lizenziertes …",
@@ -2868,18 +2881,5 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T09:42:43.757Z",
     "temperature": 116
-  },
-  {
-    "id": "auto-b075dl9jb1",
-    "asin": "B075DL9JB1",
-    "title": "WMF Classic Line Frühstücksmesser Set 6-teilig, 23 cm, Brötchenmesser …",
-    "category": "Küche",
-    "price": 12.99,
-    "oldPrice": 17.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T08:59:14.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T09:13:46.966Z",
-    "image": "https://m.media-amazon.com/images/P/B075DL9JB1.03._SCLZZZZZZZ_SX500_.jpg"
   }
 ]
