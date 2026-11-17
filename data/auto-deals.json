@@ -1,5 +1,77 @@
 [
   {
+    "id": "auto-b0049u0dmc",
+    "asin": "B0049U0DMC",
+    "title": "Lavazza Qualità Oro 1 kg, 100% Arabica Kaffeebohnen",
+    "category": "Lebensmittel & Drinks",
+    "price": 14.84,
+    "checkedAt": "2026-11-17T08:10:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0049U0DMC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:22:43.967Z"
+  },
+  {
+    "id": "auto-b0cntwy3vm",
+    "asin": "B0CNTWY3VM",
+    "title": "Stanley 1913 Quencher H2.0 FlowState Trinkbecher 1.18L - Rose Quartz",
+    "category": "Tech",
+    "price": 35,
+    "checkedAt": "2026-11-17T08:17:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CNTWY3VM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:22:38.808Z"
+  },
+  {
+    "id": "auto-b00nqxc2yu",
+    "asin": "B00NQXC2YU",
+    "title": "Star Trek: The Next Generation - Season 1-7 [Blu-ray] [UK IMPORT]",
+    "category": "Bücher & Filme",
+    "price": 95.97,
+    "checkedAt": "2026-11-17T08:18:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00NQXC2YU.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:22:33.646Z"
+  },
+  {
+    "id": "auto-b0cq5mcd3f",
+    "asin": "B0CQ5MCD3F",
+    "title": "Lattafa Al Nashama Caprice Eau de Parfum",
+    "category": "Beauty & Pflege",
+    "price": 20.41,
+    "oldPrice": 22.7,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T08:17:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CQ5MCD3F.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:22:28.645Z"
+  },
+  {
+    "id": "auto-b09wrmgjnr",
+    "asin": "B09WRMGJNR",
+    "title": "Emsa Travel Mug Light Isolierbecher 0,4 l",
+    "subtitle": "🔥 103° bei mydealz",
+    "category": "Tech",
+    "price": 14.74,
+    "checkedAt": "2026-11-17T08:14:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09WRMGJNR.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 103,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:22:23.523Z"
+  },
+  {
+    "id": "auto-b0gpf4v494",
+    "asin": "B0GPF4V494",
+    "title": "Paladone Minecraft Chicken Jockey Icon Light",
+    "subtitle": "🔥 113° bei mydealz",
+    "category": "Tech",
+    "price": 9.59,
+    "checkedAt": "2026-11-17T08:14:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GPF4V494.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 113,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T08:22:18.317Z"
+  },
+  {
     "id": "auto-b0blzj6g2f",
     "asin": "B0BLZJ6G2F",
     "title": "TRELOCK FS 280/100 TWO.GO Code Faltschloss – Länge 100 cm – …",
@@ -718,26 +790,6 @@
     "price": 18.85,
     "checkedAt": "2026-11-16T22:24:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B08B61WZMX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gbx56d2d",
-    "asin": "B0GBX56D2D",
-    "title": "Amazon Echo Show 8 neueste Generation zusammen mit dem Ring Intercom …",
-    "category": "Amazon-Geräte",
-    "price": 157.99,
-    "checkedAt": "2026-11-16T08:13:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GBX56D2D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b09cv7mt5s",
-    "asin": "B09CV7MT5S",
-    "title": "Philips Hue Bewegungssensor für den Aussenbereich",
-    "category": "Smart Home",
-    "price": 37.45,
-    "checkedAt": "2026-11-16T08:16:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09CV7MT5S.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -1499,16 +1551,6 @@
     "image": "https://m.media-amazon.com/images/P/B074P3L723.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:26.067Z"
-  },
-  {
-    "id": "auto-b0f5b2d2yy",
-    "asin": "B0F5B2D2YY",
-    "title": "CMF by Nothing Buds Pro 2 In-Ears mit ANC in 4 Farben",
-    "category": "Audio",
-    "price": 36.95,
-    "checkedAt": "2026-11-16T08:17:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F5B2D2YY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0h2v9dmb4",
@@ -2362,19 +2404,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0fhkybps1",
-    "asin": "B0FHKYBPS1",
-    "title": "Lenovo Legion Pro 32UD-10",
-    "category": "Computer",
-    "price": 549,
-    "oldPrice": 606,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T08:13:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FHKYBPS1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:22:20.034Z"
-  },
-  {
     "id": "auto-b0fl2kl9cl",
     "asin": "B0FL2KL9CL",
     "title": "GIGABYTE AORUS FO27Q5P – 27-Zoll-QD-OLED-Gaming-Monitor",
@@ -2573,19 +2602,6 @@
     "image": "https://m.media-amazon.com/images/P/B0F7Y4VH17.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:01:05.450Z"
-  },
-  {
-    "id": "auto-b0gvv2srgv",
-    "asin": "B0GVV2SRGV",
-    "title": "MOVA P70 Pro Ultra – Saug- und Wischroboter mit All-in-One-Station",
-    "category": "Haushalt",
-    "price": 399,
-    "oldPrice": 560.07,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T08:10:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GVV2SRGV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:00:52.745Z"
   },
   {
     "id": "auto-b0001p18pa",
@@ -2843,18 +2859,5 @@
     "source": "auto",
     "telegramPostedAt": "2026-11-16T08:44:38.969Z",
     "image": "https://static.mydealz.de/threads/raw/ncpLB/2872417_1/re/768x768/qt/55/2872417_1.jpg"
-  },
-  {
-    "id": "auto-b0fl7qlh89",
-    "asin": "B0FL7QLH89",
-    "title": "Logitech G321 Lightspeed – kabelloses Gaming-Headset",
-    "category": "Gaming",
-    "price": 39.99,
-    "oldPrice": 49.97,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T08:12:00.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T08:15:38.797Z",
-    "image": "https://m.media-amazon.com/images/P/B0FL7QLH89.03._SCLZZZZZZZ_SX500_.jpg"
   }
 ]
