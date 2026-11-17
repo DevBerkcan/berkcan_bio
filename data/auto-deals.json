@@ -1,5 +1,87 @@
 [
   {
+    "id": "auto-b01n7tiwtd",
+    "asin": "B01N7TIWTD",
+    "title": "fischer DuoPower 8 x 65 – Universaldübel, leistungsstarker …",
+    "category": "Tech",
+    "price": 6.99,
+    "checkedAt": "2026-11-17T14:04:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01N7TIWTD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00cd229q6",
+    "asin": "B00CD229Q6",
+    "title": "BWT Wasserfilterkartuschen + Magnesium",
+    "category": "Tech",
+    "price": 25.42,
+    "checkedAt": "2026-11-17T14:06:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00CD229Q6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09ft4k4ld",
+    "asin": "B09FT4K4LD",
+    "title": "Xyladecor Holzschutz-Lasur 2in1, Universeller Allwetter-Schutz – Der …",
+    "category": "Tech",
+    "price": 33.91,
+    "checkedAt": "2026-11-17T14:07:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09FT4K4LD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d87lps7t",
+    "asin": "B0D87LPS7T",
+    "title": "Govee RGBICWW Smart LED-Tischlampe",
+    "category": "Tech",
+    "price": 41.99,
+    "checkedAt": "2026-11-17T14:09:34.000Z",
+    "image": "https://static.mydealz.de/threads/raw/QjeZm/2873848_1/re/768x768/qt/55/2873848_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ccdffy3j",
+    "asin": "B0CCDFFY3J",
+    "title": "VAUDE Kobel Adjust 500 II SYN (Baltic Sea)",
+    "category": "Tech",
+    "price": 62.79,
+    "checkedAt": "2026-11-17T14:10:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CCDFFY3J.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b06xsswf4d",
+    "asin": "B06XSSWF4D",
+    "title": "Prime: Iron Maiden Flight 666 2 Vinyl LP",
+    "category": "Tech",
+    "price": 24.49,
+    "checkedAt": "2026-11-17T14:11:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B06XSSWF4D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ft3yxt6f",
+    "asin": "B0FT3YXT6F",
+    "title": "The Long Walk - Todesmarsch Lim. Steelbook",
+    "category": "Bücher & Filme",
+    "price": 27.99,
+    "checkedAt": "2026-11-17T14:17:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FT3YXT6F.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f8r76ps7",
+    "asin": "B0F8R76PS7",
+    "title": "Paladone Princess Peach Thermoeffekt-Tasse 300 ml",
+    "category": "Tech",
+    "price": 9.68,
+    "oldPrice": 15.64,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T14:04:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F8R76PS7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0fskrjfkt",
     "asin": "B0FSKRJFKT",
     "title": "EarFun Air Pro 4+",
@@ -82,7 +164,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-17T13:23:10.000Z",
     "image": "https://static.mydealz.de/threads/raw/ZCezt/2873811_1/re/768x768/qt/55/2873811_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T14:18:49.312Z"
   },
   {
     "id": "auto-b0049nnuy2",
@@ -2220,36 +2303,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b09tl2lscl",
-    "asin": "B09TL2LSCL",
-    "title": "WERA 05033404001 9500 Magnet SB, Magnetisiergerät, Entmagnetisierer …",
-    "category": "Werkzeug",
-    "price": 7.59,
-    "checkedAt": "2026-11-16T14:12:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09TL2LSCL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0h45p9glc",
-    "asin": "B0H45P9GLC",
-    "title": "Tamiya 47531 1:10 RC Nissan R91CP 1992",
-    "category": "Spielzeug & LEGO",
-    "price": 130.03,
-    "checkedAt": "2026-11-16T14:16:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H45P9GLC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07rfly8dz",
-    "asin": "B07RFLY8DZ",
-    "title": "natural elements Premium Multivitamin – 180 hochdosierte …",
-    "category": "Beauty & Pflege",
-    "price": 18.74,
-    "checkedAt": "2026-11-16T14:16:36.000Z",
-    "image": "https://static.mydealz.de/threads/raw/C7CvH/2830748_1/re/768x768/qt/55/2830748_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0dwkkdtq7",
     "asin": "B0DWKKDTQ7",
     "title": "Gusseisene Brotbackform mit Deckel / dutch oven (KRUSTENZAUBER) für …",
@@ -2535,19 +2588,6 @@
     "telegramPostedAt": "2026-11-16T23:01:01.291Z"
   },
   {
-    "id": "auto-b09rlnm8lz",
-    "asin": "B09RLNM8LZ",
-    "title": "Paladone Star Wars Darth Vader Lampe mit Sound",
-    "category": "Licht & Garten",
-    "price": 18.38,
-    "oldPrice": 25.45,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T14:05:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09RLNM8LZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:00:57.056Z"
-  },
-  {
     "id": "auto-b09m2w28jt",
     "asin": "B09M2W28JT",
     "title": "Tenda 4G03 Pro V2.0 LTE-Router mit SIM-Slot",
@@ -2572,26 +2612,6 @@
     "image": "https://m.media-amazon.com/images/P/B08RB5H265.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:34.816Z"
-  },
-  {
-    "id": "auto-b0cldpgtyn",
-    "asin": "B0CLDPGTYN",
-    "title": "ISSELL SpotClean HydroSteam Teppichreiniger & Dampfreiniger 1000W …",
-    "category": "Haushalt",
-    "price": 179,
-    "checkedAt": "2026-11-16T14:05:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CLDPGTYN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0ctksnqwq",
-    "asin": "B0CTKSNQWQ",
-    "title": "Wiha SpeedE PocketDrive 45791 elektrischer Schraubendreher 31-tlg. mit …",
-    "category": "Werkzeug",
-    "price": 49.99,
-    "checkedAt": "2026-11-16T14:10:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CTKSNQWQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b096h9qp49",
@@ -2999,19 +3019,6 @@
     "telegramPostedAt": "2026-11-17T08:37:42.613Z"
   },
   {
-    "id": "auto-b0fl2kl9cl",
-    "asin": "B0FL2KL9CL",
-    "title": "GIGABYTE AORUS FO27Q5P – 27-Zoll-QD-OLED-Gaming-Monitor",
-    "category": "Computer",
-    "price": 569,
-    "oldPrice": 656.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T14:11:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FL2KL9CL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:22:11.505Z"
-  },
-  {
     "id": "auto-b0h45s7p7p",
     "asin": "B0H45S7P7P",
     "title": "UGREEN NASync US2000 72W NAS-USV",
@@ -3158,19 +3165,6 @@
     "image": "https://m.media-amazon.com/images/P/B0H3619GCS.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:16:05.416Z"
-  },
-  {
-    "id": "auto-b0f7y4vh17",
-    "asin": "B0F7Y4VH17",
-    "title": "MSI MAG 272FDE 27\" Gaming-Monitor",
-    "category": "Computer",
-    "price": 94,
-    "oldPrice": 128.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T14:07:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F7Y4VH17.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:01:05.450Z"
   },
   {
     "id": "auto-b0btcp2ph2",
