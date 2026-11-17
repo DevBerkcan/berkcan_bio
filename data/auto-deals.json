@@ -1,5 +1,82 @@
 [
   {
+    "id": "auto-b0976xgzls",
+    "asin": "B0976XGZLS",
+    "title": "Old Spice Rockstar Deo Stick 6er Pack personalisiert",
+    "category": "Tech",
+    "price": 13.65,
+    "checkedAt": "2026-11-17T09:29:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0976XGZLS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00hhieqm6",
+    "asin": "B00HHIEQM6",
+    "title": "Brennenstuhl Premium-Line Steckdosenleiste 6-fach, 5 m Kabel, …",
+    "category": "Smart Home",
+    "price": 12.51,
+    "checkedAt": "2026-11-17T09:36:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00HHIEQM6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ghnycw59",
+    "asin": "B0GHNYCW59",
+    "title": "Vihado Magnesiumbisglycinat, 365 Kapseln, je 100mg, kein verstecktes …",
+    "category": "Tech",
+    "price": 9.68,
+    "checkedAt": "2026-11-17T09:44:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GHNYCW59.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0frm5v2sp",
+    "asin": "B0FRM5V2SP",
+    "title": "Tatonka Wokin 15L (Midnight Plum)",
+    "category": "Sport & Outdoor",
+    "price": 42.08,
+    "checkedAt": "2026-11-17T09:50:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FRM5V2SP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0024ltun6",
+    "asin": "B0024LTUN6",
+    "title": "Wera 8784 A1 Zyklop-Verbindungsteil 1/4\" Vierkant auf 1/4\" Bits",
+    "category": "Werkzeug",
+    "price": 10.09,
+    "oldPrice": 12.45,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T09:46:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0024LTUN6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b084866nxn",
+    "asin": "B084866NXN",
+    "title": "Russell Hobbs Inspire Wasserkocher grau (1,7 l, 2400 W)",
+    "category": "Küche",
+    "price": 24.99,
+    "oldPrice": 39.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T09:41:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B084866NXN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T09:51:35.322Z"
+  },
+  {
+    "id": "queue-b0czpmxgsh",
+    "asin": "B0CZPMXGSH",
+    "title": "Beats Solo 4 Bluetooth On-Ear-Kopfhörer",
+    "subtitle": "Bis zu 50 Std. Akku, kompatibel mit Apple und Android.",
+    "category": "Audio",
+    "price": 109,
+    "checkedAt": "2026-11-16T15:06:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CZPMXGSH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T09:51:18.878Z"
+  },
+  {
     "id": "auto-b0fh5jqq15",
     "asin": "B0FH5JQQ15",
     "title": "Corsair K55 CORE TKL RGB Gaming-Tastatur, QWERTZ DE, Membrantasten, …",
@@ -1030,16 +1107,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b08yj3cgg2",
-    "asin": "B08YJ3CGG2",
-    "title": "LIPTON ICE TEA Sparkling Lemon",
-    "category": "Lebensmittel & Drinks",
-    "price": 13.99,
-    "checkedAt": "2026-11-16T09:37:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08YJ3CGG2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0dnhsyfxp",
     "asin": "B0DNHSYFXP",
     "title": "Amazon Basics 10kg Neopren Hantelset",
@@ -1522,19 +1589,6 @@
     "telegramPostedAt": "2026-11-16T23:31:01.265Z"
   },
   {
-    "id": "auto-b0g3nfqrw2",
-    "asin": "B0G3NFQRW2",
-    "title": "Tamiya RC-Bausatz Mercedes 190E Evo II DTM 1991 „König Pilsener“ mit …",
-    "category": "Spielzeug & LEGO",
-    "price": 115.22,
-    "oldPrice": 150.85,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T09:47:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G3NFQRW2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:16:13.839Z"
-  },
-  {
     "id": "auto-b09rktx8w3",
     "asin": "B09RKTX8W3",
     "title": "Paladone Xbox Flow-Lampe",
@@ -1714,16 +1768,6 @@
     "image": "https://m.media-amazon.com/images/P/B074P3L723.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T22:30:26.067Z"
-  },
-  {
-    "id": "auto-b0ccrtvtwb",
-    "asin": "B0CCRTVTWB",
-    "title": "RYOBI 18V ONE+ Akku- Nass-und Trockensauger RV1811-0, ohne Akku und …",
-    "category": "Haushalt",
-    "price": 103.49,
-    "checkedAt": "2026-11-16T09:45:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CCRTVTWB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0dhgr23cn",
@@ -2063,16 +2107,6 @@
     "price": 109,
     "checkedAt": "2026-11-16T15:02:25.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FPNV7H69.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0czpmxgsh",
-    "asin": "B0CZPMXGSH",
-    "title": "Beats Solo 4 - Kabelloser Bluetooth On-Ear Kopfhörer, Apple & Android …",
-    "category": "Audio",
-    "price": 109,
-    "checkedAt": "2026-11-16T15:06:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CZPMXGSH.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
