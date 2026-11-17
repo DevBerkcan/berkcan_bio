@@ -1,5 +1,72 @@
 [
   {
+    "id": "auto-b0cytfb73v",
+    "asin": "B0CYTFB73V",
+    "title": "Adidas Herren VL Court 3.0 Schuhe",
+    "category": "Mode & Reise",
+    "price": 48.9,
+    "checkedAt": "2026-11-17T11:26:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CYTFB73V.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0djd85k26",
+    "asin": "B0DJD85K26",
+    "title": "Head & Shoulders Classic Clean Anti-Schuppen Shampoo 800 ml",
+    "category": "Beauty & Pflege",
+    "price": 8.35,
+    "checkedAt": "2026-11-17T11:30:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJD85K26.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dx7dzkks",
+    "asin": "B0DX7DZKKS",
+    "title": "ESN Ultrapure Creatine Monohydrate - geschmacksneutral und vegan - 250 …",
+    "category": "Lebensmittel & Drinks",
+    "price": 10.79,
+    "checkedAt": "2026-11-17T11:34:19.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Md5MH/2873679_1/re/768x768/qt/55/2873679_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fp5sz9pg",
+    "asin": "B0FP5SZ9PG",
+    "title": "Razer Kishi V3 Phantom Controller für iPhone & Android",
+    "category": "Gaming",
+    "price": 77.09,
+    "oldPrice": 89.03,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T11:22:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FP5SZ9PG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0044n2tcg",
+    "asin": "B0044N2TCG",
+    "title": "Ritter serano 7 Duo Plus Allesschneider",
+    "category": "Tech",
+    "price": 149.99,
+    "oldPrice": 199.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-17T11:29:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0044N2TCG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T11:35:25.777Z"
+  },
+  {
+    "id": "queue-b0fdr157wc",
+    "asin": "B0FDR157WC",
+    "title": "Dremel 8150 Akku-Multifunktionswerkzeug",
+    "subtitle": "Bürstenloser Motor, 7,2 V und LED-Frontlicht.",
+    "category": "Werkzeug",
+    "price": 49.99,
+    "checkedAt": "2026-11-16T15:37:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FDR157WC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-17T11:35:02.666Z"
+  },
+  {
     "id": "auto-b07w5jj85z",
     "asin": "B07W5JJ85Z",
     "title": "Logitech Signature M650 L Kabellose Maus, Bluetooth und Logi Bolt, 5 …",
@@ -1965,16 +2032,6 @@
     "telegramPostedAt": "2026-11-16T22:30:26.067Z"
   },
   {
-    "id": "auto-b0h7k5t17c",
-    "asin": "B0H7K5T17C",
-    "title": "EA Sports FC 27 Standard Edition Nintendo Switch Spielkarte",
-    "category": "Gaming",
-    "price": 31.99,
-    "checkedAt": "2026-11-16T11:22:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H7K5T17C.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0fkt8y5h7",
     "asin": "B0FKT8Y5H7",
     "title": "Octopath Traveler 0 - Nintendo Switch 2 (GKC)",
@@ -2242,16 +2299,6 @@
     "price": 71.29,
     "checkedAt": "2026-11-16T15:35:24.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FQTYDW69.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fdr157wc",
-    "asin": "B0FDR157WC",
-    "title": "Dremel 8150 Akku-Bürstenloses Multifunktionswerkzeug 7,2V …",
-    "category": "Werkzeug",
-    "price": 49.99,
-    "checkedAt": "2026-11-16T15:37:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FDR157WC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -2759,19 +2806,6 @@
     "image": "https://m.media-amazon.com/images/P/B0H3619GCS.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-16T23:16:05.416Z"
-  },
-  {
-    "id": "auto-b0hf1pk3tw",
-    "asin": "B0HF1PK3TW",
-    "title": "Dyson R1 Nurovi Saugroboter mit Absaugstation",
-    "category": "Haushalt",
-    "price": 369,
-    "oldPrice": 500.74,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-16T11:32:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HF1PK3TW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-16T23:01:13.982Z"
   },
   {
     "id": "auto-b0f7y4vh17",
