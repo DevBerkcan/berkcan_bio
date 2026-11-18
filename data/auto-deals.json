@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b013erl6ks",
+    "asin": "B013ERL6KS",
+    "title": "Stanley Werkzeugbox/Werkzeugkoffer 12,5\"",
+    "category": "Werkzeug",
+    "price": 8.49,
+    "checkedAt": "2026-11-18T09:31:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B013ERL6KS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dqm8gpr7",
+    "asin": "B0DQM8GPR7",
+    "title": "GIGABYTE B850 AORUS Elite WIFI7 Mainboard",
+    "subtitle": "🔥 108° bei mydealz",
+    "category": "Computer",
+    "price": 161.45,
+    "checkedAt": "2026-11-18T09:21:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQM8GPR7.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 108,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08twj51w7",
+    "asin": "B08TWJ51W7",
+    "title": "Mammut Comfort Down Bag -5C Daunen-Mumienschlafsack",
+    "category": "Sport & Outdoor",
+    "price": 166.11,
+    "oldPrice": 259.9,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T09:35:38.000Z",
+    "image": "https://static.mydealz.de/threads/raw/GewB9/2874477_1/re/768x768/qt/55/2874477_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T09:39:34.131Z"
+  },
+  {
     "id": "auto-b073zg6yj4",
     "asin": "B073ZG6YJ4",
     "title": "REMINGTON Hygiene Clipper NE3850 Nano Series",
@@ -2688,16 +2723,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0ftsqdbyd",
-    "asin": "B0FTSQDBYD",
-    "title": "Blink Outdoor 4 Kamera (Außenkamera) mit Sync Module Core, Blink Mini …",
-    "category": "Amazon-Geräte",
-    "price": 47.99,
-    "checkedAt": "2026-11-17T11:46:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FTSQDBYD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0c3bsz56d",
     "asin": "B0C3BSZ56D",
     "title": "HyperX Cloud III: Gaming-Headset in Schwarz oder Schwarz/Rot",
@@ -3046,26 +3071,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0976xgzls",
-    "asin": "B0976XGZLS",
-    "title": "Old Spice Rockstar Deo Stick 6er Pack personalisiert",
-    "category": "Tech",
-    "price": 13.65,
-    "checkedAt": "2026-11-17T09:29:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0976XGZLS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b00hhieqm6",
-    "asin": "B00HHIEQM6",
-    "title": "Brennenstuhl Premium-Line Steckdosenleiste 6-fach, 5 m Kabel, …",
-    "category": "Smart Home",
-    "price": 12.51,
-    "checkedAt": "2026-11-17T09:36:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00HHIEQM6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0ghnycw59",
     "asin": "B0GHNYCW59",
     "title": "Vihado Magnesiumbisglycinat, 365 Kapseln, je 100mg, kein verstecktes …",
@@ -3110,38 +3115,5 @@
     "image": "https://m.media-amazon.com/images/P/B084866NXN.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T09:51:35.322Z"
-  },
-  {
-    "id": "auto-b0fh5jqq15",
-    "asin": "B0FH5JQQ15",
-    "title": "Corsair K55 CORE TKL RGB Gaming-Tastatur, QWERTZ DE, Membrantasten, …",
-    "category": "Computer",
-    "price": 29.99,
-    "checkedAt": "2026-11-17T09:23:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FH5JQQ15.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b09m2yhxrv",
-    "asin": "B09M2YHXRV",
-    "title": "Tenda SG108 LAN Switch 8 Port Gigabit Netzwerk Switch Unmanaged LAN …",
-    "category": "Tech",
-    "price": 11.89,
-    "checkedAt": "2026-11-17T09:32:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09M2YHXRV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dkfhx4xk",
-    "asin": "B0DKFHX4XK",
-    "title": "THERMOcafé TC Bottle von Thermos 500 ml",
-    "category": "Tech",
-    "price": 13.99,
-    "oldPrice": 21.29,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T09:32:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DKFHX4XK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T09:36:55.198Z"
   }
 ]
