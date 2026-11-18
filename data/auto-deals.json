@@ -1,5 +1,52 @@
 [
   {
+    "id": "auto-b073zg6yj4",
+    "asin": "B073ZG6YJ4",
+    "title": "REMINGTON Hygiene Clipper NE3850 Nano Series",
+    "category": "Tech",
+    "price": 7.99,
+    "checkedAt": "2026-11-18T09:18:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B073ZG6YJ4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d7vnp61v",
+    "asin": "B0D7VNP61V",
+    "title": "Razer Kraken V4 Kabelloses Gaming-Headset, 3 Verbindungsmodi, Triforce …",
+    "subtitle": "🔥 103° bei mydealz",
+    "category": "Gaming",
+    "price": 94.9,
+    "checkedAt": "2026-11-18T09:20:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D7VNP61V.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 103,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0flkjsfy4",
+    "asin": "B0FLKJSFY4",
+    "title": "Ninja Perfect Temperature Wasserkocher 1,7 L",
+    "category": "Küche",
+    "price": 59.99,
+    "oldPrice": 119.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T09:13:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FLKJSFY4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T09:24:25.009Z"
+  },
+  {
+    "id": "queue-b0c3bv19q3",
+    "asin": "B0C3BV19Q3",
+    "title": "HyperX Cloud III Gaming-Headset",
+    "subtitle": "53-mm-Treiber, DTS Headphone:X, abnehmbares Mikro, Aluminiumrahmen.",
+    "category": "Gaming",
+    "price": 49.99,
+    "checkedAt": "2026-11-17T15:07:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C3BV19Q3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T09:23:55.439Z"
+  },
+  {
     "id": "auto-b0blxt48vc",
     "asin": "B0BLXT48VC",
     "title": "KOSMOS EXIT - Das Spiel - Die Jagd durch Amsterdam, Level: …",
@@ -1728,16 +1775,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0c3bv19q3",
-    "asin": "B0C3BV19Q3",
-    "title": "HP HyperX Cloud III Kopfhörer Headset",
-    "category": "Audio",
-    "price": 49.99,
-    "checkedAt": "2026-11-17T15:07:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C3BV19Q3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0cdbz6d4v",
     "asin": "B0CDBZ6D4V",
     "title": "Razer Huntsman V3 Pro Tastatur",
@@ -3106,74 +3143,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DKFHX4XK.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T09:36:55.198Z"
-  },
-  {
-    "id": "auto-b0h21h62l6",
-    "asin": "B0H21H62L6",
-    "title": "Rexona FIFA World Cup 2026TM Superstar Collection Geschenkset …",
-    "category": "Tech",
-    "price": 10.03,
-    "checkedAt": "2026-11-17T09:13:10.000Z",
-    "image": "https://static.mydealz.de/threads/raw/GLH7e/2873530_1/re/768x768/qt/55/2873530_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b019eeuq2o",
-    "asin": "B019EEUQ2O",
-    "title": "18tlg Amazon Basics Geschirrset für 6 Personen - Porzellan, …",
-    "category": "Küche",
-    "price": 31.41,
-    "checkedAt": "2026-11-17T09:18:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B019EEUQ2O.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0cm34vg3x",
-    "asin": "B0CM34VG3X",
-    "title": "Reolink Duo 3 PoE (16MP UHD, Dual-Objektiv)",
-    "category": "Smart Home",
-    "price": 149.99,
-    "checkedAt": "2026-11-17T09:19:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/1rt7g/2873540_1/re/768x768/qt/55/2873540_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dyvd72p2",
-    "asin": "B0DYVD72P2",
-    "title": "Corsair VOID Wireless v2 Gaming-Headset PC PS5 & Switch - …",
-    "subtitle": "🔥 277° bei mydealz",
-    "category": "Gaming",
-    "price": 79.04,
-    "checkedAt": "2026-11-17T09:11:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DYVD72P2.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 277,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T10:06:27.713Z"
-  },
-  {
-    "id": "auto-b0gk9cdsvx",
-    "asin": "B0GK9CDSVX",
-    "title": "Epson EcoTank ET-4955 A4-Multifunktionsdrucker",
-    "category": "Computer",
-    "price": 339,
-    "oldPrice": 428.7,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T09:20:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GK9CDSVX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T11:50:16.962Z"
-  },
-  {
-    "id": "auto-b0ggb61fkv",
-    "asin": "B0GGB61FKV",
-    "title": "Refoss EM01P WLAN Stromzähler Lesekopf, Smart Meter IR-Lesegerät, Open …",
-    "subtitle": "🔥 366° bei mydealz",
-    "category": "Tech",
-    "price": 54.99,
-    "checkedAt": "2026-11-17T09:12:09.000Z",
-    "image": "https://static.mydealz.de/threads/raw/SCkQF/2856962_1/re/768x768/qt/55/2856962_1.jpg",
-    "temperature": 366,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T09:22:08.588Z"
   }
 ]
