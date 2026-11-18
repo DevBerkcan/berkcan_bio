@@ -1,5 +1,75 @@
 [
   {
+    "id": "auto-b0dgxkf4g8",
+    "asin": "B0DGXKF4G8",
+    "title": "UGREEN Tablet Ständer 360° drehbar & höhenverstellbar",
+    "category": "Smartphone & Tablet",
+    "price": 16.06,
+    "checkedAt": "2026-11-18T23:00:00.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Mv2EZ/2872783_1/re/768x768/qt/55/2872783_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:06:27.154Z"
+  },
+  {
+    "id": "auto-b0f6y4tklh",
+    "asin": "B0F6Y4TKLH",
+    "title": "Belkin BoostCharge 45 W USB-C Ladegerät, USB C Schnellladegerät - …",
+    "category": "Zubehör & Laden",
+    "price": 12.99,
+    "checkedAt": "2026-11-18T23:02:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F6Y4TKLH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:06:04.700Z"
+  },
+  {
+    "id": "auto-b0d6p3rlxp",
+    "asin": "B0D6P3RLXP",
+    "title": "Metal Gear Solid Delta Snake Eater Day 1 Edition - PS5",
+    "category": "Gaming",
+    "price": 25.69,
+    "checkedAt": "2026-11-18T23:04:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D6P3RLXP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:05:59.592Z"
+  },
+  {
+    "id": "auto-b0cryx3fcz",
+    "asin": "B0CRYX3FCZ",
+    "title": "Gritin 3D Schlafmaske für Seitenschläfer (Dunkles Cyan)",
+    "category": "Tech",
+    "price": 8.54,
+    "checkedAt": "2026-11-18T23:04:31.000Z",
+    "image": "https://static.mydealz.de/threads/raw/bAZ4M/2875171_1/re/768x768/qt/55/2875171_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:05:54.399Z"
+  },
+  {
+    "id": "auto-b01nceilhk",
+    "asin": "B01NCEILHK",
+    "title": "Kopp Spannungsprüfer 2-polig mit LED-Anzeige, 6–400 V AC/DC, CAT III",
+    "category": "Tech",
+    "price": 10.16,
+    "oldPrice": 11.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T23:00:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01NCEILHK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:05:47.687Z"
+  },
+  {
+    "id": "auto-b08gs31m7r",
+    "asin": "B08GS31M7R",
+    "title": "FLEXISPOT E1 PRO 140x80 cm höhenverstellbarer Schreibtisch mit …",
+    "category": "Computer",
+    "price": 239.99,
+    "oldPrice": 299.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T23:00:00.000Z",
+    "image": "https://static.mydealz.de/threads/raw/D3v8e/2874863_1/re/768x768/qt/55/2874863_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:05:38.377Z"
+  },
+  {
     "id": "auto-b0flkc5jn4",
     "asin": "B0FLKC5JN4",
     "title": "Nothing CMF Headphone Pro",
@@ -7,7 +77,8 @@
     "price": 49.99,
     "checkedAt": "2026-11-18T22:21:15.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FLKC5JN4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:06:31.415Z"
   },
   {
     "id": "auto-b0001p14z4",
@@ -30,7 +101,8 @@
     "price": 22.99,
     "checkedAt": "2026-11-18T22:11:58.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DCFXB9LC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:06:40.082Z"
   },
   {
     "id": "auto-b0dfhp4cl8",
@@ -40,7 +112,8 @@
     "price": 147.89,
     "checkedAt": "2026-11-18T22:19:37.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DFHP4CL8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:06:35.812Z"
   },
   {
     "id": "auto-b08kj667xy",
@@ -65,7 +138,8 @@
     "checkedAt": "2026-11-18T22:15:33.000Z",
     "image": "https://m.media-amazon.com/images/P/B07XSGJ4ZL.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 102,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:05:42.588Z"
   },
   {
     "id": "auto-b0hjssv2wb",
@@ -3038,27 +3112,5 @@
     "image": "https://m.media-amazon.com/images/P/B0B2L641TC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T23:21:43.492Z"
-  },
-  {
-    "id": "auto-b09zlbcs1y",
-    "asin": "B09ZLBCS1Y",
-    "title": "eneloop 8x AAA",
-    "category": "Tech",
-    "price": 16.1,
-    "checkedAt": "2026-11-17T23:01:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09ZLBCS1Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:06:47.163Z"
-  },
-  {
-    "id": "auto-b0gvp85zkm",
-    "asin": "B0GVP85ZKM",
-    "title": "Mortal Shell II - PS5 PlayStation 5 (Soulslike)",
-    "category": "Gaming",
-    "price": 39.99,
-    "checkedAt": "2026-11-17T23:01:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GVP85ZKM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:06:41.879Z"
   }
 ]
