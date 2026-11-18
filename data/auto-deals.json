@@ -1,5 +1,71 @@
 [
   {
+    "id": "auto-b0clrln5n3",
+    "asin": "B0CLRLN5N3",
+    "title": "Columbia Steens Mountain Half Snap II, Fleece Pullover",
+    "category": "Tech",
+    "price": 22.5,
+    "checkedAt": "2026-11-18T10:52:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CLRLN5N3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07vpqgvbf",
+    "asin": "B07VPQGVBF",
+    "title": "Amazon Basics AA- Alkali-Batterien, 1,5 V, 5 Jahre lagerfähig, 150 …",
+    "category": "Tech",
+    "price": 19.54,
+    "checkedAt": "2026-11-18T10:59:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07VPQGVBF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0g4cq3h3r",
+    "asin": "B0G4CQ3H3R",
+    "title": "Braun Damen Epilierer - Silk·épil 9 Flex SkinSpa 3D [9-681] …",
+    "category": "Beauty & Pflege",
+    "price": 179.99,
+    "checkedAt": "2026-11-18T11:02:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G4CQ3H3R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cp3vq7bt",
+    "asin": "B0CP3VQ7BT",
+    "title": "Gorenje freistehender Geschirrspüler, 60 cm, 13 Maßgedecke, Total …",
+    "category": "Küche",
+    "price": 309,
+    "checkedAt": "2026-11-18T11:06:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CP3VQ7BT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ghnycw59",
+    "asin": "B0GHNYCW59",
+    "title": "Vihado Magnesiumbisglycinat, 365 x 100mg elementares Magnesium, kein …",
+    "subtitle": "🔥 102° bei mydealz",
+    "category": "Tech",
+    "price": 9.68,
+    "checkedAt": "2026-11-18T11:03:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GHNYCW59.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 102,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:08:48.806Z"
+  },
+  {
+    "id": "auto-b0ck4r5s9n",
+    "asin": "B0CK4R5S9N",
+    "title": "Gorenje GI6401BCE Induktions-Kochfeld / 60 …",
+    "subtitle": "🔥 192° bei mydealz",
+    "category": "Tech",
+    "price": 140,
+    "checkedAt": "2026-11-18T11:03:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CK4R5S9N.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 192,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:08:30.410Z"
+  },
+  {
     "id": "auto-b09cdk8dns",
     "asin": "B09CDK8DNS",
     "title": "ASUS ROG Swift OLED PG27AQWP-W 27 Zoll",
@@ -89,7 +155,8 @@
     "checkedAt": "2026-11-18T10:50:37.000Z",
     "image": "https://static.mydealz.de/threads/raw/aPxQ3/2872706_1/re/768x768/qt/55/2872706_1.jpg",
     "temperature": 100,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:08:58.198Z"
   },
   {
     "id": "auto-b09svvvg16",
@@ -101,7 +168,8 @@
     "checkedAt": "2026-11-18T10:50:04.000Z",
     "image": "https://m.media-amazon.com/images/P/B09SVVVG16.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 101,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:08:53.109Z"
   },
   {
     "id": "auto-b0g1zb9h22",
@@ -113,7 +181,8 @@
     "checkedAt": "2026-11-18T10:52:10.000Z",
     "image": "https://static.mydealz.de/threads/raw/qcfHh/2871878_1/re/768x768/qt/55/2871878_1.jpg",
     "temperature": 101,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:08:35.236Z"
   },
   {
     "id": "auto-b0cr4928fr",
@@ -125,7 +194,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-18T10:48:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CR4928FR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:08:21.025Z"
   },
   {
     "id": "auto-b0054psh0g",
@@ -212,7 +282,8 @@
     "checkedAt": "2026-11-18T10:35:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B0HB5HV1L4.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 234,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:08:25.423Z"
   },
   {
     "id": "auto-b096hft95j",
@@ -277,7 +348,8 @@
     "price": 127.49,
     "checkedAt": "2026-11-18T10:18:48.000Z",
     "image": "https://static.mydealz.de/threads/raw/ehpTP/2874531_1/re/768x768/qt/55/2874531_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:08:40.245Z"
   },
   {
     "id": "auto-b0gtvxdj2b",
@@ -2414,16 +2486,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0d87lps7t",
-    "asin": "B0D87LPS7T",
-    "title": "Govee RGBICWW Smart LED-Tischlampe",
-    "category": "Tech",
-    "price": 41.99,
-    "checkedAt": "2026-11-17T14:09:34.000Z",
-    "image": "https://static.mydealz.de/threads/raw/QjeZm/2873848_1/re/768x768/qt/55/2873848_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0ccdffy3j",
     "asin": "B0CCDFFY3J",
     "title": "VAUDE Kobel Adjust 500 II SYN (Baltic Sea)",
@@ -3081,7 +3143,8 @@
     "price": 18.18,
     "checkedAt": "2026-11-17T11:43:54.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CBNFL7GF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:08:44.359Z"
   },
   {
     "id": "auto-b0cdcfrxpn",
@@ -3180,78 +3243,5 @@
     "checkedAt": "2026-11-17T11:15:35.000Z",
     "image": "https://m.media-amazon.com/images/P/B07NJ9TY6L.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b08l17wbd2",
-    "asin": "B08L17WBD2",
-    "title": "Cherry MW 4500 Ergonomische Vertikalmaus für Rechtshänder, kabellos …",
-    "category": "Tech",
-    "price": 18.99,
-    "checkedAt": "2026-11-17T10:54:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08L17WBD2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0bwyl2d8p",
-    "asin": "B0BWYL2D8P",
-    "title": "Tefal OptiGrill Waffelplatten (Waffeleisen) passend für OptiGrill+ und …",
-    "category": "Küche",
-    "price": 54.99,
-    "checkedAt": "2026-11-17T10:54:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BWYL2D8P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b006g0ex1u",
-    "asin": "B006G0EX1U",
-    "title": "Schwiizer Schüümli Crema Mild",
-    "category": "Tech",
-    "price": 18.59,
-    "checkedAt": "2026-11-17T10:55:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B006G0EX1U.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dk5vyqfp",
-    "asin": "B0DK5VYQFP",
-    "title": "KitchenAid Artisan Küchenmaschine 4,7L Fresh Linen",
-    "category": "Küche",
-    "price": 329.99,
-    "checkedAt": "2026-11-17T10:57:11.000Z",
-    "image": "https://static.mydealz.de/threads/raw/GBdIN/2873634_1/re/768x768/qt/55/2873634_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b00109o2t0",
-    "asin": "B00109O2T0",
-    "title": "STANLEY 8 m Tylon Bandmaß, Angebotsmenge limitiert",
-    "category": "Tech",
-    "price": 6.39,
-    "checkedAt": "2026-11-17T10:59:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00109O2T0.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fj2pylfb",
-    "asin": "B0FJ2PYLFB",
-    "title": "CORSAIR Frame 4500X RS-R ARGB Panoramaglas Mid-Tower-PC-Gehäuse – …",
-    "category": "Tech",
-    "price": 67.99,
-    "checkedAt": "2026-11-17T11:02:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJ2PYLFB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0bryx6rqr",
-    "asin": "B0BRYX6RQR",
-    "title": "ASUS ROG Tessen Mobile Gaming Controller",
-    "category": "Gaming",
-    "price": 55.99,
-    "oldPrice": 78.25,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T10:58:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BRYX6RQR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T11:20:34.875Z"
   }
 ]
