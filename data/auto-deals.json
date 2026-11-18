@@ -1,5 +1,158 @@
 [
   {
+    "id": "auto-b09cdk8dns",
+    "asin": "B09CDK8DNS",
+    "title": "ASUS ROG Swift OLED PG27AQWP-W 27 Zoll",
+    "category": "Tech",
+    "price": 899,
+    "checkedAt": "2026-11-18T10:39:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09CDK8DNS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dxfdz8qy",
+    "asin": "B0DXFDZ8QY",
+    "title": "Fissler Vitaquick Premium Schnellkochtopf (6 L, Ø 22 cm), Edelstahl",
+    "category": "Küche",
+    "price": 132.99,
+    "checkedAt": "2026-11-18T10:39:21.000Z",
+    "image": "https://static.mydealz.de/threads/raw/1TMzf/2874560_1/re/768x768/qt/55/2874560_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b000burk3y",
+    "asin": "B000BURK3Y",
+    "title": "CHERRY G80-11900, Kompakte Mechanische Tastatur, Deutsch QWERTZ, …",
+    "category": "Computer",
+    "price": 109.99,
+    "checkedAt": "2026-11-18T10:42:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000BURK3Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gwnf7tts",
+    "asin": "B0GWNF7TTS",
+    "title": "Davidoff Cool Water Eau de Parfum für Herren",
+    "category": "Beauty & Pflege",
+    "price": 22.42,
+    "checkedAt": "2026-11-18T10:43:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GWNF7TTS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h6gd47y5",
+    "asin": "B0H6GD47Y5",
+    "title": "FAMIVAC Akku Staubsauger Kabellos 70kPa/80Min mit Ladestation & …",
+    "category": "Haushalt",
+    "price": 129.19,
+    "checkedAt": "2026-11-18T10:44:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H6GD47Y5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dnzdv4ff",
+    "asin": "B0DNZDV4FF",
+    "title": "Zyxel Netzwerk Switch 8 Port",
+    "category": "Tech",
+    "price": 14.39,
+    "checkedAt": "2026-11-18T10:45:00.000Z",
+    "image": "https://static.mydealz.de/threads/raw/L65b8/2874569_1/re/768x768/qt/55/2874569_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f9z1hwwh",
+    "asin": "B0F9Z1HWWH",
+    "title": "Bauknecht Einbau-Backofen, 71 l, Hydrolyse, EEK A+, elektrisch, …",
+    "category": "Tech",
+    "price": 273.9,
+    "checkedAt": "2026-11-18T10:47:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F9Z1HWWH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h41crdpw",
+    "asin": "B0H41CRDPW",
+    "title": "Narwal V50 Cube 210 AW Akku‑Staubsauger mit Auto‑Empty‑System …",
+    "category": "Haushalt",
+    "price": 379,
+    "checkedAt": "2026-11-18T10:50:02.000Z",
+    "image": "https://static.mydealz.de/threads/raw/CGq5m/2874573_1/re/768x768/qt/55/2874573_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cvl2rn99",
+    "asin": "B0CVL2RN99",
+    "title": "Scheppach Schraubendreher Set 100 teilig & Bitset",
+    "subtitle": "🔥 100° bei mydealz",
+    "category": "Werkzeug",
+    "price": 19.99,
+    "checkedAt": "2026-11-18T10:50:37.000Z",
+    "image": "https://static.mydealz.de/threads/raw/aPxQ3/2872706_1/re/768x768/qt/55/2872706_1.jpg",
+    "temperature": 100,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09svvvg16",
+    "asin": "B09SVVVG16",
+    "title": "Alexa-Sprachfernbedienung Pro von Amazon für Fire TV, mit Remote …",
+    "subtitle": "🔥 101° bei mydealz",
+    "category": "Amazon-Geräte",
+    "price": 21.99,
+    "checkedAt": "2026-11-18T10:50:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09SVVVG16.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 101,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0g1zb9h22",
+    "asin": "B0G1ZB9H22",
+    "title": "Body Attack 100% Whey Protein 2 kg - Made in Germany - extra cremiges …",
+    "subtitle": "🔥 101° bei mydealz",
+    "category": "Lebensmittel & Drinks",
+    "price": 59.49,
+    "checkedAt": "2026-11-18T10:52:10.000Z",
+    "image": "https://static.mydealz.de/threads/raw/qcfHh/2871878_1/re/768x768/qt/55/2871878_1.jpg",
+    "temperature": 101,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cr4928fr",
+    "asin": "B0CR4928FR",
+    "title": "Hugo Boss The Scent Elixir for Him Parfum",
+    "category": "Beauty & Pflege",
+    "price": 57.58,
+    "oldPrice": 71.85,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T10:48:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CR4928FR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0054psh0g",
+    "asin": "B0054PSH0G",
+    "title": "NOUS A1Z ZigBee Smart Steckdose mit Energieüberwachung Einzeln 10,90€ …",
+    "category": "Smart Home",
+    "price": 10.9,
+    "oldPrice": 61.85,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T10:44:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0054PSH0G.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T10:53:37.586Z"
+  },
+  {
+    "id": "queue-b0gql9jzs7",
+    "asin": "B0GQL9JZS7",
+    "title": "Xiaomi Redmi Watch 6 Smartwatch, Schwarz",
+    "subtitle": "Smartwatch von Xiaomi – Angebot gilt für die schwarze Version ohne NFC.",
+    "category": "Smartphone & Tablet",
+    "price": 42.99,
+    "checkedAt": "2026-11-18T04:04:59.000Z",
+    "image": "https://static.mydealz.de/threads/raw/uyDTz/2874278_1/re/768x768/qt/55/2874278_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T10:53:23.314Z"
+  },
+  {
     "id": "auto-b0dt6pzd5l",
     "asin": "B0DT6PZD5L",
     "title": "Philips i9000 Prestige Ultra, Nass- und Trockenrasierer, Druck- und …",
@@ -3029,26 +3182,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b09svvvg16",
-    "asin": "B09SVVVG16",
-    "title": "Alexa-Sprachfernbedienung Pro von Amazon für Fire TV, mit Remote …",
-    "category": "Amazon-Geräte",
-    "price": 21.99,
-    "checkedAt": "2026-11-17T10:52:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09SVVVG16.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0793m7hrk",
-    "asin": "B0793M7HRK",
-    "title": "Paladone Super Mario Brothers Mushroom Figurenlicht Nachtlicht Lampe …",
-    "category": "Tech",
-    "price": 13.3,
-    "checkedAt": "2026-11-17T10:53:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0793M7HRK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b08l17wbd2",
     "asin": "B08L17WBD2",
     "title": "Cherry MW 4500 Ergonomische Vertikalmaus für Rechtshänder, kabellos …",
@@ -3120,29 +3253,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BRYX6RQR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T11:20:34.875Z"
-  },
-  {
-    "id": "auto-b0fj2y9gk1",
-    "asin": "B0FJ2Y9GK1",
-    "title": "CORSAIR 3500X RS-R ARGB Panoramaglas Mid-Tower-PC-Gehäuse – Weiß",
-    "category": "Tech",
-    "price": 62.99,
-    "checkedAt": "2026-11-17T10:45:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJ2Y9GK1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T22:37:00.480Z"
-  },
-  {
-    "id": "auto-b08swfll6z",
-    "asin": "B08SWFLL6Z",
-    "title": "Brennenstuhl Textil-Verlängerungskabel 3 m für Innen mit beleuchtetem …",
-    "category": "Tech",
-    "price": 6.99,
-    "oldPrice": 10.53,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T10:48:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08SWFLL6Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T10:50:57.755Z"
   }
 ]
