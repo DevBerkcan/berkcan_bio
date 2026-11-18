@@ -1,5 +1,48 @@
 [
   {
+    "id": "auto-b09c62nzvh",
+    "asin": "B09C62NZVH",
+    "title": "Technisat VIOLA BT 1, anthrazit |",
+    "category": "Tech",
+    "price": 39,
+    "checkedAt": "2026-11-18T15:43:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09C62NZVH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gr3wvdwm",
+    "asin": "B0GR3WVDWM",
+    "title": "Meross Smart Rauchmelder Matter kompatibel 6x mit Hub MSH450",
+    "category": "Tech",
+    "price": 119.99,
+    "checkedAt": "2026-11-18T15:47:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GR3WVDWM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0flptndpg",
+    "asin": "B0FLPTNDPG",
+    "title": "275 € mit Cashback",
+    "category": "Tech",
+    "price": 325,
+    "checkedAt": "2026-11-18T15:48:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FLPTNDPG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0bnbyv6my",
+    "asin": "B0BNBYV6MY",
+    "title": "Karcher DAB Go DAB+ / UKW Digitalradio mit Bluetooth 5.1, 2,4\" …",
+    "category": "Licht & Garten",
+    "price": 54.99,
+    "oldPrice": 69.98,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T15:35:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BNBYV6MY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T15:51:52.451Z"
+  },
+  {
     "id": "auto-b0f1z541pw",
     "asin": "B0F1Z541PW",
     "title": "ASUS Prime B850-PLUS-CSM AMD AM5 ATX Mainboard, DDR5, PCIe 5.0, 3x …",
@@ -126,7 +169,8 @@
     "checkedAt": "2026-11-18T15:12:32.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DNHSYFXP.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 103,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T15:52:01.492Z"
   },
   {
     "id": "auto-b09r9ysr5z",
@@ -520,7 +564,8 @@
     "price": 49.99,
     "checkedAt": "2026-11-18T13:20:57.000Z",
     "image": "https://m.media-amazon.com/images/P/B003VEILMG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T15:51:57.035Z"
   },
   {
     "id": "auto-b00061q83q",
@@ -3072,35 +3117,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FQJH54TR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T17:02:22.812Z"
-  },
-  {
-    "id": "auto-b075kxxd3g",
-    "asin": "B075KXXD3G",
-    "title": "WMF Küchenminis Dörrautomat Edelstahl",
-    "category": "Tech",
-    "price": 79.99,
-    "checkedAt": "2026-11-17T15:38:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B075KXXD3G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fx9sfx21",
-    "asin": "B0FX9SFX21",
-    "title": "Fire TV Stick 4K Max + Luna-Controller [PRIME]",
-    "category": "Amazon-Geräte",
-    "price": 86.98,
-    "checkedAt": "2026-11-17T15:39:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FX9SFX21.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b00g5yp1ze",
-    "asin": "B00G5YP1ZE",
-    "title": "53,99 € in schwarz",
-    "category": "Tech",
-    "price": 55.89,
-    "checkedAt": "2026-11-17T15:40:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00G5YP1ZE.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
