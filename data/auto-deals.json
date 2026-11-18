@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b0000an3qi",
+    "asin": "B0000AN3QI",
+    "title": "Bialetti Moka Express für 3 Tassen (130ml) Espressokocher",
+    "category": "Küche",
+    "price": 16.93,
+    "checkedAt": "2026-11-18T18:57:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0000AN3QI.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0ccd7gw1g",
     "asin": "B0CCD7GW1G",
     "title": "Sport Sammeldeal: Jacken & mehr von VAUDE, Schöffel, Outwell, …",
@@ -140,7 +150,8 @@
     "price": 16.99,
     "checkedAt": "2026-11-18T17:58:20.000Z",
     "image": "https://m.media-amazon.com/images/P/B003CGTTH4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T19:07:04.455Z"
   },
   {
     "id": "auto-b0f2g6677h",
@@ -1018,7 +1029,8 @@
     "price": 7.98,
     "checkedAt": "2026-11-18T13:13:12.000Z",
     "image": "https://m.media-amazon.com/images/P/B00IM7BIY0.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T19:06:55.590Z"
   },
   {
     "id": "auto-b0gx68m1b5",
@@ -1049,7 +1061,8 @@
     "price": 19.19,
     "checkedAt": "2026-11-18T12:53:23.000Z",
     "image": "https://m.media-amazon.com/images/P/B00061Q83Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T19:07:11.008Z"
   },
   {
     "id": "auto-b0fv1wwzwq",
@@ -3154,44 +3167,5 @@
     "image": "https://m.media-amazon.com/images/P/B00BT0G5UY.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T20:38:37.148Z"
-  },
-  {
-    "id": "auto-b09t9p4msl",
-    "asin": "B09T9P4MSL",
-    "title": "ASUS ROG Strix 1200W Platinum Gaming Netzteil",
-    "subtitle": "🔥 117° bei mydealz",
-    "category": "Gaming",
-    "price": 159.99,
-    "checkedAt": "2026-11-17T19:01:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09T9P4MSL.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 117,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T19:09:15.244Z"
-  },
-  {
-    "id": "auto-b000ybzrz8",
-    "asin": "B000YBZRZ8",
-    "title": "Brennenstuhl Super-Solid Steckdosenleiste 8-Fach Mehrfachsteckdose mit …",
-    "subtitle": "🔥 129° bei mydealz",
-    "category": "Smart Home",
-    "price": 12.99,
-    "checkedAt": "2026-11-17T18:55:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000YBZRZ8.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 129,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T19:08:14.049Z"
-  },
-  {
-    "id": "auto-b0gf7s88yd",
-    "asin": "B0GF7S88YD",
-    "title": "FLEXISPOT E1 Pro Höhenverstellbares Schreibtischgestell in Schwarz",
-    "category": "Computer",
-    "price": 129.99,
-    "oldPrice": 199.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T19:01:23.000Z",
-    "image": "https://static.mydealz.de/threads/raw/nTupZ/2874097_1/re/768x768/qt/55/2874097_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T19:06:52.152Z"
   }
 ]
