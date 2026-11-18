@@ -1,5 +1,82 @@
 [
   {
+    "id": "auto-b0f1z541pw",
+    "asin": "B0F1Z541PW",
+    "title": "ASUS Prime B850-PLUS-CSM AMD AM5 ATX Mainboard, DDR5, PCIe 5.0, 3x …",
+    "category": "Computer",
+    "price": 141,
+    "checkedAt": "2026-11-18T15:24:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F1Z541PW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0g64wrjgg",
+    "asin": "B0G64WRJGG",
+    "title": "Ninja CREAMi Scoop & Swirl Eismaschine, 13 Funktionen, Stone Gold …",
+    "category": "Tech",
+    "price": 259.99,
+    "checkedAt": "2026-11-18T15:24:31.000Z",
+    "image": "https://static.mydealz.de/threads/raw/VdGvY/2874855_1/re/768x768/qt/55/2874855_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07px3pwb7",
+    "asin": "B07PX3PWB7",
+    "title": "Rammstein - Rammstein - Vinyl [2LP Doppelvinyl] / auch Sehnsucht 2LP / …",
+    "category": "Tech",
+    "price": 27.99,
+    "checkedAt": "2026-11-18T15:28:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07PX3PWB7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dq5lr31n",
+    "asin": "B0DQ5LR31N",
+    "title": "Gigabyte GS27QCA 27 Zoll Curved Gaming-Monitor, QHD, VA, 180 Hz, 1 ms, …",
+    "category": "Computer",
+    "price": 115,
+    "checkedAt": "2026-11-18T15:30:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQ5LR31N.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d49pz1hm",
+    "asin": "B0D49PZ1HM",
+    "title": "CORSAIR RS120 ARGB 120mm PWM-Lüfter – Weiß Daisy-Chain-Verbindung, …",
+    "category": "Tech",
+    "price": 9.99,
+    "oldPrice": 11.9,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T15:22:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D49PZ1HM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fy5z51qp",
+    "asin": "B0FY5Z51QP",
+    "title": "TechniSat DIGITRADIO 425 – Internetradio mit CD-Player",
+    "category": "Tech",
+    "price": 208.05,
+    "oldPrice": 249,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T15:32:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FY5Z51QP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d98dn7j1",
+    "asin": "B0D98DN7J1",
+    "title": "TechniSat DIGITRADIO mobil 2 – Portables DAB+/FM Mini-Radio mit Akku",
+    "category": "Tech",
+    "price": 20,
+    "oldPrice": 29,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T15:25:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D98DN7J1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T15:36:42.172Z"
+  },
+  {
     "id": "auto-b09b8x9rgm",
     "asin": "B09B8X9RGM",
     "title": "Echo Dot (Version 2022)",
@@ -513,7 +590,8 @@
     "price": 33.09,
     "checkedAt": "2026-11-18T12:32:00.000Z",
     "image": "https://m.media-amazon.com/images/P/B0079JB3QA.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T15:36:46.662Z"
   },
   {
     "id": "auto-b0cnq3m61v",
@@ -523,7 +601,8 @@
     "price": 23.09,
     "checkedAt": "2026-11-18T12:32:55.000Z",
     "image": "https://static.mydealz.de/threads/raw/1KHto/2874691_1/re/768x768/qt/55/2874691_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T15:36:51.556Z"
   },
   {
     "id": "auto-b0cpld53sm",
@@ -3022,16 +3101,6 @@
     "price": 55.89,
     "checkedAt": "2026-11-17T15:40:47.000Z",
     "image": "https://m.media-amazon.com/images/P/B00G5YP1ZE.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b08d3rqfjf",
-    "asin": "B08D3RQFJF",
-    "title": "Plus-Plus Bausteine Mix in Aufbewahrungsbox",
-    "category": "Tech",
-    "price": 45.82,
-    "checkedAt": "2026-11-17T15:25:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08D3RQFJF.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   }
 ]
