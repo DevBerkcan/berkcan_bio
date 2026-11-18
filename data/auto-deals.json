@@ -1,5 +1,64 @@
 [
   {
+    "id": "auto-b0g6jfmdjh",
+    "asin": "B0G6JFMDJH",
+    "title": "Anycubic PLA 1kg Diverse Farben",
+    "category": "Tech",
+    "price": 11.95,
+    "checkedAt": "2026-11-18T17:14:00.000Z",
+    "image": "https://static.mydealz.de/threads/raw/RftBh/2874950_1/re/768x768/qt/55/2874950_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b074n3hl5q",
+    "asin": "B074N3HL5Q",
+    "title": "Logitech Z207 Bluetooth-PC-Lautsprecher, Stereo, 10 W, 3,5 mm Eingang, …",
+    "category": "Audio",
+    "price": 37.49,
+    "checkedAt": "2026-11-18T17:17:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B074N3HL5Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00cez2hdc",
+    "asin": "B00CEZ2HDC",
+    "title": "Dalwhinnie 15 Jahre, Single Malt Scotch Whisky, 43% Vol, 700 ml",
+    "subtitle": "🔥 107° bei mydealz",
+    "category": "Lebensmittel & Drinks",
+    "price": 26.59,
+    "checkedAt": "2026-11-18T17:10:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00CEZ2HDC.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 107,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T17:22:09.289Z"
+  },
+  {
+    "id": "auto-b09m3368k3",
+    "asin": "B09M3368K3",
+    "title": "Tenda 2.5 Gbit LAN Switch 8-Port 2.5 Gigabit Netzwerk Switch",
+    "subtitle": "🔥 107° bei mydealz",
+    "category": "Tech",
+    "price": 42.49,
+    "checkedAt": "2026-11-18T17:11:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09M3368K3.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 107,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T17:22:03.359Z"
+  },
+  {
+    "id": "auto-b0bzd4p25m",
+    "asin": "B0BZD4P25M",
+    "title": "Früher Black Friday: Reolink Argus Ultra",
+    "subtitle": "🔥 112° bei mydealz",
+    "category": "Smart Home",
+    "price": 109.99,
+    "checkedAt": "2026-11-18T17:09:05.000Z",
+    "image": "https://static.mydealz.de/threads/raw/CTeDO/2868263_1/re/768x768/qt/55/2868263_1.jpg",
+    "temperature": 112,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T17:21:57.874Z"
+  },
+  {
     "id": "auto-b081kq4pv4",
     "asin": "B081KQ4PV4",
     "title": "The Cranberries - Dreams: The Collection (inkl. Zombie) [Vinyl LP]",
@@ -141,7 +200,8 @@
     "price": 12.13,
     "checkedAt": "2026-11-18T16:09:38.000Z",
     "image": "https://m.media-amazon.com/images/P/B01CFWDOZS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T17:21:50.629Z"
   },
   {
     "id": "auto-b07vhjmzhf",
@@ -684,7 +744,8 @@
     "price": 8.49,
     "checkedAt": "2026-11-18T13:31:07.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FVR7N521.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T17:22:13.966Z"
   },
   {
     "id": "auto-b0cz75jl7z",
@@ -2489,16 +2550,6 @@
     "telegramPostedAt": "2026-11-17T22:37:09.379Z"
   },
   {
-    "id": "auto-b0dqvh4jzs",
-    "asin": "B0DQVH4JZS",
-    "title": "TRELOCK TORO Faltschloss mit SOLD SECURE GOLD 90 cm – Sicherheitsstufe …",
-    "category": "Sport & Outdoor",
-    "price": 59.79,
-    "checkedAt": "2026-11-17T17:06:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQVH4JZS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b07nxgg55w",
     "asin": "B07NXGG55W",
     "title": "Amazon Basics 24er-Pack wiederaufladbare AA-NiMH-Akkus, 2000 mAh, 1,2 …",
@@ -3036,19 +3087,6 @@
     "image": "https://m.media-amazon.com/images/P/B08X5CK7DK.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 101,
     "source": "auto"
-  },
-  {
-    "id": "auto-b0f93z295h",
-    "asin": "B0F93Z295H",
-    "title": "Bloom Naturals Creatin Monohydrat 1 kg – vegan, laborgeprüft & ohne …",
-    "subtitle": "🔥 117° bei mydealz",
-    "category": "Tech",
-    "price": 9.01,
-    "checkedAt": "2026-11-17T17:06:07.000Z",
-    "image": "https://static.mydealz.de/threads/raw/D3ahr/2871940_1/re/768x768/qt/55/2871940_1.jpg",
-    "temperature": 117,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T18:02:13.683Z"
   },
   {
     "id": "auto-b07ymfvq15",
