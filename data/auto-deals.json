@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b000zem0s6",
+    "asin": "B000ZEM0S6",
+    "title": "Brennenstuhl Verlängerungs-Gummikabel 25m IP 44",
+    "category": "Tech",
+    "price": 23.98,
+    "checkedAt": "2026-11-18T21:29:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000ZEM0S6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0f6ws945q",
     "asin": "B0F6WS945Q",
     "title": "Mississippi Burning - Die Wurzel des Hasses (Blu-ray) IMDb 7,8/10",
@@ -1221,7 +1231,8 @@
     "price": 22.99,
     "checkedAt": "2026-11-18T13:32:32.000Z",
     "image": "https://m.media-amazon.com/images/P/B00360CZZY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T21:37:07.227Z"
   },
   {
     "id": "auto-b08pvptnzl",
@@ -3022,27 +3033,5 @@
     "temperature": 101,
     "source": "auto",
     "telegramPostedAt": "2026-11-17T22:22:22.187Z"
-  },
-  {
-    "id": "auto-b0f4kxjq42",
-    "asin": "B0F4KXJQ42",
-    "title": "Sony BRAVIA 3 - Direct LED 55 Zoll Fernseher (K55S32) mit Google TV, …",
-    "category": "TV & Heimkino",
-    "price": 499,
-    "checkedAt": "2026-11-17T21:29:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F4KXJQ42.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T22:07:40.016Z"
-  },
-  {
-    "id": "auto-b093zxc8t2",
-    "asin": "B093ZXC8T2",
-    "title": "Wiha zai Hause 4V Akkuschrauber Set mit 4 Bits und USB C Ladekabel, …",
-    "category": "Werkzeug",
-    "price": 17.99,
-    "checkedAt": "2026-11-17T21:36:14.000Z",
-    "image": "https://static.mydealz.de/threads/raw/XoiCC/2874203_1/re/768x768/qt/55/2874203_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:21:57.972Z"
   }
 ]
