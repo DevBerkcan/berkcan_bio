@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0d1v2st8r",
+    "asin": "B0D1V2ST8R",
+    "title": "Tommy Hilfiger Layton 3.5 Ledergürtel Herren",
+    "category": "Tech",
+    "price": 28.52,
+    "checkedAt": "2026-11-18T14:50:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D1V2ST8R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08dmt4d82",
+    "asin": "B08DMT4D82",
+    "title": "Hisense WF3S8043BB3 Waschmachine mit Dampffunkunktion 8kg 1400 U/min …",
+    "category": "Tech",
+    "price": 344.89,
+    "checkedAt": "2026-11-18T14:53:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08DMT4D82.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dq8hgd2p",
+    "asin": "B0DQ8HGD2P",
+    "title": "Kärcher K4 FJ Home (1.679-562.0)",
+    "category": "Licht & Garten",
+    "price": 179.99,
+    "oldPrice": 208.57,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T15:01:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQ8HGD2P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T15:07:04.636Z"
+  },
+  {
     "id": "auto-b07ld23lrs",
     "asin": "B07LD23LRS",
     "title": "FRANZIS Weltempfänger - Bausatz Rundfunk, Amateurfunk & mehr",
@@ -1229,7 +1262,8 @@
     "price": 7.39,
     "checkedAt": "2026-11-18T09:42:43.000Z",
     "image": "https://m.media-amazon.com/images/P/B00DY1Y22Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T15:06:54.368Z"
   },
   {
     "id": "auto-b0ffmvzwqj",
@@ -1818,18 +1852,6 @@
     "image": "https://m.media-amazon.com/images/P/B0FDDZBFF7.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 106,
     "source": "auto"
-  },
-  {
-    "id": "queue-b0fr4vxqmv",
-    "asin": "B0FR4VXQMV",
-    "title": "AOC 24G4ZR 24\" Gaming-Monitor, 260 Hz, Fast IPS",
-    "subtitle": "FHD mit 1 ms GtG, HDR10, G-Sync Compatible und höhenverstellbarem Fuß.",
-    "category": "Computer",
-    "price": 99,
-    "checkedAt": "2026-11-17T14:56:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FR4VXQMV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T07:10:02.544Z"
   },
   {
     "id": "auto-b01d1or0uo",
@@ -2918,18 +2940,6 @@
     "telegramPostedAt": "2026-11-17T17:02:22.812Z"
   },
   {
-    "id": "auto-b0f677k62q",
-    "asin": "B0F677K62Q",
-    "title": "LG DB597TXS, EEK A, vollintegrierbarer Geschirrspüler / …",
-    "subtitle": "🔥 130° bei mydealz",
-    "category": "Küche",
-    "price": 559,
-    "checkedAt": "2026-11-17T14:53:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F677K62Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 130,
-    "source": "auto"
-  },
-  {
     "id": "auto-b075kxxd3g",
     "asin": "B075KXXD3G",
     "title": "WMF Küchenminis Dörrautomat Edelstahl",
@@ -2980,38 +2990,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0c4lfhmr1",
-    "asin": "B0C4LFHMR1",
-    "title": "Brennenstuhl BREMAXX Verlängerungskabel 5m [Prime]",
-    "category": "Tech",
-    "price": 13.57,
-    "checkedAt": "2026-11-17T15:03:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C4LFHMR1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T21:52:53.689Z"
-  },
-  {
-    "id": "auto-b0fr44r88g",
-    "asin": "B0FR44R88G",
-    "title": "AOC 27G4ZR 27 Zoll FHD Gaming-Monitor, 260 Hz (OC), Fast IPS, 1 ms …",
-    "category": "Computer",
-    "price": 109,
-    "checkedAt": "2026-11-17T15:05:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FR44R88G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T17:17:30.230Z"
-  },
-  {
-    "id": "auto-b0bt4vrzgv",
-    "asin": "B0BT4VRZGV",
-    "title": "Razer Basilisk V3 X HyperSpeed Maus",
-    "category": "Computer",
-    "price": 39.9,
-    "checkedAt": "2026-11-17T15:05:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BT4VRZGV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0cdbz6d4v",
     "asin": "B0CDBZ6D4V",
     "title": "Razer Huntsman V3 Pro Tastatur",
@@ -3020,67 +2998,5 @@
     "checkedAt": "2026-11-17T15:10:52.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CDBZ6D4V.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b082pdqt3g",
-    "asin": "B082PDQT3G",
-    "title": "ZWILLING Smoothie Maker / Standmixer mit 600-ml-Trinkflasche, 300 W, …",
-    "category": "Küche",
-    "price": 24.99,
-    "oldPrice": 39.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T15:05:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B082PDQT3G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T15:18:15.456Z"
-  },
-  {
-    "id": "auto-b00a81mg9y",
-    "asin": "B00A81MG9Y",
-    "title": "Entombed - Left Hand Path Vinyl",
-    "category": "Tech",
-    "price": 22.39,
-    "checkedAt": "2026-11-17T14:55:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00A81MG9Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T16:32:26.164Z"
-  },
-  {
-    "id": "auto-b09nqckyxc",
-    "asin": "B09NQCKYXC",
-    "title": "STIEBEL ELTRON elektronischer Mini Durchlauferhitzer DEM 3 - 3,5 kW, …",
-    "subtitle": "🔥 104° bei mydealz",
-    "category": "Tech",
-    "price": 181.09,
-    "checkedAt": "2026-11-17T14:53:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09NQCKYXC.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 104,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0146te812",
-    "asin": "B0146TE812",
-    "title": "Pattex White Line Pistolenschaum 750 ml",
-    "category": "Tech",
-    "price": 8.99,
-    "oldPrice": 11.5,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T14:53:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0146TE812.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T19:08:47.873Z"
-  },
-  {
-    "id": "auto-b0024ljsxi",
-    "asin": "B0024LJSXI",
-    "title": "Stanley FatMax Cuttermesser 0-10-486",
-    "category": "Küche",
-    "price": 10.49,
-    "oldPrice": 13.93,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T14:59:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0024LJSXI.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T15:33:10.771Z"
   }
 ]
