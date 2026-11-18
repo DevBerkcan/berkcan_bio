@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b07nwwhk1j",
+    "asin": "B07NWWHK1J",
+    "title": "Amazon Basics 24er-Pack wiederaufladbare AA-NiMH-Batterien mit hoher …",
+    "category": "Tech",
+    "price": 21.62,
+    "checkedAt": "2026-11-18T06:46:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07NWWHK1J.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fjg3ychz",
+    "asin": "B0FJG3YCHZ",
+    "title": "Shark PowerDetect Clean & Empty Akku-Staubsauger mit Absaugstation, …",
+    "category": "Haushalt",
+    "price": 339.99,
+    "checkedAt": "2026-11-18T07:06:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FJG3YCHZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fddzbff7",
+    "asin": "B0FDDZBFF7",
+    "title": "Tommy Jeans Regular Essential Poloshirt",
+    "subtitle": "🔥 106° bei mydealz",
+    "category": "Mode & Reise",
+    "price": 29.9,
+    "checkedAt": "2026-11-18T06:57:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FDDZBFF7.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 106,
+    "source": "auto"
+  },
+  {
+    "id": "queue-b0fr4vxqmv",
+    "asin": "B0FR4VXQMV",
+    "title": "AOC 24G4ZR 24\" Gaming-Monitor, 260 Hz, Fast IPS",
+    "subtitle": "FHD mit 1 ms GtG, HDR10, G-Sync Compatible und höhenverstellbarem Fuß.",
+    "category": "Computer",
+    "price": 99,
+    "checkedAt": "2026-11-17T14:56:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FR4VXQMV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T07:10:02.544Z"
+  },
+  {
     "id": "auto-b0gfb3rghm",
     "asin": "B0GFB3RGHM",
     "title": "Sapphire Nitro+ AMD Radeon RX 9070 XT 16 GB Crimson Desert Version …",
@@ -19,7 +63,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-18T06:40:29.000Z",
     "image": "https://m.media-amazon.com/images/P/B01D1OR0UO.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T07:10:19.891Z"
   },
   {
     "id": "auto-b00i3yoj5c",
@@ -1291,16 +1336,6 @@
     "image": "https://m.media-amazon.com/images/P/B00A81MG9Y.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T16:32:26.164Z"
-  },
-  {
-    "id": "auto-b0fr4vxqmv",
-    "asin": "B0FR4VXQMV",
-    "title": "AOC 24G4ZR 23,8 Zoll FHD Gaming-Monitor, 260 Hz (OC), Fast IPS, 1 ms …",
-    "category": "Computer",
-    "price": 99,
-    "checkedAt": "2026-11-17T14:56:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FR4VXQMV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b09nqckyxc",
@@ -3089,38 +3124,5 @@
     "temperature": 406,
     "source": "auto",
     "telegramPostedAt": "2026-11-17T07:22:13.814Z"
-  },
-  {
-    "id": "auto-b0dfnm3xz9",
-    "asin": "B0DFNM3XZ9",
-    "title": "Amazon Ember 4-Serie mit Fire TV, 55-Zoll-Smart-TV in 4K Ultra-HD, …",
-    "category": "Amazon-Geräte",
-    "price": 349.99,
-    "checkedAt": "2026-11-17T06:56:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DFNM3XZ9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:07:30.228Z"
-  },
-  {
-    "id": "auto-b00bd1dkie",
-    "asin": "B00BD1DKIE",
-    "title": "WMF Touch Messerset 2-teilig – Küchenmesser-Set aus …",
-    "category": "Küche",
-    "price": 11.09,
-    "checkedAt": "2026-11-17T06:59:57.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00BD1DKIE.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:07:21.604Z"
-  },
-  {
-    "id": "auto-b0clwjmwck",
-    "asin": "B0CLWJMWCK",
-    "title": "Columbia Unisex Kinder Portlander Omni-Heat Boot **erneut …",
-    "category": "Tech",
-    "price": 46.75,
-    "checkedAt": "2026-11-17T07:00:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CLWJMWCK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:07:16.412Z"
   }
 ]
