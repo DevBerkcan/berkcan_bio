@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b07ywyq8qf",
+    "asin": "B07YWYQ8QF",
+    "title": "Hacker-Pschorr Münchner Hell • Bier (24x0,5l)",
+    "category": "Lebensmittel & Drinks",
+    "price": 18.99,
+    "checkedAt": "2026-11-18T21:27:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07YWYQ8QF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b000zem0s6",
     "asin": "B000ZEM0S6",
     "title": "Brennenstuhl Verlängerungs-Gummikabel 25m IP 44",
@@ -7,7 +17,8 @@
     "price": 23.98,
     "checkedAt": "2026-11-18T21:29:26.000Z",
     "image": "https://m.media-amazon.com/images/P/B000ZEM0S6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T21:51:58.068Z"
   },
   {
     "id": "auto-b0f6ws945q",
