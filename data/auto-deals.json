@@ -1,5 +1,106 @@
 [
   {
+    "id": "auto-b0bs3j3rsv",
+    "asin": "B0BS3J3RSV",
+    "title": "Einhell Bohrschrauber TE-CD 18/40 Li + Winkelschleifer TC-AG 18/115 + …",
+    "category": "Werkzeug",
+    "price": 134.99,
+    "checkedAt": "2026-11-18T19:07:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BS3J3RSV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08lgptftj",
+    "asin": "B08LGPTFTJ",
+    "title": "Waterdrop Wasserfilter Ersatz für Siemens EQ Series …",
+    "category": "Tech",
+    "price": 16.99,
+    "checkedAt": "2026-11-18T19:09:14.000Z",
+    "image": "https://static.mydealz.de/threads/raw/kzEQ4/2875029_1/re/768x768/qt/55/2875029_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00154ybxw",
+    "asin": "B00154YBXW",
+    "title": "Wera 950/9 Hex-Plus 2 Winkelschlüsselsatz, metrisch, gestellverchromt, …",
+    "category": "Werkzeug",
+    "price": 12.89,
+    "checkedAt": "2026-11-18T19:17:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00154YBXW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f3jpm3th",
+    "asin": "B0F3JPM3TH",
+    "title": "KRUSTENZAUBER 26cm Gusseisen-Topf zum Brotbacken & Bräter",
+    "category": "Tech",
+    "price": 69.99,
+    "checkedAt": "2026-11-18T19:19:36.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Jbswi/2875041_1/re/768x768/qt/55/2875041_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h6jymnxm",
+    "asin": "B0H6JYMNXM",
+    "title": "Samsung DW80H77U3UFU1 Geschirrspüler, Unterbaufähig [Energieklasse A]",
+    "subtitle": "🔥 101° bei mydealz",
+    "category": "Küche",
+    "price": 806.08,
+    "checkedAt": "2026-11-18T19:09:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H6JYMNXM.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 101,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0bj2wjld7",
+    "asin": "B0BJ2WJLD7",
+    "title": "WMF Iconic Bratentopf 24 cm mit Deckel",
+    "subtitle": "🔥 103° bei mydealz",
+    "category": "Tech",
+    "price": 85.48,
+    "checkedAt": "2026-11-18T19:09:20.000Z",
+    "image": "https://static.mydealz.de/threads/raw/g73Pc/2873825_1/re/768x768/qt/55/2873825_1.jpg",
+    "temperature": 103,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08xzh4x1n",
+    "asin": "B08XZH4X1N",
+    "title": "SodaStream DUO Wassersprudler Titan Family Pack",
+    "subtitle": "🔥 103° bei mydealz",
+    "category": "Tech",
+    "price": 99.99,
+    "checkedAt": "2026-11-18T19:09:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08XZH4X1N.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 103,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dk5vyqfp",
+    "asin": "B0DK5VYQFP",
+    "title": "KitchenAid Artisan Küchenmaschine 4,7L Fresh Linen",
+    "subtitle": "🔥 107° bei mydealz",
+    "category": "Küche",
+    "price": 329.99,
+    "checkedAt": "2026-11-18T19:09:24.000Z",
+    "image": "https://static.mydealz.de/threads/raw/GBdIN/2873634_1/re/768x768/qt/55/2873634_1.jpg",
+    "temperature": 107,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09cdvcv4h",
+    "asin": "B09CDVCV4H",
+    "title": "Tefal Ice Force Messerschärfer, 3-Schritte-Schleifprozess, japanische …",
+    "subtitle": "🔥 228° bei mydealz",
+    "category": "Küche",
+    "price": 11.89,
+    "checkedAt": "2026-11-18T19:16:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09CDVCV4H.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 228,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T19:21:55.154Z"
+  },
+  {
     "id": "auto-b0000an3qi",
     "asin": "B0000AN3QI",
     "title": "Bialetti Moka Express für 3 Tassen (130ml) Espressokocher",
@@ -73,7 +174,8 @@
     "price": 25.6,
     "checkedAt": "2026-11-18T18:06:15.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F6ZJJ63H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T19:22:14.095Z"
   },
   {
     "id": "auto-b0gzkf2f7j",
@@ -93,7 +195,8 @@
     "price": 12.18,
     "checkedAt": "2026-11-18T18:13:53.000Z",
     "image": "https://m.media-amazon.com/images/P/B0049TUP30.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T19:22:05.237Z"
   },
   {
     "id": "auto-b08xv4d43k",
@@ -2848,27 +2951,6 @@
     "telegramPostedAt": "2026-11-17T21:23:11.650Z"
   },
   {
-    "id": "auto-b006a2q81m",
-    "asin": "B006A2Q81M",
-    "title": "Logitech C920 HD PRO Webcam – Full HD 1080p",
-    "category": "Computer",
-    "price": 49.99,
-    "checkedAt": "2026-11-17T19:06:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B006A2Q81M.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b08qnbvy9w",
-    "asin": "B08QNBVY9W",
-    "title": "Siku: Radlader Liebherr L 556 (3561)",
-    "category": "Spielzeug & LEGO",
-    "price": 14.2,
-    "checkedAt": "2026-11-17T19:07:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08QNBVY9W.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:51:55.715Z"
-  },
-  {
     "id": "auto-b0f1nf3j68",
     "asin": "B0F1NF3J68",
     "title": "Amazon Sparabo 100% Arabica Kaffeebohnen - ab 4 Packungen 9,98€ pro …",
@@ -3135,37 +3217,5 @@
     "temperature": 105,
     "source": "auto",
     "telegramPostedAt": "2026-11-17T19:38:46.338Z"
-  },
-  {
-    "id": "auto-b07w6hdb55",
-    "asin": "B07W6HDB55",
-    "title": "Logitech G G502 X Plus",
-    "category": "Tech",
-    "price": 79.99,
-    "checkedAt": "2026-11-17T19:11:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07W6HDB55.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0f6l1rxgz",
-    "asin": "B0F6L1RXGZ",
-    "title": "eSUN PLA Basic Filament 1.75mm, Orange, 2KG - 3D Drucker Filament, 1KG …",
-    "category": "Computer",
-    "price": 17.69,
-    "checkedAt": "2026-11-17T19:13:27.000Z",
-    "image": "https://static.mydealz.de/threads/raw/YdGL6/2874110_1/re/768x768/qt/55/2874110_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:37:07.552Z"
-  },
-  {
-    "id": "auto-b00bt0g5uy",
-    "asin": "B00BT0G5UY",
-    "title": "Wera Bit-Check Zyklop Mini 10-teilig inkl Ratsche",
-    "category": "Werkzeug",
-    "price": 28.49,
-    "checkedAt": "2026-11-17T19:19:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00BT0G5UY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T20:38:37.148Z"
   }
 ]
