@@ -1,5 +1,47 @@
 [
   {
+    "id": "auto-b0d1kk1fgc",
+    "asin": "B0D1KK1FGC",
+    "title": "2er Set Reolink 4K PT Solar Überwachungskamera Aussen mit Solar Akku …",
+    "category": "Smart Home",
+    "price": 269.99,
+    "checkedAt": "2026-11-18T18:21:27.000Z",
+    "image": "https://static.mydealz.de/threads/raw/1Ldxj/2875003_1/re/768x768/qt/55/2875003_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d8l1y17m",
+    "asin": "B0D8L1Y17M",
+    "title": "Green Bay Packers Fanshirt grau",
+    "category": "Tech",
+    "price": 11.58,
+    "checkedAt": "2026-11-18T18:22:45.000Z",
+    "image": "https://static.mydealz.de/threads/raw/fwnq8/2875005_1/re/768x768/qt/55/2875005_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d8tn6g24",
+    "asin": "B0D8TN6G24",
+    "title": "Arizona Cardinals Pullover",
+    "category": "Tech",
+    "price": 24,
+    "checkedAt": "2026-11-18T18:28:39.000Z",
+    "image": "https://static.mydealz.de/threads/raw/V5OPM/2875008_1/re/768x768/qt/55/2875008_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T18:36:59.977Z"
+  },
+  {
+    "id": "auto-b0bzss9cty",
+    "asin": "B0BZSS9CTY",
+    "title": "BRITA MAXTRA PRO Extra Kalkschutz Filterkartuschen",
+    "category": "Tech",
+    "price": 26.99,
+    "checkedAt": "2026-11-18T18:32:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BZSS9CTY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T18:36:51.594Z"
+  },
+  {
     "id": "auto-b0f6zjj63h",
     "asin": "B0F6ZJJ63H",
     "title": "Pet Shop Boys - Discography - best of(2023 Remaster) Doppelvinyl",
@@ -787,7 +829,8 @@
     "price": 11.99,
     "checkedAt": "2026-11-18T13:42:37.000Z",
     "image": "https://m.media-amazon.com/images/P/B07NR8KRG5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T18:36:43.955Z"
   },
   {
     "id": "auto-b0dcfx4wnb",
@@ -3159,26 +3202,5 @@
     "image": "https://static.mydealz.de/threads/raw/nTupZ/2874097_1/re/768x768/qt/55/2874097_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T19:06:52.152Z"
-  },
-  {
-    "id": "auto-b0gxzjw37v",
-    "asin": "B0GXZJW37V",
-    "title": "Samsung Crystal U7099H 4K 50 Zoll (125 cm), UHD Fernseher, Smart AI …",
-    "category": "TV & Heimkino",
-    "price": 339,
-    "checkedAt": "2026-11-17T18:26:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GXZJW37V.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:52:04.883Z"
-  },
-  {
-    "id": "auto-b0dwnbsr4x",
-    "asin": "B0DWNBSR4X",
-    "title": "Stanley Classic Legendary Camp Mug 0,35L – Robuster …",
-    "category": "Tech",
-    "price": 25.2,
-    "checkedAt": "2026-11-17T18:27:20.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWNBSR4X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
