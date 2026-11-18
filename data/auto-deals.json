@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b09s64j8y7",
+    "asin": "B09S64J8Y7",
+    "title": "Brennenstuhl Premium-Protect-Line Steckdosenleiste 8-Fach [3m]",
+    "category": "Smart Home",
+    "price": 50.42,
+    "checkedAt": "2026-11-18T19:35:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09S64J8Y7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0bs3j3rsv",
     "asin": "B0BS3J3RSV",
     "title": "Einhell Bohrschrauber TE-CD 18/40 Li + Winkelschleifer TC-AG 18/115 + …",
@@ -49,7 +59,8 @@
     "checkedAt": "2026-11-18T19:09:31.000Z",
     "image": "https://m.media-amazon.com/images/P/B0H6JYMNXM.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 101,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T19:37:01.877Z"
   },
   {
     "id": "auto-b0bj2wjld7",
@@ -73,7 +84,8 @@
     "checkedAt": "2026-11-18T19:09:28.000Z",
     "image": "https://m.media-amazon.com/images/P/B08XZH4X1N.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 103,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T19:37:08.710Z"
   },
   {
     "id": "auto-b0dk5vyqfp",
@@ -2951,17 +2963,6 @@
     "telegramPostedAt": "2026-11-17T21:23:11.650Z"
   },
   {
-    "id": "auto-b0f1nf3j68",
-    "asin": "B0F1NF3J68",
-    "title": "Amazon Sparabo 100% Arabica Kaffeebohnen - ab 4 Packungen 9,98€ pro …",
-    "category": "Lebensmittel & Drinks",
-    "price": 39.93,
-    "checkedAt": "2026-11-17T19:31:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F1NF3J68.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T22:52:00.331Z"
-  },
-  {
     "id": "auto-b07sbwmczc",
     "asin": "B07SBWMCZC",
     "title": "PUMA Unisex Anzarun Lite AC Inf Children's Baby Crawling Shoes …",
@@ -3076,19 +3077,6 @@
     "telegramPostedAt": "2026-11-17T20:38:43.182Z"
   },
   {
-    "id": "auto-b0chmtljvv",
-    "asin": "B0CHMTLJVV",
-    "title": ":herb: NATURTREU Vitaminquelle Multivitamin-Komplex",
-    "category": "Lebensmittel & Drinks",
-    "price": 16.99,
-    "oldPrice": 19.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T19:35:24.000Z",
-    "image": "https://static.mydealz.de/threads/raw/wF8VA/2874129_1/re/768x768/qt/55/2874129_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T20:38:48.483Z"
-  },
-  {
     "id": "auto-b007fqb5ry",
     "asin": "B007FQB5RY",
     "title": "RYOBI 18V ONE+ Akku-Säbelsäge RRS1801M",
@@ -3191,31 +3179,5 @@
     "temperature": 426,
     "source": "auto",
     "telegramPostedAt": "2026-11-17T19:53:32.560Z"
-  },
-  {
-    "id": "auto-b0djdf92jw",
-    "asin": "B0DJDF92JW",
-    "title": "ASUS ROG Strix Z890-A Gaming WiFi Mainboard Sockel Intel LGA 1851",
-    "subtitle": "🔥 104° bei mydealz",
-    "category": "Computer",
-    "price": 196.99,
-    "checkedAt": "2026-11-17T19:35:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJDF92JW.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 104,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T19:38:51.818Z"
-  },
-  {
-    "id": "auto-b0brnf257d",
-    "asin": "B0BRNF257D",
-    "title": "Jujutsu Kaisen 0: The Movie - Limited Steelbook Edition [Blu-ray]",
-    "subtitle": "🔥 105° bei mydealz",
-    "category": "Bücher & Filme",
-    "price": 12.79,
-    "checkedAt": "2026-11-17T19:34:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BRNF257D.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 105,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T19:38:46.338Z"
   }
 ]
