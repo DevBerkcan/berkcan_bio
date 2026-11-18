@@ -1,5 +1,55 @@
 [
   {
+    "id": "auto-b0001p154y",
+    "asin": "B0001P154Y",
+    "title": "Victorinox Swiss Card Multitool",
+    "category": "Tech",
+    "price": 20.89,
+    "checkedAt": "2026-11-18T06:13:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0001P154Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0001p0ckc",
+    "asin": "B0001P0CKC",
+    "title": "KNIPEX Cobra Wasserpumpenzange, 250 mm, Muttern bis 46 mm, 87 02 250 …",
+    "category": "Werkzeug",
+    "price": 23.94,
+    "checkedAt": "2026-11-18T06:22:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0001P0CKC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0b3f3rbmq",
+    "asin": "B0B3F3RBMQ",
+    "title": "Halo 4 - Forward Unto Dawn / King Richard je 11,99€ - 4K Blu-ray / …",
+    "category": "Bücher & Filme",
+    "price": 11.99,
+    "checkedAt": "2026-11-18T06:23:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B3F3RBMQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dqvgrysn",
+    "asin": "B0DQVGRYSN",
+    "title": "Panasonic SC-TMAX45E-K Bluetooth-Party-Lautsprecher",
+    "category": "Audio",
+    "price": 199,
+    "checkedAt": "2026-11-18T06:24:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQVGRYSN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07sg7r14h",
+    "asin": "B07SG7R14H",
+    "title": "STAR TREK - 3 Filme als Set - inkl. Into Darkness & Beyond - Blu-ray",
+    "category": "Bücher & Filme",
+    "price": 15.99,
+    "checkedAt": "2026-11-18T06:24:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07SG7R14H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0h6wq5vtk",
     "asin": "B0H6WQ5VTK",
     "title": "Chupa Chups Adventskalender 2026, Weihnachts-Kalender mit 24 Türchen, …",
@@ -9,7 +59,8 @@
     "checkedAt": "2026-11-18T06:09:48.000Z",
     "image": "https://m.media-amazon.com/images/P/B0H6WQ5VTK.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 188,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T06:26:16.681Z"
   },
   {
     "id": "auto-b000fng12s",
