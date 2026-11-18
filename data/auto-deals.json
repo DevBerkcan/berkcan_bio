@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b07ld23lrs",
+    "asin": "B07LD23LRS",
+    "title": "FRANZIS Weltempfänger - Bausatz Rundfunk, Amateurfunk & mehr",
+    "category": "Tech",
+    "price": 24.41,
+    "oldPrice": 33.2,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T14:45:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07LD23LRS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T14:51:58.353Z"
+  },
+  {
     "id": "auto-b07kkzk4l8",
     "asin": "B07KKZK4L8",
     "title": "LÄSSIG Baby Kleinkind Lätzchen Set (5 St.) Klettverschluss Baumwolle …",
@@ -37,7 +50,8 @@
     "price": 151.99,
     "checkedAt": "2026-11-18T14:30:53.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BC963C58.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T14:52:12.001Z"
   },
   {
     "id": "auto-b00jkxae2m",
@@ -300,7 +314,8 @@
     "price": 256.87,
     "checkedAt": "2026-11-18T13:08:41.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DGQSY3ZT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T14:52:04.832Z"
   },
   {
     "id": "auto-b00im7biy0",
@@ -3020,16 +3035,6 @@
     "telegramPostedAt": "2026-11-17T15:18:15.456Z"
   },
   {
-    "id": "auto-b0fh51hvdt",
-    "asin": "B0FH51HVDT",
-    "title": "UGREEN FineTrack Slim Tracker Karte – Kabelloses Laden, IP68 …",
-    "category": "Tech",
-    "price": 15.99,
-    "checkedAt": "2026-11-17T14:49:13.000Z",
-    "image": "https://static.mydealz.de/threads/raw/7jcv1/2873889_1/re/768x768/qt/55/2873889_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b00a81mg9y",
     "asin": "B00A81MG9Y",
     "title": "Entombed - Left Hand Path Vinyl",
@@ -3077,36 +3082,5 @@
     "image": "https://m.media-amazon.com/images/P/B0024LJSXI.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T15:33:10.771Z"
-  },
-  {
-    "id": "auto-b0fh2nhmjd",
-    "asin": "B0FH2NHMJD",
-    "title": "Kanonenfieber - Soldatenschicksale Vinyl",
-    "category": "Tech",
-    "price": 20.39,
-    "checkedAt": "2026-11-17T14:39:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FH2NHMJD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b001tkurty",
-    "asin": "B001TKURTY",
-    "title": "Red Bull Energy Drink 24 x 250 ml Dose",
-    "category": "Lebensmittel & Drinks",
-    "price": 5.82,
-    "checkedAt": "2026-11-17T14:42:17.000Z",
-    "image": "https://static.mydealz.de/threads/raw/XbXFr/2873885_1/re/768x768/qt/55/2873885_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07w6fq659",
-    "asin": "B07W6FQ659",
-    "title": "Logitech G535 LIGHTSPEED Wireless Gaming Headset, kabellos, 40 mm …",
-    "category": "Gaming",
-    "price": 59.99,
-    "checkedAt": "2026-11-17T14:47:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07W6FQ659.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T16:47:16.315Z"
   }
 ]
