@@ -1,5 +1,74 @@
 [
   {
+    "id": "auto-b0ctqnqsb5",
+    "asin": "B0CTQNQSB5",
+    "title": "Logitech MK950 Signature Slim kabelloses Tastatur-Maus-Set",
+    "category": "Computer",
+    "price": 64.49,
+    "checkedAt": "2026-11-18T11:38:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CTQNQSB5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gzpjf6m5",
+    "asin": "B0GZPJF6M5",
+    "title": "Philips DiamondClean 9900 Prestige elektr.Zahnbürste intelligentes …",
+    "category": "Beauty & Pflege",
+    "price": 279.99,
+    "checkedAt": "2026-11-18T11:39:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GZPJF6M5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ghf36jlt",
+    "asin": "B0GHF36JLT",
+    "title": "merci lovelies Nougat Crunch, Schokokugeln mit Nougatfüllung - 1 x …",
+    "category": "Tech",
+    "price": 13.49,
+    "checkedAt": "2026-11-18T11:48:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GHF36JLT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dxqd25tv",
+    "asin": "B0DXQD25TV",
+    "title": "Fjällräven Bergtagen Touring 30 Rucksack",
+    "category": "Sport & Outdoor",
+    "price": 156.91,
+    "oldPrice": 221.74,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T11:43:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DXQD25TV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:53:22.553Z"
+  },
+  {
+    "id": "auto-b0c9v4w93v",
+    "asin": "B0C9V4W93V",
+    "title": "Jack Wolfskin Feldberg Hoody Men slate Softshelljacke",
+    "category": "Mode & Reise",
+    "price": 74.35,
+    "oldPrice": 111.85,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T11:38:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C9V4W93V.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:53:17.084Z"
+  },
+  {
+    "id": "auto-b0hhmxt5zt",
+    "asin": "B0HHMXT5ZT",
+    "title": "Xiaomi 18 Pro / Xiaomi 18 Pro Max – Coupon (ab 1.189,90 €) Bundle …",
+    "category": "Smartphone & Tablet",
+    "price": 1189.9,
+    "oldPrice": 1849.8,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T11:13:01.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HHMXT5ZT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:53:11.663Z"
+  },
+  {
     "id": "auto-b09rv4xtg2",
     "asin": "B09RV4XTG2",
     "title": "SONY - HT-S400 2.1-Kanal 330W Soundbar für TV mit drahtlosem Subwoofer …",
@@ -3078,26 +3147,6 @@
     "telegramPostedAt": "2026-11-17T12:20:18.406Z"
   },
   {
-    "id": "auto-b0dwxzmh5v",
-    "asin": "B0DWXZMH5V",
-    "title": "Elden Ring Nightreign Collector's Edition (PS5)",
-    "category": "Gaming",
-    "price": 94.99,
-    "checkedAt": "2026-11-17T11:50:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWXZMH5V.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fkh16kcv",
-    "asin": "B0FKH16KCV",
-    "title": "Stanley 1913 Cafe To-Go Travel Mug 0.23L - Twilight Hält 3 Std. heiß - …",
-    "category": "Tech",
-    "price": 19.6,
-    "checkedAt": "2026-11-17T11:51:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FKH16KCV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0gs2bf91w",
     "asin": "B0GS2BF91W",
     "title": "bedrop Bee Cream Bienengiftsalbe hochdosiert - XXL 400g",
@@ -3149,19 +3198,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0fjnctljk",
-    "asin": "B0FJNCTLJK",
-    "title": "Philips Hue Flux Strip Light Base Kit 5 m",
-    "category": "Smart Home",
-    "price": 69.99,
-    "oldPrice": 85,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T11:51:08.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJNCTLJK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T19:23:56.158Z"
-  },
-  {
     "id": "auto-b07x5xmzzd",
     "asin": "B07X5XMZZD",
     "title": "JdY Damen Jdygeggo L/S Jrs Noos Blazer, Schwarz, XL EU",
@@ -3173,46 +3209,5 @@
     "image": "https://m.media-amazon.com/images/P/B07X5XMZZD.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T12:05:08.485Z"
-  },
-  {
-    "id": "auto-b07w6jn8n7",
-    "asin": "B07W6JN8N7",
-    "title": "Logitech G203 LIGHTSYNC Gaming-Maus, kabelgebunden, 6 programmierbare …",
-    "category": "Computer",
-    "price": 19.74,
-    "checkedAt": "2026-11-17T11:41:42.000Z",
-    "image": "https://static.mydealz.de/threads/raw/t44Pp/2873695_1/re/768x768/qt/55/2873695_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0czxxvks7",
-    "asin": "B0CZXXVKS7",
-    "title": "Ninja MAX PRO Heißluftfritteuse AF180EUCP",
-    "category": "Küche",
-    "price": 89.99,
-    "checkedAt": "2026-11-17T11:43:20.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CZXXVKS7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0cbnfl7gf",
-    "asin": "B0CBNFL7GF",
-    "title": "Jack & Jones Herren Jeans Jjiglenn Jjoriginal Sq 330 Noos",
-    "category": "Mode & Reise",
-    "price": 18.18,
-    "checkedAt": "2026-11-17T11:43:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CBNFL7GF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T11:08:44.359Z"
-  },
-  {
-    "id": "auto-b0cdcfrxpn",
-    "asin": "B0CDCFRXPN",
-    "title": "Philips Kaffeevollautomat mit Panarello 3300 Serie",
-    "category": "Küche",
-    "price": 299.97,
-    "checkedAt": "2026-11-17T11:44:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CDCFRXPN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
