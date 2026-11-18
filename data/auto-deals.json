@@ -1,5 +1,90 @@
 [
   {
+    "id": "auto-b0hbx6t38v",
+    "asin": "B0HBX6T38V",
+    "title": "RuneScape: Dragonwilds - Playstation 5 & Xbox Series X",
+    "category": "Gaming",
+    "price": 26.99,
+    "checkedAt": "2026-11-18T11:54:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HBX6T38V.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d95wszby",
+    "asin": "B0D95WSZBY",
+    "title": "QINCAO Boxershorts Herren 6er Pack für",
+    "category": "Tech",
+    "price": 13.71,
+    "checkedAt": "2026-11-18T11:55:45.000Z",
+    "image": "https://static.mydealz.de/threads/raw/3IOP2/2874641_1/re/768x768/qt/55/2874641_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07nw8rpyn",
+    "asin": "B07NW8RPYN",
+    "title": "Anker 2-in-1 USB-C Kartenleser für SD & microSD",
+    "category": "Computer",
+    "price": 9.99,
+    "checkedAt": "2026-11-18T11:56:03.000Z",
+    "image": "https://static.mydealz.de/threads/raw/doj6W/2874642_1/re/768x768/qt/55/2874642_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dnr78c5j",
+    "asin": "B0DNR78C5J",
+    "title": "Ninja Blast kabelloser Mini-Mixer, 530 ml, 2er-Pack, auslaufsicherer …",
+    "category": "Küche",
+    "price": 74.98,
+    "checkedAt": "2026-11-18T11:57:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DNR78C5J.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cmtqpwq8",
+    "asin": "B0CMTQPWQ8",
+    "title": "Razer Seiren V3 Mini USB-Kondensatormikrofon - 14-mm-Kapsel, …",
+    "category": "Audio",
+    "price": 34.99,
+    "checkedAt": "2026-11-18T12:02:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CMTQPWQ8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cwndd7v3",
+    "asin": "B0CWNDD7V3",
+    "title": "ProFuel CREAPROOF Creatin Monohydrat",
+    "category": "Tech",
+    "price": 10.17,
+    "checkedAt": "2026-11-18T12:02:24.000Z",
+    "image": "https://static.mydealz.de/threads/raw/oWmeV/2874650_1/re/768x768/qt/55/2874650_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gznz8xsj",
+    "asin": "B0GZNZ8XSJ",
+    "title": "Philips Sonicare DiamondClean 8500 2er-Set HX8596/21 – …",
+    "category": "Beauty & Pflege",
+    "price": 299.99,
+    "oldPrice": 359.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T11:53:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GZNZ8XSJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0g65fw24b",
+    "asin": "B0G65FW24B",
+    "title": "Bosch Serie 4 Waschmaschine 8 kg 1400 UpM Faltenreduzierung WAN282K4 …",
+    "subtitle": "🔥 118° bei mydealz",
+    "category": "Haushalt",
+    "price": 474.99,
+    "checkedAt": "2026-11-18T11:52:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G65FW24B.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 118,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T12:08:14.468Z"
+  },
+  {
     "id": "auto-b0ctqnqsb5",
     "asin": "B0CTQNQSB5",
     "title": "Logitech MK950 Signature Slim kabelloses Tastatur-Maus-Set",
@@ -485,7 +570,8 @@
     "price": 209.99,
     "checkedAt": "2026-11-18T10:09:58.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GKGT264T.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T12:08:08.634Z"
   },
   {
     "id": "auto-b016pzc2d6",
@@ -3145,69 +3231,5 @@
     "image": "https://m.media-amazon.com/images/P/B07JGHHVS8.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T12:20:18.406Z"
-  },
-  {
-    "id": "auto-b0gs2bf91w",
-    "asin": "B0GS2BF91W",
-    "title": "bedrop Bee Cream Bienengiftsalbe hochdosiert - XXL 400g",
-    "category": "Tech",
-    "price": 49.95,
-    "checkedAt": "2026-11-17T11:55:43.000Z",
-    "image": "https://static.mydealz.de/threads/raw/48es8/2873710_1/re/768x768/qt/55/2873710_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dwy1gqvp",
-    "asin": "B0DWY1GQVP",
-    "title": "Elden Ring Nightreign Seekers Edition (PS5)",
-    "category": "Gaming",
-    "price": 19.99,
-    "checkedAt": "2026-11-17T11:57:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWY1GQVP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b01k7geg9w",
-    "asin": "B01K7GEG9W",
-    "title": "Logitech M220 Silent Kabellose Maus, 2,4 GHz mit USB-Empfänger, 1000 …",
-    "category": "Computer",
-    "price": 9.49,
-    "checkedAt": "2026-11-17T11:57:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01K7GEG9W.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fgdj3qp1",
-    "asin": "B0FGDJ3QP1",
-    "title": "Corsair Nautilus 360 RS LCD",
-    "category": "Tech",
-    "price": 88.99,
-    "checkedAt": "2026-11-17T11:59:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FGDJ3QP1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T17:32:11.281Z"
-  },
-  {
-    "id": "auto-b0gpqmffxl",
-    "asin": "B0GPQMFFXL",
-    "title": "HAZET Adventskalender ADVENTSKALENDER26, 24-teilig, Akku-Kompressor",
-    "category": "Werkzeug",
-    "price": 50.99,
-    "checkedAt": "2026-11-17T11:59:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GPQMFFXL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07x5xmzzd",
-    "asin": "B07X5XMZZD",
-    "title": "JdY Damen Jdygeggo L/S Jrs Noos Blazer, Schwarz, XL EU",
-    "category": "Tech",
-    "price": 12.82,
-    "oldPrice": 32.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T11:55:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07X5XMZZD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T12:05:08.485Z"
   }
 ]
