@@ -1,5 +1,50 @@
 [
   {
+    "id": "auto-b0c61f4r8q",
+    "asin": "B0C61F4R8Q",
+    "title": "Razer Cobra Pro kabellose Gaming-Maus",
+    "category": "Computer",
+    "price": 75.9,
+    "checkedAt": "2026-11-18T09:58:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C61F4R8Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b007bz2a3c",
+    "asin": "B007BZ2A3C",
+    "title": "Wera Bit-Safe 61 Universal 4",
+    "category": "Werkzeug",
+    "price": 19.99,
+    "checkedAt": "2026-11-18T10:08:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B007BZ2A3C.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h9rsnf6z",
+    "asin": "B0H9RSNF6Z",
+    "title": "Soundcore Anker Q31i Bluetooth Kopfhörer",
+    "category": "Audio",
+    "price": 69.99,
+    "oldPrice": 89.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T09:54:18.000Z",
+    "image": "https://static.mydealz.de/threads/raw/zbo1K/2874495_1/re/768x768/qt/55/2874495_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T10:09:21.369Z"
+  },
+  {
+    "id": "queue-b0gfb3rghm",
+    "asin": "B0GFB3RGHM",
+    "title": "Sapphire Nitro+ Radeon RX 9070 XT 16 GB OC",
+    "subtitle": "Custom-Grafikkarte mit 16 GB – Crimson Desert Version.",
+    "category": "Computer",
+    "price": 959.99,
+    "checkedAt": "2026-11-18T06:42:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GFB3RGHM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T10:09:05.884Z"
+  },
+  {
     "id": "auto-b0g6hz84br",
     "asin": "B0G6HZ84BR",
     "title": "Nina Hagen - Highway to Heaven LP Vinyl Schallplatte",
@@ -639,16 +684,6 @@
     "image": "https://m.media-amazon.com/images/P/B0FR4VXQMV.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T07:10:02.544Z"
-  },
-  {
-    "id": "auto-b0gfb3rghm",
-    "asin": "B0GFB3RGHM",
-    "title": "Sapphire Nitro+ AMD Radeon RX 9070 XT 16 GB Crimson Desert Version …",
-    "category": "Computer",
-    "price": 959.99,
-    "checkedAt": "2026-11-18T06:42:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GFB3RGHM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b01d1or0uo",
@@ -3022,17 +3057,6 @@
     "telegramPostedAt": "2026-11-17T11:05:46.982Z"
   },
   {
-    "id": "auto-b0f5b9nf4l",
-    "asin": "B0F5B9NF4L",
-    "title": "adidas Unisex Cushioned Crew Socks 6 Paar Pack Socken Gr 31/33 bis …",
-    "category": "Tech",
-    "price": 13.74,
-    "checkedAt": "2026-11-17T10:07:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F5B9NF4L.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T16:02:48.175Z"
-  },
-  {
     "id": "auto-b07f2ypwkj",
     "asin": "B07F2YPWKJ",
     "title": "PUMA Damen Cilia Mode Sneakers, Basic Sneakers Damen Gr.35,5 - 42,5",
@@ -3077,28 +3101,5 @@
     "image": "https://static.mydealz.de/threads/raw/BSBk4/2873601_1/re/768x768/qt/55/2873601_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T10:36:09.794Z"
-  },
-  {
-    "id": "auto-b0722xd7kd",
-    "asin": "B0722XD7KD",
-    "title": "Paladone Chip / Tassilo Tasse Die Schöne und das Biest",
-    "category": "Tech",
-    "price": 7.98,
-    "oldPrice": 19.89,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T10:03:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0722XD7KD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T10:21:21.398Z"
-  },
-  {
-    "id": "auto-b0c5pgf6cf",
-    "asin": "B0C5PGF6CF",
-    "title": "Paladone Harry Potter Digitaler Wecker",
-    "category": "Tech",
-    "price": 18.34,
-    "checkedAt": "2026-11-17T09:58:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C5PGF6CF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
