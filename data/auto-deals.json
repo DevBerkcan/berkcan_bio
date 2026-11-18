@@ -1,5 +1,79 @@
 [
   {
+    "id": "auto-b0gxks5gxl",
+    "asin": "B0GXKS5GXL",
+    "title": "TCL 55Q7D Pro 55 Zoll 4K SQD-Mini LED TV, Google TV, 144 Hz, Dolby …",
+    "category": "TV & Heimkino",
+    "price": 639,
+    "checkedAt": "2026-11-18T16:38:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GXKS5GXL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b06xh6hwgd",
+    "asin": "B06XH6HWGD",
+    "title": "Helly Hansen - Herren Dubliner Isolierte Jacke in Größe L. XL",
+    "category": "Mode & Reise",
+    "price": 85.72,
+    "checkedAt": "2026-11-18T16:39:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B06XH6HWGD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09h7214k8",
+    "asin": "B09H7214K8",
+    "title": "Grillas Dutch Oven Set ohne Füße, Gusseisen, 9L",
+    "category": "Tech",
+    "price": 39.79,
+    "checkedAt": "2026-11-18T16:41:31.000Z",
+    "image": "https://static.mydealz.de/threads/raw/InsCr/2874926_1/re/768x768/qt/55/2874926_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f844lmg3",
+    "asin": "B0F844LMG3",
+    "title": "HyperX Cloud III S Wireless Gaming-Headset, 2,4 GHz und Bluetooth, 53 …",
+    "category": "Gaming",
+    "price": 89.99,
+    "checkedAt": "2026-11-18T16:47:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F844LMG3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09h72d4xv",
+    "asin": "B09H72D4XV",
+    "title": "Grillas Dutch Oven Set ohne Füße, Gusseisen, 13,6L",
+    "category": "Tech",
+    "price": 49.79,
+    "checkedAt": "2026-11-18T16:48:37.000Z",
+    "image": "https://static.mydealz.de/threads/raw/ZYwrR/2874933_1/re/768x768/qt/55/2874933_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gjdnbmlx",
+    "asin": "B0GJDNBMLX",
+    "title": "SANDISK Optimus GX PRO 850X NVMe SSD mit Kühlkörper 1 TB bis zu …",
+    "category": "Computer",
+    "price": 233.99,
+    "checkedAt": "2026-11-18T16:49:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GJDNBMLX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T16:51:40.469Z"
+  },
+  {
+    "id": "auto-b07cf6x8qt",
+    "asin": "B07CF6X8QT",
+    "title": "Madonna The Immaculate Collection [Vinyl LP] Compilation Doppelvinyl",
+    "subtitle": "🔥 102° bei mydealz",
+    "category": "Tech",
+    "price": 25.59,
+    "checkedAt": "2026-11-18T16:46:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07CF6X8QT.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 102,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T16:51:30.523Z"
+  },
+  {
     "id": "auto-b0c8grmmq6",
     "asin": "B0C8GRMMQ6",
     "title": "Finish Ultimate Plus Infinity Shine - 146 Spülmaschinentabs",
@@ -198,7 +272,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-18T15:22:26.000Z",
     "image": "https://m.media-amazon.com/images/P/B0D49PZ1HM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T16:51:35.064Z"
   },
   {
     "id": "auto-b0fy5z51qp",
@@ -3079,16 +3154,6 @@
     "checkedAt": "2026-11-17T16:52:37.000Z",
     "image": "https://m.media-amazon.com/images/P/B0B2KXPRWX.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 102,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0cnxkmsjg",
-    "asin": "B0CNXKMSJG",
-    "title": "Razer Seiren V3 Chroma USB-Mikrofon, Supernieren-Kondensator, 96 …",
-    "category": "Audio",
-    "price": 79.99,
-    "checkedAt": "2026-11-17T16:43:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CNXKMSJG.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   }
 ]
