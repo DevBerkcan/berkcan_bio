@@ -1,5 +1,106 @@
 [
   {
+    "id": "auto-b0blw4cmwt",
+    "asin": "B0BLW4CMWT",
+    "title": "Jack & Jones Jungen Sweat Hood Hoody schwarz",
+    "category": "Tech",
+    "price": 17.9,
+    "checkedAt": "2026-11-18T06:40:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BLW4CMWT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0b5hqzg54",
+    "asin": "B0B5HQZG54",
+    "title": "Prime 6x Falke Happy Herren Socken in Anthrazit und Hellgrau",
+    "category": "Tech",
+    "price": 13.95,
+    "checkedAt": "2026-11-18T07:13:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B5HQZG54.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dzxghckw",
+    "asin": "B0DZXGHCKW",
+    "title": "Maybach Secco Chardonnay (6 x 0,75l) Prime - im Spar-Abo",
+    "category": "Tech",
+    "price": 17.19,
+    "checkedAt": "2026-11-18T07:18:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DZXGHCKW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dzxgpq6l",
+    "asin": "B0DZXGPQ6L",
+    "title": "Maybach Secco Merlot Rosé (6 x 0,75l) Prime - im Spar-Abo",
+    "category": "Tech",
+    "price": 16.14,
+    "checkedAt": "2026-11-18T07:22:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DZXGPQ6L.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dj6zps3y",
+    "asin": "B0DJ6ZPS3Y",
+    "title": "Cosori TurboBlaze 6 L Heißluftfritteuse",
+    "category": "Küche",
+    "price": 94.98,
+    "oldPrice": 119.85,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T07:14:06.000Z",
+    "image": "https://static.mydealz.de/threads/raw/grpwg/2874358_1/re/768x768/qt/55/2874358_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07bclx3wt",
+    "asin": "B07BCLX3WT",
+    "title": "Tefal Ice Force Universalmesser 11 cm, eisgehärteter deutscher …",
+    "category": "Küche",
+    "price": 7.9,
+    "oldPrice": 10.54,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T07:22:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07BCLX3WT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b075jlsk72",
+    "asin": "B075JLSK72",
+    "title": "Brennenstuhl Bremounta Steckdosenleiste 6-fach, 3 m Kabel, Schalter, …",
+    "category": "Smart Home",
+    "price": 8.26,
+    "oldPrice": 11.09,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T07:17:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B075JLSK72.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dg8gkn5n",
+    "asin": "B0DG8GKN5N",
+    "title": "Anker PowerLine III Flow USB-C Kabel 2er-Pack (2 × 1,8 m) 240 W",
+    "category": "Tech",
+    "price": 14.52,
+    "oldPrice": 29.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T07:14:42.000Z",
+    "image": "https://static.mydealz.de/threads/raw/XOeqT/2874360_1/re/768x768/qt/55/2874360_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T07:25:08.253Z"
+  },
+  {
+    "id": "queue-b0h94kqlmj",
+    "asin": "B0H94KQLMJ",
+    "title": "ECOVACS T90S Pro Omni Saugroboter mit Wischfunktion",
+    "subtitle": "Saug- und Wischroboter mit Schnellladen – ideal für große Wohnflächen.",
+    "category": "Haushalt",
+    "price": 499,
+    "checkedAt": "2026-11-17T14:32:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H94KQLMJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T07:24:42.457Z"
+  },
+  {
     "id": "auto-b07nwwhk1j",
     "asin": "B07NWWHK1J",
     "title": "Amazon Basics 24er-Pack wiederaufladbare AA-NiMH-Batterien mit hoher …",
@@ -1458,16 +1559,6 @@
     "price": 15.99,
     "checkedAt": "2026-11-17T14:31:17.000Z",
     "image": "https://m.media-amazon.com/images/P/B0C8YD16ZY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0h94kqlmj",
-    "asin": "B0H94KQLMJ",
-    "title": "ECOVACS T90S PRO OMNI Saugroboter mit Wischfunktion",
-    "category": "Haushalt",
-    "price": 499,
-    "checkedAt": "2026-11-17T14:32:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H94KQLMJ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -3054,75 +3145,5 @@
     "image": "https://m.media-amazon.com/images/P/B00GGKMNTO.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T07:37:20.781Z"
-  },
-  {
-    "id": "auto-b0f5x1gppb",
-    "asin": "B0F5X1GPPB",
-    "title": "Shark FlexBreeze HydroGo Ventilator mit Sprühnebel, 5 Stufen",
-    "category": "Haushalt",
-    "price": 79.99,
-    "checkedAt": "2026-11-17T07:10:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F5X1GPPB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:37:44.396Z"
-  },
-  {
-    "id": "auto-b0fr9hlngw",
-    "asin": "B0FR9HLNGW",
-    "title": "Axe Duschgel Black XXL 900ml [Prime]",
-    "category": "Beauty & Pflege",
-    "price": 5.91,
-    "checkedAt": "2026-11-17T07:12:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FR9HLNGW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:37:40.213Z"
-  },
-  {
-    "id": "auto-b017a5htga",
-    "asin": "B017A5HTGA",
-    "title": "Sammeldeal: Red Bull Energy Drink verschiedene Sorten",
-    "category": "Lebensmittel & Drinks",
-    "price": 20.24,
-    "checkedAt": "2026-11-17T07:15:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B017A5HTGA.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:22:42.324Z"
-  },
-  {
-    "id": "auto-b0gr19rzv1",
-    "asin": "B0GR19RZV1",
-    "title": "Apple 13\" MacBook Air Laptop, M5 Chip, 10‑Core CPU & 8‑Core GPU",
-    "category": "Computer",
-    "price": 1199,
-    "checkedAt": "2026-11-17T07:19:39.000Z",
-    "image": "https://static.mydealz.de/threads/raw/bVsOp/2873345_1/re/768x768/qt/55/2873345_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:22:37.192Z"
-  },
-  {
-    "id": "auto-b0052t7jr6",
-    "asin": "B0052T7JR6",
-    "title": "Prime: Nine Inch Nails Pretty Hate Machine Vinyl LP",
-    "subtitle": "🔥 103° bei mydealz",
-    "category": "Tech",
-    "price": 15.99,
-    "checkedAt": "2026-11-17T07:11:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0052T7JR6.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 103,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:22:31.201Z"
-  },
-  {
-    "id": "auto-b0h448ldsh",
-    "asin": "B0H448LDSH",
-    "title": "XIAOMI TV 43 Zoll 2026, 4K UHD, Smart TV, Fire OS8, HDR10, L43MB-FAVEU …",
-    "subtitle": "🔥 406° bei mydealz",
-    "category": "TV & Heimkino",
-    "price": 259,
-    "checkedAt": "2026-11-17T07:13:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H448LDSH.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 406,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:22:13.814Z"
   }
 ]
