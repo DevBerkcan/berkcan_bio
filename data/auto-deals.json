@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-b0fd9mq8z4",
+    "asin": "B0FD9MQ8Z4",
+    "title": "Refoss EM06P Smart Meter 3 Phasen, 6-Kanal WLAN Stromzähler mit Open …",
+    "category": "Tech",
+    "price": 64.99,
+    "checkedAt": "2026-11-18T08:38:49.000Z",
+    "image": "https://static.mydealz.de/threads/raw/RTu8i/2874428_1/re/768x768/qt/55/2874428_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0crvr79zv",
+    "asin": "B0CRVR79ZV",
+    "title": "Look KEO Blade Carbon, Klick-Pedale",
+    "category": "Tech",
+    "price": 87.49,
+    "checkedAt": "2026-11-18T08:49:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CRVR79ZV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07nqhzsm6",
+    "asin": "B07NQHZSM6",
+    "title": "Bosch MUM58W20 Küchenmaschine 1000 W",
+    "category": "Küche",
+    "price": 159.99,
+    "checkedAt": "2026-11-18T08:50:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07NQHZSM6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0gl63wt5j",
     "asin": "B0GL63WT5J",
     "title": "UGREEN USB4 Docking Station für 2 Displays",
@@ -29,7 +59,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-18T08:32:12.000Z",
     "image": "https://m.media-amazon.com/images/P/B06XCP1XFP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T08:54:06.937Z"
   },
   {
     "id": "auto-b0dfy3q3fg",
@@ -2272,16 +2303,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0fprjllnb",
-    "asin": "B0FPRJLLNB",
-    "title": "DJI ROMO S Saugroboter mit Wischfunktion, 25.000 Pa Saugkraft",
-    "category": "Haushalt",
-    "price": 399,
-    "checkedAt": "2026-11-17T12:21:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPRJLLNB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0gn99bxfq",
     "asin": "B0GN99BXFQ",
     "title": "SteelSeries Arctis Nova Pro Omni: Wireless Gaming-Headset mit ANC",
@@ -3164,27 +3185,5 @@
     "checkedAt": "2026-11-17T08:57:25.000Z",
     "image": "https://m.media-amazon.com/images/P/B000FWHWGS.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0g2ctvdkx",
-    "asin": "B0G2CTVDKX",
-    "title": "Gorenje BOA6737AO1X Einbaubackofen, 73 L, Heißluft, 9 Funktionen, bis …",
-    "category": "Küche",
-    "price": 199,
-    "checkedAt": "2026-11-17T08:43:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G2CTVDKX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:52:29.386Z"
-  },
-  {
-    "id": "auto-b0d8ljwzpb",
-    "asin": "B0D8LJWZPB",
-    "title": "Amazon Luna Controller [PRIME ONLY]",
-    "category": "Gaming",
-    "price": 39.99,
-    "checkedAt": "2026-11-17T08:45:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D8LJWZPB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:52:24.279Z"
   }
 ]
