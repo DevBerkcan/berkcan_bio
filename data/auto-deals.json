@@ -1,5 +1,17 @@
 [
   {
+    "id": "auto-b0h6wq5vtk",
+    "asin": "B0H6WQ5VTK",
+    "title": "Chupa Chups Adventskalender 2026, Weihnachts-Kalender mit 24 Türchen, …",
+    "subtitle": "🔥 188° bei mydealz",
+    "category": "Tech",
+    "price": 6.99,
+    "checkedAt": "2026-11-18T06:09:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H6WQ5VTK.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 188,
+    "source": "auto"
+  },
+  {
     "id": "auto-b000fng12s",
     "asin": "B000FNG12S",
     "title": "WMF Clever&More Korkenzieher Wein 20 cm, Weinflaschenöffner, …",
@@ -29,7 +41,8 @@
     "checkedAt": "2026-11-18T05:22:12.000Z",
     "image": "https://m.media-amazon.com/images/P/B000MQYM9C.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 363,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T06:11:36.094Z"
   },
   {
     "id": "auto-b094gfsrss",
@@ -3104,38 +3117,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FH8SLQBH.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T06:37:20.389Z"
-  },
-  {
-    "id": "auto-b0f32tyhxy",
-    "asin": "B0F32TYHXY",
-    "title": "ESN Magnesiumbisglycinat Kapseln - mit 194 mg Magnesium pro …",
-    "category": "Tech",
-    "price": 8.54,
-    "checkedAt": "2026-11-17T05:57:18.000Z",
-    "image": "https://static.mydealz.de/threads/raw/jl97Z/2873390_1/re/768x768/qt/55/2873390_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:52:26.507Z"
-  },
-  {
-    "id": "auto-b0f3pqg5t8",
-    "asin": "B0F3PQG5T8",
-    "title": "Doritos BBQ 12 x 110 g",
-    "category": "Tech",
-    "price": 13.29,
-    "checkedAt": "2026-11-17T05:58:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F3PQG5T8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:07:39.247Z"
-  },
-  {
-    "id": "auto-b06w5h9ffj",
-    "asin": "B06W5H9FFJ",
-    "title": "IK Multimedia iRig Pro I/O Pocket-Audio MIDI-Interface",
-    "category": "Tech",
-    "price": 106.24,
-    "checkedAt": "2026-11-17T06:05:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06W5H9FFJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:07:34.747Z"
   }
 ]
