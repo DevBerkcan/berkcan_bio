@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b093ztyy3s",
+    "asin": "B093ZTYY3S",
+    "title": "ZWILLING Classic 3-tlg. Maniküre-Set mit Kombi-Nagelschere, …",
+    "category": "Tech",
+    "price": 34.29,
+    "checkedAt": "2026-11-18T06:26:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B093ZTYY3S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0001p154y",
     "asin": "B0001P154Y",
     "title": "Victorinox Swiss Card Multitool",
@@ -1474,7 +1484,8 @@
     "price": 24.49,
     "checkedAt": "2026-11-17T14:11:36.000Z",
     "image": "https://m.media-amazon.com/images/P/B06XSSWF4D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T06:40:54.305Z"
   },
   {
     "id": "auto-b0ft3yxt6f",
@@ -3091,28 +3102,6 @@
     "telegramPostedAt": "2026-11-17T07:07:11.161Z"
   },
   {
-    "id": "auto-b0f9fkp8cb",
-    "asin": "B0F9FKP8CB",
-    "title": "VAUDE Bike & Hike Essential Erste Hilfe Set",
-    "category": "Tech",
-    "price": 13.19,
-    "checkedAt": "2026-11-17T06:37:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F9FKP8CB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:52:24.920Z"
-  },
-  {
-    "id": "auto-b0h4r3df1b",
-    "asin": "B0H4R3DF1B",
-    "title": "Valor Mortis PlayStation 5",
-    "category": "Gaming",
-    "price": 29.99,
-    "checkedAt": "2026-11-17T06:39:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H4R3DF1B.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:52:19.691Z"
-  },
-  {
     "id": "auto-b001ilg27k",
     "asin": "B001ILG27K",
     "title": "BGS 2292 Steckschlüssel-Satz (Wellenprofil)",
@@ -3133,40 +3122,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FH6KLDD7.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T06:52:08.884Z"
-  },
-  {
-    "id": "auto-b0db9dkn7k",
-    "asin": "B0DB9DKN7K",
-    "title": "Louis Armstrong – Wonderful World: The Best Of Louis Armstrong (Vinyl) …",
-    "category": "Tech",
-    "price": 15.99,
-    "checkedAt": "2026-11-17T06:27:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DB9DKN7K.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:52:34.072Z"
-  },
-  {
-    "id": "auto-b09kzp35q6",
-    "asin": "B09KZP35Q6",
-    "title": "Mammut Lithium 40-Liter Trekking- bzw. Wanderrucksack inkl. Regenhülle",
-    "category": "Sport & Outdoor",
-    "price": 91.9,
-    "checkedAt": "2026-11-17T06:31:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09KZP35Q6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:52:29.516Z"
-  },
-  {
-    "id": "auto-b0fh8slqbh",
-    "asin": "B0FH8SLQBH",
-    "title": "Herr Rossi sucht das Glück - Gesamtedition - plus Extras (3x DVD-9) …",
-    "category": "Bücher & Filme",
-    "price": 20.79,
-    "oldPrice": 24.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T06:30:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FH8SLQBH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:37:20.389Z"
   }
 ]
