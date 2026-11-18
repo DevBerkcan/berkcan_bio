@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b01cfwdozs",
+    "asin": "B01CFWDOZS",
+    "title": "24x 330ml Coca-Cola Zero",
+    "category": "Tech",
+    "price": 12.13,
+    "checkedAt": "2026-11-18T16:09:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01CFWDOZS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b07vhjmzhf",
     "asin": "B07VHJMZHF",
     "title": "GLORYFEEL - Vitamin D3 K2 5.000 IE & 200µg K2 Depot Tabletten",
@@ -746,7 +756,8 @@
     "price": 158.99,
     "checkedAt": "2026-11-18T12:14:48.000Z",
     "image": "https://m.media-amazon.com/images/P/B09ZFT8MW2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T16:21:39.361Z"
   },
   {
     "id": "auto-b07xm8zh7j",
@@ -1056,7 +1067,8 @@
     "price": 19.54,
     "checkedAt": "2026-11-18T10:59:36.000Z",
     "image": "https://m.media-amazon.com/images/P/B07VPQGVBF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T16:21:44.748Z"
   },
   {
     "id": "auto-b0g4cq3h3r",
@@ -1939,18 +1951,6 @@
     "image": "https://m.media-amazon.com/images/P/B0B8282R4J.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T07:39:47.392Z"
-  },
-  {
-    "id": "queue-b0bx52c4ln",
-    "asin": "B0BX52C4LN",
-    "title": "HyperX Pulsefire Haste 2 Wireless Gaming-Maus",
-    "subtitle": "26K-Sensor, ca. 61 g leicht, bis 100 h Akku, 2,4 GHz und Bluetooth.",
-    "category": "Computer",
-    "price": 49.99,
-    "checkedAt": "2026-11-17T16:13:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BX52C4LN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T07:39:31.989Z"
   },
   {
     "id": "auto-b0blw4cmwt",
@@ -3087,26 +3087,6 @@
     "price": 139,
     "checkedAt": "2026-11-17T16:26:34.000Z",
     "image": "https://static.mydealz.de/threads/raw/HTDgi/2871279_1/re/768x768/qt/55/2871279_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0c9d4kl9d",
-    "asin": "B0C9D4KL9D",
-    "title": "Dreo Atom 316 Gold (DR-HSH006)",
-    "category": "Tech",
-    "price": 39.99,
-    "checkedAt": "2026-11-17T16:08:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C9D4KL9D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0h7jzjct6",
-    "asin": "B0H7JZJCT6",
-    "title": "EA Sports FC 27 Standard Edition Xbox Series X |Physische Disc I …",
-    "category": "Gaming",
-    "price": 45,
-    "checkedAt": "2026-11-17T16:14:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H7JZJCT6.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   }
 ]
