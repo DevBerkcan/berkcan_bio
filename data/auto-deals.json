@@ -125,7 +125,8 @@
     "price": 12.89,
     "checkedAt": "2026-11-18T19:17:41.000Z",
     "image": "https://m.media-amazon.com/images/P/B00154YBXW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T20:52:50.978Z"
   },
   {
     "id": "auto-b0f3jpm3th",
@@ -735,7 +736,8 @@
     "price": 141,
     "checkedAt": "2026-11-18T15:24:02.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F1Z541PW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T20:52:55.461Z"
   },
   {
     "id": "auto-b0g64wrjgg",
@@ -3075,18 +3077,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DMTN5WLB.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T21:08:21.605Z"
-  },
-  {
-    "id": "auto-b09s6cx3m2",
-    "asin": "B09S6CX3M2",
-    "title": "Christiane F. - Wir Kinder vom Bahnhof Zoo (4K Ultra HD) (+ Blu-ray2D) …",
-    "subtitle": "🔥 102° bei mydealz",
-    "category": "Bücher & Filme",
-    "price": 11.99,
-    "checkedAt": "2026-11-17T20:45:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09S6CX3M2.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 102,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T20:53:28.446Z"
   }
 ]
