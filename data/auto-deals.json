@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0fqv68hnl",
+    "asin": "B0FQV68HNL",
+    "title": "Bosch AdvancedTacker",
+    "category": "Tech",
+    "price": 69.99,
+    "checkedAt": "2026-11-18T20:26:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FQV68HNL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T20:38:07.876Z"
+  },
+  {
+    "id": "auto-b0gkj3zx16",
+    "asin": "B0GKJ3ZX16",
+    "title": "Echo Dot (Neueste Generation) + WiZ Smart Plug",
+    "category": "Amazon-Geräte",
+    "price": 44.99,
+    "checkedAt": "2026-11-18T20:32:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GKJ3ZX16.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T20:38:02.256Z"
+  },
+  {
     "id": "auto-b0cptbbqjr",
     "asin": "B0CPTBBQJR",
     "title": "Mixa Urea Cica Balsam, gegen rissige und trockene Haut, 150 ml",
@@ -7,7 +29,8 @@
     "price": 5.09,
     "checkedAt": "2026-11-18T20:08:29.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CPTBBQJR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T20:38:16.043Z"
   },
   {
     "id": "auto-b09xqx5gt5",
@@ -3065,18 +3088,5 @@
     "temperature": 102,
     "source": "auto",
     "telegramPostedAt": "2026-11-17T20:53:28.446Z"
-  },
-  {
-    "id": "auto-b00e3862de",
-    "asin": "B00E3862DE",
-    "title": "Philips Fusselrasierer, Blau, 2 Höheneinstellungen",
-    "subtitle": "🔥 116° bei mydealz",
-    "category": "Beauty & Pflege",
-    "price": 7.49,
-    "checkedAt": "2026-11-17T20:28:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00E3862DE.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 116,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T20:38:43.182Z"
   }
 ]
