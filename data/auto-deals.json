@@ -1,5 +1,72 @@
 [
   {
+    "id": "auto-b0fpxj14pq",
+    "asin": "B0FPXJ14PQ",
+    "title": "LEGO Friends Feentassen-Karussell mit Blumendeko (42702) 321 Teile",
+    "category": "Spielzeug & LEGO",
+    "price": 22.89,
+    "checkedAt": "2026-11-18T06:34:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXJ14PQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f6ygnrx2",
+    "asin": "B0F6YGNRX2",
+    "title": "Jever Pilsener 24x0,33 l Einweg-Dose",
+    "category": "Tech",
+    "price": 11.36,
+    "checkedAt": "2026-11-18T07:33:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F6YGNRX2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09w2bp5wp",
+    "asin": "B09W2BP5WP",
+    "title": "amazon Schott NYC Jungenjacke 16JAHRE",
+    "category": "Mode & Reise",
+    "price": 38.93,
+    "checkedAt": "2026-11-18T07:36:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09W2BP5WP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b075f78kdv",
+    "asin": "B075F78KDV",
+    "title": "Kärcher WV 2 Black Edition Akku-Fenstersauger",
+    "category": "Haushalt",
+    "price": 43.49,
+    "oldPrice": 54.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T07:36:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B075F78KDV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0b8282r4j",
+    "asin": "B0B8282R4J",
+    "title": "SodaStream Terra Family Pack",
+    "category": "Tech",
+    "price": 59.99,
+    "oldPrice": 80.59,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T07:23:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B8282R4J.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T07:39:47.392Z"
+  },
+  {
+    "id": "queue-b0bx52c4ln",
+    "asin": "B0BX52C4LN",
+    "title": "HyperX Pulsefire Haste 2 Wireless Gaming-Maus",
+    "subtitle": "26K-Sensor, ca. 61 g leicht, bis 100 h Akku, 2,4 GHz und Bluetooth.",
+    "category": "Computer",
+    "price": 49.99,
+    "checkedAt": "2026-11-17T16:13:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BX52C4LN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T07:39:31.989Z"
+  },
+  {
     "id": "auto-b0blw4cmwt",
     "asin": "B0BLW4CMWT",
     "title": "Jack & Jones Jungen Sweat Hood Hoody schwarz",
@@ -1226,16 +1293,6 @@
     "price": 39.99,
     "checkedAt": "2026-11-17T16:08:45.000Z",
     "image": "https://m.media-amazon.com/images/P/B0C9D4KL9D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0bx52c4ln",
-    "asin": "B0BX52C4LN",
-    "title": "HyperX Pulsefire Haste 2 Wireless Gaming-Maus, 26K Sensor, bis 100 h …",
-    "category": "Computer",
-    "price": 49.99,
-    "checkedAt": "2026-11-17T16:13:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BX52C4LN.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -3093,57 +3150,5 @@
     "image": "https://m.media-amazon.com/images/P/B001BAY79I.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T08:07:18.592Z"
-  },
-  {
-    "id": "auto-b0f43rs71l",
-    "asin": "B0F43RS71L",
-    "title": "Pukka Bio Tee Adventskalender 2026, Geschenkset, 24 Teebeutel, 12 …",
-    "subtitle": "🔥 203° bei mydealz",
-    "category": "Lebensmittel & Drinks",
-    "price": 9.33,
-    "checkedAt": "2026-11-17T07:37:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F43RS71L.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 203,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:52:20.552Z"
-  },
-  {
-    "id": "auto-b075c74zjp",
-    "asin": "B075C74ZJP",
-    "title": "WMF Kult Pro Hochleistungsmixer - Testsieger bei Warentest - inkl. To …",
-    "category": "Küche",
-    "price": 79.99,
-    "oldPrice": 92.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T07:29:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B075C74ZJP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:37:35.946Z"
-  },
-  {
-    "id": "auto-b0b3y7sty9",
-    "asin": "B0B3Y7STY9",
-    "title": "Ninjamas Pyjama Pants Raumschiff, 60 absorbierende Nachthöschen, 4-7 …",
-    "category": "Tech",
-    "price": 22.97,
-    "oldPrice": 32.4,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T07:30:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B3Y7STY9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:37:26.024Z"
-  },
-  {
-    "id": "auto-b00ggkmnto",
-    "asin": "B00GGKMNTO",
-    "title": "Bosch V-Line Titanium Bohrer- & Bit-Set 91-teilig",
-    "category": "Werkzeug",
-    "price": 23.99,
-    "oldPrice": 35.94,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T07:36:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00GGKMNTO.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:37:20.781Z"
   }
 ]
