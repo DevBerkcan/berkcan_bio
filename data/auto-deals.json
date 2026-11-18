@@ -1,5 +1,37 @@
 [
   {
+    "id": "auto-b0gl63wt5j",
+    "asin": "B0GL63WT5J",
+    "title": "UGREEN USB4 Docking Station für 2 Displays",
+    "category": "Tech",
+    "price": 85.49,
+    "checkedAt": "2026-11-18T08:30:09.000Z",
+    "image": "https://static.mydealz.de/threads/raw/4UAe7/2874421_1/re/768x768/qt/55/2874421_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f9x85g4d",
+    "asin": "B0F9X85G4D",
+    "title": "Ed & Edda: Grand Prix - Racing Champions für Nintendo Switch",
+    "category": "Gaming",
+    "price": 23.85,
+    "checkedAt": "2026-11-18T08:37:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F9X85G4D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b06xcp1xfp",
+    "asin": "B06XCP1XFP",
+    "title": "STANLEY STST1-80150 Montagebox 50L mit Rollen",
+    "category": "Tech",
+    "price": 39.49,
+    "oldPrice": 50.55,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T08:32:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B06XCP1XFP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0dfy3q3fg",
     "asin": "B0DFY3Q3FG",
     "title": "Robustes Set Thermostatventile Smart Home",
@@ -43,7 +75,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-18T08:10:22.000Z",
     "image": "https://m.media-amazon.com/images/P/B0C24Q2RBQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T08:39:09.892Z"
   },
   {
     "id": "auto-b0ff9scjhd",
@@ -2942,16 +2975,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0hf188rp8",
-    "asin": "B0HF188RP8",
-    "title": "CORSAIR HS80 v2 MAX WIRELESS Kopfhörer Headset",
-    "category": "Audio",
-    "price": 159.99,
-    "checkedAt": "2026-11-17T10:00:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HF188RP8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0976xgzls",
     "asin": "B0976XGZLS",
     "title": "Old Spice Rockstar Deo Stick 6er Pack personalisiert",
@@ -3143,17 +3166,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0gjtb5tr6",
-    "asin": "B0GJTB5TR6",
-    "title": "Cricut EasyPress SE",
-    "category": "Tech",
-    "price": 99.99,
-    "checkedAt": "2026-11-17T08:38:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GJTB5TR6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:52:34.649Z"
-  },
-  {
     "id": "auto-b0g2ctvdkx",
     "asin": "B0G2CTVDKX",
     "title": "Gorenje BOA6737AO1X Einbaubackofen, 73 L, Heißluft, 9 Funktionen, bis …",
@@ -3174,40 +3186,5 @@
     "image": "https://m.media-amazon.com/images/P/B0D8LJWZPB.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T08:52:24.279Z"
-  },
-  {
-    "id": "auto-b0dcfn8q6g",
-    "asin": "B0DCFN8Q6G",
-    "title": "NZXT Kraken Elite 240 RGB - 240mm AIO-CPU-Kühler",
-    "category": "Tech",
-    "price": 99.99,
-    "checkedAt": "2026-11-17T08:25:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DCFN8Q6G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:37:33.165Z"
-  },
-  {
-    "id": "auto-b0bwy9by2s",
-    "asin": "B0BWY9BY2S",
-    "title": "Tefal OptiGrill 4in1 Kontaktgrill mit Backschale, Aufklappbar, …",
-    "category": "Licht & Garten",
-    "price": 179.99,
-    "checkedAt": "2026-11-17T08:31:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BWY9BY2S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:37:27.975Z"
-  },
-  {
-    "id": "auto-b0fjm331jn",
-    "asin": "B0FJM331JN",
-    "title": "Philips Multigroom Series 9000 23-in-1 (MG9561/30)",
-    "category": "Tech",
-    "price": 79.99,
-    "oldPrice": 109.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T08:31:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJM331JN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:37:22.718Z"
   }
 ]
