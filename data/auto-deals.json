@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-b07x4ds86h",
+    "asin": "B07X4DS86H",
+    "title": "Hazet 1/2 Zoll Schlagschrauber 9012TT I Max. Lösemoment 2200 Nm",
+    "category": "Werkzeug",
+    "price": 169.99,
+    "checkedAt": "2026-11-18T22:04:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07X4DS86H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00v4lacq6",
+    "asin": "B00V4LACQ6",
+    "title": "Ibena Kuscheldecke Olbia 150x200cm in verschiedenen Farben",
+    "subtitle": "🔥 1093° bei mydealz",
+    "category": "Tech",
+    "price": 9.29,
+    "checkedAt": "2026-11-18T21:54:47.000Z",
+    "image": "https://static.mydealz.de/threads/raw/5Y4hq/2850258_1/re/768x768/qt/55/2850258_1.jpg",
+    "temperature": 1093,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T22:06:42.590Z"
+  },
+  {
     "id": "auto-b07ywyq8qf",
     "asin": "B07YWYQ8QF",
     "title": "Hacker-Pschorr Münchner Hell • Bier (24x0,5l)",
@@ -3020,29 +3043,5 @@
     "temperature": 109,
     "source": "auto",
     "telegramPostedAt": "2026-11-17T22:37:09.379Z"
-  },
-  {
-    "id": "auto-b07nxgg55w",
-    "asin": "B07NXGG55W",
-    "title": "Amazon Basics 24er-Pack wiederaufladbare AA-NiMH-Akkus, 2000 mAh, 1,2 …",
-    "category": "Tech",
-    "price": 18.1,
-    "checkedAt": "2026-11-17T21:59:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07NXGG55W.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:21:53.109Z"
-  },
-  {
-    "id": "auto-b08z888zqt",
-    "asin": "B08Z888ZQT",
-    "title": "SIGG Edelstahl-Trinkflasche 1 Liter brushed",
-    "subtitle": "🔥 101° bei mydealz",
-    "category": "Haushalt",
-    "price": 15.9,
-    "checkedAt": "2026-11-17T22:04:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08Z888ZQT.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 101,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T22:22:22.187Z"
   }
 ]
