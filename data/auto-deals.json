@@ -1,5 +1,37 @@
 [
   {
+    "id": "auto-b07w6jnyxv",
+    "asin": "B07W6JNYXV",
+    "title": "Logitech G Pro X Superlight 2 Lightspeed, schwarz, kabellose …",
+    "category": "Tech",
+    "price": 89.99,
+    "checkedAt": "2026-11-18T19:55:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07W6JNYXV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b072j8h5sp",
+    "asin": "B072J8H5SP",
+    "title": "Ardbeg 10 Single Malt Whisky",
+    "category": "Lebensmittel & Drinks",
+    "price": 35.48,
+    "checkedAt": "2026-11-18T20:00:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B072J8H5SP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T20:07:51.309Z"
+  },
+  {
+    "id": "auto-b0clp4n435",
+    "asin": "B0CLP4N435",
+    "title": "Midea MF200W90WB-14A Waschmaschine",
+    "category": "Haushalt",
+    "price": 336.99,
+    "checkedAt": "2026-11-18T20:04:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CLP4N435.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T20:07:40.740Z"
+  },
+  {
     "id": "auto-b09s64j8y7",
     "asin": "B09S64J8Y7",
     "title": "Brennenstuhl Premium-Protect-Line Steckdosenleiste 8-Fach [3m]",
@@ -122,7 +154,8 @@
     "price": 16.93,
     "checkedAt": "2026-11-18T18:57:32.000Z",
     "image": "https://m.media-amazon.com/images/P/B0000AN3QI.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T20:07:24.381Z"
   },
   {
     "id": "auto-b0ccd7gw1g",
@@ -3047,31 +3080,5 @@
     "temperature": 341,
     "source": "auto",
     "telegramPostedAt": "2026-11-17T20:23:34.221Z"
-  },
-  {
-    "id": "auto-b0cfy2fjw8",
-    "asin": "B0CFY2FJW8",
-    "title": "Sonoff TRVZB Gen1 2er-Pack, ~15,45€ pro Stück",
-    "subtitle": "🔥 150° bei mydealz",
-    "category": "Tech",
-    "price": 30.85,
-    "checkedAt": "2026-11-17T19:54:48.000Z",
-    "image": "https://static.mydealz.de/threads/raw/UlFxF/2874120_1/re/768x768/qt/55/2874120_1.jpg",
-    "temperature": 150,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T20:08:37.776Z"
-  },
-  {
-    "id": "auto-b0dydv1kdm",
-    "asin": "B0DYDV1KDM",
-    "title": "Microsoft Surface Pro, 12\"",
-    "subtitle": "🔥 154° bei mydealz",
-    "category": "Tech",
-    "price": 799,
-    "checkedAt": "2026-11-17T19:52:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DYDV1KDM.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 154,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T20:08:31.469Z"
   }
 ]
