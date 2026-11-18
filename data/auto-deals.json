@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0gfb3rghm",
+    "asin": "B0GFB3RGHM",
+    "title": "Sapphire Nitro+ AMD Radeon RX 9070 XT 16 GB Crimson Desert Version …",
+    "category": "Computer",
+    "price": 959.99,
+    "checkedAt": "2026-11-18T06:42:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GFB3RGHM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b01d1or0uo",
+    "asin": "B01D1OR0UO",
+    "title": "SIKA BlackSeal BT Dach- und Dachrinnendichtstoff 300 m",
+    "category": "Tech",
+    "price": 6.8,
+    "oldPrice": 8.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T06:40:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01D1OR0UO.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00i3yoj5c",
+    "asin": "B00I3YOJ5C",
+    "title": "WMF Nuova Kuchenheber / Tortenheber aus Cromargan Edelstahl",
+    "category": "Tech",
+    "price": 6.39,
+    "oldPrice": 9.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T06:51:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00I3YOJ5C.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T06:55:33.923Z"
+  },
+  {
     "id": "auto-b093ztyy3s",
     "asin": "B093ZTYY3S",
     "title": "ZWILLING Classic 3-tlg. Maniküre-Set mit Kombi-Nagelschere, …",
@@ -3087,40 +3122,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CLWJMWCK.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T07:07:16.412Z"
-  },
-  {
-    "id": "auto-b0bw8rfsj7",
-    "asin": "B0BW8RFSJ7",
-    "title": "Emsa N20221 Travel Mug Classic Isolierbecher 0,5 Liter, 6h heiß und …",
-    "subtitle": "🔥 100° bei mydealz",
-    "category": "Tech",
-    "price": 15.48,
-    "checkedAt": "2026-11-17T06:42:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BW8RFSJ7.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 100,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:07:11.161Z"
-  },
-  {
-    "id": "auto-b001ilg27k",
-    "asin": "B001ILG27K",
-    "title": "BGS 2292 Steckschlüssel-Satz (Wellenprofil)",
-    "category": "Tech",
-    "price": 75.99,
-    "checkedAt": "2026-11-17T06:42:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B001ILG27K.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:52:14.325Z"
-  },
-  {
-    "id": "auto-b0fh6kldd7",
-    "asin": "B0FH6KLDD7",
-    "title": "NBA 2k26 für die Nintendo Switch 2",
-    "category": "Gaming",
-    "price": 13.96,
-    "checkedAt": "2026-11-17T06:42:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FH6KLDD7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:52:08.884Z"
   }
 ]
