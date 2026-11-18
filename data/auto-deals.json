@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0f6ws945q",
+    "asin": "B0F6WS945Q",
+    "title": "Mississippi Burning - Die Wurzel des Hasses (Blu-ray) IMDb 7,8/10",
+    "category": "Bücher & Filme",
+    "price": 7.99,
+    "oldPrice": 12.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T21:19:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F6WS945Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T21:22:32.440Z"
+  },
+  {
     "id": "auto-b007hk2ni8",
     "asin": "B007HK2NI8",
     "title": "Vaude Six Peg Tents 6x Heringe",
@@ -2897,17 +2910,6 @@
     "telegramPostedAt": "2026-11-17T23:21:43.492Z"
   },
   {
-    "id": "auto-b0fr8dwwdc",
-    "asin": "B0FR8DWWDC",
-    "title": "PAW Patrol Dino-Film: Dino-Abenteuer Figuren-Set mit 6 Figuren, ab 3 …",
-    "category": "Spielzeug & LEGO",
-    "price": 17.89,
-    "checkedAt": "2026-11-17T21:08:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FR8DWWDC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:22:07.119Z"
-  },
-  {
     "id": "auto-b09zlbcs1y",
     "asin": "B09ZLBCS1Y",
     "title": "eneloop 8x AAA",
@@ -3042,29 +3044,5 @@
     "image": "https://static.mydealz.de/threads/raw/XoiCC/2874203_1/re/768x768/qt/55/2874203_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T23:21:57.972Z"
-  },
-  {
-    "id": "auto-b0cthxmyl8",
-    "asin": "B0CTHXMYL8",
-    "title": "Crucial Pro DDR5 RAM 32GB Kit (2x16GB) 6000MHz CL36",
-    "category": "Computer",
-    "price": 499.99,
-    "checkedAt": "2026-11-17T21:15:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CTHXMYL8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:22:02.664Z"
-  },
-  {
-    "id": "auto-b08hvt5dqp",
-    "asin": "B08HVT5DQP",
-    "title": "Wiha zai Hause Elektrischer Akku Schraubendreher mit 8 Bits, 3,6 V …",
-    "subtitle": "🔥 205° bei mydealz",
-    "category": "Tech",
-    "price": 22.99,
-    "checkedAt": "2026-11-17T21:10:52.000Z",
-    "image": "https://static.mydealz.de/threads/raw/B1rp6/2849092_1/re/768x768/qt/55/2849092_1.jpg",
-    "temperature": 205,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T21:23:11.650Z"
   }
 ]
