@@ -1,5 +1,85 @@
 [
   {
+    "id": "auto-b0bnvmyxcj",
+    "asin": "B0BNVMYXCJ",
+    "title": "NICI Plüschfigur Kaktus Henriette 18 cm – lustige Pflanze aus weichem …",
+    "category": "Spielzeug & LEGO",
+    "price": 7.8,
+    "checkedAt": "2026-11-18T13:01:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BNVMYXCJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gy4g6xym",
+    "asin": "B0GY4G6XYM",
+    "title": "NICI Kuscheltier Bär Capiccino mit Kissen 35cm - 63238 via",
+    "category": "Spielzeug & LEGO",
+    "price": 20.88,
+    "checkedAt": "2026-11-18T13:03:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GY4G6XYM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gsqlsrm1",
+    "asin": "B0GSQLSRM1",
+    "title": "LED-Leuchtmittel Ultraeffiziente LED GU10 Spots 6er-Pack 50W …",
+    "category": "Tech",
+    "price": 17.99,
+    "checkedAt": "2026-11-18T13:24:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GSQLSRM1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fs7jxwjg",
+    "asin": "B0FS7JXWJG",
+    "title": "SteelSeries Arctis Nova 7 Gen2 Wireless Gaming Headset mit 3D Surround",
+    "category": "Gaming",
+    "price": 128.35,
+    "checkedAt": "2026-11-18T13:25:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FS7JXWJG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b077y83xsd",
+    "asin": "B077Y83XSD",
+    "title": "Bosch L-Boxx 136",
+    "category": "Tech",
+    "price": 29.67,
+    "checkedAt": "2026-11-18T13:29:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B077Y83XSD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fvr7n521",
+    "asin": "B0FVR7N521",
+    "title": "adidas Unisex Cushioned Sportswear Crew Socks 3 Pair Pack Socks Gr. …",
+    "category": "Tech",
+    "price": 8.49,
+    "checkedAt": "2026-11-18T13:31:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FVR7N521.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cz75jl7z",
+    "asin": "B0CZ75JL7Z",
+    "title": "Reolink 4K 3G/4G LTE Überwachungskamera mit SIM Karte, Lokaler …",
+    "category": "Smart Home",
+    "price": 169.99,
+    "checkedAt": "2026-11-18T13:31:21.000Z",
+    "image": "https://static.mydealz.de/threads/raw/WL9Oc/2874738_1/re/768x768/qt/55/2874738_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00360czzy",
+    "asin": "B00360CZZY",
+    "title": "Beurer BM 35 Oberarm-Blutdruckmessgerät",
+    "category": "Tech",
+    "price": 22.99,
+    "checkedAt": "2026-11-18T13:32:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00360CZZY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b08pvptnzl",
     "asin": "B08PVPTNZL",
     "title": "Anker 100W USB C auf USB C Kabel PD 3.0 Schnellladen [3m]",
@@ -960,7 +1040,8 @@
     "price": 799,
     "checkedAt": "2026-11-18T09:48:33.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GTW3RM81.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T13:37:15.926Z"
   },
   {
     "id": "auto-b013erl6ks",
@@ -3042,38 +3123,5 @@
     "image": "https://static.mydealz.de/threads/raw/ld833/2873820_1/re/768x768/qt/55/2873820_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T13:49:18.760Z"
-  },
-  {
-    "id": "auto-b0dcdf1327",
-    "asin": "B0DCDF1327",
-    "title": "Prime: The Pogues - The Best of the Pogues Limited Edition orange …",
-    "category": "Tech",
-    "price": 19.99,
-    "checkedAt": "2026-11-17T13:22:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DCDF1327.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0g7lxpcjn",
-    "asin": "B0G7LXPCJN",
-    "title": "Bosch ErgoMaster Serie 8 Stabmixer MSM8M960",
-    "category": "Küche",
-    "price": 99,
-    "checkedAt": "2026-11-17T13:27:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G7LXPCJN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0f3jqmdr5",
-    "asin": "B0F3JQMDR5",
-    "title": "Stealth Nintendo Switch 2 Premium Travel Case",
-    "category": "Gaming",
-    "price": 12.55,
-    "oldPrice": 21.89,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T13:23:10.000Z",
-    "image": "https://static.mydealz.de/threads/raw/ZCezt/2873811_1/re/768x768/qt/55/2873811_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T14:18:49.312Z"
   }
 ]
