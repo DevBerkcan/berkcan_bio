@@ -1,5 +1,45 @@
 [
   {
+    "id": "auto-b0g6hz84br",
+    "asin": "B0G6HZ84BR",
+    "title": "Nina Hagen - Highway to Heaven LP Vinyl Schallplatte",
+    "category": "Tech",
+    "price": 12.39,
+    "checkedAt": "2026-11-18T09:40:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G6HZ84BR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00dy1y22y",
+    "asin": "B00DY1Y22Y",
+    "title": "STANLEY Multi-Schraubendreher, 34-tlg. Set 7,39€/ Bosch …",
+    "category": "Tech",
+    "price": 7.39,
+    "checkedAt": "2026-11-18T09:42:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00DY1Y22Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ffmvzwqj",
+    "asin": "B0FFMVZWQJ",
+    "title": "HENCKELS Accent 3-tlg. Messerset",
+    "category": "Küche",
+    "price": 31.99,
+    "checkedAt": "2026-11-18T09:47:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FFMVZWQJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gtw3rm81",
+    "asin": "B0GTW3RM81",
+    "title": "Hisense 65U7DS PRO 65 Zoll 4K UHD TV, Hi-QLED Mini LED Pro, 165 Hz, …",
+    "category": "TV & Heimkino",
+    "price": 799,
+    "checkedAt": "2026-11-18T09:48:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GTW3RM81.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b013erl6ks",
     "asin": "B013ERL6KS",
     "title": "Stanley Werkzeugbox/Werkzeugkoffer 12,5\"",
@@ -425,7 +465,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-18T07:36:16.000Z",
     "image": "https://m.media-amazon.com/images/P/B075F78KDV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T09:54:36.975Z"
   },
   {
     "id": "auto-b0b8282r4j",
@@ -2673,16 +2714,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0gsflrpnp",
-    "asin": "B0GSFLRPNP",
-    "title": "Bosch Laser-Entfernungsmesser Zamo Messbereich bis 40 m, Laden über …",
-    "category": "Küche",
-    "price": 34.99,
-    "checkedAt": "2026-11-17T11:37:42.000Z",
-    "image": "https://static.mydealz.de/threads/raw/GCIq8/2873685_1/re/768x768/qt/55/2873685_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b07w6jn8n7",
     "asin": "B07W6JN8N7",
     "title": "Logitech G203 LIGHTSYNC Gaming-Maus, kabelgebunden, 6 programmierbare …",
@@ -3069,51 +3100,5 @@
     "checkedAt": "2026-11-17T09:58:30.000Z",
     "image": "https://m.media-amazon.com/images/P/B0C5PGF6CF.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0ghnycw59",
-    "asin": "B0GHNYCW59",
-    "title": "Vihado Magnesiumbisglycinat, 365 Kapseln, je 100mg, kein verstecktes …",
-    "category": "Tech",
-    "price": 9.68,
-    "checkedAt": "2026-11-17T09:44:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GHNYCW59.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0frm5v2sp",
-    "asin": "B0FRM5V2SP",
-    "title": "Tatonka Wokin 15L (Midnight Plum)",
-    "category": "Sport & Outdoor",
-    "price": 42.08,
-    "checkedAt": "2026-11-17T09:50:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FRM5V2SP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0024ltun6",
-    "asin": "B0024LTUN6",
-    "title": "Wera 8784 A1 Zyklop-Verbindungsteil 1/4\" Vierkant auf 1/4\" Bits",
-    "category": "Werkzeug",
-    "price": 10.09,
-    "oldPrice": 12.45,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T09:46:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0024LTUN6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T19:23:47.824Z"
-  },
-  {
-    "id": "auto-b084866nxn",
-    "asin": "B084866NXN",
-    "title": "Russell Hobbs Inspire Wasserkocher grau (1,7 l, 2400 W)",
-    "category": "Küche",
-    "price": 24.99,
-    "oldPrice": 39.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T09:41:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B084866NXN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T09:51:35.322Z"
   }
 ]
