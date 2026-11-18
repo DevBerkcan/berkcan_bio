@@ -165,7 +165,7 @@ export async function GET(_req: Request, { params }: { params: { id: string } })
             color: "#d4d4d8",
           }}
         >
-          Anzeige · Als Amazon-Partner verdiene ich an qualifizierten Verkäufen.
+          Anzeige
         </div>
       </div>
     ),

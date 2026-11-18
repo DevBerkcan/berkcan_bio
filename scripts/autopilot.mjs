@@ -269,7 +269,7 @@ async function maybeDigest(cfg, config, state, list, day, hour) {
     }),
     "",
     "<i>Preise Stand heute, können sich jederzeit ändern.</i>",
-    "#TopDeals · #Anzeige · Als Amazon-Partner verdiene ich an qualifizierten Verkäufen.",
+    "#TopDeals · #Anzeige · Partnerlinks",
   ];
   const share = await shareButton();
   try {

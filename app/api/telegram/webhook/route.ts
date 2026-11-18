@@ -1,6 +1,5 @@
 import data from "@/data/deals.json";
 import {
-  AMAZON_DISCLOSURE,
   PUBLIC_BASE_URL,
   TELEGRAM_CHANNEL_URL,
   affiliateUrl,
@@ -60,7 +59,7 @@ function caption(deal: Deal): string {
     save ? `💰 <b>Du sparst ${formatPrice(save)}</b>` : null,
     `<i>Stand ${formatCheckedAt(deal.checkedAt)} Uhr – Preis kann sich jederzeit ändern.</i>`,
     "",
-    `#Deal · #Anzeige · ${esc(AMAZON_DISCLOSURE)}`,
+    "#Deal · #Anzeige · Partnerlink",
   ]
     .filter((l) => l !== null)
     .join("\n");

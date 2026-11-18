@@ -11,7 +11,6 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), "..");
 const PUBLIC_BASE_URL = "https://gentlelink.berkcanatesoglu.de";
-const DISCLOSURE = "Als Amazon-Partner verdiene ich an qualifizierten Verkäufen.";
 
 try {
   process.loadEnvFile(path.join(ROOT, ".env.local"));
@@ -69,7 +68,7 @@ export function buildMessage(deal, campaign) {
       : null,
     `<i>Stand ${stamp(deal.checkedAt)} Uhr – Preis kann sich jederzeit ändern.</i>`,
     "",
-    `#${String(deal.category ?? "Deal").replace(/[^\p{L}\p{N}]/gu, "")} · #Anzeige · ${esc(DISCLOSURE)}`,
+    `#${String(deal.category ?? "Deal").replace(/[^\p{L}\p{N}]/gu, "")} · #Anzeige · Partnerlink`,
   ];
   return lines.filter((l) => l !== null).join("\n");
 }

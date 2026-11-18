@@ -77,7 +77,7 @@ export function carouselCaption(deals: SocialDeal[], set: SocialSet): string {
     "💾 Speichern & mit Freunden teilen!",
     "",
     "Preise Stand heute, können sich jederzeit ändern.",
-    `#Anzeige | ${AMAZON_DISCLOSURE}`,
+    "#Anzeige · Partnerlinks, als Amazon-Partner verdiene ich an qualifizierten Verkäufen.",
     "",
     TAGS,
   ]

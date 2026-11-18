@@ -92,17 +92,9 @@ export default async function DealsPage() {
 
         <DealsBoard deals={deals} trackingIds={TRACKING_IDS} />
 
-        <div className="mt-10 rounded-2xl bg-white/70 p-4 text-center text-xs leading-relaxed text-gray-500 ring-1 ring-gray-200 dark:bg-gray-800/60 dark:text-gray-400 dark:ring-gray-700">
-          <p className="font-semibold text-gray-700 dark:text-gray-300">
-            Anzeige · {AMAZON_DISCLOSURE}
-          </p>
-          <p className="mt-1">
-            Für dich ändert sich am Preis nichts. Preise und Verfügbarkeit
-            beziehen sich auf den angegebenen Zeitpunkt und können sich
-            jederzeit ändern. Maßgeblich ist der Preis auf Amazon.de zum
-            Zeitpunkt des Kaufs.
-          </p>
-        </div>
+        <p className="mt-12 text-center text-[11px] leading-relaxed text-gray-400 dark:text-gray-500">
+          Anzeige · {AMAZON_DISCLOSURE} Preise können sich jederzeit ändern, maßgeblich ist der Preis auf Amazon.de beim Kauf.
+        </p>
 
         <Footer />
       </div>

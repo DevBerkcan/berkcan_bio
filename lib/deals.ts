@@ -161,7 +161,7 @@ export function caption(deal: Deal): string {
     "",
     "🔗 Link in Bio → Black Friday Deals",
     "",
-    `#Anzeige | ${AMAZON_DISCLOSURE}`,
+    "#Anzeige · Partnerlinks, als Amazon-Partner verdiene ich an qualifizierten Verkäufen.",
     "#blackfriday #deals #techdeals #angebote #setup",
   ];
   return lines.filter((l, i) => l !== "" || lines[i - 1] !== "").join("\n");
