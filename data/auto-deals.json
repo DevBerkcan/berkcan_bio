@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0154aqqmq",
+    "asin": "B0154AQQMQ",
+    "title": "Amazon Prime: Der Kleine Maulwurf Bettwäsche Set",
+    "category": "Tech",
+    "price": 24.99,
+    "checkedAt": "2026-11-18T05:14:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0154AQQMQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b000mqym9c",
+    "asin": "B000MQYM9C",
+    "title": "Lavazza Caffè Crema Dolce Kaffeebohnen 1 kg [Spar-Abo Prime]",
+    "subtitle": "🔥 363° bei mydealz",
+    "category": "Lebensmittel & Drinks",
+    "price": 12.74,
+    "checkedAt": "2026-11-18T05:22:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000MQYM9C.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 363,
+    "source": "auto"
+  },
+  {
     "id": "auto-b094gfsrss",
     "asin": "B094GFSRSS",
     "title": "Finish Citrus Maschinentiefenreiniger 4 x 250 ml",
@@ -3107,18 +3129,6 @@
     "telegramPostedAt": "2026-11-17T07:07:34.747Z"
   },
   {
-    "id": "auto-b09w5xlpww",
-    "asin": "B09W5XLPWW",
-    "title": "Handmixer Krups 3Mix 9000",
-    "subtitle": "🔥 101° bei mydealz",
-    "category": "Küche",
-    "price": 59.99,
-    "checkedAt": "2026-11-17T05:22:08.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09W5XLPWW.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 101,
-    "source": "auto"
-  },
-  {
     "id": "auto-b0178obyu0",
     "asin": "B0178OBYU0",
     "title": "Ardmore 12 Jahre Port Wood Finish Single Malt Scotch Whisky 0,7l 46%",
@@ -3143,90 +3153,5 @@
     "temperature": 106,
     "source": "auto",
     "telegramPostedAt": "2026-11-17T06:07:15.914Z"
-  },
-  {
-    "id": "auto-b0756f92mm",
-    "asin": "B0756F92MM",
-    "title": "Skechers Delson - Camben Gr 39 bis 50,5",
-    "subtitle": "🔥 403° bei mydealz",
-    "category": "Tech",
-    "price": 38.43,
-    "checkedAt": "2026-11-17T05:26:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0756F92MM.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 403,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:07:02.911Z"
-  },
-  {
-    "id": "auto-b0155ogeuu",
-    "asin": "B0155OGEUU",
-    "title": "Sammeldeal Yankee Candle zB Christmas Eve Duftkerze im Glas (groß) …",
-    "subtitle": "🔥 432° bei mydealz",
-    "category": "Tech",
-    "price": 17.05,
-    "checkedAt": "2026-11-17T05:25:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0155OGEUU.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 432,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T06:06:58.586Z"
-  },
-  {
-    "id": "auto-b085cs7q97",
-    "asin": "B085CS7Q97",
-    "title": "Wera Schraubendreher 827 T i Kraftform Turbo, Elektro VDE, …",
-    "category": "Werkzeug",
-    "price": 45.59,
-    "checkedAt": "2026-11-17T05:16:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B085CS7Q97.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T07:52:30.619Z"
-  },
-  {
-    "id": "auto-b078x52s84",
-    "asin": "B078X52S84",
-    "title": "Pirates of the Caribbean 1-5 Box [Blu-ray]",
-    "subtitle": "🔥 104° bei mydealz",
-    "category": "Bücher & Filme",
-    "price": 27.99,
-    "checkedAt": "2026-11-17T05:16:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B078X52S84.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 104,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b015wnq2he",
-    "asin": "B015WNQ2HE",
-    "title": "Foppapedretti Octopus Wäscheständer",
-    "subtitle": "🔥 106° bei mydealz",
-    "category": "Tech",
-    "price": 76.39,
-    "checkedAt": "2026-11-17T05:19:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B015WNQ2HE.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 106,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b09yhnkbfx",
-    "asin": "B09YHNKBFX",
-    "title": "Corsair HS80 RGB USB Gaming-Headset - Schwarz Dolby Audio …",
-    "subtitle": "🔥 107° bei mydealz",
-    "category": "Gaming",
-    "price": 59.99,
-    "checkedAt": "2026-11-17T05:14:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09YHNKBFX.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 107,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b092r5mcb3",
-    "asin": "B092R5MCB3",
-    "title": "Razer DeathAdder Essential Gaming-Maus mit Optischem Sensor mit 6400 …",
-    "subtitle": "🔥 111° bei mydealz",
-    "category": "Computer",
-    "price": 14.09,
-    "checkedAt": "2026-11-17T05:14:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B092R5MCB3.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 111,
-    "source": "auto"
   }
 ]
