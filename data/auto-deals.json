@@ -1,5 +1,90 @@
 [
   {
+    "id": "auto-b0fbrkflrv",
+    "asin": "B0FBRKFLRV",
+    "title": "Controller Halter & Headset Ständer Cyberpunk",
+    "category": "Gaming",
+    "price": 24.99,
+    "checkedAt": "2026-11-18T10:09:34.000Z",
+    "image": "https://static.mydealz.de/threads/raw/a6H99/2874520_1/re/768x768/qt/55/2874520_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gkgt264t",
+    "asin": "B0GKGT264T",
+    "title": "ASUS ROG Strix B850-A Gaming WiFi7 NEO AMD ATX Mainboard, AM5, DDR5, …",
+    "category": "Computer",
+    "price": 209.99,
+    "checkedAt": "2026-11-18T10:09:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GKGT264T.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b016pzc2d6",
+    "asin": "B016PZC2D6",
+    "title": "180cm Künstlicher Weihnachtsbaum, COSTWAY *Prime*",
+    "category": "Tech",
+    "price": 27.19,
+    "checkedAt": "2026-11-18T10:12:05.000Z",
+    "image": "https://static.mydealz.de/threads/raw/rnxA7/2874523_1/re/768x768/qt/55/2874523_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d8qdqtvj",
+    "asin": "B0D8QDQTVJ",
+    "title": "COSTWAY 4 in 1 Multi Spieltisch, Multifunktionstisch mit Zubehör …",
+    "category": "Tech",
+    "price": 127.49,
+    "checkedAt": "2026-11-18T10:18:48.000Z",
+    "image": "https://static.mydealz.de/threads/raw/ehpTP/2874531_1/re/768x768/qt/55/2874531_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gtvxdj2b",
+    "asin": "B0GTVXDJ2B",
+    "title": "Hisense 75U7DSE 75 Zoll 4K UHD TV, Hi-QLED Mini LED, 144 Hz, Dolby …",
+    "category": "TV & Heimkino",
+    "price": 999,
+    "checkedAt": "2026-11-18T10:20:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GTVXDJ2B.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0djwbdncw",
+    "asin": "B0DJWBDNCW",
+    "title": "Lenovo Tab 10,1″ WUXGA, Helio G85, 4/64 GB, blau, inkl. Schutzhülle",
+    "category": "Tech",
+    "price": 118,
+    "checkedAt": "2026-11-18T10:21:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJWBDNCW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fpdbk2m6",
+    "asin": "B0FPDBK2M6",
+    "title": "CORSAIR Sabre v2 Pro Wireless Gaming Maus in Schwarz und Weiß",
+    "category": "Computer",
+    "price": 59.99,
+    "oldPrice": 139.9,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T10:22:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPDBK2M6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T10:24:06.665Z"
+  },
+  {
+    "id": "queue-b0dqvgrysn",
+    "asin": "B0DQVGRYSN",
+    "title": "Panasonic SC-TMAX45 Bluetooth-Party-Lautsprecher",
+    "subtitle": "Party-Sound mit LED-Lichtshow, TV-Anschluss, Karaoke- und Gitarreneingang.",
+    "category": "Audio",
+    "price": 199,
+    "checkedAt": "2026-11-18T06:24:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQVGRYSN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T10:23:48.267Z"
+  },
+  {
     "id": "auto-b0c61f4r8q",
     "asin": "B0C61F4R8Q",
     "title": "Razer Cobra Pro kabellose Gaming-Maus",
@@ -739,16 +824,6 @@
     "price": 11.99,
     "checkedAt": "2026-11-18T06:23:39.000Z",
     "image": "https://m.media-amazon.com/images/P/B0B3F3RBMQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dqvgrysn",
-    "asin": "B0DQVGRYSN",
-    "title": "Panasonic SC-TMAX45E-K Bluetooth-Party-Lautsprecher",
-    "category": "Audio",
-    "price": 199,
-    "checkedAt": "2026-11-18T06:24:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQVGRYSN.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -3055,51 +3130,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BCKJBWC9.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T11:05:46.982Z"
-  },
-  {
-    "id": "auto-b07f2ypwkj",
-    "asin": "B07F2YPWKJ",
-    "title": "PUMA Damen Cilia Mode Sneakers, Basic Sneakers Damen Gr.35,5 - 42,5",
-    "category": "Mode & Reise",
-    "price": 30.56,
-    "checkedAt": "2026-11-17T10:12:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07F2YPWKJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b09x5g16zm",
-    "asin": "B09X5G16ZM",
-    "title": "Razer Barracuda X - Kabelloses Multiplattform-Headset für Gaming und …",
-    "category": "Gaming",
-    "price": 64.09,
-    "checkedAt": "2026-11-17T10:18:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09X5G16ZM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0glyscmrb",
-    "asin": "B0GLYSCMRB",
-    "title": "Digimon Story: Time Stranger für Nintendo Switch 2",
-    "category": "Gaming",
-    "price": 49.99,
-    "oldPrice": 55.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T10:12:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GLYSCMRB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T20:53:33.930Z"
-  },
-  {
-    "id": "auto-b0c3dcsm2p",
-    "asin": "B0C3DCSM2P",
-    "title": "Blackstone 36\" Griddle Grillstation mit Airfryer",
-    "category": "Küche",
-    "price": 699,
-    "oldPrice": 1028.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T10:14:54.000Z",
-    "image": "https://static.mydealz.de/threads/raw/BSBk4/2873601_1/re/768x768/qt/55/2873601_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T10:36:09.794Z"
   }
 ]
