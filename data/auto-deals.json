@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0ccd7gw1g",
+    "asin": "B0CCD7GW1G",
+    "title": "Sport Sammeldeal: Jacken & mehr von VAUDE, Schöffel, Outwell, …",
+    "category": "Mode & Reise",
+    "price": 57.63,
+    "oldPrice": 229,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T18:46:40.000Z",
+    "image": "https://static.mydealz.de/threads/raw/2Nqme/2875018_1/re/768x768/qt/55/2875018_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T18:51:55.634Z"
+  },
+  {
     "id": "auto-b0d1kk1fgc",
     "asin": "B0D1KK1FGC",
     "title": "2er Set Reolink 4K PT Solar Überwachungskamera Aussen mit Solar Akku …",
@@ -17,7 +30,8 @@
     "price": 11.58,
     "checkedAt": "2026-11-18T18:22:45.000Z",
     "image": "https://static.mydealz.de/threads/raw/fwnq8/2875005_1/re/768x768/qt/55/2875005_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T18:52:11.235Z"
   },
   {
     "id": "auto-b0d8tn6g24",
@@ -115,7 +129,8 @@
     "price": 20.83,
     "checkedAt": "2026-11-18T17:50:00.000Z",
     "image": "https://m.media-amazon.com/images/P/B07BJKY7W7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T18:52:02.988Z"
   },
   {
     "id": "auto-b003cgtth4",
@@ -2820,17 +2835,6 @@
     "telegramPostedAt": "2026-11-17T21:23:11.650Z"
   },
   {
-    "id": "auto-b079r7w737",
-    "asin": "B079R7W737",
-    "title": "Siku: MAN Feuerwehr Drehleiter (2114)",
-    "category": "Spielzeug & LEGO",
-    "price": 15,
-    "checkedAt": "2026-11-17T18:42:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B079R7W737.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:52:00.048Z"
-  },
-  {
     "id": "auto-b006a2q81m",
     "asin": "B006A2Q81M",
     "title": "Logitech C920 HD PRO Webcam – Full HD 1080p",
@@ -3176,19 +3180,6 @@
     "temperature": 129,
     "source": "auto",
     "telegramPostedAt": "2026-11-17T19:08:14.049Z"
-  },
-  {
-    "id": "auto-b0d1zsc62p",
-    "asin": "B0D1ZSC62P",
-    "title": "Amazon Fire TV Soundbar Plus 3.1 mit Dolby Atmos & DTS:X",
-    "subtitle": "🔥 158° bei mydealz",
-    "category": "Amazon-Geräte",
-    "price": 148.49,
-    "checkedAt": "2026-11-17T18:38:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D1ZSC62P.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 158,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T19:06:56.177Z"
   },
   {
     "id": "auto-b0gf7s88yd",
