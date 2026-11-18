@@ -1,5 +1,37 @@
 [
   {
+    "id": "auto-b0gz76sh98",
+    "asin": "B0GZ76SH98",
+    "title": "adidas Men's ULTIMATE365 CLIMAPROOF JACKE / Verschieden Größen",
+    "category": "Mode & Reise",
+    "price": 40,
+    "checkedAt": "2026-11-18T07:43:38.000Z",
+    "image": "https://static.mydealz.de/threads/raw/2k1E5/2874386_1/re/768x768/qt/55/2874386_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ch8vqnjc",
+    "asin": "B0CH8VQNJC",
+    "title": "Corsair K70 CORE Tastatur",
+    "category": "Computer",
+    "price": 69.99,
+    "checkedAt": "2026-11-18T07:50:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CH8VQNJC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "queue-b0hgb7zb76",
+    "asin": "B0HGB7ZB76",
+    "title": "Philips Hue Play HDMI Sync Box 4K",
+    "subtitle": "Synchronisiert Hue-Lampen mit dem TV-Bild – HDMI 2.0, 4K bei 60 Hz.",
+    "category": "Smart Home",
+    "price": 103.99,
+    "checkedAt": "2026-11-17T12:56:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HGB7ZB76.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T07:54:08.231Z"
+  },
+  {
     "id": "auto-b0fpxj14pq",
     "asin": "B0FPXJ14PQ",
     "title": "LEGO Friends Feentassen-Karussell mit Blumendeko (42702) 321 Teile",
@@ -140,7 +172,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-18T07:17:34.000Z",
     "image": "https://m.media-amazon.com/images/P/B075JLSK72.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T07:54:24.174Z"
   },
   {
     "id": "auto-b0dg8gkn5n",
@@ -1880,16 +1913,6 @@
     "price": 271.39,
     "checkedAt": "2026-11-17T12:49:25.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GVK2BGKQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0hgb7zb76",
-    "asin": "B0HGB7ZB76",
-    "title": "Philips Hue Play HDMI Sync Box 4K - Ambilight für das ganze Wohnzimmer …",
-    "category": "Smart Home",
-    "price": 103.99,
-    "checkedAt": "2026-11-17T12:56:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HGB7ZB76.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
