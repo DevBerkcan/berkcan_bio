@@ -1,5 +1,58 @@
 [
   {
+    "id": "auto-b07kkzk4l8",
+    "asin": "B07KKZK4L8",
+    "title": "LÄSSIG Baby Kleinkind Lätzchen Set (5 St.) Klettverschluss Baumwolle …",
+    "category": "Spielzeug & LEGO",
+    "price": 11.98,
+    "checkedAt": "2026-11-18T13:42:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07KKZK4L8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dt28nygc",
+    "asin": "B0DT28NYGC",
+    "title": "Denon Home 150 NV Wireless-Lautsprecher (ohne Alexa)",
+    "category": "Audio",
+    "price": 149,
+    "checkedAt": "2026-11-18T14:25:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DT28NYGC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07kzmph1p",
+    "asin": "B07KZMPH1P",
+    "title": "Steinel Solarleuchte XSolar SOL-O S Anthrazit, mit 360°|6 m …",
+    "category": "Licht & Garten",
+    "price": 63.3,
+    "checkedAt": "2026-11-18T14:25:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07KZMPH1P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0bc963c58",
+    "asin": "B0BC963C58",
+    "title": "Bosch Professional 18V System Akku Schlagbohrschrauber GSB 18V-45, …",
+    "category": "Werkzeug",
+    "price": 151.99,
+    "checkedAt": "2026-11-18T14:30:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BC963C58.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00jkxae2m",
+    "asin": "B00JKXAE2M",
+    "title": "2,4kg OREO Original",
+    "category": "Lebensmittel & Drinks",
+    "price": 15.5,
+    "oldPrice": 21,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T13:47:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00JKXAE2M.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T14:36:39.938Z"
+  },
+  {
     "id": "auto-b0fw5jckbj",
     "asin": "B0FW5JCKBJ",
     "title": "Weber Traveler (Stealth Edition)",
@@ -186,7 +239,8 @@
     "price": 29.67,
     "checkedAt": "2026-11-18T13:29:34.000Z",
     "image": "https://m.media-amazon.com/images/P/B077Y83XSD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T14:37:00.533Z"
   },
   {
     "id": "auto-b0fvr7n521",
@@ -644,7 +698,8 @@
     "price": 57.36,
     "checkedAt": "2026-11-18T11:19:25.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F9LJF6BV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T14:36:48.138Z"
   },
   {
     "id": "auto-b0dnrf5rdc",
@@ -1716,18 +1771,6 @@
     "image": "https://static.mydealz.de/threads/raw/XOeqT/2874360_1/re/768x768/qt/55/2874360_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T07:25:08.253Z"
-  },
-  {
-    "id": "queue-b0h94kqlmj",
-    "asin": "B0H94KQLMJ",
-    "title": "ECOVACS T90S Pro Omni Saugroboter mit Wischfunktion",
-    "subtitle": "Saug- und Wischroboter mit Schnellladen – ideal für große Wohnflächen.",
-    "category": "Haushalt",
-    "price": 499,
-    "checkedAt": "2026-11-17T14:32:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H94KQLMJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T07:24:42.457Z"
   },
   {
     "id": "auto-b07nwwhk1j",
@@ -3036,26 +3079,6 @@
     "telegramPostedAt": "2026-11-17T15:33:10.771Z"
   },
   {
-    "id": "auto-b0gqlkgd1f",
-    "asin": "B0GQLKGD1F",
-    "title": "Anker Smart Ladegerät, Anker Nano 45W USB C Ladegerät mit Display GaN",
-    "category": "Zubehör & Laden",
-    "price": 25.99,
-    "checkedAt": "2026-11-17T14:33:23.000Z",
-    "image": "https://static.mydealz.de/threads/raw/iFPWw/2873876_1/re/768x768/qt/55/2873876_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b00a925g3a",
-    "asin": "B00A925G3A",
-    "title": "Bosch ErgoMixx MSM66110 Stabmixer",
-    "category": "Küche",
-    "price": 24.99,
-    "checkedAt": "2026-11-17T14:33:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00A925G3A.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0fh2nhmjd",
     "asin": "B0FH2NHMJD",
     "title": "Kanonenfieber - Soldatenschicksale Vinyl",
@@ -3085,51 +3108,5 @@
     "image": "https://m.media-amazon.com/images/P/B07W6FQ659.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T16:47:16.315Z"
-  },
-  {
-    "id": "auto-b0d9p7zd86",
-    "asin": "B0D9P7ZD86",
-    "title": "Paladone Minecraft Allay Buchleuchte",
-    "category": "Tech",
-    "price": 15.08,
-    "oldPrice": 23.39,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T14:33:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D9P7ZD86.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T15:03:24.250Z"
-  },
-  {
-    "id": "auto-b06xpj5432",
-    "asin": "B06XPJ5432",
-    "title": "Corsini Caffe Super Cremoso Espresso 1 kg Bohnen Kaffeebohnen",
-    "category": "Küche",
-    "price": 11.4,
-    "checkedAt": "2026-11-17T14:23:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06XPJ5432.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T15:47:49.019Z"
-  },
-  {
-    "id": "auto-b0c8yd16zy",
-    "asin": "B0C8YD16ZY",
-    "title": "Die Tribute von Panem Gesamtedition BluRay",
-    "category": "Bücher & Filme",
-    "price": 15.99,
-    "checkedAt": "2026-11-17T14:31:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C8YD16ZY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b09s151knj",
-    "asin": "B09S151KNJ",
-    "title": "Hansgrohe Pulsify Handbrause - absoluter Deal!",
-    "category": "Tech",
-    "price": 24.19,
-    "oldPrice": 29.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T14:24:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09S151KNJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
