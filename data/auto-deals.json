@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-b00061q83q",
+    "asin": "B00061Q83Q",
+    "title": "Green Day - American Idiot [Vinyl 2LP, Doppelvinyl]",
+    "category": "Tech",
+    "price": 19.19,
+    "checkedAt": "2026-11-18T12:53:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00061Q83Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fv1wwzwq",
+    "asin": "B0FV1WWZWQ",
+    "title": "BOSS Troper Sport Collection Men's Watch with Three-Hand Quartz …",
+    "category": "Tech",
+    "price": 129.65,
+    "checkedAt": "2026-11-18T13:04:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FV1WWZWQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h2dcfjnc",
+    "asin": "B0H2DCFJNC",
+    "title": "HP20 Akku Staubsauger, 180 AW, TÜV-getestet, grünes LED-Licht, für …",
+    "category": "Haushalt",
+    "price": 132.99,
+    "checkedAt": "2026-11-18T13:07:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H2DCFJNC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b099wks8zb",
     "asin": "B099WKS8ZB",
     "title": "Brennenstuhl Premium-Line 6-Fach mit Überspannungsschutz",
@@ -804,7 +834,8 @@
     "price": 19.99,
     "checkedAt": "2026-11-18T10:08:00.000Z",
     "image": "https://m.media-amazon.com/images/P/B007BZ2A3C.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T13:07:50.214Z"
   },
   {
     "id": "auto-b0h9rsnf6z",
@@ -1245,18 +1276,6 @@
     "checkedAt": "2026-11-18T07:50:19.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CH8VQNJC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "queue-b0hgb7zb76",
-    "asin": "B0HGB7ZB76",
-    "title": "Philips Hue Play HDMI Sync Box 4K",
-    "subtitle": "Synchronisiert Hue-Lampen mit dem TV-Bild – HDMI 2.0, 4K bei 60 Hz.",
-    "category": "Smart Home",
-    "price": 103.99,
-    "checkedAt": "2026-11-17T12:56:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HGB7ZB76.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T07:54:08.231Z"
   },
   {
     "id": "auto-b0fpxj14pq",
@@ -2964,16 +2983,6 @@
     "telegramPostedAt": "2026-11-17T13:49:18.760Z"
   },
   {
-    "id": "auto-b079kjldf2",
-    "asin": "B079KJLDF2",
-    "title": "Mattel Games UNO Harry Potter Kartenspiel, ab 7 Jahren, 2–10 Spieler",
-    "category": "Spielzeug & LEGO",
-    "price": 5.69,
-    "checkedAt": "2026-11-17T12:56:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B079KJLDF2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0dcdf1327",
     "asin": "B0DCDF1327",
     "title": "Prime: The Pogues - The Best of the Pogues Limited Edition orange …",
@@ -3005,26 +3014,6 @@
     "image": "https://static.mydealz.de/threads/raw/ZCezt/2873811_1/re/768x768/qt/55/2873811_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T14:18:49.312Z"
-  },
-  {
-    "id": "auto-b0049nnuy2",
-    "asin": "B0049NNUY2",
-    "title": "Atari Messenger Umhängetasche mit japanischem Logo in Dunkelrot",
-    "category": "Tech",
-    "price": 25.97,
-    "checkedAt": "2026-11-17T13:05:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0049NNUY2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fprk3fnv",
-    "asin": "B0FPRK3FNV",
-    "title": "DJI ROMO P Saugroboter mit Wischfunktion, 25.000 Pa Saugkraft",
-    "category": "Haushalt",
-    "price": 624.04,
-    "checkedAt": "2026-11-17T13:06:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPRK3FNV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0d6bq8f34",
@@ -3063,38 +3052,5 @@
     "image": "https://m.media-amazon.com/images/P/B0F3WJQ19H.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T13:19:48.163Z"
-  },
-  {
-    "id": "auto-b06y64m5zb",
-    "asin": "B06Y64M5ZB",
-    "title": "Prime: Iggy Pop The Idiot Vinyl LP",
-    "category": "Tech",
-    "price": 15.99,
-    "checkedAt": "2026-11-17T13:00:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06Y64M5ZB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0851yvlv6",
-    "asin": "B0851YVLV6",
-    "title": "PALADONE - Super Mario Bros Piranha-Pflanze Lampe",
-    "category": "Tech",
-    "price": 21.26,
-    "checkedAt": "2026-11-17T13:04:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0851YVLV6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b01m8m8g23",
-    "asin": "B01M8M8G23",
-    "title": "Logitech G Saitek Farm Sim Controller – Steuerpult für Farming …",
-    "category": "Gaming",
-    "price": 94.99,
-    "oldPrice": 121.24,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T12:57:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01M8M8G23.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T14:04:04.580Z"
   }
 ]
