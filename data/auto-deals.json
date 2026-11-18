@@ -1,5 +1,48 @@
 [
   {
+    "id": "auto-b0c8grmmq6",
+    "asin": "B0C8GRMMQ6",
+    "title": "Finish Ultimate Plus Infinity Shine - 146 Spülmaschinentabs",
+    "category": "Tech",
+    "price": 24.79,
+    "checkedAt": "2026-11-18T16:23:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C8GRMMQ6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fpnh326d",
+    "asin": "B0FPNH326D",
+    "title": "Beats PowerBeats Fit Wireless In-Ear Kopfhörer mit ANC und bis zu 30 …",
+    "category": "Audio",
+    "price": 109,
+    "checkedAt": "2026-11-18T16:26:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPNH326D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dvzsnf8g",
+    "asin": "B0DVZSNF8G",
+    "title": "ASUS B650E MAX Gaming WiFi AMD AM5 ATX Mainboard, DDR5, PCIe 5.0, 3x …",
+    "category": "Computer",
+    "price": 121.99,
+    "checkedAt": "2026-11-18T16:30:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DVZSNF8G.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00njxyp7y",
+    "asin": "B00NJXYP7Y",
+    "title": "BOSCH TWK8611P Wasserkocher 2400W mit Temperatureinstellung Weiß",
+    "category": "Küche",
+    "price": 51.99,
+    "oldPrice": 62.89,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T16:31:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00NJXYP7Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T16:36:41.366Z"
+  },
+  {
     "id": "auto-b01cfwdozs",
     "asin": "B01CFWDOZS",
     "title": "24x 330ml Coca-Cola Zero",
@@ -167,7 +210,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-18T15:32:50.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FY5Z51QP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T16:36:46.085Z"
   },
   {
     "id": "auto-b0d98dn7j1",
@@ -312,7 +356,8 @@
     "price": 149,
     "checkedAt": "2026-11-18T14:25:16.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DT28NYGC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T16:36:35.795Z"
   },
   {
     "id": "auto-b07kzmph1p",
@@ -1761,18 +1806,6 @@
     "telegramPostedAt": "2026-11-18T08:24:13.590Z"
   },
   {
-    "id": "queue-b0h3483qbf",
-    "asin": "B0H3483QBF",
-    "title": "Philips 43PUS7061 43\" 4K Smart-TV",
-    "subtitle": "4K-LED-TV mit Titan OS und Dolby Atmos Sound.",
-    "category": "TV & Heimkino",
-    "price": 236,
-    "checkedAt": "2026-11-17T16:25:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H3483QBF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T08:23:49.306Z"
-  },
-  {
     "id": "auto-b0gwd3jcyy",
     "asin": "B0GWD3JCYY",
     "title": "SwitchBot E-Ink Home Dashboard",
@@ -3049,17 +3082,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b07ystgp17",
-    "asin": "B07YSTGP17",
-    "title": "Gardena Viereckregner AquaZoom compact 216 m²",
-    "category": "Tech",
-    "price": 20,
-    "checkedAt": "2026-11-17T16:35:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07YSTGP17.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T18:17:18.757Z"
-  },
-  {
     "id": "auto-b0cnxkmsjg",
     "asin": "B0CNXKMSJG",
     "title": "Razer Seiren V3 Chroma USB-Mikrofon, Supernieren-Kondensator, 96 …",
@@ -3067,26 +3089,6 @@
     "price": 79.99,
     "checkedAt": "2026-11-17T16:43:27.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CNXKMSJG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dd4b94mh",
-    "asin": "B0DD4B94MH",
-    "title": "Thermaltake Toughpower GT 750W ATX-Netzteil, ATX 3.1, 80 PLUS Gold, …",
-    "category": "Zubehör & Laden",
-    "price": 63.08,
-    "checkedAt": "2026-11-17T16:22:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DD4B94MH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0cd23bmn4",
-    "asin": "B0CD23BMN4",
-    "title": "Govee Outdoor Neon LED Strip 10m, IP67 Wasserdicht, RGBIC LED …",
-    "category": "Tech",
-    "price": 139,
-    "checkedAt": "2026-11-17T16:26:34.000Z",
-    "image": "https://static.mydealz.de/threads/raw/HTDgi/2871279_1/re/768x768/qt/55/2871279_1.jpg",
     "source": "auto"
   }
 ]
