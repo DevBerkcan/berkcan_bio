@@ -1,5 +1,70 @@
 [
   {
+    "id": "auto-b0hgr3549h",
+    "asin": "B0HGR3549H",
+    "title": "Red Bull Energy Drink mit In-Game Code für EA Sports FC 2027",
+    "category": "Lebensmittel & Drinks",
+    "price": 5.94,
+    "checkedAt": "2026-11-18T12:24:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HGR3549H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0c8nvnwsv",
+    "asin": "B0C8NVNWSV",
+    "title": "Corsair K65 PRO Mini RGB 65% Optisch Mechanische Gaming Tastatur - …",
+    "category": "Computer",
+    "price": 59.99,
+    "checkedAt": "2026-11-18T12:27:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C8NVNWSV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0079jb3qa",
+    "asin": "B0079JB3QA",
+    "title": "Wera Bit-Check 10 TX Impaktor 1",
+    "category": "Werkzeug",
+    "price": 33.09,
+    "checkedAt": "2026-11-18T12:32:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0079JB3QA.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cnq3m61v",
+    "asin": "B0CNQ3M61V",
+    "title": "Sheba Adult Katzenfutter Geflügel in Sauce 120 x 85 g im Spar-Abo mit …",
+    "category": "Tech",
+    "price": 23.09,
+    "checkedAt": "2026-11-18T12:32:55.000Z",
+    "image": "https://static.mydealz.de/threads/raw/1KHto/2874691_1/re/768x768/qt/55/2874691_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cpld53sm",
+    "asin": "B0CPLD53SM",
+    "title": "Hot Wheels RacerVerse Bat-Truck Rennstrecke Batman & Joker",
+    "category": "Spielzeug & LEGO",
+    "price": 32.54,
+    "oldPrice": 39.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T12:02:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CPLD53SM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gy47plfq",
+    "asin": "B0GY47PLFQ",
+    "title": "NICI Kuscheltier Otter Ophelio mit Fisch",
+    "category": "Spielzeug & LEGO",
+    "price": 16.99,
+    "oldPrice": 27.48,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T11:57:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GY47PLFQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T12:38:05.630Z"
+  },
+  {
     "id": "auto-b000p5t6ms",
     "asin": "B000P5T6MS",
     "title": "STANLEY - Pocket Tool Roll/Werkzeugtasche",
@@ -559,7 +624,8 @@
     "price": 10.58,
     "checkedAt": "2026-11-18T10:35:49.000Z",
     "image": "https://static.mydealz.de/threads/raw/LXxgp/2874553_1/re/768x768/qt/55/2874553_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T12:38:16.373Z"
   },
   {
     "id": "auto-b0dbtzp7j7",
@@ -627,7 +693,8 @@
     "price": 24.99,
     "checkedAt": "2026-11-18T10:09:34.000Z",
     "image": "https://static.mydealz.de/threads/raw/a6H99/2874520_1/re/768x768/qt/55/2874520_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T12:38:11.237Z"
   },
   {
     "id": "auto-b0gkgt264t",
@@ -3028,26 +3095,6 @@
     "telegramPostedAt": "2026-11-17T14:04:04.580Z"
   },
   {
-    "id": "auto-b0fx9qbxxy",
-    "asin": "B0FX9QBXXY",
-    "title": "Fire TV Stick 4K Plus + Luna-Controller",
-    "category": "Amazon-Geräte",
-    "price": 71.98,
-    "checkedAt": "2026-11-17T12:35:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FX9QBXXY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b09v8jngd4",
-    "asin": "B09V8JNGD4",
-    "title": "Mixa Urea Cica Repair+ Creme für trockene und raue Haut, 400 ml",
-    "category": "Beauty & Pflege",
-    "price": 5.48,
-    "checkedAt": "2026-11-17T12:37:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09V8JNGD4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b097f1mfpt",
     "asin": "B097F1MFPT",
     "title": "Park Tool PCS-9.3 Fahrrad-Montageständer",
@@ -3122,45 +3169,5 @@
     "image": "https://m.media-amazon.com/images/P/B00ZWOUH4S.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T13:05:01.586Z"
-  },
-  {
-    "id": "auto-b0gn99bxfq",
-    "asin": "B0GN99BXFQ",
-    "title": "SteelSeries Arctis Nova Pro Omni: Wireless Gaming-Headset mit ANC",
-    "category": "Gaming",
-    "price": 329,
-    "checkedAt": "2026-11-17T12:25:26.000Z",
-    "image": "https://static.mydealz.de/threads/raw/2FZs4/2873738_1/re/768x768/qt/55/2873738_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0ccdcbsyy",
-    "asin": "B0CCDCBSYY",
-    "title": "VAUDE Okab II Rucksack",
-    "category": "Sport & Outdoor",
-    "price": 61.69,
-    "checkedAt": "2026-11-17T12:26:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CCDCBSYY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0h414wgy7",
-    "asin": "B0H414WGY7",
-    "title": "NARWAL Freo 20 Edge Saugroboter mit Wischfunktion, FlowWash Track Mopp",
-    "category": "Haushalt",
-    "price": 499,
-    "checkedAt": "2026-11-17T12:28:46.000Z",
-    "image": "https://static.mydealz.de/threads/raw/IRjjc/2873741_1/re/768x768/qt/55/2873741_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b09wkrfkx9",
-    "asin": "B09WKRFKX9",
-    "title": "Selen Tabletten 365x mit 200 µg Selen",
-    "category": "Smartphone & Tablet",
-    "price": 6.41,
-    "checkedAt": "2026-11-17T12:30:23.000Z",
-    "image": "https://static.mydealz.de/threads/raw/wI7l0/2873746_1/re/768x768/qt/55/2873746_1.jpg",
-    "source": "auto"
   }
 ]
