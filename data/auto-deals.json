@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-b0d5hy3f9x",
+    "asin": "B0D5HY3F9X",
+    "title": "Corsair SF750 (2024) ATX-Netzteil, 750 W, SFX, ATX 3.1, PCIe 5.1, 80 …",
+    "category": "Zubehör & Laden",
+    "price": 115.99,
+    "checkedAt": "2026-11-18T17:28:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D5HY3F9X.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b099t4mz13",
+    "asin": "B099T4MZ13",
+    "title": "FALKE Herren Cosyshoe Stoppersocken – Hausschuhe – atmungsaktiv – warm …",
+    "subtitle": "🔥 513° bei mydealz",
+    "category": "Mode & Reise",
+    "price": 21.32,
+    "checkedAt": "2026-11-18T17:25:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B099T4MZ13.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 513,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T17:36:53.788Z"
+  },
+  {
     "id": "auto-b0g6jfmdjh",
     "asin": "B0G6JFMDJH",
     "title": "Anycubic PLA 1kg Diverse Farben",
@@ -284,7 +307,8 @@
     "price": 325,
     "checkedAt": "2026-11-18T15:48:37.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FLPTNDPG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T17:36:59.619Z"
   },
   {
     "id": "auto-b0bnbyv6my",
@@ -1607,7 +1631,8 @@
     "price": 999,
     "checkedAt": "2026-11-18T10:20:39.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GTVXDJ2B.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T17:37:06.084Z"
   },
   {
     "id": "auto-b0djwbdncw",
@@ -2574,16 +2599,6 @@
     "telegramPostedAt": "2026-11-17T22:22:22.187Z"
   },
   {
-    "id": "auto-b0fdgz17nb",
-    "asin": "B0FDGZ17NB",
-    "title": "Car Napping - Bestellt, geklaut, geliefert (1980) - 4K Blu-ray + Blu",
-    "category": "Bücher & Filme",
-    "price": 10,
-    "checkedAt": "2026-11-17T17:27:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FDGZ17NB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0d5r6m5g9",
     "asin": "B0D5R6M5G9",
     "title": "MTB Rucksack Deuter Trans Alpin 28 Pro",
@@ -3074,18 +3089,6 @@
     "price": 25.2,
     "checkedAt": "2026-11-17T18:27:20.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DWNBSR4X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b08x5ck7dk",
-    "asin": "B08X5CK7DK",
-    "title": "Finish Ultimate Infinity Shine Spülmaschinentabs 2 x 80 Finish Caps, …",
-    "subtitle": "🔥 101° bei mydealz",
-    "category": "Tech",
-    "price": 22.22,
-    "checkedAt": "2026-11-17T17:30:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08X5CK7DK.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 101,
     "source": "auto"
   },
   {
