@@ -1,5 +1,28 @@
 [
   {
+    "id": "auto-b0flkc5jn4",
+    "asin": "B0FLKC5JN4",
+    "title": "Nothing CMF Headphone Pro",
+    "category": "Audio",
+    "price": 49.99,
+    "checkedAt": "2026-11-18T22:21:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FLKC5JN4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0001p14z4",
+    "asin": "B0001P14Z4",
+    "title": "Victorinox Schweizer Taschenmesser Klein, Escort, 6 Funktionen, …",
+    "subtitle": "🔥 2084° bei mydealz",
+    "category": "Küche",
+    "price": 8.51,
+    "checkedAt": "2026-11-18T22:21:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0001P14Z4.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 2084,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T22:36:04.530Z"
+  },
+  {
     "id": "auto-b0dcfxb9lc",
     "asin": "B0DCFXB9LC",
     "title": "THERMOS ICON Thermobecher 0,47 l, 7 h heiß, spülmaschinenfest",
@@ -53,7 +76,8 @@
     "checkedAt": "2026-11-18T22:16:20.000Z",
     "image": "https://m.media-amazon.com/images/P/B0HJSSV2WB.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 108,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T22:36:08.938Z"
   },
   {
     "id": "auto-b07x4ds86h",
@@ -186,7 +210,8 @@
     "price": 89.99,
     "checkedAt": "2026-11-18T19:55:42.000Z",
     "image": "https://m.media-amazon.com/images/P/B07W6JNYXV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T22:36:13.256Z"
   },
   {
     "id": "auto-b072j8h5sp",
@@ -3044,27 +3069,5 @@
     "image": "https://m.media-amazon.com/images/P/B077MLZ1KS.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T23:06:51.417Z"
-  },
-  {
-    "id": "auto-b00a0df494",
-    "asin": "B00A0DF494",
-    "title": "Amazon Prime: Gin Mare Mediterraner Gin 0,7 l - 42,7% Vol. Mit Oliven, …",
-    "category": "Lebensmittel & Drinks",
-    "price": 23.7,
-    "checkedAt": "2026-11-17T22:25:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00A0DF494.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:07:01.217Z"
-  },
-  {
-    "id": "auto-b0f6mtk3z6",
-    "asin": "B0F6MTK3Z6",
-    "title": "Prime - SONGMICS Kopfkissen, ergonomisch, höhenverstellbar, Memory …",
-    "category": "Tech",
-    "price": 17.59,
-    "checkedAt": "2026-11-17T22:34:47.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Vkp0W/2874220_1/re/768x768/qt/55/2874220_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:06:56.830Z"
   }
 ]
