@@ -7,7 +7,8 @@
     "price": 50.42,
     "checkedAt": "2026-11-18T19:35:06.000Z",
     "image": "https://m.media-amazon.com/images/P/B09S64J8Y7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T19:52:20.434Z"
   },
   {
     "id": "auto-b0bs3j3rsv",
@@ -47,7 +48,8 @@
     "price": 69.99,
     "checkedAt": "2026-11-18T19:19:36.000Z",
     "image": "https://static.mydealz.de/threads/raw/Jbswi/2875041_1/re/768x768/qt/55/2875041_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T19:52:33.698Z"
   },
   {
     "id": "auto-b0h6jymnxm",
@@ -276,7 +278,8 @@
     "price": 48.8,
     "checkedAt": "2026-11-18T18:02:04.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F2G6677H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T19:52:06.464Z"
   },
   {
     "id": "auto-b0dxfbqql4",
@@ -2963,50 +2966,6 @@
     "telegramPostedAt": "2026-11-17T21:23:11.650Z"
   },
   {
-    "id": "auto-b07sbwmczc",
-    "asin": "B07SBWMCZC",
-    "title": "PUMA Unisex Anzarun Lite AC Inf Children's Baby Crawling Shoes …",
-    "category": "Mode & Reise",
-    "price": 19.84,
-    "checkedAt": "2026-11-17T19:43:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07SBWMCZC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:37:02.624Z"
-  },
-  {
-    "id": "auto-b0842nybhb",
-    "asin": "B0842NYBHB",
-    "title": "Soundbar von Denon DHT-S216 2.1 TV soundbar with built-in subwoofer, …",
-    "category": "TV & Heimkino",
-    "price": 150,
-    "checkedAt": "2026-11-17T19:46:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0842NYBHB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:36:58.362Z"
-  },
-  {
-    "id": "auto-b0dyf6phlz",
-    "asin": "B0DYF6PHLZ",
-    "title": "MSI BE6500 WiFi 7 USB Adapter",
-    "category": "Tech",
-    "price": 64.99,
-    "checkedAt": "2026-11-17T19:50:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DYF6PHLZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:36:53.959Z"
-  },
-  {
-    "id": "auto-b0fl9z5wk3",
-    "asin": "B0FL9Z5WK3",
-    "title": "Amazon Kids Tablet 8 Upgrade Aktion bei Kauf von Amazon Fire Tablet …",
-    "category": "Smartphone & Tablet",
-    "price": 114.99,
-    "checkedAt": "2026-11-17T19:51:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FL9Z5WK3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:36:49.433Z"
-  },
-  {
     "id": "auto-b0fhh57hks",
     "asin": "B0FHH57HKS",
     "title": "• GEN Creatin 1000g vegan – Pumperdeal",
@@ -3077,32 +3036,6 @@
     "telegramPostedAt": "2026-11-17T20:38:43.182Z"
   },
   {
-    "id": "auto-b007fqb5ry",
-    "asin": "B007FQB5RY",
-    "title": "RYOBI 18V ONE+ Akku-Säbelsäge RRS1801M",
-    "subtitle": "🔥 122° bei mydealz",
-    "category": "Werkzeug",
-    "price": 46.49,
-    "checkedAt": "2026-11-17T19:42:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B007FQB5RY.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 122,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T20:23:49.627Z"
-  },
-  {
-    "id": "auto-b0757jmqg8",
-    "asin": "B0757JMQG8",
-    "title": "Metallica Master of Puppets (Remastered 180g Vinyl)",
-    "subtitle": "🔥 136° bei mydealz",
-    "category": "Spielzeug & LEGO",
-    "price": 26.39,
-    "checkedAt": "2026-11-17T19:38:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0757JMQG8.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 136,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T20:23:43.958Z"
-  },
-  {
     "id": "auto-b00s82rzwi",
     "asin": "B00S82RZWI",
     "title": "HiKOKI 24-teiliger Bit-Satz mit Ratsche, Enthält Torx, PH, PZ, SL Bits …",
@@ -3140,44 +3073,5 @@
     "temperature": 154,
     "source": "auto",
     "telegramPostedAt": "2026-11-17T20:08:31.469Z"
-  },
-  {
-    "id": "auto-b0dzp21rxy",
-    "asin": "B0DZP21RXY",
-    "title": "UGREEN 40 Gbps USB‑C Kabel 240 W PD3.1 4K/8K Video Schnellladen …",
-    "subtitle": "🔥 130° bei mydealz",
-    "category": "Tech",
-    "price": 11.46,
-    "checkedAt": "2026-11-17T19:47:00.000Z",
-    "image": "https://static.mydealz.de/threads/raw/UvXwB/2874124_1/re/768x768/qt/55/2874124_1.jpg",
-    "temperature": 130,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T19:53:48.111Z"
-  },
-  {
-    "id": "auto-b0c2vzdvyx",
-    "asin": "B0C2VZDVYX",
-    "title": "12er Pack Antonio Rossi Boxershorts",
-    "subtitle": "🔥 390° bei mydealz",
-    "category": "Tech",
-    "price": 30.76,
-    "checkedAt": "2026-11-17T19:43:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C2VZDVYX.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 390,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T19:53:37.939Z"
-  },
-  {
-    "id": "auto-b09sfpjs27",
-    "asin": "B09SFPJS27",
-    "title": "UGREEN (90545) 2.4G Wireless Maus",
-    "subtitle": "🔥 426° bei mydealz",
-    "category": "Computer",
-    "price": 7.59,
-    "checkedAt": "2026-11-17T19:45:38.000Z",
-    "image": "https://static.mydealz.de/threads/raw/1tX3t/2835989_1/re/768x768/qt/55/2835989_1.jpg",
-    "temperature": 426,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T19:53:32.560Z"
   }
 ]
