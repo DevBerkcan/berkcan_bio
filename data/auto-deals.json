@@ -1,5 +1,92 @@
 [
   {
+    "id": "auto-b0dt6pzd5l",
+    "asin": "B0DT6PZD5L",
+    "title": "Philips i9000 Prestige Ultra, Nass- und Trockenrasierer, Druck- und …",
+    "category": "Beauty & Pflege",
+    "price": 259.99,
+    "checkedAt": "2026-11-18T10:27:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DT6PZD5L.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f5hvc5wj",
+    "asin": "B0F5HVC5WJ",
+    "title": "TCL 27G64 27 Zoll QD-Mini-LED Gaming-Monitor, QHD, 180 Hz, Fast-HVA, …",
+    "category": "Computer",
+    "price": 189,
+    "checkedAt": "2026-11-18T10:33:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F5HVC5WJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dnzgfj21",
+    "asin": "B0DNZGFJ21",
+    "title": "Zyxel Netzwerk Switch 5 Port",
+    "category": "Tech",
+    "price": 10.58,
+    "checkedAt": "2026-11-18T10:35:49.000Z",
+    "image": "https://static.mydealz.de/threads/raw/LXxgp/2874553_1/re/768x768/qt/55/2874553_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dbtzp7j7",
+    "asin": "B0DBTZP7J7",
+    "title": "Intenso Energy Ultra AAA Micro LR03 Alkaline Batterien 150er Pack, …",
+    "category": "Tech",
+    "price": 18.35,
+    "checkedAt": "2026-11-18T10:36:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DBTZP7J7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h343wkyz",
+    "asin": "B0H343WKYZ",
+    "title": "Baileys Lebkuchen – Schokoladengeschmack, limitierte Edition, 17% Vol, …",
+    "category": "Lebensmittel & Drinks",
+    "price": 11.89,
+    "checkedAt": "2026-11-18T10:38:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H343WKYZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0hb5hv1l4",
+    "asin": "B0HB5HV1L4",
+    "title": "Amazon: Ninja DZ400EUBK MAX Dual Zone Heißluftfritteuse – 9,5 l, 2 …",
+    "subtitle": "🔥 234° bei mydealz",
+    "category": "Küche",
+    "price": 159.99,
+    "checkedAt": "2026-11-18T10:35:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HB5HV1L4.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 234,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b096hft95j",
+    "asin": "B096HFT95J",
+    "title": "Super Mario Kart Koopa Panzer Licht 13,38 € in Grün Offiziell …",
+    "subtitle": "🔥 244° bei mydealz",
+    "category": "Tech",
+    "price": 13.38,
+    "checkedAt": "2026-11-18T10:34:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B096HFT95J.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 244,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T10:38:52.425Z"
+  },
+  {
+    "id": "queue-b0ccshv2w8",
+    "asin": "B0CCSHV2W8",
+    "title": "SteelSeries Arctis Nova 7P Wireless Headset",
+    "subtitle": "Multi-Platform Wireless Gaming-Headset (Generation 1).",
+    "category": "Gaming",
+    "price": 94.99,
+    "checkedAt": "2026-11-17T16:06:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CCSHV2W8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T10:38:37.851Z"
+  },
+  {
     "id": "auto-b0fbrkflrv",
     "asin": "B0FBRKFLRV",
     "title": "Controller Halter & Headset Ständer Cyberpunk",
@@ -1795,16 +1882,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0ccshv2w8",
-    "asin": "B0CCSHV2W8",
-    "title": "SteelSeries Arctis Nova 7P Wireless - GENERATION 1",
-    "category": "Tech",
-    "price": 94.99,
-    "checkedAt": "2026-11-17T16:06:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CCSHV2W8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0c9d4kl9d",
     "asin": "B0C9D4KL9D",
     "title": "Dreo Atom 316 Gold (DR-HSH006)",
@@ -3045,16 +3122,6 @@
     "telegramPostedAt": "2026-11-17T11:20:34.875Z"
   },
   {
-    "id": "auto-b0d5r765tm",
-    "asin": "B0D5R765TM",
-    "title": "MILLET Prolighter 22 (Schwarz/Blau)",
-    "category": "Tech",
-    "price": 57.53,
-    "checkedAt": "2026-11-17T10:38:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D5R765TM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0fj2y9gk1",
     "asin": "B0FJ2Y9GK1",
     "title": "CORSAIR 3500X RS-R ARGB Panoramaglas Mid-Tower-PC-Gehäuse – Weiß",
@@ -3077,58 +3144,5 @@
     "image": "https://m.media-amazon.com/images/P/B08SWFLL6Z.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T10:50:57.755Z"
-  },
-  {
-    "id": "auto-b0d9y821z7",
-    "asin": "B0D9Y821Z7",
-    "title": "TechniSat VIOLA 231 OD Baustellenradio mit DAB+, Bluetooth und …",
-    "category": "Tech",
-    "price": 89.62,
-    "checkedAt": "2026-11-17T10:24:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D9Y821Z7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0d9q4nb5v",
-    "asin": "B0D9Q4NB5V",
-    "title": "LÄSSIG Kinder Brotdose Edelstahl mit herausnehmbarer Trennung, …",
-    "category": "Tech",
-    "price": 7.53,
-    "checkedAt": "2026-11-17T10:32:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D9Q4NB5V.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b09ys1k5gt",
-    "asin": "B09YS1K5GT",
-    "title": "PALADONE - PlayStation Formen-Tasse",
-    "category": "Gaming",
-    "price": 12.78,
-    "checkedAt": "2026-11-17T10:34:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09YS1K5GT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0cz43567w",
-    "asin": "B0CZ43567W",
-    "title": "Anker Nano 240 W USB C Cable Flexible Coloured Braided [1.8 m]",
-    "category": "Tech",
-    "price": 11.3,
-    "checkedAt": "2026-11-17T10:35:12.000Z",
-    "image": "https://static.mydealz.de/threads/raw/n0TYZ/2873616_1/re/768x768/qt/55/2873616_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0bckjbwc9",
-    "asin": "B0BCKJBWC9",
-    "title": "GreenPan Elite 6-in-1 Kontaktgrill",
-    "category": "Licht & Garten",
-    "price": 172,
-    "oldPrice": 249,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T10:31:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BCKJBWC9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T11:05:46.982Z"
   }
 ]
