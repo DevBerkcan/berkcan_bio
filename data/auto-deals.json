@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0blxt48vc",
+    "asin": "B0BLXT48VC",
+    "title": "KOSMOS EXIT - Das Spiel - Die Jagd durch Amsterdam, Level: …",
+    "category": "Spielzeug & LEGO",
+    "price": 7.66,
+    "checkedAt": "2026-11-18T08:15:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BLXT48VC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b01n6lb4v4",
+    "asin": "B01N6LB4V4",
+    "title": "156-tlg. Meister Werkzeug Trolley mit Rollen & Teleskopgriff",
+    "category": "Werkzeug",
+    "price": 135.95,
+    "oldPrice": 159.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T09:02:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01N6LB4V4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fs1ylgtp",
+    "asin": "B0FS1YLGTP",
+    "title": "Turtle Beach Nintendo Switch 2 Afterglow Wireless Controller",
+    "category": "Gaming",
+    "price": 34.99,
+    "oldPrice": 52,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T09:05:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FS1YLGTP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T09:09:08.175Z"
+  },
+  {
     "id": "auto-b0fd9mq8z4",
     "asin": "B0FD9MQ8Z4",
     "title": "Refoss EM06P Smart Meter 3 Phasen, 6-Kanal WLAN Stromzähler mit Open …",
@@ -2134,16 +2169,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0f2mr53d6",
-    "asin": "B0F2MR53D6",
-    "title": "GL.iNet GL-BE3600 (Slate 7) Mobile Reise-Router, WiFi 7",
-    "category": "Computer",
-    "price": 132.79,
-    "checkedAt": "2026-11-17T12:57:52.000Z",
-    "image": "https://static.mydealz.de/threads/raw/0FzMd/2873784_1/re/768x768/qt/55/2873784_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b06y64m5zb",
     "asin": "B06Y64M5ZB",
     "title": "Prime: Iggy Pop The Idiot Vinyl LP",
@@ -2457,18 +2482,6 @@
     "image": "https://m.media-amazon.com/images/P/B07JGHHVS8.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T12:20:18.406Z"
-  },
-  {
-    "id": "queue-b0d384k6l9",
-    "asin": "B0D384K6L9",
-    "title": "Razer DeathAdder V3 HyperSpeed Gaming-Maus",
-    "subtitle": "Kabellos, nur 55 g, Focus X 26K Sensor.",
-    "category": "Computer",
-    "price": 55.49,
-    "checkedAt": "2026-11-17T09:02:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D384K6L9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T12:19:53.726Z"
   },
   {
     "id": "auto-b0dwxzmh5v",
@@ -3162,28 +3175,5 @@
     "temperature": 366,
     "source": "auto",
     "telegramPostedAt": "2026-11-17T09:22:08.588Z"
-  },
-  {
-    "id": "queue-b0fnych1vl",
-    "asin": "B0FNYCH1VL",
-    "title": "Philips Stacked Airfryer 4000 NA460 10 L, 2 Körbe",
-    "subtitle": "Zwei gestapelte Körbe mit 10 L, platzsparend, mit Touchscreen.",
-    "category": "Küche",
-    "price": 139.99,
-    "oldPrice": 177.99,
-    "checkedAt": "2026-11-17T08:56:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FNYCH1VL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T09:21:47.096Z"
-  },
-  {
-    "id": "auto-b000fwhwgs",
-    "asin": "B000FWHWGS",
-    "title": "Lavazza Crema e Aroma Kaffeebohnen 1kg",
-    "category": "Lebensmittel & Drinks",
-    "price": 12.38,
-    "checkedAt": "2026-11-17T08:57:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000FWHWGS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
