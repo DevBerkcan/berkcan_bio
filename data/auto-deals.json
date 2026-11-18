@@ -1,5 +1,71 @@
 [
   {
+    "id": "auto-b000p5t6ms",
+    "asin": "B000P5T6MS",
+    "title": "STANLEY - Pocket Tool Roll/Werkzeugtasche",
+    "category": "Werkzeug",
+    "price": 7.49,
+    "checkedAt": "2026-11-18T12:12:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000P5T6MS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09zft8mw2",
+    "asin": "B09ZFT8MW2",
+    "title": "Panasonic Series 900 ES-LV6U Nass- & Trockenrasierer",
+    "category": "Beauty & Pflege",
+    "price": 158.99,
+    "checkedAt": "2026-11-18T12:14:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09ZFT8MW2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07xm8zh7j",
+    "asin": "B07XM8ZH7J",
+    "title": "Panasonic Series 800 ES-LV67 & ES-LV97 Elektrischer Nass- & …",
+    "category": "Tech",
+    "price": 99,
+    "checkedAt": "2026-11-18T12:16:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07XM8ZH7J.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b000w34zew",
+    "asin": "B000W34ZEW",
+    "title": "Bosch Oberfräse POF 1400 ACE",
+    "category": "Tech",
+    "price": 100.99,
+    "checkedAt": "2026-11-18T12:16:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000W34ZEW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0g51rn8p7",
+    "asin": "B0G51RN8P7",
+    "title": "Sentimental Value (Blu-ray)",
+    "subtitle": "🔥 103° bei mydealz",
+    "category": "Bücher & Filme",
+    "price": 10.4,
+    "checkedAt": "2026-11-18T12:12:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G51RN8P7.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 103,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T12:23:07.436Z"
+  },
+  {
+    "id": "auto-b0cx98hh7z",
+    "asin": "B0CX98HH7Z",
+    "title": "Josie, der Tiger und die Fische (Blu-ray) Anime",
+    "subtitle": "🔥 109° bei mydealz",
+    "category": "Bücher & Filme",
+    "price": 10.97,
+    "checkedAt": "2026-11-18T12:06:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CX98HH7Z.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 109,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T12:23:01.524Z"
+  },
+  {
     "id": "auto-b0hbx6t38v",
     "asin": "B0HBX6T38V",
     "title": "RuneScape: Dragonwilds - Playstation 5 & Xbox Series X",
@@ -69,7 +135,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-18T11:53:18.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GZNZ8XSJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T12:23:12.400Z"
   },
   {
     "id": "auto-b0g65fw24b",
@@ -3057,26 +3124,6 @@
     "telegramPostedAt": "2026-11-17T13:05:01.586Z"
   },
   {
-    "id": "auto-b0dpq6g71q",
-    "asin": "B0DPQ6G71Q",
-    "title": "Cosori Airfryer, Turbo Tower Pro, 10,8L mit Keramikbeschichtung",
-    "category": "Küche",
-    "price": 182.91,
-    "checkedAt": "2026-11-17T12:19:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DPQ6G71Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gnmw7qrd",
-    "asin": "B0GNMW7QRD",
-    "title": "Krups Harmony EA5088E0 Kaffeevollautomat Schwarz – 4 Kafferezepte, …",
-    "category": "Küche",
-    "price": 249.99,
-    "checkedAt": "2026-11-17T12:21:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GNMW7QRD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0gn99bxfq",
     "asin": "B0GN99BXFQ",
     "title": "SteelSeries Arctis Nova Pro Omni: Wireless Gaming-Headset mit ANC",
@@ -3115,121 +3162,5 @@
     "checkedAt": "2026-11-17T12:30:23.000Z",
     "image": "https://static.mydealz.de/threads/raw/wI7l0/2873746_1/re/768x768/qt/55/2873746_1.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0dbqy5ms2",
-    "asin": "B0DBQY5MS2",
-    "title": "Steingut Geschirrset 4 Personen Ibiza 12 tlg.",
-    "category": "Küche",
-    "price": 49.95,
-    "oldPrice": 129.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T12:22:26.000Z",
-    "image": "https://static.mydealz.de/threads/raw/AgeJH/2873737_1/re/768x768/qt/55/2873737_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T12:35:13.531Z"
-  },
-  {
-    "id": "auto-b09km4xxg6",
-    "asin": "B09KM4XXG6",
-    "title": "Razer Kaira Pro PS5 Headset, Dual Wireless, HyperSense Haptik, 50mm …",
-    "category": "Gaming",
-    "price": 69.49,
-    "checkedAt": "2026-11-17T12:08:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09KM4XXG6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T16:17:40.422Z"
-  },
-  {
-    "id": "auto-b0bp1b52gd",
-    "asin": "B0BP1B52GD",
-    "title": "GRIFEMA Schlüsseltresor Wandmontage Wetterfest - Schlüsselsafe 4 …",
-    "category": "Tech",
-    "price": 8.84,
-    "checkedAt": "2026-11-17T12:11:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BP1B52GD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gfxbw7yx",
-    "asin": "B0GFXBW7YX",
-    "title": "ASUS Prime 850W Gold Black Edition ATX-Netzteil, 850 W, ATX 3.1, PCIe …",
-    "category": "Zubehör & Laden",
-    "price": 79,
-    "checkedAt": "2026-11-17T12:17:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GFXBW7YX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dp7blrbg",
-    "asin": "B0DP7BLRBG",
-    "title": "MILLET GRAVIC 20 (Schwarz)",
-    "category": "Tech",
-    "price": 68.03,
-    "checkedAt": "2026-11-17T12:18:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DP7BLRBG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b08hgpz1q5",
-    "asin": "B08HGPZ1Q5",
-    "title": "Grateful Dead - American Beauty Vinyl",
-    "subtitle": "🔥 100° bei mydealz",
-    "category": "Tech",
-    "price": 17.59,
-    "checkedAt": "2026-11-17T12:16:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08HGPZ1Q5.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 100,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gvp7xy36",
-    "asin": "B0GVP7XY36",
-    "title": "Dyson V8 Origin (2026) Kabelloser Staubsauger, Silver und Nickel, 130 …",
-    "subtitle": "🔥 703° bei mydealz",
-    "category": "Haushalt",
-    "price": 249,
-    "checkedAt": "2026-11-17T12:09:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GVP7XY36.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 703,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T12:50:15.399Z"
-  },
-  {
-    "id": "auto-b095z3hvsc",
-    "asin": "B095Z3HVSC",
-    "title": "ONLY ONLJUICY Life HW Wide Leg NAS365 NOOS",
-    "category": "Tech",
-    "price": 25.72,
-    "oldPrice": 49.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T12:14:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B095Z3HVSC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b09zj7bfcp",
-    "asin": "B09ZJ7BFCP",
-    "title": "ONLY Mädchen Kogcomet Wide DNM Pim528 Noos Hose, Washed Black, 152 EU",
-    "category": "Tech",
-    "price": 14.23,
-    "oldPrice": 29.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T12:13:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09ZJ7BFCP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07jghhvs8",
-    "asin": "B07JGHHVS8",
-    "title": "PUMA Damen Carina L Sneakers, Puma White-Puma White-Puma Silver, 39 EU",
-    "category": "Mode & Reise",
-    "price": 30.19,
-    "oldPrice": 64.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T12:18:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07JGHHVS8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T12:20:18.406Z"
   }
 ]
