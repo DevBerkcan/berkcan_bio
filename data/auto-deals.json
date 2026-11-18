@@ -1,5 +1,65 @@
 [
   {
+    "id": "auto-b08pvptnzl",
+    "asin": "B08PVPTNZL",
+    "title": "Anker 100W USB C auf USB C Kabel PD 3.0 Schnellladen [3m]",
+    "category": "Tech",
+    "price": 7.49,
+    "checkedAt": "2026-11-18T13:06:57.000Z",
+    "image": "https://static.mydealz.de/threads/raw/8b06H/2874714_1/re/768x768/qt/55/2874714_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0g27qr496",
+    "asin": "B0G27QR496",
+    "title": "Mini Brands Mini Vinyl Playset Series 1 von ZURU",
+    "category": "Tech",
+    "price": 18.69,
+    "checkedAt": "2026-11-18T13:07:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G27QR496.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dgqsy3zt",
+    "asin": "B0DGQSY3ZT",
+    "title": "Philips Hue Play HDMI Sync Box 8K statt 276,87 bzw. 256,87€ - …",
+    "category": "Smart Home",
+    "price": 256.87,
+    "checkedAt": "2026-11-18T13:08:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DGQSY3ZT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00im7biy0",
+    "asin": "B00IM7BIY0",
+    "title": "Bosch Professional 32-tlg. Schrauberbit-Set Extra Hard inkl. …",
+    "category": "Werkzeug",
+    "price": 7.98,
+    "checkedAt": "2026-11-18T13:13:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00IM7BIY0.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gx68m1b5",
+    "asin": "B0GX68M1B5",
+    "title": "Comfee Luftentfeuchter mit App Steuerung 16L",
+    "category": "Haushalt",
+    "price": 134.99,
+    "checkedAt": "2026-11-18T13:18:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GX68M1B5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b003veilmg",
+    "asin": "B003VEILMG",
+    "title": "Bosch Professional GSR 12V-15 Akkubohrschrauber",
+    "category": "Werkzeug",
+    "price": 49.99,
+    "checkedAt": "2026-11-18T13:20:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B003VEILMG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b00061q83q",
     "asin": "B00061Q83Q",
     "title": "Green Day - American Idiot [Vinyl 2LP, Doppelvinyl]",
@@ -1173,7 +1233,8 @@
     "price": 26.59,
     "checkedAt": "2026-11-18T08:05:22.000Z",
     "image": "https://static.mydealz.de/threads/raw/bQ9Uz/2874399_1/re/768x768/qt/55/2874399_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T13:22:31.228Z"
   },
   {
     "id": "auto-b0ds2b3p2b",
@@ -3014,43 +3075,5 @@
     "image": "https://static.mydealz.de/threads/raw/ZCezt/2873811_1/re/768x768/qt/55/2873811_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T14:18:49.312Z"
-  },
-  {
-    "id": "auto-b0d6bq8f34",
-    "asin": "B0D6BQ8F34",
-    "title": "Nightmare Before Christmas Salz- & Pfefferstreuer",
-    "category": "Tech",
-    "price": 11.18,
-    "oldPrice": 19.85,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T13:08:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D6BQ8F34.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0f3wlvmv9",
-    "asin": "B0F3WLVMV9",
-    "title": "Venom Nintendo Switch 2/Nintendo Switch/Nintendo Switch OLED Travel …",
-    "category": "Gaming",
-    "price": 21.27,
-    "oldPrice": 38.89,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T13:18:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F3WLVMV9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T13:34:32.729Z"
-  },
-  {
-    "id": "auto-b0f3wjq19h",
-    "asin": "B0F3WJQ19H",
-    "title": "Venom Tragetasche + Panzerglas für Nintendo Switch 2",
-    "category": "Gaming",
-    "price": 7.5,
-    "oldPrice": 19.29,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T13:11:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F3WJQ19H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T13:19:48.163Z"
   }
 ]
