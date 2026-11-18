@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-b0dxfbqql4",
+    "asin": "B0DXFBQQL4",
+    "title": "SIKA - Epoxidharz Bodenbeschichtung - Sikafloor Garage - Kieselgrau - …",
+    "category": "Tech",
+    "price": 126.69,
+    "checkedAt": "2026-11-18T17:35:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DXFBQQL4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gc7zg4zx",
+    "asin": "B0GC7ZG4ZX",
+    "title": "VULKKANO A5 ARC MKII Aktiv PC Lautsprecher für TV, HiFi …",
+    "category": "TV & Heimkino",
+    "price": 139.99,
+    "checkedAt": "2026-11-18T17:36:52.000Z",
+    "image": "https://static.mydealz.de/threads/raw/nGc3U/2874961_1/re/768x768/qt/55/2874961_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b094r672d3",
+    "asin": "B094R672D3",
+    "title": "Duracell Plus AA Mignon Alkaline Batteries, 1.5 V LR6 MN1500, Pack of …",
+    "category": "Tech",
+    "price": 25.99,
+    "checkedAt": "2026-11-18T17:41:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B094R672D3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0d5hy3f9x",
     "asin": "B0D5HY3F9X",
     "title": "Corsair SF750 (2024) ATX-Netzteil, 750 W, SFX, ATX 3.1, PCIe 5.1, 80 …",
@@ -287,7 +317,8 @@
     "price": 39,
     "checkedAt": "2026-11-18T15:43:06.000Z",
     "image": "https://m.media-amazon.com/images/P/B09C62NZVH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T17:52:01.734Z"
   },
   {
     "id": "auto-b0gr3wvdwm",
@@ -361,7 +392,8 @@
     "price": 115,
     "checkedAt": "2026-11-18T15:30:10.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DQ5LR31N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T17:51:46.712Z"
   },
   {
     "id": "auto-b0d49pz1hm",
@@ -1079,7 +1111,8 @@
     "price": 34.99,
     "checkedAt": "2026-11-18T12:02:14.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CMTQPWQ8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T17:51:56.236Z"
   },
   {
     "id": "auto-b0cwndd7v3",
@@ -3090,18 +3123,5 @@
     "checkedAt": "2026-11-17T18:27:20.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DWNBSR4X.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b07ymfvq15",
-    "asin": "B07YMFVQ15",
-    "title": "Sicario Teil 1 + 2 als Set",
-    "subtitle": "🔥 191° bei mydealz",
-    "category": "Tech",
-    "price": 11.99,
-    "checkedAt": "2026-11-17T17:44:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07YMFVQ15.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 191,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T17:47:02.218Z"
   }
 ]
