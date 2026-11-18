@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b01mqdu36r",
+    "asin": "B01MQDU36R",
+    "title": "Amazon Prime oder Hornbach Tiefpreisgarantie: Gardena Premium …",
+    "category": "Tech",
+    "price": 19.8,
+    "checkedAt": "2026-11-18T14:00:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01MQDU36R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dd7mfywz",
+    "asin": "B0DD7MFYWZ",
+    "title": "Shark HD542EU Haartrockner mokka silber",
+    "category": "Haushalt",
+    "price": 124.99,
+    "checkedAt": "2026-11-18T14:01:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DD7MFYWZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0cspmt47x",
     "asin": "B0CSPMT47X",
     "title": "Sky Team Brettspiel, Spiel des Jahres 2024",
@@ -71,7 +91,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-18T13:38:55.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CZPKPFTW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T14:07:02.567Z"
   },
   {
     "id": "auto-b0b3f3bh83",
@@ -3094,27 +3115,6 @@
     "telegramPostedAt": "2026-11-17T14:33:35.958Z"
   },
   {
-    "id": "auto-b01n7tiwtd",
-    "asin": "B01N7TIWTD",
-    "title": "fischer DuoPower 8 x 65 – Universaldübel, leistungsstarker …",
-    "category": "Tech",
-    "price": 6.99,
-    "checkedAt": "2026-11-17T14:04:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01N7TIWTD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T22:51:55.826Z"
-  },
-  {
-    "id": "auto-b00cd229q6",
-    "asin": "B00CD229Q6",
-    "title": "BWT Wasserfilterkartuschen + Magnesium",
-    "category": "Tech",
-    "price": 25.42,
-    "checkedAt": "2026-11-17T14:06:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00CD229Q6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b09ft4k4ld",
     "asin": "B09FT4K4LD",
     "title": "Xyladecor Holzschutz-Lasur 2in1, Universeller Allwetter-Schutz – Der …",
@@ -3153,39 +3153,6 @@
     "price": 27.99,
     "checkedAt": "2026-11-17T14:17:12.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FT3YXT6F.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0f8r76ps7",
-    "asin": "B0F8R76PS7",
-    "title": "Paladone Princess Peach Thermoeffekt-Tasse 300 ml",
-    "category": "Tech",
-    "price": 9.68,
-    "oldPrice": 15.64,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T14:04:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F8R76PS7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T14:48:26.194Z"
-  },
-  {
-    "id": "auto-b0fskrjfkt",
-    "asin": "B0FSKRJFKT",
-    "title": "EarFun Air Pro 4+",
-    "category": "Tech",
-    "price": 64.8,
-    "checkedAt": "2026-11-17T13:55:16.000Z",
-    "image": "https://static.mydealz.de/threads/raw/k8Kff/2873830_1/re/768x768/qt/55/2873830_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b09m2d69zc",
-    "asin": "B09M2D69ZC",
-    "title": "Überwachungskamera (WLAN, Wi-Fi 6, für Innenräume)",
-    "category": "Smart Home",
-    "price": 13.29,
-    "checkedAt": "2026-11-17T14:02:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09M2D69ZC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   }
 ]
