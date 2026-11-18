@@ -1,5 +1,108 @@
 [
   {
+    "id": "auto-b0fnn9tb9m",
+    "asin": "B0FNN9TB9M",
+    "title": "Call of Duty: Black Ops 7 - PlayStation 5",
+    "category": "Gaming",
+    "price": 9.99,
+    "checkedAt": "2026-11-18T23:09:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FNN9TB9M.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:22:08.793Z"
+  },
+  {
+    "id": "auto-b07bxdv3hh",
+    "asin": "B07BXDV3HH",
+    "title": "Leatherman Wave+ Multi-Tool 18-in-1, Schwarz und Edelstahl für",
+    "category": "Tech",
+    "price": 103.35,
+    "checkedAt": "2026-11-18T23:10:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07BXDV3HH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:22:03.426Z"
+  },
+  {
+    "id": "auto-b0f2ncqytx",
+    "asin": "B0F2NCQYTX",
+    "title": "Xbox Wireless Controller Robot White, für Xbox Series X|S, One, PC, …",
+    "category": "Gaming",
+    "price": 48.74,
+    "checkedAt": "2026-11-18T23:10:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F2NCQYTX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:21:58.135Z"
+  },
+  {
+    "id": "auto-b0f849fc3y",
+    "asin": "B0F849FC3Y",
+    "title": "Mafia: The Old Country",
+    "category": "Tech",
+    "price": 22.49,
+    "checkedAt": "2026-11-18T23:13:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F849FC3Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:21:52.833Z"
+  },
+  {
+    "id": "auto-b0h3vzp6jq",
+    "asin": "B0H3VZP6JQ",
+    "title": "Toy Story: Retro Roundup! + Toy Story 3 Complete Edition - Nintendo …",
+    "category": "Gaming",
+    "price": 43.95,
+    "checkedAt": "2026-11-18T23:14:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H3VZP6JQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:21:47.724Z"
+  },
+  {
+    "id": "auto-b0f2b1m9tb",
+    "asin": "B0F2B1M9TB",
+    "title": "Huawei Watch Fit 4 Smartwatch, GPS, AMOLED, bis 10 Tage Akku, 5 ATM, …",
+    "category": "Smartphone & Tablet",
+    "price": 99,
+    "checkedAt": "2026-11-18T23:17:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F2B1M9TB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:21:42.639Z"
+  },
+  {
+    "id": "auto-b0h3v43g15",
+    "asin": "B0H3V43G15",
+    "title": "Gaiatop Handwärmer wiederaufladbar 2er-Pack",
+    "category": "Tech",
+    "price": 12.99,
+    "checkedAt": "2026-11-18T23:19:32.000Z",
+    "image": "https://static.mydealz.de/threads/raw/1gdbz/2875191_1/re/768x768/qt/55/2875191_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:21:35.898Z"
+  },
+  {
+    "id": "auto-b0d9q8h47m",
+    "asin": "B0D9Q8H47M",
+    "title": "Titel: Fullluwaa Boxershorts Herren 10er Pack, Baumwolle, ohne …",
+    "category": "Tech",
+    "price": 23.39,
+    "oldPrice": 27.1,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T23:18:53.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Frjqf/2875189_1/re/768x768/qt/55/2875189_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:21:29.523Z"
+  },
+  {
+    "id": "auto-b0f2gwlq7l",
+    "asin": "B0F2GWLQ7L",
+    "title": "adidas Terrex Eastrail 3 Climaproof Wanderschuh Herren, Core …",
+    "category": "Sport & Outdoor",
+    "price": 47.12,
+    "oldPrice": 56.98,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T23:13:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F2GWLQ7L.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:21:18.908Z"
+  },
+  {
     "id": "auto-b0dgxkf4g8",
     "asin": "B0DGXKF4G8",
     "title": "UGREEN Tablet Ständer 360° drehbar & höhenverstellbar",
@@ -162,7 +265,8 @@
     "price": 169.99,
     "checkedAt": "2026-11-18T22:04:59.000Z",
     "image": "https://m.media-amazon.com/images/P/B07X4DS86H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T23:22:13.036Z"
   },
   {
     "id": "auto-b00v4lacq6",
@@ -3101,16 +3205,5 @@
     "image": "https://m.media-amazon.com/images/P/B009SLYYCW.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T23:51:51.508Z"
-  },
-  {
-    "id": "auto-b0b2l641tc",
-    "asin": "B0B2L641TC",
-    "title": "Dymatize Creatine Monohydrate - Creapure für 49,98/kg",
-    "category": "Tech",
-    "price": 24.99,
-    "checkedAt": "2026-11-17T23:16:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B2L641TC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:21:43.492Z"
   }
 ]
