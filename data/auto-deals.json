@@ -1,5 +1,37 @@
 [
   {
+    "id": "auto-b0cptbbqjr",
+    "asin": "B0CPTBBQJR",
+    "title": "Mixa Urea Cica Balsam, gegen rissige und trockene Haut, 150 ml",
+    "category": "Tech",
+    "price": 5.09,
+    "checkedAt": "2026-11-18T20:08:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CPTBBQJR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09xqx5gt5",
+    "asin": "B09XQX5GT5",
+    "title": "HUDORA Vario Turnreck - 7-fach höhenverstellbar",
+    "category": "Tech",
+    "price": 84.3,
+    "checkedAt": "2026-11-18T20:09:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09XQX5GT5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T20:23:07.560Z"
+  },
+  {
+    "id": "auto-b00mmzv88o",
+    "asin": "B00MMZV88O",
+    "title": "Tom & Jerry - The Ultimate Collection ~ 15,99€",
+    "category": "Tech",
+    "price": 15.99,
+    "checkedAt": "2026-11-18T20:17:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00MMZV88O.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T20:22:56.325Z"
+  },
+  {
     "id": "auto-b07w6jnyxv",
     "asin": "B07W6JNYXV",
     "title": "Logitech G Pro X Superlight 2 Lightspeed, schwarz, kabellose …",
@@ -601,7 +633,8 @@
     "price": 22.39,
     "checkedAt": "2026-11-18T15:58:00.000Z",
     "image": "https://m.media-amazon.com/images/P/B07X443PFF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T20:22:47.195Z"
   },
   {
     "id": "auto-b00l540uuu",
@@ -3021,28 +3054,6 @@
     "telegramPostedAt": "2026-11-17T21:08:21.605Z"
   },
   {
-    "id": "auto-b0fftb14vw",
-    "asin": "B0FFTB14VW",
-    "title": "Ame & Yuki - Die Wolfskinder ~ 20,94€",
-    "category": "Tech",
-    "price": 20.94,
-    "checkedAt": "2026-11-17T20:07:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FFTB14VW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T21:37:54.514Z"
-  },
-  {
-    "id": "auto-b0dkfnvvb5",
-    "asin": "B0DKFNVVB5",
-    "title": "Stanley 1913 Classic Legendary Thermosflasche 1.9L - Hammertone Lake",
-    "category": "Sport & Outdoor",
-    "price": 48.39,
-    "checkedAt": "2026-11-17T20:17:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DKFNVVB5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T20:53:40.855Z"
-  },
-  {
     "id": "auto-b09s6cx3m2",
     "asin": "B09S6CX3M2",
     "title": "Christiane F. - Wir Kinder vom Bahnhof Zoo (4K Ultra HD) (+ Blu-ray2D) …",
@@ -3067,18 +3078,5 @@
     "temperature": 116,
     "source": "auto",
     "telegramPostedAt": "2026-11-17T20:38:43.182Z"
-  },
-  {
-    "id": "auto-b00s82rzwi",
-    "asin": "B00S82RZWI",
-    "title": "HiKOKI 24-teiliger Bit-Satz mit Ratsche, Enthält Torx, PH, PZ, SL Bits …",
-    "subtitle": "🔥 341° bei mydealz",
-    "category": "Tech",
-    "price": 14.87,
-    "checkedAt": "2026-11-17T20:19:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00S82RZWI.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 341,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T20:23:34.221Z"
   }
 ]
