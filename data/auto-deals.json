@@ -1,5 +1,71 @@
 [
   {
+    "id": "auto-b097q2mst3",
+    "asin": "B097Q2MST3",
+    "title": "deuter Pants Protector (Hosenschutz)",
+    "category": "Tech",
+    "price": 8.79,
+    "checkedAt": "2026-11-18T11:12:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B097Q2MST3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f9ljf6bv",
+    "asin": "B0F9LJF6BV",
+    "title": "Shelly 1 Gen4 4er Pack - WLAN Smart Relais Schalter, Potentialfreier …",
+    "category": "Tech",
+    "price": 57.36,
+    "checkedAt": "2026-11-18T11:19:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F9LJF6BV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dnrf5rdc",
+    "asin": "B0DNRF5RDC",
+    "title": "LG Ergo 32UN880K-B 31.5\" Monitor 4k mit ergonomischen Fuß",
+    "category": "Computer",
+    "price": 299,
+    "checkedAt": "2026-11-18T11:20:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DNRF5RDC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09m2zk6k8",
+    "asin": "B09M2ZK6K8",
+    "title": "Tenda CH3 3MP WLAN-Überwachungskamera für den Außenbereich",
+    "category": "Smart Home",
+    "price": 28.49,
+    "checkedAt": "2026-11-18T11:21:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09M2ZK6K8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b017xyb27k",
+    "asin": "B017XYB27K",
+    "title": "EMSA Clip & Close Eiswürfelbox mit Deckel und flexiblem Boden, Made in …",
+    "category": "Tech",
+    "price": 7.55,
+    "oldPrice": 9.68,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T11:16:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B017XYB27K.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:23:48.025Z"
+  },
+  {
+    "id": "auto-b0b3qwfm35",
+    "asin": "B0B3QWFM35",
+    "title": "NZXT F120 RGB Triple Pack, 3x 120 mm PWM-Lüfter mit RGB-Controller, …",
+    "category": "Gaming",
+    "price": 19.99,
+    "oldPrice": 29.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T11:08:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B3QWFM35.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:23:43.006Z"
+  },
+  {
     "id": "auto-b0clrln5n3",
     "asin": "B0CLRLN5N3",
     "title": "Columbia Steens Mountain Half Snap II, Fleece Pullover",
@@ -2823,16 +2889,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b09dd1n4wp",
-    "asin": "B09DD1N4WP",
-    "title": "Weller WLIRPK8023C 80-Watt-Lötkolbenkit",
-    "category": "Werkzeug",
-    "price": 32.87,
-    "checkedAt": "2026-11-17T12:21:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09DD1N4WP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0gnmw7qrd",
     "asin": "B0GNMW7QRD",
     "title": "Krups Harmony EA5088E0 Kaffeevollautomat Schwarz – 4 Kafferezepte, …",
@@ -3199,19 +3255,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0fp5sz9pg",
-    "asin": "B0FP5SZ9PG",
-    "title": "Razer Kishi V3 Phantom Controller für iPhone & Android",
-    "category": "Gaming",
-    "price": 77.09,
-    "oldPrice": 89.03,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T11:22:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FP5SZ9PG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T19:24:00.353Z"
-  },
-  {
     "id": "auto-b0044n2tcg",
     "asin": "B0044N2TCG",
     "title": "Ritter serano 7 Duo Plus Allesschneider",
@@ -3223,25 +3266,5 @@
     "image": "https://m.media-amazon.com/images/P/B0044N2TCG.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T11:35:25.777Z"
-  },
-  {
-    "id": "auto-b07w5jj85z",
-    "asin": "B07W5JJ85Z",
-    "title": "Logitech Signature M650 L Kabellose Maus, Bluetooth und Logi Bolt, 5 …",
-    "category": "Computer",
-    "price": 24.99,
-    "checkedAt": "2026-11-17T11:12:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07W5JJ85Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07nj9ty6l",
-    "asin": "B07NJ9TY6L",
-    "title": "JACK & JONES Herren Glenn Original Jeans",
-    "category": "Mode & Reise",
-    "price": 18.95,
-    "checkedAt": "2026-11-17T11:15:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07NJ9TY6L.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
