@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b099wks8zb",
+    "asin": "B099WKS8ZB",
+    "title": "Brennenstuhl Premium-Line 6-Fach mit Überspannungsschutz",
+    "category": "Tech",
+    "price": 25.12,
+    "checkedAt": "2026-11-18T12:48:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B099WKS8ZB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0hgr3549h",
     "asin": "B0HGR3549H",
     "title": "Red Bull Energy Drink mit In-Game Code für EA Sports FC 2027",
@@ -49,7 +59,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-18T12:02:20.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CPLD53SM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T12:53:09.790Z"
   },
   {
     "id": "auto-b0gy47plfq",
@@ -604,7 +615,8 @@
     "price": 259.99,
     "checkedAt": "2026-11-18T10:27:41.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DT6PZD5L.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T12:53:05.367Z"
   },
   {
     "id": "auto-b0f5hvc5wj",
@@ -614,7 +626,8 @@
     "price": 189,
     "checkedAt": "2026-11-18T10:33:43.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F5HVC5WJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T12:53:00.305Z"
   },
   {
     "id": "auto-b0dnzgfj21",
@@ -3052,16 +3065,6 @@
     "telegramPostedAt": "2026-11-17T13:19:48.163Z"
   },
   {
-    "id": "auto-b0gvk2bgkq",
-    "asin": "B0GVK2BGKQ",
-    "title": "Comfee 262L Kühl-Gefrier-Kombkination",
-    "category": "Tech",
-    "price": 271.39,
-    "checkedAt": "2026-11-17T12:49:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GVK2BGKQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b06y64m5zb",
     "asin": "B06Y64M5ZB",
     "title": "Prime: Iggy Pop The Idiot Vinyl LP",
@@ -3093,81 +3096,5 @@
     "image": "https://m.media-amazon.com/images/P/B01M8M8G23.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T14:04:04.580Z"
-  },
-  {
-    "id": "auto-b097f1mfpt",
-    "asin": "B097F1MFPT",
-    "title": "Park Tool PCS-9.3 Fahrrad-Montageständer",
-    "category": "Sport & Outdoor",
-    "price": 148.69,
-    "checkedAt": "2026-11-17T12:45:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B097F1MFPT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fsflrs7q",
-    "asin": "B0FSFLRS7Q",
-    "title": "10 Stück Kindersicherung Schrank - - auch in schwarz",
-    "category": "Tech",
-    "price": 8.99,
-    "checkedAt": "2026-11-17T12:46:05.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Y9pkN/2873766_1/re/768x768/qt/55/2873766_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0ccy6vg8z",
-    "asin": "B0CCY6VG8Z",
-    "title": "Dreo Luftbefeuchter mit Aroma Diffusor und Nachtlicht 4L",
-    "category": "Tech",
-    "price": 37.72,
-    "checkedAt": "2026-11-17T12:46:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CCY6VG8Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b084gqbblr",
-    "asin": "B084GQBBLR",
-    "title": "EINHELL - Akku-Rasenmäher GE-cm 36/36 Li Kit",
-    "category": "Werkzeug",
-    "price": 202.99,
-    "checkedAt": "2026-11-17T12:47:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B084GQBBLR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fw4fl7zm",
-    "asin": "B0FW4FL7ZM",
-    "title": "Philips Hue OmniGlow Mikro LED-Lightstrip, Ambientebeleuchtung, 3m",
-    "category": "Smart Home",
-    "price": 101.9,
-    "checkedAt": "2026-11-17T12:47:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FW4FL7ZM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b08gk9qs9g",
-    "asin": "B08GK9QS9G",
-    "title": "Paladone Minecraft Blockbaulampe",
-    "category": "Tech",
-    "price": 27.58,
-    "oldPrice": 36.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T12:45:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08GK9QS9G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T22:37:04.921Z"
-  },
-  {
-    "id": "auto-b00zwouh4s",
-    "asin": "B00ZWOUH4S",
-    "title": "Logitech G Driving Force Schalthebel für realistisches Sim Racing",
-    "category": "Tech",
-    "price": 24.99,
-    "oldPrice": 34.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T12:41:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00ZWOUH4S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T13:05:01.586Z"
   }
 ]
