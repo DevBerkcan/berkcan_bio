@@ -1,5 +1,107 @@
 [
   {
+    "id": "auto-b0gwd3jcyy",
+    "asin": "B0GWD3JCYY",
+    "title": "SwitchBot E-Ink Home Dashboard",
+    "category": "Tech",
+    "price": 74.99,
+    "checkedAt": "2026-11-18T07:59:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GWD3JCYY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cz9lh53b",
+    "asin": "B0CZ9LH53B",
+    "title": "Anker Zolo Powerbank 20.000 mAh / 30 W mit USB-C-Kabel",
+    "category": "Zubehör & Laden",
+    "price": 26.59,
+    "checkedAt": "2026-11-18T08:05:22.000Z",
+    "image": "https://static.mydealz.de/threads/raw/bQ9Uz/2874399_1/re/768x768/qt/55/2874399_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ds2b3p2b",
+    "asin": "B0DS2B3P2B",
+    "title": "DJI Osmo Action 4 Essential-Combo, 4K/120fps Action-Kamera, 1/1,3 Zoll …",
+    "category": "Foto & Video",
+    "price": 176,
+    "checkedAt": "2026-11-18T08:07:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DS2B3P2B.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b096n81ggd",
+    "asin": "B096N81GGD",
+    "title": "KitchenAid Eiscremelöffel, Portionierer – Empire Rot",
+    "subtitle": "🔥 100° bei mydealz",
+    "category": "Beauty & Pflege",
+    "price": 9.29,
+    "checkedAt": "2026-11-18T07:59:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B096N81GGD.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 100,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b095gl3mss",
+    "asin": "B095GL3MSS",
+    "title": "Notorious B.I.G. - Ready To Die",
+    "subtitle": "🔥 104° bei mydealz",
+    "category": "Tech",
+    "price": 19.19,
+    "checkedAt": "2026-11-18T07:59:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B095GL3MSS.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 104,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b06xfs8nfb",
+    "asin": "B06XFS8NFB",
+    "title": "Yankee Candle – Christmas Magic",
+    "subtitle": "🔥 107° bei mydealz",
+    "category": "Tech",
+    "price": 19.94,
+    "checkedAt": "2026-11-18T07:59:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B06XFS8NFB.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 107,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b01fokjans",
+    "asin": "B01FOKJANS",
+    "title": "Fischer Meister-Box DUOPOWER-Dübel+Schrauben 160-teilig",
+    "subtitle": "🔥 111° bei mydealz",
+    "category": "Tech",
+    "price": 9.99,
+    "checkedAt": "2026-11-18T07:58:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01FOKJANS.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 111,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b077bcjykw",
+    "asin": "B077BCJYKW",
+    "title": "Lavazza Tierra for Planet Bio-Organic (ganze Bohnen) 1 kg",
+    "subtitle": "🔥 120° bei mydealz",
+    "category": "Tech",
+    "price": 16.19,
+    "checkedAt": "2026-11-18T07:59:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B077BCJYKW.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 120,
+    "source": "auto"
+  },
+  {
+    "id": "queue-b0001p0ckc",
+    "asin": "B0001P0CKC",
+    "title": "KNIPEX Cobra Wasserpumpenzange 250 mm",
+    "subtitle": "Klassiker: Feinverstellung per Knopfdruck, Muttern bis 46 mm, Rohre bis 52 mm.",
+    "category": "Werkzeug",
+    "price": 23.94,
+    "checkedAt": "2026-11-18T06:22:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0001P0CKC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T08:08:55.573Z"
+  },
+  {
     "id": "auto-b0gz76sh98",
     "asin": "B0GZ76SH98",
     "title": "adidas Men's ULTIMATE365 CLIMAPROOF JACKE / Verschieden Größen",
@@ -160,7 +262,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-18T07:22:46.000Z",
     "image": "https://m.media-amazon.com/images/P/B07BCLX3WT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T08:09:16.773Z"
   },
   {
     "id": "auto-b075jlsk72",
@@ -298,16 +401,6 @@
     "price": 20.89,
     "checkedAt": "2026-11-18T06:13:43.000Z",
     "image": "https://m.media-amazon.com/images/P/B0001P154Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0001p0ckc",
-    "asin": "B0001P0CKC",
-    "title": "KNIPEX Cobra Wasserpumpenzange, 250 mm, Muttern bis 46 mm, 87 02 250 …",
-    "category": "Werkzeug",
-    "price": 23.94,
-    "checkedAt": "2026-11-18T06:22:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0001P0CKC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -3151,27 +3244,5 @@
     "temperature": 113,
     "source": "auto",
     "telegramPostedAt": "2026-11-17T08:22:18.317Z"
-  },
-  {
-    "id": "auto-b0blzj6g2f",
-    "asin": "B0BLZJ6G2F",
-    "title": "TRELOCK FS 280/100 TWO.GO Code Faltschloss – Länge 100 cm – …",
-    "category": "Tech",
-    "price": 33.59,
-    "checkedAt": "2026-11-17T07:54:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BLZJ6G2F.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:07:23.804Z"
-  },
-  {
-    "id": "auto-b001bay79i",
-    "asin": "B001BAY79I",
-    "title": "Brennenstuhl Baustellen-Verlängerungskabel 10m IP44",
-    "category": "Tech",
-    "price": 13.4,
-    "checkedAt": "2026-11-17T07:56:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B001BAY79I.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T08:07:18.592Z"
   }
 ]
