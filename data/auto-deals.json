@@ -1,5 +1,26 @@
 [
   {
+    "id": "auto-b09rv4xtg2",
+    "asin": "B09RV4XTG2",
+    "title": "SONY - HT-S400 2.1-Kanal 330W Soundbar für TV mit drahtlosem Subwoofer …",
+    "category": "TV & Heimkino",
+    "price": 179,
+    "checkedAt": "2026-11-18T11:32:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09RV4XTG2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fknl7dss",
+    "asin": "B0FKNL7DSS",
+    "title": "Cecotec Pizzaofen Fun Pizza&Co Mamma Mía Window Plus Pro, 1200 W, 400 …",
+    "category": "Tech",
+    "price": 44.99,
+    "checkedAt": "2026-11-18T11:36:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FKNL7DSS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:38:37.885Z"
+  },
+  {
     "id": "auto-b097q2mst3",
     "asin": "B097Q2MST3",
     "title": "deuter Pants Protector (Hosenschutz)",
@@ -189,7 +210,8 @@
     "price": 14.39,
     "checkedAt": "2026-11-18T10:45:00.000Z",
     "image": "https://static.mydealz.de/threads/raw/L65b8/2874569_1/re/768x768/qt/55/2874569_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:38:32.618Z"
   },
   {
     "id": "auto-b0f9z1hwwh",
@@ -649,7 +671,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-18T09:02:19.000Z",
     "image": "https://m.media-amazon.com/images/P/B01N6LB4V4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T11:38:27.957Z"
   },
   {
     "id": "auto-b0fs1ylgtp",
@@ -3152,26 +3175,6 @@
     "telegramPostedAt": "2026-11-17T12:05:08.485Z"
   },
   {
-    "id": "auto-b0c16nc9wx",
-    "asin": "B0C16NC9WX",
-    "title": "Only&Sons Onceres Herren Sweatshirt diverse Farben",
-    "category": "Mode & Reise",
-    "price": 18.43,
-    "checkedAt": "2026-11-17T11:34:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C16NC9WX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0f5z4gkz8",
-    "asin": "B0F5Z4GKZ8",
-    "title": "Lenovo LOQ | Laptop | i7 | 16GB | 512GB | RTX 5070",
-    "category": "Computer",
-    "price": 1249.99,
-    "checkedAt": "2026-11-17T11:35:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F5Z4GKZ8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b07w6jn8n7",
     "asin": "B07W6JN8N7",
     "title": "Logitech G203 LIGHTSYNC Gaming-Maus, kabelgebunden, 6 programmierbare …",
@@ -3211,60 +3214,5 @@
     "checkedAt": "2026-11-17T11:44:58.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CDCFRXPN.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0c3bsz56d",
-    "asin": "B0C3BSZ56D",
-    "title": "HyperX Cloud III: Gaming-Headset in Schwarz oder Schwarz/Rot",
-    "category": "Gaming",
-    "price": 49.99,
-    "oldPrice": 59,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T11:34:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C3BSZ56D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0cytfb73v",
-    "asin": "B0CYTFB73V",
-    "title": "Adidas Herren VL Court 3.0 Schuhe",
-    "category": "Mode & Reise",
-    "price": 48.9,
-    "checkedAt": "2026-11-17T11:26:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CYTFB73V.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0djd85k26",
-    "asin": "B0DJD85K26",
-    "title": "Head & Shoulders Classic Clean Anti-Schuppen Shampoo 800 ml",
-    "category": "Beauty & Pflege",
-    "price": 8.35,
-    "checkedAt": "2026-11-17T11:30:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJD85K26.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dx7dzkks",
-    "asin": "B0DX7DZKKS",
-    "title": "ESN Ultrapure Creatine Monohydrate - geschmacksneutral und vegan - 250 …",
-    "category": "Lebensmittel & Drinks",
-    "price": 10.79,
-    "checkedAt": "2026-11-17T11:34:19.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Md5MH/2873679_1/re/768x768/qt/55/2873679_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0044n2tcg",
-    "asin": "B0044N2TCG",
-    "title": "Ritter serano 7 Duo Plus Allesschneider",
-    "category": "Tech",
-    "price": 149.99,
-    "oldPrice": 199.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-17T11:29:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0044N2TCG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T11:35:25.777Z"
   }
 ]
