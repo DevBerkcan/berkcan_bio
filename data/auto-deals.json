@@ -1,5 +1,71 @@
 [
   {
+    "id": "auto-b0f6zjj63h",
+    "asin": "B0F6ZJJ63H",
+    "title": "Pet Shop Boys - Discography - best of(2023 Remaster) Doppelvinyl",
+    "category": "Tech",
+    "price": 25.6,
+    "checkedAt": "2026-11-18T18:06:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F6ZJJ63H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gzkf2f7j",
+    "asin": "B0GZKF2F7J",
+    "title": "LG F4WX7092W Waschmaschine Frontloader mit AI Wash & DD, TurboWash …",
+    "category": "Haushalt",
+    "price": 470,
+    "checkedAt": "2026-11-18T18:07:35.000Z",
+    "image": "https://static.mydealz.de/threads/raw/p9p6a/2874992_1/re/768x768/qt/55/2874992_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0049tup30",
+    "asin": "B0049TUP30",
+    "title": "1 kg Lavazza Caffè Crema Gustoso Kaffeebohnen",
+    "category": "Lebensmittel & Drinks",
+    "price": 12.18,
+    "checkedAt": "2026-11-18T18:13:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0049TUP30.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08xv4d43k",
+    "asin": "B08XV4D43K",
+    "title": "Wera 05008873001 Kraftform Kompakt Stubby 1 Schraubendreher mit Bit …",
+    "category": "Werkzeug",
+    "price": 14.39,
+    "checkedAt": "2026-11-18T18:14:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08XV4D43K.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07nczgzft",
+    "asin": "B07NCZGZFT",
+    "title": "Fjällräven Keb 52 W Wanderrucksack in storm/dark navy für Frauen",
+    "category": "Sport & Outdoor",
+    "price": 163.4,
+    "oldPrice": 216.94,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-18T18:15:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07NCZGZFT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T18:21:44.922Z"
+  },
+  {
+    "id": "auto-b09wyvy187",
+    "asin": "B09WYVY187",
+    "title": "VAUDE Unisex Bike Facemask – Fleece, atmungsaktiv & schnelltrocknend, …",
+    "subtitle": "🔥 312° bei mydealz",
+    "category": "Tech",
+    "price": 14.99,
+    "checkedAt": "2026-11-18T18:10:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09WYVY187.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 312,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-18T18:21:36.882Z"
+  },
+  {
     "id": "auto-b07bjky7w7",
     "asin": "B07BJKY7W7",
     "title": "Amazon Essentials Herren Athletic-Fit-Stretchjeans - Auslauffarben",
@@ -2665,17 +2731,6 @@
     "telegramPostedAt": "2026-11-17T22:22:22.187Z"
   },
   {
-    "id": "auto-b0848chrg5",
-    "asin": "B0848CHRG5",
-    "title": "Gummistiefel Viking Stavern Gr.41",
-    "category": "Mode & Reise",
-    "price": 29.26,
-    "checkedAt": "2026-11-17T18:11:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0848CHRG5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:52:14.044Z"
-  },
-  {
     "id": "auto-b0f4kxjq42",
     "asin": "B0F4KXJQ42",
     "title": "Sony BRAVIA 3 - Direct LED 55 Zoll Fernseher (K55S32) mit Google TV, …",
@@ -2696,17 +2751,6 @@
     "image": "https://static.mydealz.de/threads/raw/XoiCC/2874203_1/re/768x768/qt/55/2874203_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-17T23:21:57.972Z"
-  },
-  {
-    "id": "auto-b09rgb84ft",
-    "asin": "B09RGB84FT",
-    "title": "Corona Cero 0,0% Alkoholfrei Lager Bier, MEHRWEG im Kasten, …",
-    "category": "Lebensmittel & Drinks",
-    "price": 19.94,
-    "checkedAt": "2026-11-17T18:15:57.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09RGB84FT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-17T23:52:09.327Z"
   },
   {
     "id": "auto-b0cthxmyl8",
