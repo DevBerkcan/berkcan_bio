@@ -1,5 +1,119 @@
 [
   {
+    "id": "auto-b08sxrq4v4",
+    "asin": "B08SXRQ4V4",
+    "title": "Tanqueray Blackcurrant Royale Gin (0,7 L)",
+    "category": "Lebensmittel & Drinks",
+    "price": 14.24,
+    "checkedAt": "2026-11-19T12:53:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08SXRQ4V4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T23:31:10.620Z"
+  },
+  {
+    "id": "auto-b017kk1ipi",
+    "asin": "B017KK1IPI",
+    "title": "-21% Bio Grapefruitkernextrakt 100ml oder 250mg",
+    "category": "Beauty & Pflege",
+    "price": 14.99,
+    "checkedAt": "2026-11-19T13:49:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B017KK1IPI.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T23:30:56.398Z"
+  },
+  {
+    "id": "auto-b009rukxt2",
+    "asin": "B009RUKXT2",
+    "title": "Amazon Black Friday - Johnnie Walker Blue Label Blended Scotch Whisky, …",
+    "category": "Lebensmittel & Drinks",
+    "price": 116.36,
+    "checkedAt": "2026-11-19T13:50:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B009RUKXT2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T23:30:50.676Z"
+  },
+  {
+    "id": "auto-b0flqdcr7x",
+    "asin": "B0FLQDCR7X",
+    "title": "Wahoo Fitness KICKR CORE 2 Indoor Fahrradtrainer mit ZWIFT COG und …",
+    "category": "Sport & Outdoor",
+    "price": 399.99,
+    "checkedAt": "2026-11-19T23:18:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FLQDCR7X.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T23:30:45.350Z"
+  },
+  {
+    "id": "auto-b06xnwqrn3",
+    "asin": "B06XNWQRN3",
+    "title": "Celebrations Schokolade, Mini-Schokoriegel, Snickers, Maltesers, 1435 …",
+    "category": "Lebensmittel & Drinks",
+    "price": 17.99,
+    "checkedAt": "2026-11-19T23:21:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B06XNWQRN3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T23:30:40.052Z"
+  },
+  {
+    "id": "auto-b0f679gh7g",
+    "asin": "B0F679GH7G",
+    "title": "Hitman World of Assassination - Signature Edition - [Nintendo Switch …",
+    "category": "Gaming",
+    "price": 22.99,
+    "checkedAt": "2026-11-19T23:23:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F679GH7G.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T23:30:34.869Z"
+  },
+  {
+    "id": "auto-b0cdkpytb5",
+    "asin": "B0CDKPYTB5",
+    "title": "Jurassic Park 1-6 (6x 4K-UHD Blu-ray)",
+    "category": "Bücher & Filme",
+    "price": 39.92,
+    "checkedAt": "2026-11-19T23:24:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CDKPYTB5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T23:30:29.711Z"
+  },
+  {
+    "id": "auto-b00ejimzt8",
+    "asin": "B00EJIMZT8",
+    "title": "3M Mehrweg-Atemschutzmaske 6002C mit 2 Filtern",
+    "subtitle": "🔥 119° bei mydealz",
+    "category": "Tech",
+    "price": 37.99,
+    "checkedAt": "2026-11-19T23:18:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00EJIMZT8.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 119,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T23:30:24.423Z"
+  },
+  {
+    "id": "queue-b0h8nd4bfy",
+    "asin": "B0H8ND4BFY",
+    "title": "ECOVACS WINBOT W2S PRO OMNI Fensterputzroboter",
+    "subtitle": "Fensterputzroboter mit Multifunktionsstation und TruEdge 2.0 für saubere Ränder",
+    "category": "Haushalt",
+    "price": 499,
+    "checkedAt": "2026-11-19T12:42:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H8ND4BFY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T23:30:01.013Z"
+  },
+  {
+    "id": "queue-b07gsd9n94",
+    "asin": "B07GSD9N94",
+    "title": "Einhell HEROCCO 18/20 Akku-Bohrhammer Brushless",
+    "subtitle": "SDS-plus, 2,2 J, Brushless-Motor – Bohren, Hammerbohren und Meißeln",
+    "category": "Werkzeug",
+    "price": 114.99,
+    "checkedAt": "2026-11-19T10:50:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07GSD9N94.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T23:29:56.549Z"
+  },
+  {
     "id": "auto-b0gpy1xnhz",
     "asin": "B0GPY1XNHZ",
     "title": "Rocka Nutrition Daily Protein",
@@ -2391,7 +2505,8 @@
     "price": 194.35,
     "checkedAt": "2026-11-19T12:55:10.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CL28LQG3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T23:31:04.962Z"
   },
   {
     "id": "auto-b081s431l6",
@@ -2412,7 +2527,8 @@
     "price": 105.48,
     "checkedAt": "2026-11-19T13:09:03.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DFHBRR2R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T23:31:00.868Z"
   },
   {
     "id": "auto-b07cgf1btd",
@@ -3292,18 +3408,6 @@
     "telegramPostedAt": "2026-11-19T10:09:33.510Z"
   },
   {
-    "id": "queue-b0gghrjr23",
-    "asin": "B0GGHRJR23",
-    "title": "Huawei Band 11 Pro mit GPS und AMOLED",
-    "subtitle": "Fitness-Tracker mit GPS, 1,62\" AMOLED und bis 14 Tage Akku.",
-    "category": "Tech",
-    "price": 52,
-    "checkedAt": "2026-11-18T23:21:20.000Z",
-    "image": "https://static.mydealz.de/threads/raw/XZ7CT/2875193_1/re/768x768/qt/55/2875193_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:09:17.294Z"
-  },
-  {
     "id": "queue-b07bxt7vht",
     "asin": "B07BXT7VHT",
     "title": "Philips Hue Lily Gartenstrahler 3er-Set",
@@ -3377,18 +3481,6 @@
     "image": "https://static.mydealz.de/threads/raw/QE0dA/2875290_1/re/768x768/qt/55/2875290_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T09:54:20.504Z"
-  },
-  {
-    "id": "queue-b0bbr4qcpp",
-    "asin": "B0BBR4QCPP",
-    "title": "Netac NV3000 2 TB NVMe SSD",
-    "subtitle": "M.2-SSD mit PCIe 3.0 x4 und bis zu 3.300 MB/s Lesen.",
-    "category": "Computer",
-    "price": 180,
-    "checkedAt": "2026-11-18T23:24:01.000Z",
-    "image": "https://static.mydealz.de/threads/raw/5pPj3/2875192_1/re/768x768/qt/55/2875192_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T09:54:14.530Z"
   },
   {
     "id": "auto-b0c3mr9n75",
@@ -3566,99 +3658,5 @@
     "temperature": 346,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T08:54:33.982Z"
-  },
-  {
-    "id": "auto-b00vhhwnmi",
-    "asin": "B00VHHWNMI",
-    "title": "Logitech K400 Plus Kabellose Touch-TV-Tastatur mit integriertem …",
-    "subtitle": "🔥 415° bei mydealz",
-    "category": "Computer",
-    "price": 25.99,
-    "checkedAt": "2026-11-19T08:44:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00VHHWNMI.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 415,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T08:54:29.593Z"
-  },
-  {
-    "id": "auto-b09rn8q4cw",
-    "asin": "B09RN8Q4CW",
-    "title": "Haarglätter S8593 - Remington Glätteisen Profi",
-    "category": "Beauty & Pflege",
-    "price": 24.9,
-    "checkedAt": "2026-11-19T08:30:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09RN8Q4CW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0hglt3p9n",
-    "asin": "B0HGLT3P9N",
-    "title": "Philips Hue Festavia Lichtervorhang – 1,35 x 2 m",
-    "category": "Smart Home",
-    "price": 109.99,
-    "checkedAt": "2026-11-19T08:32:08.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HGLT3P9N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0925nrnzw",
-    "asin": "B0925NRNZW",
-    "title": "\"Ki-ki-ki, ma-ma-ma\" [Prime] Paladone Movie Character Mask Lights - …",
-    "subtitle": "🔥 103° bei mydealz",
-    "category": "Tech",
-    "price": 21.99,
-    "checkedAt": "2026-11-19T08:10:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0925NRNZW.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 103,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0ccxtzhhf",
-    "asin": "B0CCXTZHHF",
-    "title": "UGREEN Nexode Pro USB C Ladegerät 160W, GaN Mini Charger, 4-Port …",
-    "subtitle": "🔥 111° bei mydealz",
-    "category": "Zubehör & Laden",
-    "price": 59.51,
-    "checkedAt": "2026-11-19T07:42:42.000Z",
-    "image": "https://static.mydealz.de/threads/raw/3Vyop/2849341_1/re/768x768/qt/55/2849341_1.jpg",
-    "temperature": 111,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0cp4l1m41",
-    "asin": "B0CP4L1M41",
-    "title": "Adobe Lightroom inkl. Lightroom Classic 1 TB",
-    "subtitle": "🔥 117° bei mydealz",
-    "category": "Tech",
-    "price": 49.87,
-    "checkedAt": "2026-11-19T08:11:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CP4L1M41.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 117,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0f29dtjy7",
-    "asin": "B0F29DTJY7",
-    "title": "Aqara Smart Lock U200 Lite Elektrisches Türschloss mit Matter over …",
-    "subtitle": "🔥 121° bei mydealz",
-    "category": "Tech",
-    "price": 69.99,
-    "checkedAt": "2026-11-19T08:10:36.000Z",
-    "image": "https://static.mydealz.de/threads/raw/7LzK0/2875254_1/re/768x768/qt/55/2875254_1.jpg",
-    "temperature": 121,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T08:54:43.660Z"
-  },
-  {
-    "id": "auto-b0f66x7frv",
-    "asin": "B0F66X7FRV",
-    "title": "Leatherman Sammeldeal Amazon Otto Signal, ARC, Wingman, Free 2K",
-    "subtitle": "🔥 125° bei mydealz",
-    "category": "Tech",
-    "price": 103.35,
-    "checkedAt": "2026-11-19T07:55:43.000Z",
-    "image": "https://static.mydealz.de/threads/raw/w3xUj/2875430_1/re/768x768/qt/55/2875430_1.jpg",
-    "temperature": 125,
-    "source": "auto"
   }
 ]
