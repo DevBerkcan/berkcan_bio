@@ -1,5 +1,70 @@
 [
   {
+    "id": "auto-b00ag8eho6",
+    "asin": "B00AG8EHO6",
+    "title": "Buffalo Trace 45%/1l Kentucky Straight Bourbon Whiskey (Whisky)",
+    "subtitle": "🔥 104° bei mydealz",
+    "category": "Lebensmittel & Drinks",
+    "price": 18.61,
+    "checkedAt": "2026-11-19T15:31:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00AG8EHO6.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 104,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T15:40:34.530Z"
+  },
+  {
+    "id": "auto-b00csrz71k",
+    "asin": "B00CSRZ71K",
+    "title": "Adobe Creative Cloud Pro – Student & Teacher Version",
+    "subtitle": "🔥 105° bei mydealz",
+    "category": "Tech",
+    "price": 92.43,
+    "checkedAt": "2026-11-19T15:21:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00CSRZ71K.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 105,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T15:40:29.527Z"
+  },
+  {
+    "id": "auto-b0c1gs57tw",
+    "asin": "B0C1GS57TW",
+    "title": "SONOFF MINIR4 WLAN-Schalter 2er-Pack, 2,4 GHz, Timer, Relay Split …",
+    "subtitle": "🔥 106° bei mydealz",
+    "category": "Tech",
+    "price": 15.04,
+    "checkedAt": "2026-11-19T15:20:50.000Z",
+    "image": "https://static.mydealz.de/threads/raw/pNSa2/2876021_1/re/768x768/qt/55/2876021_1.jpg",
+    "temperature": 106,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T15:40:24.213Z"
+  },
+  {
+    "id": "auto-b09ycwc2mt",
+    "asin": "B09YCWC2MT",
+    "title": "COSTWAY Schreibtischstuhl Kinder 360° drehbar, Sitzhöhe 40-54 cm, max. …",
+    "subtitle": "🔥 108° bei mydealz",
+    "category": "Computer",
+    "price": 62.04,
+    "checkedAt": "2026-11-19T15:30:34.000Z",
+    "image": "https://static.mydealz.de/threads/raw/yI7Ba/2876100_1/re/768x768/qt/55/2876100_1.jpg",
+    "temperature": 108,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T15:40:18.347Z"
+  },
+  {
+    "id": "auto-b07jmy7qd4",
+    "asin": "B07JMY7QD4",
+    "title": "GAUDER Metallband selbstklebend für Tonies & Magnete",
+    "subtitle": "🔥 110° bei mydealz",
+    "category": "Spielzeug & LEGO",
+    "price": 12.1,
+    "checkedAt": "2026-11-19T15:22:28.000Z",
+    "image": "https://static.mydealz.de/threads/raw/iVz9Z/2875534_1/re/768x768/qt/55/2875534_1.jpg",
+    "temperature": 110,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T15:40:11.155Z"
+  },
+  {
     "id": "auto-b0d37by6zr",
     "asin": "B0D37BY6ZR",
     "title": "Sonos Roam 2 tragbarer Smart-Speaker, WLAN und Bluetooth, IP67, …",
@@ -3582,63 +3647,5 @@
     "checkedAt": "2026-11-18T15:47:16.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GR3WVDWM.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0flptndpg",
-    "asin": "B0FLPTNDPG",
-    "title": "275 € mit Cashback",
-    "category": "Tech",
-    "price": 325,
-    "checkedAt": "2026-11-18T15:48:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FLPTNDPG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T17:36:59.619Z"
-  },
-  {
-    "id": "auto-b0bnbyv6my",
-    "asin": "B0BNBYV6MY",
-    "title": "Karcher DAB Go DAB+ / UKW Digitalradio mit Bluetooth 5.1, 2,4\" …",
-    "category": "Licht & Garten",
-    "price": 54.99,
-    "oldPrice": 69.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T15:35:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BNBYV6MY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T15:51:52.451Z"
-  },
-  {
-    "id": "auto-b07px3pwb7",
-    "asin": "B07PX3PWB7",
-    "title": "Rammstein - Rammstein - Vinyl [2LP Doppelvinyl] / auch Sehnsucht 2LP / …",
-    "category": "Tech",
-    "price": 27.99,
-    "checkedAt": "2026-11-18T15:28:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07PX3PWB7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dq5lr31n",
-    "asin": "B0DQ5LR31N",
-    "title": "Gigabyte GS27QCA 27 Zoll Curved Gaming-Monitor, QHD, VA, 180 Hz, 1 ms, …",
-    "category": "Computer",
-    "price": 115,
-    "checkedAt": "2026-11-18T15:30:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQ5LR31N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T17:51:46.712Z"
-  },
-  {
-    "id": "auto-b0fy5z51qp",
-    "asin": "B0FY5Z51QP",
-    "title": "TechniSat DIGITRADIO 425 – Internetradio mit CD-Player",
-    "category": "Tech",
-    "price": 208.05,
-    "oldPrice": 249,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T15:32:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FY5Z51QP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T16:36:46.085Z"
   }
 ]
