@@ -1,5 +1,102 @@
 [
   {
+    "id": "auto-b0fh5jqq15",
+    "asin": "B0FH5JQQ15",
+    "title": "Corsair K55 CORE TKL RGB Gaming-Tastatur, QWERTZ DE, Membrantasten, …",
+    "subtitle": "🔥 111° bei mydealz",
+    "category": "Computer",
+    "price": 29.99,
+    "checkedAt": "2026-11-19T13:31:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FH5JQQ15.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 111,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b009fufd1c",
+    "asin": "B009FUFD1C",
+    "title": "Amazon Basics Mikrofasertücher 40,6 x 30,5 cm, 144er-Pack",
+    "subtitle": "🔥 115° bei mydealz",
+    "category": "Tech",
+    "price": 29.37,
+    "checkedAt": "2026-11-19T13:40:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B009FUFD1C.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 115,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h44kwkrs",
+    "asin": "B0H44KWKRS",
+    "title": "Xiaomi TV F 32 (2026), 32 Zoll HD Fire TV (720p), Triple Tuner, Dolby …",
+    "subtitle": "🔥 116° bei mydealz",
+    "category": "Amazon-Geräte",
+    "price": 129,
+    "checkedAt": "2026-11-19T13:41:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H44KWKRS.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 116,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dzy3mt4r",
+    "asin": "B0DZY3MT4R",
+    "title": "RÖSLE Gasgrill ALLFLAME Hero 4 (Schwarz)",
+    "subtitle": "🔥 116° bei mydealz",
+    "category": "Licht & Garten",
+    "price": 721.49,
+    "checkedAt": "2026-11-19T13:41:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DZY3MT4R.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 116,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cp9dnqzx",
+    "asin": "B0CP9DNQZX",
+    "title": "Philips HR2681/00 5000-Serie Stabmixer",
+    "category": "Küche",
+    "price": 39.97,
+    "oldPrice": 52.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T13:52:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CP9DNQZX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0071ik9ci",
+    "asin": "B0071IK9CI",
+    "title": "Bosch 27-tlg. Schrauberbit- und Ratschen-Set mit Mini-Ratsche und …",
+    "category": "Werkzeug",
+    "price": 10.99,
+    "oldPrice": 16.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T13:46:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0071IK9CI.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cwvklxr8",
+    "asin": "B0CWVKLXR8",
+    "title": "Philips Pet Series Katzenbrunnen PAW3210/02",
+    "category": "Tech",
+    "price": 24.99,
+    "oldPrice": 46.73,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T13:41:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CWVKLXR8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dnttdkkb",
+    "asin": "B0DNTTDKKB",
+    "title": "HEAD Padelschläger",
+    "category": "Tech",
+    "price": 60.19,
+    "oldPrice": 150,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T13:49:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DNTTDKKB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T13:55:04.247Z"
+  },
+  {
     "id": "auto-b0ft3wmlg3",
     "asin": "B0FT3WMLG3",
     "title": "Fanatec CSL Steering Wheel GT3 Sim-Racing-Lenkrad, 300 mm, OLED, …",
@@ -3414,16 +3511,6 @@
     "telegramPostedAt": "2026-11-18T14:51:58.353Z"
   },
   {
-    "id": "auto-b07kkzk4l8",
-    "asin": "B07KKZK4L8",
-    "title": "LÄSSIG Baby Kleinkind Lätzchen Set (5 St.) Klettverschluss Baumwolle …",
-    "category": "Spielzeug & LEGO",
-    "price": 11.98,
-    "checkedAt": "2026-11-18T13:42:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07KKZK4L8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0dt28nygc",
     "asin": "B0DT28NYGC",
     "title": "Denon Home 150 NV Wireless-Lautsprecher (ohne Alexa)",
@@ -3454,19 +3541,6 @@
     "image": "https://m.media-amazon.com/images/P/B0BC963C58.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T14:52:12.001Z"
-  },
-  {
-    "id": "auto-b00jkxae2m",
-    "asin": "B00JKXAE2M",
-    "title": "2,4kg OREO Original",
-    "category": "Lebensmittel & Drinks",
-    "price": 15.5,
-    "oldPrice": 21,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T13:47:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00JKXAE2M.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T14:36:39.938Z"
   },
   {
     "id": "auto-b0fw5jckbj",
@@ -3517,72 +3591,5 @@
     "checkedAt": "2026-11-18T14:01:12.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DD7MFYWZ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b09vn2fcdf",
-    "asin": "B09VN2FCDF",
-    "title": "Azzaro The Most Wanted Parfum - 150 ml - Herrenduft - Alternativ im …",
-    "category": "Beauty & Pflege",
-    "price": 57.13,
-    "checkedAt": "2026-11-18T13:40:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09VN2FCDF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gprp3f1s",
-    "asin": "B0GPRP3F1S",
-    "title": "Corsair Vanguard 96 Wireless Mechanische RGB Gaming Tastatur – Schwarz",
-    "category": "Computer",
-    "price": 149.99,
-    "checkedAt": "2026-11-18T13:41:44.000Z",
-    "image": "https://static.mydealz.de/threads/raw/xyI1R/2874753_1/re/768x768/qt/55/2874753_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07nr8krg5",
-    "asin": "B07NR8KRG5",
-    "title": "Greta van Fleet - From the Fires - Vinyl LP",
-    "category": "Tech",
-    "price": 11.99,
-    "checkedAt": "2026-11-18T13:42:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07NR8KRG5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T18:36:43.955Z"
-  },
-  {
-    "id": "auto-b0dcfx4wnb",
-    "asin": "B0DCFX4WNB",
-    "title": "Philips Elektrischer Rasierer für Herren: Nass- und Trockenrasur mit …",
-    "category": "Beauty & Pflege",
-    "price": 84.99,
-    "checkedAt": "2026-11-18T13:49:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DCFX4WNB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07w8q8vy6",
-    "asin": "B07W8Q8VY6",
-    "title": "Logitech MX Keys S kabellose Tastatur",
-    "subtitle": "🔥 981° bei mydealz",
-    "category": "Computer",
-    "price": 69.99,
-    "checkedAt": "2026-11-18T13:48:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07W8Q8VY6.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 981,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T14:21:48.152Z"
-  },
-  {
-    "id": "auto-b0b3f3bh83",
-    "asin": "B0B3F3BH83",
-    "title": "Gorenje OptiBake BOS6737 E02B Einbau-Backofen 77L",
-    "category": "Tech",
-    "price": 249,
-    "oldPrice": 739,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T13:46:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B3F3BH83.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T13:52:03.819Z"
   }
 ]
