@@ -1,5 +1,77 @@
 [
   {
+    "id": "auto-b0ft3wmlg3",
+    "asin": "B0FT3WMLG3",
+    "title": "Fanatec CSL Steering Wheel GT3 Sim-Racing-Lenkrad, 300 mm, OLED, …",
+    "subtitle": "🔥 119° bei mydealz",
+    "category": "Tech",
+    "price": 139.95,
+    "checkedAt": "2026-11-19T13:17:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FT3WMLG3.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 119,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0c7rj56t5",
+    "asin": "B0C7RJ56T5",
+    "title": "Revolution Race Sherpa Hoodie Fleecejacke",
+    "subtitle": "🔥 120° bei mydealz",
+    "category": "Mode & Reise",
+    "price": 57,
+    "checkedAt": "2026-11-19T13:12:40.000Z",
+    "image": "https://static.mydealz.de/threads/raw/xtgRd/2875588_1/re/768x768/qt/55/2875588_1.jpg",
+    "temperature": 120,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07wh4qd8h",
+    "asin": "B07WH4QD8H",
+    "title": "Bosch Professional GAS 18V-10 L Akku-Nass-/Trockensauger, 10 l, …",
+    "subtitle": "🔥 124° bei mydealz",
+    "category": "Haushalt",
+    "price": 107.99,
+    "checkedAt": "2026-11-19T13:13:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07WH4QD8H.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 124,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dtjrxtc9",
+    "asin": "B0DTJRXTC9",
+    "title": "AstroAI Fahrradpumpe Elektrische Luftpumpe 150PSI 17,99€ / AstroAI …",
+    "subtitle": "🔥 252° bei mydealz",
+    "category": "Sport & Outdoor",
+    "price": 17.99,
+    "checkedAt": "2026-11-19T13:12:21.000Z",
+    "image": "https://static.mydealz.de/threads/raw/DvZfq/2852683_1/re/768x768/qt/55/2852683_1.jpg",
+    "temperature": 252,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dmwc3m3n",
+    "asin": "B0DMWC3M3N",
+    "title": "Hot Wheels Racing Formel 1 Sprint-Rennstrecken-Set inkl. 3 F1 Die-Cast …",
+    "category": "Spielzeug & LEGO",
+    "price": 26.99,
+    "oldPrice": 39.98,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T13:13:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DMWC3M3N.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dq93jzbz",
+    "asin": "B0DQ93JZBZ",
+    "title": "Hasbro Play-Doh Barbie Modenschau Spielset – Knete-Modedesign mit …",
+    "category": "Spielzeug & LEGO",
+    "price": 14.99,
+    "oldPrice": 22.48,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T13:13:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQ93JZBZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0dt9mmztl",
     "asin": "B0DT9MMZTL",
     "title": "UGREEN FineCam Lite 4K – UHD Webcam 4K, Webcam mit Mikrofon und …",
@@ -33,7 +105,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T13:10:37.000Z",
     "image": "https://m.media-amazon.com/images/P/B0053PW98I.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T13:40:18.391Z"
   },
   {
     "id": "auto-b0ghnwhqwk",
@@ -3500,19 +3573,6 @@
     "telegramPostedAt": "2026-11-18T14:21:48.152Z"
   },
   {
-    "id": "auto-b0czpkpftw",
-    "asin": "B0CZPKPFTW",
-    "title": "Beats Solo 4 - Kabelloser Bluetooth On-Ear Kopfhörer",
-    "category": "Audio",
-    "price": 109,
-    "oldPrice": 229.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T13:38:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CZPKPFTW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T14:07:02.567Z"
-  },
-  {
     "id": "auto-b0b3f3bh83",
     "asin": "B0B3F3BH83",
     "title": "Gorenje OptiBake BOS6737 E02B Einbau-Backofen 77L",
@@ -3524,59 +3584,5 @@
     "image": "https://m.media-amazon.com/images/P/B0B3F3BH83.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T13:52:03.819Z"
-  },
-  {
-    "id": "auto-b0fs7jxwjg",
-    "asin": "B0FS7JXWJG",
-    "title": "SteelSeries Arctis Nova 7 Gen2 Wireless Gaming Headset mit 3D Surround",
-    "category": "Gaming",
-    "price": 128.35,
-    "checkedAt": "2026-11-18T13:25:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FS7JXWJG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T17:06:36.647Z"
-  },
-  {
-    "id": "auto-b077y83xsd",
-    "asin": "B077Y83XSD",
-    "title": "Bosch L-Boxx 136",
-    "category": "Tech",
-    "price": 29.67,
-    "checkedAt": "2026-11-18T13:29:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B077Y83XSD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T14:37:00.533Z"
-  },
-  {
-    "id": "auto-b0fvr7n521",
-    "asin": "B0FVR7N521",
-    "title": "adidas Unisex Cushioned Sportswear Crew Socks 3 Pair Pack Socks Gr. …",
-    "category": "Tech",
-    "price": 8.49,
-    "checkedAt": "2026-11-18T13:31:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FVR7N521.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T17:22:13.966Z"
-  },
-  {
-    "id": "auto-b0cz75jl7z",
-    "asin": "B0CZ75JL7Z",
-    "title": "Reolink 4K 3G/4G LTE Überwachungskamera mit SIM Karte, Lokaler …",
-    "category": "Smart Home",
-    "price": 169.99,
-    "checkedAt": "2026-11-18T13:31:21.000Z",
-    "image": "https://static.mydealz.de/threads/raw/WL9Oc/2874738_1/re/768x768/qt/55/2874738_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b00360czzy",
-    "asin": "B00360CZZY",
-    "title": "Beurer BM 35 Oberarm-Blutdruckmessgerät",
-    "category": "Tech",
-    "price": 22.99,
-    "checkedAt": "2026-11-18T13:32:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00360CZZY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T21:37:07.227Z"
   }
 ]
