@@ -1,5 +1,17 @@
 [
   {
+    "id": "auto-b0c76zd7kv",
+    "asin": "B0C76ZD7KV",
+    "title": "UGREEN FineCam Lite 1080P Webcam",
+    "category": "Computer",
+    "price": 14.24,
+    "oldPrice": 25.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T00:35:02.000Z",
+    "image": "https://static.mydealz.de/threads/raw/mUXmS/2875270_1/re/768x768/qt/55/2875270_1.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0fd3ylqn1",
     "asin": "B0FD3YLQN1",
     "title": "Natureflow Rasensamen Herbst schnellkeimend",
@@ -2516,18 +2528,6 @@
     "image": "https://m.media-amazon.com/images/P/B0054PSH0G.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T10:53:37.586Z"
-  },
-  {
-    "id": "queue-b0gql9jzs7",
-    "asin": "B0GQL9JZS7",
-    "title": "Xiaomi Redmi Watch 6 Smartwatch, Schwarz",
-    "subtitle": "Smartwatch von Xiaomi – Angebot gilt für die schwarze Version ohne NFC.",
-    "category": "Smartphone & Tablet",
-    "price": 42.99,
-    "checkedAt": "2026-11-18T04:04:59.000Z",
-    "image": "https://static.mydealz.de/threads/raw/uyDTz/2874278_1/re/768x768/qt/55/2874278_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T10:53:23.314Z"
   },
   {
     "id": "auto-b0dt6pzd5l",
