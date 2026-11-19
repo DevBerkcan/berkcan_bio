@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "asin": "B000AJIF4E",
+    "title": "Sony MDR-7506 Studio-Monitor-Kopfhörer",
+    "price": 79.99,
+    "note": "Geschlossener Studio-Klassiker, faltbar, nur 227 g, inklusive Tasche",
+    "category": "Audio",
+    "image": "https://static.mydealz.de/threads/raw/mXQqg/2875283_1/re/768x768/qt/55/2875283_1.jpg",
+    "addedAt": "2026-11-19T01:01:24.000Z"
+  },
+  {
+    "asin": "B07GSD9N94",
+    "title": "Einhell HEROCCO 18/20 Akku-Bohrhammer Brushless",
+    "price": 114.99,
+    "note": "SDS-plus, 2,2 J, Brushless-Motor – Bohren, Hammerbohren und Meißeln",
+    "category": "Werkzeug",
+    "image": "https://static.mydealz.de/threads/raw/B8Scn/2875808_1/re/768x768/qt/55/2875808_1.jpg",
+    "addedAt": "2026-11-19T10:50:36.000Z"
+  },
+  {
+    "asin": "B0H8ND4BFY",
+    "title": "ECOVACS WINBOT W2S PRO OMNI Fensterputzroboter",
+    "price": 499,
+    "note": "Fensterputzroboter mit Multifunktionsstation und TruEdge 2.0 für saubere Ränder",
+    "category": "Haushalt",
+    "image": "https://static.mydealz.de/threads/raw/nJXTd/2875971_1/re/768x768/qt/55/2875971_1.jpg",
+    "addedAt": "2026-11-19T12:42:52.000Z"
+  },
+  {
+    "asin": "B0HDT94SVJ",
+    "title": "GameSir G7 Pro 8K Wireless Esports-Controller",
+    "price": 87.99,
+    "note": "8000 Hz Abtastrate, 0,25 ms Latenz, TMR-Sticks und 4 Makro-Tasten",
+    "category": "Gaming",
+    "image": "https://static.mydealz.de/threads/raw/9CG4W/2876445_1/re/768x768/qt/55/2876445_1.jpg",
+    "addedAt": "2026-11-19T20:25:52.000Z"
+  },
+  {
+    "asin": "B0CYFSQPJH",
+    "title": "Shokz OpenRun Knochenschall-Kopfhörer IP67",
+    "price": 99,
+    "note": "Open-Ear-Knochenschall: Ohren bleiben frei, wasserdicht nach IP67",
+    "category": "Audio",
+    "image": "https://static.mydealz.de/threads/raw/y942q/2875195_1/re/768x768/qt/55/2875195_1.jpg",
+    "addedAt": "2026-11-18T23:21:52.000Z"
+  },
+  {
+    "asin": "B0CQ2HMTD4",
+    "title": "HP OfficeJet Pro 8132e Multifunktionsdrucker",
+    "price": 89.99,
+    "note": "A4-Tintendrucker mit Scan, Kopie, Fax, Duplex, WLAN und LAN",
+    "category": "Computer",
+    "image": "https://static.mydealz.de/threads/raw/JSPQT/2875280_1/re/768x768/qt/55/2875280_1.jpg",
+    "addedAt": "2026-11-19T00:50:09.000Z"
+  },
+  {
+    "asin": "B0FSRJT4KW",
+    "title": "SwitchBot 60 GHz mmWave Präsenzmelder",
+    "price": 21.99,
+    "note": "Kombiniert mmWave-Radar, PIR und Lichtsensor – erkennt auch Stillsitzen",
+    "category": "Smart Home",
+    "image": "https://static.mydealz.de/threads/raw/blbwP/2875580_1/re/768x768/qt/55/2875580_1.jpg",
+    "addedAt": "2026-11-19T08:21:40.000Z"
+  },
+  {
+    "asin": "B07WH4QD8H",
+    "title": "Bosch Professional GAS 18V-10 L Akku-Nass-/Trockensauger",
+    "price": 107.99,
+    "note": "10 l, beutellos, für den 18V-Bosch-Akku – Solo ohne Akku und Ladegerät",
+    "category": "Werkzeug",
+    "image": "https://static.mydealz.de/threads/raw/Kl2BX/2875802_1/re/768x768/qt/55/2875802_1.jpg",
+    "addedAt": "2026-11-19T10:47:08.000Z"
+  },
+  {
+    "asin": "B0G64YKD4Q",
+    "title": "UGREEN FineTrack Mini Duo 2 Tracker 4er-Pack",
+    "price": 26.57,
+    "note": "AirTag-Alternative für Apple „Wo ist?“ und Google Find My, 110 dB laut",
+    "category": "Tech",
+    "image": "https://static.mydealz.de/threads/raw/9p43C/2867230_1/re/768x768/qt/55/2867230_1.jpg",
+    "addedAt": "2026-11-19T00:10:20.000Z"
+  },
+  {
+    "asin": "B0GY4GVFPG",
+    "title": "Shokz OpenFit Air 2 Open-Ear-Kopfhörer",
+    "price": 109,
+    "note": "Open-Ear-Sportkopfhörer mit flexiblem Ni-Ti-Bügel für sicheren Halt",
+    "category": "Audio",
+    "image": "https://static.mydealz.de/threads/raw/1FlpJ/2875882_1/re/768x768/qt/55/2875882_1.jpg",
+    "addedAt": "2026-11-19T11:51:14.000Z"
+  },
+  {
+    "asin": "B0GY9KLR9C",
+    "title": "EA Sports UFC 6 Standard Edition (PS5)",
+    "price": 50.43,
+    "note": "Neues UFC mit verbesserten Schlag- und Bewegungssystemen, Disc-Version",
+    "category": "Gaming",
+    "image": "https://static.mydealz.de/threads/raw/bBo7Q/2875751_1/re/768x768/qt/55/2875751_1.jpg",
+    "addedAt": "2026-11-19T10:08:18.000Z"
+  }
+]
