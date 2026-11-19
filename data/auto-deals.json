@@ -1,5 +1,77 @@
 [
   {
+    "id": "auto-b0925nrnzw",
+    "asin": "B0925NRNZW",
+    "title": "\"Ki-ki-ki, ma-ma-ma\" [Prime] Paladone Movie Character Mask Lights - …",
+    "subtitle": "🔥 103° bei mydealz",
+    "category": "Tech",
+    "price": 21.99,
+    "checkedAt": "2026-11-19T08:10:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0925NRNZW.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 103,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ccxtzhhf",
+    "asin": "B0CCXTZHHF",
+    "title": "UGREEN Nexode Pro USB C Ladegerät 160W, GaN Mini Charger, 4-Port …",
+    "subtitle": "🔥 111° bei mydealz",
+    "category": "Zubehör & Laden",
+    "price": 59.51,
+    "checkedAt": "2026-11-19T07:42:42.000Z",
+    "image": "https://static.mydealz.de/threads/raw/3Vyop/2849341_1/re/768x768/qt/55/2849341_1.jpg",
+    "temperature": 111,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cp4l1m41",
+    "asin": "B0CP4L1M41",
+    "title": "Adobe Lightroom inkl. Lightroom Classic 1 TB",
+    "subtitle": "🔥 117° bei mydealz",
+    "category": "Tech",
+    "price": 49.87,
+    "checkedAt": "2026-11-19T08:11:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CP4L1M41.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 117,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f29dtjy7",
+    "asin": "B0F29DTJY7",
+    "title": "Aqara Smart Lock U200 Lite Elektrisches Türschloss mit Matter over …",
+    "subtitle": "🔥 121° bei mydealz",
+    "category": "Tech",
+    "price": 69.99,
+    "checkedAt": "2026-11-19T08:10:36.000Z",
+    "image": "https://static.mydealz.de/threads/raw/7LzK0/2875254_1/re/768x768/qt/55/2875254_1.jpg",
+    "temperature": 121,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f66x7frv",
+    "asin": "B0F66X7FRV",
+    "title": "Leatherman Sammeldeal Amazon Otto Signal, ARC, Wingman, Free 2K",
+    "subtitle": "🔥 125° bei mydealz",
+    "category": "Tech",
+    "price": 103.35,
+    "checkedAt": "2026-11-19T07:55:43.000Z",
+    "image": "https://static.mydealz.de/threads/raw/w3xUj/2875430_1/re/768x768/qt/55/2875430_1.jpg",
+    "temperature": 125,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dghxbdqq",
+    "asin": "B0DGHXBDQQ",
+    "title": "Airpods Max (Zustand \"wie neu\") - USB-C",
+    "subtitle": "🔥 144° bei mydealz",
+    "category": "Tech",
+    "price": 301.1,
+    "checkedAt": "2026-11-19T08:09:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DGHXBDQQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 144,
+    "source": "auto"
+  },
+  {
     "id": "auto-b0fw4rb3p7",
     "asin": "B0FW4RB3P7",
     "title": "Keter Stronghold 8x8 Gartenhaus braun 252x231x241",
@@ -155,7 +227,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T07:27:18.000Z",
     "image": "https://m.media-amazon.com/images/P/B01FLJ6DO6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:24:36.629Z"
   },
   {
     "id": "auto-b0bhl421wh",
@@ -287,7 +360,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T00:30:46.000Z",
     "image": "https://m.media-amazon.com/images/P/B085DV2VBJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:24:32.055Z"
   },
   {
     "id": "auto-b06vwnrjdy",
@@ -324,7 +398,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T06:15:09.000Z",
     "image": "https://m.media-amazon.com/images/P/B0H2S7T2K7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:24:27.681Z"
   },
   {
     "id": "auto-b0h62vsp4r",
@@ -3263,16 +3338,6 @@
     "telegramPostedAt": "2026-11-18T09:24:25.009Z"
   },
   {
-    "id": "auto-b0blxt48vc",
-    "asin": "B0BLXT48VC",
-    "title": "KOSMOS EXIT - Das Spiel - Die Jagd durch Amsterdam, Level: …",
-    "category": "Spielzeug & LEGO",
-    "price": 7.66,
-    "checkedAt": "2026-11-18T08:15:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BLXT48VC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b01n6lb4v4",
     "asin": "B01N6LB4V4",
     "title": "156-tlg. Meister Werkzeug Trolley mit Rollen & Teleskopgriff",
@@ -3360,65 +3425,5 @@
     "image": "https://m.media-amazon.com/images/P/B06XCP1XFP.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T08:54:06.937Z"
-  },
-  {
-    "id": "auto-b0dfy3q3fg",
-    "asin": "B0DFY3Q3FG",
-    "title": "Robustes Set Thermostatventile Smart Home",
-    "category": "Smart Home",
-    "price": 74.99,
-    "checkedAt": "2026-11-18T08:14:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DFY3Q3FG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0d17pjhz8",
-    "asin": "B0D17PJHZ8",
-    "title": "Amazon : Lindt Lindor Cornet Mischung mit 38 Kugeln & 4 Sorten, 500 g",
-    "subtitle": "🔥 101° bei mydealz",
-    "category": "Tech",
-    "price": 11.5,
-    "checkedAt": "2026-11-18T08:18:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D17PJHZ8.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 101,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b00km0dl5o",
-    "asin": "B00KM0DL5O",
-    "title": "PRIME Captain Morgan Original Spiced Gold, Blended Rum, 35% Vol, 1,5 …",
-    "subtitle": "🔥 109° bei mydealz",
-    "category": "Tech",
-    "price": 18.99,
-    "checkedAt": "2026-11-18T08:18:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00KM0DL5O.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 109,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0c24q2rbq",
-    "asin": "B0C24Q2RBQ",
-    "title": "Zyxel NWA50AX Pro WiFi 6 Access Point",
-    "category": "Tech",
-    "price": 59.73,
-    "oldPrice": 77.29,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T08:10:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C24Q2RBQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T08:39:09.892Z"
-  },
-  {
-    "id": "auto-b0ff9scjhd",
-    "asin": "B0FF9SCJHD",
-    "title": "Rowenta Compact Power SO2212F0",
-    "category": "Tech",
-    "price": 26.99,
-    "oldPrice": 37.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T08:14:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FF9SCJHD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T08:24:13.590Z"
   }
 ]
