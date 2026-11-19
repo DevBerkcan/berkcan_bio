@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b002g9udyg",
+    "asin": "B002G9UDYG",
+    "title": "Carhartt Herren Strickmütze Beanie",
+    "category": "Tech",
+    "price": 14.15,
+    "oldPrice": 17.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T21:19:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B002G9UDYG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T21:29:06.532Z"
+  },
+  {
     "id": "auto-b01mfbnn9j",
     "asin": "B01MFBNN9J",
     "title": "Logitech G Saitek Pro Flight Multi-Panel, Autopilot-Controller für …",
@@ -3684,18 +3697,5 @@
     "image": "https://static.mydealz.de/threads/raw/1Arh5/2862375_1/re/768x768/qt/55/2862375_1.jpg",
     "temperature": 874,
     "source": "auto"
-  },
-  {
-    "id": "auto-b08bpf1h7t",
-    "asin": "B08BPF1H7T",
-    "title": "AVM FRITZ!Box 7430, TK-Anlage & Voice over IP mit DECT-Basis, …",
-    "subtitle": "🔥 897° bei mydealz",
-    "category": "Tech",
-    "price": 9.49,
-    "checkedAt": "2026-11-19T05:44:12.000Z",
-    "image": "https://static.mydealz.de/threads/raw/D8EFz/2833989_1/re/768x768/qt/55/2833989_1.jpg",
-    "temperature": 897,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T06:40:55.521Z"
   }
 ]
