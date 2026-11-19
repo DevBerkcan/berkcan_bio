@@ -1,5 +1,60 @@
 [
   {
+    "id": "auto-b00imf1ccu",
+    "asin": "B00IMF1CCU",
+    "title": "Wera 05004018001 8100 SA 8 Zyklop Metal-Knarrensatz, Umschalthebel, …",
+    "category": "Werkzeug",
+    "price": 63.99,
+    "checkedAt": "2026-11-19T16:22:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00IMF1CCU.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T17:42:58.249Z"
+  },
+  {
+    "id": "auto-b09lhxs23s",
+    "asin": "B09LHXS23S",
+    "title": "Hero Quest Basisspiel - Deutsche Version",
+    "category": "Spielzeug & LEGO",
+    "price": 75.49,
+    "checkedAt": "2026-11-19T16:23:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09LHXS23S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T17:42:53.165Z"
+  },
+  {
+    "id": "auto-b00aeanyig",
+    "asin": "B00AEANYIG",
+    "title": "Don Julio 1942, luxuriöser Tequila Añejo aus Mexiko, 38% Vol, 700 ml",
+    "category": "Tech",
+    "price": 114.33,
+    "checkedAt": "2026-11-19T17:28:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00AEANYIG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T17:42:47.426Z"
+  },
+  {
+    "id": "auto-b0dm5j8b6q",
+    "asin": "B0DM5J8B6Q",
+    "title": "Brennenstuhl Garant V2 IP44 Kabeltrommel, 25 m, H05VV-F 3G1,5, 3 …",
+    "category": "Tech",
+    "price": 49.99,
+    "checkedAt": "2026-11-19T17:34:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DM5J8B6Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T17:42:42.345Z"
+  },
+  {
+    "id": "auto-b0f4881hg7",
+    "asin": "B0F4881HG7",
+    "title": "Arcade1Up Mortal Kombat II Classic SE (Slim Edition)",
+    "category": "Tech",
+    "price": 403.7,
+    "checkedAt": "2026-11-19T17:37:42.000Z",
+    "image": "https://static.mydealz.de/threads/raw/x0846/2876303_1/re/768x768/qt/55/2876303_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T17:42:37.022Z"
+  },
+  {
     "id": "auto-b0gqvfjd3t",
     "asin": "B0GQVFJD3T",
     "title": "Apple iPad Air 11\" 2026 WiFi 256GB in violett",
@@ -3640,60 +3695,5 @@
     "image": "https://m.media-amazon.com/images/P/B09S64J8Y7.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T19:52:20.434Z"
-  },
-  {
-    "id": "auto-b0bs3j3rsv",
-    "asin": "B0BS3J3RSV",
-    "title": "Einhell Bohrschrauber TE-CD 18/40 Li + Winkelschleifer TC-AG 18/115 + …",
-    "category": "Werkzeug",
-    "price": 134.99,
-    "checkedAt": "2026-11-18T19:07:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BS3J3RSV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b08lgptftj",
-    "asin": "B08LGPTFTJ",
-    "title": "Waterdrop Wasserfilter Ersatz für Siemens EQ Series …",
-    "category": "Tech",
-    "price": 16.99,
-    "checkedAt": "2026-11-18T19:09:14.000Z",
-    "image": "https://static.mydealz.de/threads/raw/kzEQ4/2875029_1/re/768x768/qt/55/2875029_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b00154ybxw",
-    "asin": "B00154YBXW",
-    "title": "Wera 950/9 Hex-Plus 2 Winkelschlüsselsatz, metrisch, gestellverchromt, …",
-    "category": "Werkzeug",
-    "price": 12.89,
-    "checkedAt": "2026-11-18T19:17:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00154YBXW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T20:52:50.978Z"
-  },
-  {
-    "id": "auto-b0f3jpm3th",
-    "asin": "B0F3JPM3TH",
-    "title": "KRUSTENZAUBER 26cm Gusseisen-Topf zum Brotbacken & Bräter",
-    "category": "Tech",
-    "price": 69.99,
-    "checkedAt": "2026-11-18T19:19:36.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Jbswi/2875041_1/re/768x768/qt/55/2875041_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T19:52:33.698Z"
-  },
-  {
-    "id": "auto-b0h6jymnxm",
-    "asin": "B0H6JYMNXM",
-    "title": "Samsung DW80H77U3UFU1 Geschirrspüler, Unterbaufähig [Energieklasse A]",
-    "subtitle": "🔥 101° bei mydealz",
-    "category": "Küche",
-    "price": 806.08,
-    "checkedAt": "2026-11-18T19:09:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H6JYMNXM.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 101,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T19:37:01.877Z"
   }
 ]
