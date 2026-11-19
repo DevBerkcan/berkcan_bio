@@ -1,5 +1,66 @@
 [
   {
+    "id": "auto-b0crrt6hcb",
+    "asin": "B0CRRT6HCB",
+    "title": "Nur 8,49€ im Sparabo: Shelly 1PM Mini Gen3 - WLAN Smart Relais …",
+    "category": "Tech",
+    "price": 8.94,
+    "checkedAt": "2026-11-19T20:02:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CRRT6HCB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T20:13:48.480Z"
+  },
+  {
+    "id": "auto-b0bmg385yd",
+    "asin": "B0BMG385YD",
+    "title": "CHERRY GENTIX BT, Kabellose Bluetooth-Maus mit 7 Tasten, Agave Green",
+    "category": "Computer",
+    "price": 9.49,
+    "checkedAt": "2026-11-19T20:03:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BMG385YD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T20:13:43.150Z"
+  },
+  {
+    "id": "auto-b08fdwpmp6",
+    "asin": "B08FDWPMP6",
+    "title": "Philips Ersatzscherkopf SH71/50 für elektrische Rasierer Series 7000 & …",
+    "subtitle": "🔥 102° bei mydealz",
+    "category": "Beauty & Pflege",
+    "price": 22.49,
+    "checkedAt": "2026-11-19T20:11:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08FDWPMP6.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 102,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T20:13:37.579Z"
+  },
+  {
+    "id": "auto-b0013xwv4q",
+    "asin": "B0013XWV4Q",
+    "title": "Bundeswehr Outdoor Campingbesteck (4-tlg.) – Edelstahl, …",
+    "subtitle": "🔥 106° bei mydealz",
+    "category": "Sport & Outdoor",
+    "price": 7.98,
+    "checkedAt": "2026-11-19T20:01:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0013XWV4Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 106,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T20:13:31.883Z"
+  },
+  {
+    "id": "auto-b0fkbnyqj7",
+    "asin": "B0FKBNYQJ7",
+    "title": "Frank Sinatra - The Hits - Limited Blue Vinyl LP",
+    "subtitle": "🔥 108° bei mydealz",
+    "category": "Tech",
+    "price": 13.59,
+    "checkedAt": "2026-11-19T20:05:01.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FKBNYQJ7.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 108,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T20:13:26.225Z"
+  },
+  {
     "id": "auto-b0gghskq48",
     "asin": "B0GGHSKQ48",
     "title": "Pokémon-Sammelkartenspiel: Tin-Box Mega-Glurak – Mega-Glurak X-ex",
@@ -3641,65 +3702,5 @@
     "checkedAt": "2026-11-18T23:33:06.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FFWM4GLF.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0gy5v7tz3",
-    "asin": "B0GY5V7TZ3",
-    "title": "OBI ENERGY TRACKER - Smarter Stromzähler Ausleser",
-    "category": "Tech",
-    "price": 14.99,
-    "checkedAt": "2026-11-18T23:33:35.000Z",
-    "image": "https://static.mydealz.de/threads/raw/IZaxM/2875212_1/re/768x768/qt/55/2875212_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fx8gqdt3",
-    "asin": "B0FX8GQDT3",
-    "title": "Blukar Mini EDC LED Taschenlampe (800L, Schwarz)",
-    "category": "Sport & Outdoor",
-    "price": 13.29,
-    "checkedAt": "2026-11-18T23:35:48.000Z",
-    "image": "https://static.mydealz.de/threads/raw/1nZOs/2875215_1/re/768x768/qt/55/2875215_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T23:37:35.975Z"
-  },
-  {
-    "id": "auto-b0fxx2ldv6",
-    "asin": "B0FXX2LDV6",
-    "title": "UGREEN HDMI 2.1 KVM Switch für 2 PCs und 2 Monitore, 8K",
-    "category": "Computer",
-    "price": 81.19,
-    "oldPrice": 94.96,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T23:28:38.000Z",
-    "image": "https://static.mydealz.de/threads/raw/wdSAp/2875202_1/re/768x768/qt/55/2875202_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T23:37:30.298Z"
-  },
-  {
-    "id": "auto-b0gtq9tkrs",
-    "asin": "B0GTQ9TKRS",
-    "title": "HKC 34 Zoll Curved Gaming-Monitor",
-    "category": "Computer",
-    "price": 161.49,
-    "oldPrice": 189.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T23:30:28.000Z",
-    "image": "https://static.mydealz.de/threads/raw/nzKXz/2875205_1/re/768x768/qt/55/2875205_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T23:37:24.471Z"
-  },
-  {
-    "id": "auto-b08r7vk33s",
-    "asin": "B08R7VK33S",
-    "title": "Parker IM Füller",
-    "subtitle": "🔥 253° bei mydealz",
-    "category": "Tech",
-    "price": 21.99,
-    "checkedAt": "2026-11-18T23:28:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08R7VK33S.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 253,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T23:37:18.934Z"
   }
 ]
