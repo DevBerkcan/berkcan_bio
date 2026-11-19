@@ -1,5 +1,30 @@
 [
   {
+    "id": "auto-b0f2sy9b8z",
+    "asin": "B0F2SY9B8Z",
+    "title": "Story of Seasons: Grand Bazaar Limited Edition Set",
+    "category": "Tech",
+    "price": 26.1,
+    "oldPrice": 58.89,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T07:42:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F2SY9B8Z.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0c3528vhm",
+    "asin": "B0C3528VHM",
+    "title": "Play-Doh Smoothie-Mixer Knete Set",
+    "category": "Küche",
+    "price": 6.49,
+    "oldPrice": 15.88,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T07:30:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C3528VHM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T07:54:41.051Z"
+  },
+  {
     "id": "auto-b0gmpzw1wm",
     "asin": "B0GMPZW1WM",
     "title": "Lenovo IdeaPad 5 2in1 Laptop: 14\", WUXGA, Touch, 400Nits, Ryzen 7 250, …",
@@ -3389,26 +3414,6 @@
     "checkedAt": "2026-11-18T07:59:03.000Z",
     "image": "https://m.media-amazon.com/images/P/B077BCJYKW.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 120,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gz76sh98",
-    "asin": "B0GZ76SH98",
-    "title": "adidas Men's ULTIMATE365 CLIMAPROOF JACKE / Verschieden Größen",
-    "category": "Mode & Reise",
-    "price": 40,
-    "checkedAt": "2026-11-18T07:43:38.000Z",
-    "image": "https://static.mydealz.de/threads/raw/2k1E5/2874386_1/re/768x768/qt/55/2874386_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0ch8vqnjc",
-    "asin": "B0CH8VQNJC",
-    "title": "Corsair K70 CORE Tastatur",
-    "category": "Computer",
-    "price": 69.99,
-    "checkedAt": "2026-11-18T07:50:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CH8VQNJC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   }
 ]
