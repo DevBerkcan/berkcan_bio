@@ -1,5 +1,101 @@
 [
   {
+    "id": "auto-b0bhl421wh",
+    "asin": "B0BHL421WH",
+    "title": "Makoto Shinkai Collection ~ 55,97€",
+    "subtitle": "🔥 129° bei mydealz",
+    "category": "Tech",
+    "price": 55.97,
+    "checkedAt": "2026-11-19T06:40:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BHL421WH.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 129,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dmws2l83",
+    "asin": "B0DMWS2L83",
+    "title": "Samsung The Premiere 7 LPU7D: 4K-Ultrakurzdistanz-Laserbeamer, bis 120 …",
+    "subtitle": "🔥 147° bei mydealz",
+    "category": "TV & Heimkino",
+    "price": 999,
+    "checkedAt": "2026-11-19T06:41:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DMWS2L83.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 147,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0bvnrxfht",
+    "asin": "B0BVNRXFHT",
+    "title": "Yubico Security Key C NFC (USB-C + NFC) – 15% Coupon",
+    "subtitle": "🔥 181° bei mydealz",
+    "category": "Tech",
+    "price": 29.33,
+    "checkedAt": "2026-11-19T06:51:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BVNRXFHT.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 181,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08w7gb95v",
+    "asin": "B08W7GB95V",
+    "title": "Gattaca - Uncut",
+    "category": "Bücher & Filme",
+    "price": 14.47,
+    "oldPrice": 17.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T05:03:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08W7GB95V.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0bvmz5nt5",
+    "asin": "B0BVMZ5NT5",
+    "title": "LEGO Icons Der Herr der Ringe: Bruchtal (10316)",
+    "category": "Spielzeug & LEGO",
+    "price": 398.99,
+    "oldPrice": 499.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T05:31:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BVMZ5NT5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f83rqt6b",
+    "asin": "B0F83RQT6B",
+    "title": "Sid Meier’s Civilization VII – Nintendo Switch 2 Edition",
+    "category": "Gaming",
+    "price": 19.99,
+    "oldPrice": 24.94,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T07:02:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F83RQT6B.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09wht4395",
+    "asin": "B09WHT4395",
+    "title": "Brennenstuhl Premium-Alu-Line Steckdosenleiste 4-fach, 1,8 m, …",
+    "category": "Smart Home",
+    "price": 10.19,
+    "oldPrice": 13.34,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T07:16:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09WHT4395.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b000vdx18e",
+    "asin": "B000VDX18E",
+    "title": "3M Peltor Optime III Kapselgehörschutz, SNR 35 dB, Kopfbügel, …",
+    "category": "Tech",
+    "price": 16.94,
+    "oldPrice": 24.14,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T07:09:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000VDX18E.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b006wvetfi",
     "asin": "B006WVETFI",
     "title": "Ziemlich beste Freunde (Blu-ray) IMDb 8,5",
@@ -94,7 +190,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T00:25:25.000Z",
     "image": "https://m.media-amazon.com/images/P/B09VLH19RL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T07:25:13.362Z"
   },
   {
     "id": "auto-b0c8hv79n7",
@@ -3309,99 +3406,5 @@
     "image": "https://m.media-amazon.com/images/P/B075F78KDV.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T09:54:36.975Z"
-  },
-  {
-    "id": "auto-b0b8282r4j",
-    "asin": "B0B8282R4J",
-    "title": "SodaStream Terra Family Pack",
-    "category": "Tech",
-    "price": 59.99,
-    "oldPrice": 80.59,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T07:23:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B8282R4J.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T07:39:47.392Z"
-  },
-  {
-    "id": "auto-b0b5hqzg54",
-    "asin": "B0B5HQZG54",
-    "title": "Prime 6x Falke Happy Herren Socken in Anthrazit und Hellgrau",
-    "category": "Tech",
-    "price": 13.95,
-    "checkedAt": "2026-11-18T07:13:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B5HQZG54.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dzxghckw",
-    "asin": "B0DZXGHCKW",
-    "title": "Maybach Secco Chardonnay (6 x 0,75l) Prime - im Spar-Abo",
-    "category": "Tech",
-    "price": 17.19,
-    "checkedAt": "2026-11-18T07:18:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DZXGHCKW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dzxgpq6l",
-    "asin": "B0DZXGPQ6L",
-    "title": "Maybach Secco Merlot Rosé (6 x 0,75l) Prime - im Spar-Abo",
-    "category": "Tech",
-    "price": 16.14,
-    "checkedAt": "2026-11-18T07:22:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DZXGPQ6L.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dj6zps3y",
-    "asin": "B0DJ6ZPS3Y",
-    "title": "Cosori TurboBlaze 6 L Heißluftfritteuse",
-    "category": "Küche",
-    "price": 94.98,
-    "oldPrice": 119.85,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T07:14:06.000Z",
-    "image": "https://static.mydealz.de/threads/raw/grpwg/2874358_1/re/768x768/qt/55/2874358_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07bclx3wt",
-    "asin": "B07BCLX3WT",
-    "title": "Tefal Ice Force Universalmesser 11 cm, eisgehärteter deutscher …",
-    "category": "Küche",
-    "price": 7.9,
-    "oldPrice": 10.54,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T07:22:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07BCLX3WT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T08:09:16.773Z"
-  },
-  {
-    "id": "auto-b075jlsk72",
-    "asin": "B075JLSK72",
-    "title": "Brennenstuhl Bremounta Steckdosenleiste 6-fach, 3 m Kabel, Schalter, …",
-    "category": "Smart Home",
-    "price": 8.26,
-    "oldPrice": 11.09,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T07:17:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B075JLSK72.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T07:54:24.174Z"
-  },
-  {
-    "id": "auto-b0dg8gkn5n",
-    "asin": "B0DG8GKN5N",
-    "title": "Anker PowerLine III Flow USB-C Kabel 2er-Pack (2 × 1,8 m) 240 W",
-    "category": "Tech",
-    "price": 14.52,
-    "oldPrice": 29.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T07:14:42.000Z",
-    "image": "https://static.mydealz.de/threads/raw/XOeqT/2874360_1/re/768x768/qt/55/2874360_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T07:25:08.253Z"
   }
 ]
