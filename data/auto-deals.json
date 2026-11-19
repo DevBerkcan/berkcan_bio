@@ -1,5 +1,68 @@
 [
   {
+    "id": "auto-b0dmwj8b6r",
+    "asin": "B0DMWJ8B6R",
+    "title": "Mattel Disney Princess Adventskalender mit Rapunzel, Tiana und Belle …",
+    "category": "Spielzeug & LEGO",
+    "price": 15.15,
+    "checkedAt": "2026-11-19T15:41:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DMWJ8B6R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T18:13:00.002Z"
+  },
+  {
+    "id": "auto-b0dwdwk591",
+    "asin": "B0DWDWK591",
+    "title": "LEGO Star Wars 75431 Klonsoldaten des 327. Sternenkorps",
+    "category": "Spielzeug & LEGO",
+    "price": 24.99,
+    "oldPrice": 29.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T17:24:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DWDWK591.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T18:12:54.487Z"
+  },
+  {
+    "id": "auto-b0gr1dkxjb",
+    "asin": "B0GR1DKXJB",
+    "title": "APPLE MacBook Air 13\" M5 Laptop [Mitternacht]",
+    "subtitle": "🔥 552° bei mydealz",
+    "category": "Computer",
+    "price": 1349,
+    "checkedAt": "2026-11-19T18:02:10.000Z",
+    "image": "https://static.mydealz.de/threads/raw/oBUN0/2869756_1/re/768x768/qt/55/2869756_1.jpg",
+    "temperature": 552,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T18:12:49.092Z"
+  },
+  {
+    "id": "auto-b0h45pvmhg",
+    "asin": "B0H45PVMHG",
+    "title": "Blukar Taschenlampe LED Mini Aufladbar, EDC Torch mit Magnetbasis & …",
+    "subtitle": "🔥 1374° bei mydealz",
+    "category": "Tech",
+    "price": 9.99,
+    "checkedAt": "2026-11-19T18:09:32.000Z",
+    "image": "https://static.mydealz.de/threads/raw/MbvtY/2852188_1/re/768x768/qt/55/2852188_1.jpg",
+    "temperature": 1374,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T18:12:42.408Z"
+  },
+  {
+    "id": "auto-b0fpxdxj98",
+    "asin": "B0FPXDXJ98",
+    "title": "LEGO City - Das Flughafen-Feuerwehrfahrzeug (60499)",
+    "category": "Spielzeug & LEGO",
+    "price": 40.99,
+    "oldPrice": 69.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T18:11:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXDXJ98.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T18:12:35.828Z"
+  },
+  {
     "id": "auto-b0ddtxzr57",
     "asin": "B0DDTXZR57",
     "title": "AEG GV77D61SL Kopffreie Dunstabzugshaube",
@@ -3640,60 +3703,5 @@
     "image": "https://m.media-amazon.com/images/P/B0F6WS945Q.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T21:22:32.440Z"
-  },
-  {
-    "id": "auto-b007hk2ni8",
-    "asin": "B007HK2NI8",
-    "title": "Vaude Six Peg Tents 6x Heringe",
-    "category": "Tech",
-    "price": 5.14,
-    "checkedAt": "2026-11-18T20:52:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B007HK2NI8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T21:07:40.627Z"
-  },
-  {
-    "id": "auto-b0fqv68hnl",
-    "asin": "B0FQV68HNL",
-    "title": "Bosch AdvancedTacker",
-    "category": "Tech",
-    "price": 69.99,
-    "checkedAt": "2026-11-18T20:26:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FQV68HNL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T20:38:07.876Z"
-  },
-  {
-    "id": "auto-b0gkj3zx16",
-    "asin": "B0GKJ3ZX16",
-    "title": "Echo Dot (Neueste Generation) + WiZ Smart Plug",
-    "category": "Amazon-Geräte",
-    "price": 44.99,
-    "checkedAt": "2026-11-18T20:32:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GKJ3ZX16.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T20:38:02.256Z"
-  },
-  {
-    "id": "auto-b0cptbbqjr",
-    "asin": "B0CPTBBQJR",
-    "title": "Mixa Urea Cica Balsam, gegen rissige und trockene Haut, 150 ml",
-    "category": "Tech",
-    "price": 5.09,
-    "checkedAt": "2026-11-18T20:08:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CPTBBQJR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T20:38:16.043Z"
-  },
-  {
-    "id": "auto-b09xqx5gt5",
-    "asin": "B09XQX5GT5",
-    "title": "HUDORA Vario Turnreck - 7-fach höhenverstellbar",
-    "category": "Tech",
-    "price": 84.3,
-    "checkedAt": "2026-11-18T20:09:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09XQX5GT5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T20:23:07.560Z"
   }
 ]
