@@ -1,5 +1,62 @@
 [
   {
+    "id": "auto-b0gghskq48",
+    "asin": "B0GGHSKQ48",
+    "title": "Pokémon-Sammelkartenspiel: Tin-Box Mega-Glurak – Mega-Glurak X-ex",
+    "category": "Spielzeug & LEGO",
+    "price": 24.99,
+    "checkedAt": "2026-11-19T18:07:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GGHSKQ48.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T19:58:44.813Z"
+  },
+  {
+    "id": "auto-b0dhsbbv6r",
+    "asin": "B0DHSBBV6R",
+    "title": "LEGO Speed Champions Ferrari SF-24 F1 Rennauto 77242",
+    "category": "Spielzeug & LEGO",
+    "price": 16.15,
+    "checkedAt": "2026-11-19T18:10:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DHSBBV6R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T19:58:39.747Z"
+  },
+  {
+    "id": "auto-b0g7zb945y",
+    "asin": "B0G7ZB945Y",
+    "title": "Schmidt Ligretto, Fußball: Familienkartenspiel",
+    "category": "Spielzeug & LEGO",
+    "price": 9.95,
+    "checkedAt": "2026-11-19T18:13:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G7ZB945Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T19:58:33.997Z"
+  },
+  {
+    "id": "auto-b0f29h3vz8",
+    "asin": "B0F29H3VZ8",
+    "title": "Razer Pro Click V2 – kabellose ergonomische Maus mit 30.000 DPI, …",
+    "category": "Computer",
+    "price": 80,
+    "checkedAt": "2026-11-19T18:21:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F29H3VZ8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T19:58:28.763Z"
+  },
+  {
+    "id": "auto-b0clv2ff29",
+    "asin": "B0CLV2FF29",
+    "title": "CHERRY KC 200 MX mechanische Tastatur mit MX2A Brown, DE-QWERTZ, …",
+    "category": "Computer",
+    "price": 40.99,
+    "oldPrice": 59.9,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T19:42:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CLV2FF29.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T19:58:22.770Z"
+  },
+  {
     "id": "auto-b0fqnvp87y",
     "asin": "B0FQNVP87Y",
     "title": "Insta360 X4 Air Starter-Bundle",
@@ -2742,18 +2799,6 @@
     "telegramPostedAt": "2026-11-19T09:39:29.704Z"
   },
   {
-    "id": "queue-b0gs3792xj",
-    "asin": "B0GS3792XJ",
-    "title": "Einhell Professional TP-CD 18/50 Schlagbohrschrauber",
-    "subtitle": "Bürstenloser 18-V-Akku-Schlagbohrschrauber, Power X-Change, Solo.",
-    "category": "Werkzeug",
-    "price": 78.1,
-    "checkedAt": "2026-11-18T19:46:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GS3792XJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T09:39:25.366Z"
-  },
-  {
     "id": "queue-b0gwlh8z7d",
     "asin": "B0GWLH8Z7D",
     "title": "Anker soundcore Liberty 5 Pro In-Ear-Kopfhörer",
@@ -3656,57 +3701,5 @@
     "temperature": 253,
     "source": "auto",
     "telegramPostedAt": "2026-11-18T23:37:18.934Z"
-  },
-  {
-    "id": "auto-b09tzzxsk2",
-    "asin": "B09TZZXSK2",
-    "title": "Govee RGBIC LED Stehlampe, 1000 lm, Matter & Alexa, in Schwarz, Silber …",
-    "category": "Licht & Garten",
-    "price": 53.99,
-    "oldPrice": 70.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T23:35:29.000Z",
-    "image": "https://static.mydealz.de/threads/raw/lK5A1/2875213_1/re/768x768/qt/55/2875213_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T23:37:14.002Z"
-  },
-  {
-    "id": "auto-b08n17x2xg",
-    "asin": "B08N17X2XG",
-    "title": "Jack & Jones Herren Chino Marco Dave, Slim Fit, Schwarz",
-    "category": "Tech",
-    "price": 12.74,
-    "oldPrice": 17.57,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T23:24:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08N17X2XG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T23:37:07.712Z"
-  },
-  {
-    "id": "auto-b09s3x3grq",
-    "asin": "B09S3X3GRQ",
-    "title": "Ravensburger Panorama-Puzzle Harry Potter Familienstammbaum, 2000 …",
-    "category": "Spielzeug & LEGO",
-    "price": 19.99,
-    "oldPrice": 28.82,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T23:01:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09S3X3GRQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T23:37:02.851Z"
-  },
-  {
-    "id": "auto-b0d9r9wbqt",
-    "asin": "B0D9R9WBQT",
-    "title": "UNO in Metalldose mit 2 Erweiterungen, Mattel JCV60",
-    "category": "Spielzeug & LEGO",
-    "price": 9.59,
-    "oldPrice": 14.14,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T23:02:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D9R9WBQT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T23:36:57.878Z"
   }
 ]
