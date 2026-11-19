@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b075tcmc2n",
+    "asin": "B075TCMC2N",
+    "title": "Wagemut PX Cask Barbados Rum (31,40€ im 5er-Spar-Abo)",
+    "subtitle": "🔥 112° bei mydealz",
+    "category": "Tech",
+    "price": 33.05,
+    "checkedAt": "2026-11-19T21:33:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B075TCMC2N.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 112,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T21:58:40.386Z"
+  },
+  {
     "id": "auto-b0dhzqb3sl",
     "asin": "B0DHZQB3SL",
     "title": "Philips Sonicare C1 ProResults 8er-Pack Ersatzbürstenköpfe HX6018/87 …",
@@ -3686,17 +3699,5 @@
     "image": "https://static.mydealz.de/threads/raw/SDdZM/2875400_1/re/768x768/qt/55/2875400_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T07:10:19.262Z"
-  },
-  {
-    "id": "auto-b0d26gwwd1",
-    "asin": "B0D26GWWD1",
-    "title": "heat it Classic Insektenstichheiler USB-C",
-    "subtitle": "🔥 527° bei mydealz",
-    "category": "Tech",
-    "price": 19.99,
-    "checkedAt": "2026-11-19T05:44:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D26GWWD1.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 527,
-    "source": "auto"
   }
 ]
