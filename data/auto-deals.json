@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b001u4y28g",
+    "asin": "B001U4Y28G",
+    "title": "VICTORINOX Taschenmesser \"BW Scharf\"",
+    "category": "Küche",
+    "price": 42.41,
+    "checkedAt": "2026-11-19T21:08:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B001U4Y28G.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T22:44:13.538Z"
+  },
+  {
+    "id": "auto-b09fkg7zmv",
+    "asin": "B09FKG7ZMV",
+    "title": "RevolutionRace Herren RVRC GP Outdoor Hose -",
+    "category": "Sport & Outdoor",
+    "price": 57,
+    "checkedAt": "2026-11-19T21:09:53.000Z",
+    "image": "https://static.mydealz.de/threads/raw/fyo1f/2876482_1/re/768x768/qt/55/2876482_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T22:44:07.912Z"
+  },
+  {
+    "id": "auto-b0bg3cnbbb",
+    "asin": "B0BG3CNBBB",
+    "title": "GANT Men's D2. Archive Shield Ss T-Shirt",
+    "category": "Mode & Reise",
+    "price": 16.86,
+    "checkedAt": "2026-11-19T22:32:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BG3CNBBB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T22:44:00.052Z"
+  },
+  {
+    "id": "auto-b0d4dzdhz1",
+    "asin": "B0D4DZDHZ1",
+    "title": "Loop Experience 2 Ohrstöpsel",
+    "category": "Audio",
+    "price": 23.95,
+    "checkedAt": "2026-11-19T22:42:42.000Z",
+    "image": "https://static.mydealz.de/threads/raw/5LnCi/2876537_1/re/768x768/qt/55/2876537_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T22:43:54.348Z"
+  },
+  {
     "id": "auto-b0fd28c4dm",
     "asin": "B0FD28C4DM",
     "title": "Spigen iPhone Air Hülle Ultra Hybrid MagFit - Classic Black",
@@ -3636,55 +3680,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BVNRXFHT.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 181,
     "source": "auto"
-  },
-  {
-    "id": "auto-b08w7gb95v",
-    "asin": "B08W7GB95V",
-    "title": "Gattaca - Uncut",
-    "category": "Bücher & Filme",
-    "price": 14.47,
-    "oldPrice": 17.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T05:03:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08W7GB95V.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T08:39:31.250Z"
-  },
-  {
-    "id": "auto-b0bvmz5nt5",
-    "asin": "B0BVMZ5NT5",
-    "title": "LEGO Icons Der Herr der Ringe: Bruchtal (10316)",
-    "category": "Spielzeug & LEGO",
-    "price": 398.99,
-    "oldPrice": 499.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T05:31:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BVMZ5NT5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0f83rqt6b",
-    "asin": "B0F83RQT6B",
-    "title": "Sid Meier’s Civilization VII – Nintendo Switch 2 Edition",
-    "category": "Gaming",
-    "price": 19.99,
-    "oldPrice": 24.94,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T07:02:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F83RQT6B.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b09wht4395",
-    "asin": "B09WHT4395",
-    "title": "Brennenstuhl Premium-Alu-Line Steckdosenleiste 4-fach, 1,8 m, …",
-    "category": "Smart Home",
-    "price": 10.19,
-    "oldPrice": 13.34,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T07:16:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09WHT4395.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:10:51.846Z"
   }
 ]
