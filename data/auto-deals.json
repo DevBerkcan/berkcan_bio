@@ -1,5 +1,53 @@
 [
   {
+    "id": "auto-b0gc5ckxqz",
+    "asin": "B0GC5CKXQZ",
+    "title": "TINECO - FLOOR ONE i5 Stretch Nass- & Trockensauger, 2‑in‑1 Saugen & …",
+    "category": "Haushalt",
+    "price": 139.99,
+    "checkedAt": "2026-11-19T18:26:30.000Z",
+    "image": "https://static.mydealz.de/threads/raw/VCPZ8/2876352_1/re/768x768/qt/55/2876352_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T18:28:02.605Z"
+  },
+  {
+    "id": "auto-b0d7zmj6bz",
+    "asin": "B0D7ZMJ6BZ",
+    "title": "Blukar LED Stirnlampe Aufladbar, 2000L",
+    "category": "Sport & Outdoor",
+    "price": 8.51,
+    "checkedAt": "2026-11-19T18:26:35.000Z",
+    "image": "https://static.mydealz.de/threads/raw/1hYMk/2852262_1/re/768x768/qt/55/2852262_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T18:27:56.292Z"
+  },
+  {
+    "id": "auto-b0gt9l7mk6",
+    "asin": "B0GT9L7MK6",
+    "title": "Cherry XTRFY K33 Compact Wireless Gaming-Tastatur, QWERTZ, 75 %, …",
+    "subtitle": "🔥 101° bei mydealz",
+    "category": "Computer",
+    "price": 37.99,
+    "checkedAt": "2026-11-19T18:24:29.000Z",
+    "image": "https://static.mydealz.de/threads/raw/xof5A/2875870_1/re/768x768/qt/55/2875870_1.jpg",
+    "temperature": 101,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T18:27:49.821Z"
+  },
+  {
+    "id": "auto-b0dyv4tfvh",
+    "asin": "B0DYV4TFVH",
+    "title": "UGREEN 2 in 1 WLAN Stick AX900 Bluetooth 5.4 USB WLAN Adapter PC …",
+    "subtitle": "🔥 104° bei mydealz",
+    "category": "Tech",
+    "price": 12.33,
+    "checkedAt": "2026-11-19T18:15:30.000Z",
+    "image": "https://static.mydealz.de/threads/raw/6Hxwn/2875810_1/re/768x768/qt/55/2875810_1.jpg",
+    "temperature": 104,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T18:27:42.431Z"
+  },
+  {
     "id": "auto-b0dmwj8b6r",
     "asin": "B0DMWJ8B6R",
     "title": "Mattel Disney Princess Adventskalender mit Rapunzel, Tiana und Belle …",
@@ -3656,52 +3704,5 @@
     "image": "https://m.media-amazon.com/images/P/B07X4DS86H.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T23:22:13.036Z"
-  },
-  {
-    "id": "auto-b00v4lacq6",
-    "asin": "B00V4LACQ6",
-    "title": "Ibena Kuscheldecke Olbia 150x200cm in verschiedenen Farben",
-    "subtitle": "🔥 1093° bei mydealz",
-    "category": "Tech",
-    "price": 9.29,
-    "checkedAt": "2026-11-18T21:54:47.000Z",
-    "image": "https://static.mydealz.de/threads/raw/5Y4hq/2850258_1/re/768x768/qt/55/2850258_1.jpg",
-    "temperature": 1093,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T22:06:42.590Z"
-  },
-  {
-    "id": "auto-b07ywyq8qf",
-    "asin": "B07YWYQ8QF",
-    "title": "Hacker-Pschorr Münchner Hell • Bier (24x0,5l)",
-    "category": "Lebensmittel & Drinks",
-    "price": 18.99,
-    "checkedAt": "2026-11-18T21:27:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07YWYQ8QF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b000zem0s6",
-    "asin": "B000ZEM0S6",
-    "title": "Brennenstuhl Verlängerungs-Gummikabel 25m IP 44",
-    "category": "Tech",
-    "price": 23.98,
-    "checkedAt": "2026-11-18T21:29:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000ZEM0S6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T21:51:58.068Z"
-  },
-  {
-    "id": "auto-b0f6ws945q",
-    "asin": "B0F6WS945Q",
-    "title": "Mississippi Burning - Die Wurzel des Hasses (Blu-ray) IMDb 7,8/10",
-    "category": "Bücher & Filme",
-    "price": 7.99,
-    "oldPrice": 12.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T21:19:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F6WS945Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T21:22:32.440Z"
   }
 ]
