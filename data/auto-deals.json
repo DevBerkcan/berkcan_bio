@@ -1,5 +1,44 @@
 [
   {
+    "id": "auto-b09wz8pvzh",
+    "asin": "B09WZ8PVZH",
+    "title": "Ernie Ball Regular Slinky, Saiten für E-Gitarre, 4er-Pack, Stärke …",
+    "subtitle": "🔥 112° bei mydealz",
+    "category": "Tech",
+    "price": 18.04,
+    "checkedAt": "2026-11-19T10:20:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09WZ8PVZH.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 112,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T10:24:34.258Z"
+  },
+  {
+    "id": "auto-b01h88gsw0",
+    "asin": "B01H88GSW0",
+    "title": "Wera 950 SPKL/9 SM N Multicolour Winkelschlüsselsatz, metrisch, …",
+    "subtitle": "🔥 133° bei mydealz",
+    "category": "Werkzeug",
+    "price": 24.59,
+    "checkedAt": "2026-11-19T10:13:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01H88GSW0.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 133,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T10:24:29.060Z"
+  },
+  {
+    "id": "queue-b07l6z417x",
+    "asin": "B07L6Z417X",
+    "title": "Einhell TE-CD 18/40 Li Akku-Bohrschrauber Solo",
+    "subtitle": "2-Gang-Bohrschrauber mit 13-mm-Bohrfutter, Power X-Change.",
+    "category": "Werkzeug",
+    "price": 28.99,
+    "oldPrice": 31.9,
+    "checkedAt": "2026-11-19T08:10:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07L6Z417X.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T10:24:10.798Z"
+  },
+  {
     "id": "auto-b09t3k9zc6",
     "asin": "B09T3K9ZC6",
     "title": "Hitster Original – Musik-Partyspiel mit 300+ Songs, 2–10 Spieler",
@@ -357,18 +396,6 @@
     "price": 109.99,
     "checkedAt": "2026-11-19T08:32:08.000Z",
     "image": "https://m.media-amazon.com/images/P/B0HGLT3P9N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07l6z417x",
-    "asin": "B07L6Z417X",
-    "title": "Einhell TE-CD 18/40 Li-Solo",
-    "category": "Werkzeug",
-    "price": 28.99,
-    "oldPrice": 31.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T08:10:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07L6Z417X.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -3110,16 +3137,6 @@
     "telegramPostedAt": "2026-11-18T11:53:11.663Z"
   },
   {
-    "id": "auto-b09rv4xtg2",
-    "asin": "B09RV4XTG2",
-    "title": "SONY - HT-S400 2.1-Kanal 330W Soundbar für TV mit drahtlosem Subwoofer …",
-    "category": "TV & Heimkino",
-    "price": 179,
-    "checkedAt": "2026-11-18T11:32:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09RV4XTG2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0fknl7dss",
     "asin": "B0FKNL7DSS",
     "title": "Cecotec Pizzaofen Fun Pizza&Co Mamma Mía Window Plus Pro, 1200 W, 400 …",
@@ -3338,16 +3355,6 @@
     "image": "https://m.media-amazon.com/images/P/B0F9Z1HWWH.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T18:06:53.910Z"
-  },
-  {
-    "id": "auto-b0h41crdpw",
-    "asin": "B0H41CRDPW",
-    "title": "Narwal V50 Cube 210 AW Akku‑Staubsauger mit Auto‑Empty‑System …",
-    "category": "Haushalt",
-    "price": 379,
-    "checkedAt": "2026-11-18T10:50:02.000Z",
-    "image": "https://static.mydealz.de/threads/raw/CGq5m/2874573_1/re/768x768/qt/55/2874573_1.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0cvl2rn99",
