@@ -1,5 +1,20 @@
 [
   {
+    "id": "auto-b0dky1hnpv",
+    "asin": "B0DKY1HNPV",
+    "title": "Super Mario World – 35 Jahre Retro-Nostalgie: Die komplette …",
+    "subtitle": "🔥 226° bei mydealz",
+    "category": "Tech",
+    "price": 13.97,
+    "oldPrice": 19.97,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T05:53:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DKY1HNPV.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 226,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T06:11:28.726Z"
+  },
+  {
     "id": "auto-b0c76zd7kv",
     "asin": "B0C76ZD7KV",
     "title": "UGREEN FineCam Lite 1080P Webcam",
@@ -3371,16 +3386,6 @@
     "price": 11.99,
     "checkedAt": "2026-11-18T06:23:39.000Z",
     "image": "https://m.media-amazon.com/images/P/B0B3F3RBMQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07sg7r14h",
-    "asin": "B07SG7R14H",
-    "title": "STAR TREK - 3 Filme als Set - inkl. Into Darkness & Beyond - Blu-ray",
-    "category": "Bücher & Filme",
-    "price": 15.99,
-    "checkedAt": "2026-11-18T06:24:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07SG7R14H.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   }
 ]
