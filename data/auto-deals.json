@@ -1,5 +1,70 @@
 [
   {
+    "id": "auto-b0fkzb4b3d",
+    "asin": "B0FKZB4B3D",
+    "title": "Tom Clancy's Rainbow Six: Siege X Elite Edition",
+    "subtitle": "🔥 103° bei mydealz",
+    "category": "Tech",
+    "price": 9.99,
+    "checkedAt": "2026-11-19T12:35:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FKZB4B3D.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 103,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T12:56:09.546Z"
+  },
+  {
+    "id": "auto-b0f38fq1sz",
+    "asin": "B0F38FQ1SZ",
+    "title": "XGIMI MoGo 4 Laser Beamer",
+    "subtitle": "🔥 110° bei mydealz",
+    "category": "TV & Heimkino",
+    "price": 499,
+    "checkedAt": "2026-11-19T12:45:15.000Z",
+    "image": "https://static.mydealz.de/threads/raw/AJ2wB/2875407_1/re/768x768/qt/55/2875407_1.jpg",
+    "temperature": 110,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T12:56:04.367Z"
+  },
+  {
+    "id": "auto-b0cwlmg1jx",
+    "asin": "B0CWLMG1JX",
+    "title": "AKKO Kabellose Katzenmaus (3200 DPI, Grau / Pink)",
+    "subtitle": "🔥 120° bei mydealz",
+    "category": "Tech",
+    "price": 24.22,
+    "checkedAt": "2026-11-19T12:22:59.000Z",
+    "image": "https://static.mydealz.de/threads/raw/xZDSx/2875704_1/re/768x768/qt/55/2875704_1.jpg",
+    "temperature": 120,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T12:55:57.468Z"
+  },
+  {
+    "id": "auto-b00jdvx3we",
+    "asin": "B00JDVX3WE",
+    "title": "Dire Straits - Brothers in Arms - Vinyl [2LP Doppelvinyl]",
+    "subtitle": "🔥 120° bei mydealz",
+    "category": "Tech",
+    "price": 22.52,
+    "checkedAt": "2026-11-19T12:34:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00JDVX3WE.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 120,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T12:55:50.770Z"
+  },
+  {
+    "id": "auto-b0gy8hxs1d",
+    "asin": "B0GY8HXS1D",
+    "title": "EcoFlow Powerbank 10.000 mAh mit 45 W Schnellladen und ausziehbarem …",
+    "category": "Zubehör & Laden",
+    "price": 19.99,
+    "oldPrice": 24.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T12:40:29.000Z",
+    "image": "https://static.mydealz.de/threads/raw/rBAlh/2875969_1/re/768x768/qt/55/2875969_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T12:55:44.713Z"
+  },
+  {
     "id": "auto-b0d56g6p9k",
     "asin": "B0D56G6P9K",
     "title": "He-Man and the Masters of the Universe - Vol. 1 ~ 27,76€ / Vol. 2 ~ …",
@@ -3501,58 +3566,5 @@
     "checkedAt": "2026-11-18T13:18:24.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GX68M1B5.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b003veilmg",
-    "asin": "B003VEILMG",
-    "title": "Bosch Professional GSR 12V-15 Akkubohrschrauber",
-    "category": "Werkzeug",
-    "price": 49.99,
-    "checkedAt": "2026-11-18T13:20:57.000Z",
-    "image": "https://m.media-amazon.com/images/P/B003VEILMG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T15:51:57.035Z"
-  },
-  {
-    "id": "auto-b00061q83q",
-    "asin": "B00061Q83Q",
-    "title": "Green Day - American Idiot [Vinyl 2LP, Doppelvinyl]",
-    "category": "Tech",
-    "price": 19.19,
-    "checkedAt": "2026-11-18T12:53:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00061Q83Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T19:07:11.008Z"
-  },
-  {
-    "id": "auto-b0fv1wwzwq",
-    "asin": "B0FV1WWZWQ",
-    "title": "BOSS Troper Sport Collection Men's Watch with Three-Hand Quartz …",
-    "category": "Tech",
-    "price": 129.65,
-    "checkedAt": "2026-11-18T13:04:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FV1WWZWQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0h2dcfjnc",
-    "asin": "B0H2DCFJNC",
-    "title": "HP20 Akku Staubsauger, 180 AW, TÜV-getestet, grünes LED-Licht, für …",
-    "category": "Haushalt",
-    "price": 132.99,
-    "checkedAt": "2026-11-18T13:07:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H2DCFJNC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b099wks8zb",
-    "asin": "B099WKS8ZB",
-    "title": "Brennenstuhl Premium-Line 6-Fach mit Überspannungsschutz",
-    "category": "Tech",
-    "price": 25.12,
-    "checkedAt": "2026-11-18T12:48:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B099WKS8ZB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T17:06:26.710Z"
   }
 ]
