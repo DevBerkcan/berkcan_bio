@@ -1,5 +1,68 @@
 [
   {
+    "id": "auto-b0gt9ybd4b",
+    "asin": "B0GT9YBD4B",
+    "title": "280,99 € eff. mit Epson-Cashback",
+    "category": "Computer",
+    "price": 330.99,
+    "checkedAt": "2026-11-19T16:09:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GT9YBD4B.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T16:10:39.468Z"
+  },
+  {
+    "id": "auto-b0gz7q2fzx",
+    "asin": "B0GZ7Q2FZX",
+    "title": "adidas Men's ULTIMATE365 CLIMAPROOF JACKE in S",
+    "subtitle": "🔥 102° bei mydealz",
+    "category": "Mode & Reise",
+    "price": 48,
+    "checkedAt": "2026-11-19T16:02:41.000Z",
+    "image": "https://static.mydealz.de/threads/raw/JJlIg/2875947_1/re/768x768/qt/55/2875947_1.jpg",
+    "temperature": 102,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T16:10:34.189Z"
+  },
+  {
+    "id": "auto-b0fgxxgwcf",
+    "asin": "B0FGXXGWCF",
+    "title": "Osprey Sportlite Wanderrucksack (20 L) in Torrent Blue",
+    "subtitle": "🔥 108° bei mydealz",
+    "category": "Sport & Outdoor",
+    "price": 49.99,
+    "checkedAt": "2026-11-19T15:55:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FGXXGWCF.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 108,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T16:10:27.966Z"
+  },
+  {
+    "id": "auto-b001rem4kc",
+    "asin": "B001REM4KC",
+    "title": "Small World – Strategisches Fantasy-Brettspiel für 2–5 Spieler",
+    "category": "Spielzeug & LEGO",
+    "price": 37.59,
+    "oldPrice": 48.58,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T15:33:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B001REM4KC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T16:10:22.299Z"
+  },
+  {
+    "id": "auto-b098tdjcnx",
+    "asin": "B098TDJCNX",
+    "title": "Unstable Unicorns – Grundspiel",
+    "category": "Spielzeug & LEGO",
+    "price": 15.15,
+    "oldPrice": 20.98,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T15:40:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B098TDJCNX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T16:10:16.602Z"
+  },
+  {
     "id": "auto-b07w5jk221",
     "asin": "B07W5JK221",
     "title": "Logitech G PRO TKL mechanische Gaming-Tastatur, GX Blue Clicky, …",
@@ -3599,61 +3662,6 @@
     "price": 109,
     "checkedAt": "2026-11-18T16:26:11.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FPNH326D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dvzsnf8g",
-    "asin": "B0DVZSNF8G",
-    "title": "ASUS B650E MAX Gaming WiFi AMD AM5 ATX Mainboard, DDR5, PCIe 5.0, 3x …",
-    "category": "Computer",
-    "price": 121.99,
-    "checkedAt": "2026-11-18T16:30:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DVZSNF8G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T17:07:11.925Z"
-  },
-  {
-    "id": "auto-b00njxyp7y",
-    "asin": "B00NJXYP7Y",
-    "title": "BOSCH TWK8611P Wasserkocher 2400W mit Temperatureinstellung Weiß",
-    "category": "Küche",
-    "price": 51.99,
-    "oldPrice": 62.89,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T16:31:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00NJXYP7Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T16:36:41.366Z"
-  },
-  {
-    "id": "auto-b01cfwdozs",
-    "asin": "B01CFWDOZS",
-    "title": "24x 330ml Coca-Cola Zero",
-    "category": "Tech",
-    "price": 12.13,
-    "checkedAt": "2026-11-18T16:09:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01CFWDOZS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T17:21:50.629Z"
-  },
-  {
-    "id": "auto-b07vhjmzhf",
-    "asin": "B07VHJMZHF",
-    "title": "GLORYFEEL - Vitamin D3 K2 5.000 IE & 200µg K2 Depot Tabletten",
-    "category": "Smartphone & Tablet",
-    "price": 11.49,
-    "checkedAt": "2026-11-18T15:55:24.000Z",
-    "image": "https://static.mydealz.de/threads/raw/PboFL/2874883_1/re/768x768/qt/55/2874883_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0fjs7h1kq",
-    "asin": "B0FJS7H1KQ",
-    "title": "Philips Headshaver Pro Series 9000 HS9980/15",
-    "category": "Tech",
-    "price": 99.99,
-    "checkedAt": "2026-11-18T15:57:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJS7H1KQ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   }
 ]
