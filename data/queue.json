@@ -1,1 +1,111 @@
-[]
+[
+  {
+    "asin": "B0DKLFHZDH",
+    "title": "Amazon Echo Dot Max (neueste Generation)",
+    "price": 74.99,
+    "note": "Raumfüllender Klang plus integrierter Smart-Home-Hub.",
+    "category": "Smart Home",
+    "image": "https://static.mydealz.de/threads/raw/QULuR/2874837_1/re/768x768/qt/55/2874837_1.jpg",
+    "addedAt": "2026-11-18T15:08:10.000Z"
+  },
+  {
+    "asin": "B0DHY29PSM",
+    "title": "ASUS ROG Pelta Wireless Gaming-Headset",
+    "price": 64.9,
+    "note": "Tri-Mode, 50-mm-Titan-Treiber und bis zu 90 h Akku bei nur 309 g.",
+    "category": "Gaming",
+    "image": "https://static.mydealz.de/threads/raw/MI8yl/2875732_1/re/768x768/qt/55/2875732_1.jpg",
+    "addedAt": "2026-11-19T09:53:53.000Z"
+  },
+  {
+    "asin": "B0GQHGGWHX",
+    "title": "TCL 55V6D 55\" 4K Fire TV",
+    "price": 299,
+    "note": "4K mit HDR10+, Dolby Atmos, DTS:X, Game Master und AirPlay.",
+    "category": "TV",
+    "image": "https://static.mydealz.de/threads/raw/7gvkj/2875826_1/re/768x768/qt/55/2875826_1.jpg",
+    "addedAt": "2026-11-19T11:05:34.000Z"
+  },
+  {
+    "asin": "B0H416DF3N",
+    "title": "NARWAL Freo 20 Saug- und Wischroboter",
+    "price": 699,
+    "note": "Saug-Wisch-Kombi mit TrackMop und Heißwasserreinigung.",
+    "category": "Haushalt",
+    "image": "https://static.mydealz.de/threads/raw/7lZUD/2875796_1/re/768x768/qt/55/2875796_1.jpg",
+    "addedAt": "2026-11-19T10:45:15.000Z"
+  },
+  {
+    "asin": "B0BVLGP4WC",
+    "title": "ASUS TUF Gaming X870E-Plus WiFi 7 (AM5)",
+    "price": 229.99,
+    "note": "AM5-Mainboard mit DDR5, PCIe 5.0, 4× M.2, USB4 und 2,5G LAN.",
+    "category": "Computer",
+    "image": "https://static.mydealz.de/threads/raw/CVlq2/2875821_1/re/768x768/qt/55/2875821_1.jpg",
+    "addedAt": "2026-11-19T11:00:49.000Z"
+  },
+  {
+    "asin": "B09VPV3NZD",
+    "title": "Einhell IMPAXXO 18/450 Akku-Schlagschrauber",
+    "price": 103.99,
+    "note": "Brushless, 450 Nm und 3 Stufen – passt ins Power-X-Change-System.",
+    "category": "Werkzeug",
+    "image": "https://static.mydealz.de/threads/raw/LWW3O/2875738_1/re/768x768/qt/55/2875738_1.jpg",
+    "addedAt": "2026-11-19T09:56:22.000Z"
+  },
+  {
+    "asin": "B0CJFNDCR9",
+    "title": "JBL Live 770NC Over-Ear-Kopfhörer (Weiß)",
+    "price": 63.99,
+    "note": "Over-Ear-Kopfhörer von JBL mit Noise Cancelling.",
+    "category": "Audio",
+    "image": "https://static.mydealz.de/threads/raw/F2LG4/2875690_1/re/768x768/qt/55/2875690_1.jpg",
+    "addedAt": "2026-11-19T09:31:51.000Z"
+  },
+  {
+    "asin": "B0H9LV5YKX",
+    "title": "Bosch Smart Home Starterset mit Thermostat II",
+    "price": 109.99,
+    "note": "Controller plus smartes Heizkörperthermostat für den Einstieg.",
+    "category": "Smart Home",
+    "image": "https://static.mydealz.de/threads/raw/DK7qb/2875768_1/re/768x768/qt/55/2875768_1.jpg",
+    "addedAt": "2026-11-19T10:26:37.000Z"
+  },
+  {
+    "asin": "B07M6J1B3G",
+    "title": "ASUS ROG Keris II Ace Wireless Gaming-Maus",
+    "price": 85.99,
+    "note": "42.000 DPI, Tri-Mode, bis 8000 Hz Polling und nur 54 g.",
+    "category": "Gaming",
+    "image": "https://static.mydealz.de/threads/raw/KV2YK/2875691_1/re/768x768/qt/55/2875691_1.jpg",
+    "addedAt": "2026-11-19T09:31:59.000Z"
+  },
+  {
+    "asin": "B0CWVZRMCX",
+    "title": "Amazon Fire TV Soundbar 2.0",
+    "price": 71.99,
+    "note": "Besserer TV-Sound mit DTS Virtual:X, Dolby Audio und Bluetooth.",
+    "category": "TV",
+    "image": "https://static.mydealz.de/threads/raw/LRTAY/2875486_1/re/768x768/qt/55/2875486_1.jpg",
+    "addedAt": "2026-11-19T07:18:45.000Z"
+  },
+  {
+    "asin": "B00JSK4RBQ",
+    "title": "KitchenAid 5KMT221 2-Scheiben-Toaster Rot",
+    "price": 49,
+    "note": "Ganzmetallgehäuse, 1.100 W, Bagel- und Warmhaltefunktion.",
+    "category": "Haushalt",
+    "temperature": 111,
+    "image": "https://static.mydealz.de/threads/raw/sT5np/2872730_1/re/768x768/qt/55/2872730_1.jpg",
+    "addedAt": "2026-11-19T10:38:55.000Z"
+  },
+  {
+    "asin": "B0DFHFM1X9",
+    "title": "Xiaomi Redmi Watch 5 Active Smartwatch",
+    "price": 39.9,
+    "note": "2\"-Display, bis 18 Tage Akku, Bluetooth-Anrufe und 5 ATM.",
+    "category": "Tech",
+    "image": "https://static.mydealz.de/threads/raw/1Rp9z/2875223_1/re/768x768/qt/55/2875223_1.jpg",
+    "addedAt": "2026-11-18T23:42:29.000Z"
+  }
+]
