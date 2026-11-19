@@ -1,5 +1,53 @@
 [
   {
+    "id": "auto-b0h2s7t2k7",
+    "asin": "B0H2S7T2K7",
+    "title": "Braun Series 9 Sport Elektrischer Herrenrasierer 9100s, Schwarz",
+    "category": "Beauty & Pflege",
+    "price": 199.99,
+    "oldPrice": 270,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T06:15:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H2S7T2K7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h62vsp4r",
+    "asin": "B0H62VSP4R",
+    "title": "Google Pixel 11 Pro XL (256GB / 512GB) – je 2 Farben reduziert: 256GB",
+    "category": "Smartphone & Tablet",
+    "price": 965.52,
+    "oldPrice": 1399,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T01:03:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H62VSP4R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09vlh19rl",
+    "asin": "B09VLH19RL",
+    "title": "Enervit The Protein Deal Proteinriegel",
+    "category": "Lebensmittel & Drinks",
+    "price": 17.16,
+    "oldPrice": 26,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T00:25:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09VLH19RL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0c8hv79n7",
+    "asin": "B0C8HV79N7",
+    "title": "Phoscon ConBee III - Zigbee Gateway",
+    "category": "Tech",
+    "price": 24.95,
+    "oldPrice": 39.94,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T05:43:26.000Z",
+    "image": "https://static.mydealz.de/threads/raw/SDdZM/2875400_1/re/768x768/qt/55/2875400_1.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0d26gwwd1",
     "asin": "B0D26GWWD1",
     "title": "heat it Classic Insektenstichheiler USB-C",
@@ -33,7 +81,8 @@
     "checkedAt": "2026-11-19T05:44:12.000Z",
     "image": "https://static.mydealz.de/threads/raw/D8EFz/2833989_1/re/768x768/qt/55/2833989_1.jpg",
     "temperature": 897,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T06:40:55.521Z"
   },
   {
     "id": "auto-b0fsy2kv99",
@@ -3179,16 +3228,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0fpxj14pq",
-    "asin": "B0FPXJ14PQ",
-    "title": "LEGO Friends Feentassen-Karussell mit Blumendeko (42702) 321 Teile",
-    "category": "Spielzeug & LEGO",
-    "price": 22.89,
-    "checkedAt": "2026-11-18T06:34:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXJ14PQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0f6ygnrx2",
     "asin": "B0F6YGNRX2",
     "title": "Jever Pilsener 24x0,33 l Einweg-Dose",
@@ -3233,16 +3272,6 @@
     "image": "https://m.media-amazon.com/images/P/B0B8282R4J.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T07:39:47.392Z"
-  },
-  {
-    "id": "auto-b0blw4cmwt",
-    "asin": "B0BLW4CMWT",
-    "title": "Jack & Jones Jungen Sweat Hood Hoody schwarz",
-    "category": "Tech",
-    "price": 17.9,
-    "checkedAt": "2026-11-18T06:40:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BLW4CMWT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   },
   {
     "id": "auto-b0b5hqzg54",
@@ -3358,19 +3387,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b01d1or0uo",
-    "asin": "B01D1OR0UO",
-    "title": "SIKA BlackSeal BT Dach- und Dachrinnendichtstoff 300 m",
-    "category": "Tech",
-    "price": 6.8,
-    "oldPrice": 8.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T06:40:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01D1OR0UO.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T07:10:19.891Z"
-  },
-  {
     "id": "auto-b00i3yoj5c",
     "asin": "B00I3YOJ5C",
     "title": "WMF Nuova Kuchenheber / Tortenheber aus Cromargan Edelstahl",
@@ -3382,15 +3398,5 @@
     "image": "https://m.media-amazon.com/images/P/B00I3YOJ5C.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T06:55:33.923Z"
-  },
-  {
-    "id": "auto-b093ztyy3s",
-    "asin": "B093ZTYY3S",
-    "title": "ZWILLING Classic 3-tlg. Maniküre-Set mit Kombi-Nagelschere, …",
-    "category": "Tech",
-    "price": 34.29,
-    "checkedAt": "2026-11-18T06:26:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B093ZTYY3S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
