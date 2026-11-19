@@ -1,33 +1,5 @@
 [
   {
-    "asin": "B0BBR4QCPP",
-    "title": "Netac NV3000 2 TB NVMe SSD",
-    "price": 180,
-    "note": "M.2-SSD mit PCIe 3.0 x4 und bis zu 3.300 MB/s Lesen.",
-    "category": "Computer",
-    "image": "https://static.mydealz.de/threads/raw/5pPj3/2875192_1/re/768x768/qt/55/2875192_1.jpg",
-    "addedAt": "2026-11-18T23:24:01.000Z"
-  },
-  {
-    "asin": "B0G58CDZN5",
-    "title": "Samsung Galaxy Buds4 Pro",
-    "price": 149.98,
-    "note": "Samsungs Premium-In-Ears, hier mit 2 Jahren Herstellergarantie.",
-    "category": "Audio",
-    "image": "https://static.mydealz.de/threads/raw/QE0dA/2875290_1/re/768x768/qt/55/2875290_1.jpg",
-    "addedAt": "2026-11-19T01:10:58.000Z"
-  },
-  {
-    "asin": "B07NQHZSM6",
-    "title": "Bosch MUM58W20 Küchenmaschine 1000 W",
-    "price": 159.99,
-    "note": "Starke 1000-W-Küchenmaschine für häufiges Backen und Kochen.",
-    "category": "Haushalt",
-    "temperature": 121,
-    "image": "https://static.mydealz.de/threads/raw/89YJA/2874437_1/re/768x768/qt/55/2874437_1.jpg",
-    "addedAt": "2026-11-19T08:16:03.000Z"
-  },
-  {
     "asin": "B0FSL9VYL6",
     "title": "Code Vein II für PlayStation 5",
     "price": 29.99,
