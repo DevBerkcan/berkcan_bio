@@ -1,5 +1,41 @@
 [
   {
+    "id": "auto-b0gmpzw1wm",
+    "asin": "B0GMPZW1WM",
+    "title": "Lenovo IdeaPad 5 2in1 Laptop: 14\", WUXGA, Touch, 400Nits, Ryzen 7 250, …",
+    "subtitle": "🔥 150° bei mydealz",
+    "category": "Computer",
+    "price": 683.1,
+    "checkedAt": "2026-11-19T07:05:52.000Z",
+    "image": "https://static.mydealz.de/threads/raw/cmipl/2875365_1/re/768x768/qt/55/2875365_1.jpg",
+    "temperature": 150,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gl2h5dvs",
+    "asin": "B0GL2H5DVS",
+    "title": "WWE 2K26 - Nintendo Switch 2, PS5, Xbox",
+    "subtitle": "🔥 161° bei mydealz",
+    "category": "Gaming",
+    "price": 18.99,
+    "checkedAt": "2026-11-19T07:39:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GL2H5DVS.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 161,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b01flj6do6",
+    "asin": "B01FLJ6DO6",
+    "title": "Bosch Professional Kreuzlinienlaser GCL 2-15 Basic",
+    "category": "Werkzeug",
+    "price": 99.99,
+    "oldPrice": 129.68,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T07:27:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01FLJ6DO6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0bhl421wh",
     "asin": "B0BHL421WH",
     "title": "Makoto Shinkai Collection ~ 55,97€",
@@ -178,7 +214,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T01:03:38.000Z",
     "image": "https://m.media-amazon.com/images/P/B0H62VSP4R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T07:40:00.460Z"
   },
   {
     "id": "auto-b09vlh19rl",
@@ -3373,38 +3410,5 @@
     "checkedAt": "2026-11-18T07:50:19.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CH8VQNJC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0f6ygnrx2",
-    "asin": "B0F6YGNRX2",
-    "title": "Jever Pilsener 24x0,33 l Einweg-Dose",
-    "category": "Tech",
-    "price": 11.36,
-    "checkedAt": "2026-11-18T07:33:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F6YGNRX2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b09w2bp5wp",
-    "asin": "B09W2BP5WP",
-    "title": "amazon Schott NYC Jungenjacke 16JAHRE",
-    "category": "Mode & Reise",
-    "price": 38.93,
-    "checkedAt": "2026-11-18T07:36:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09W2BP5WP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b075f78kdv",
-    "asin": "B075F78KDV",
-    "title": "Kärcher WV 2 Black Edition Akku-Fenstersauger",
-    "category": "Haushalt",
-    "price": 43.49,
-    "oldPrice": 54.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T07:36:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B075F78KDV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T09:54:36.975Z"
   }
 ]
