@@ -1,5 +1,62 @@
 [
   {
+    "id": "auto-b0ff4y1y5z",
+    "asin": "B0FF4Y1Y5Z",
+    "title": "Pokémon-Sammelkartenspiel: Weltmeisterschaftsdeck 2024 - Jesse Parker …",
+    "category": "Spielzeug & LEGO",
+    "price": 20.89,
+    "checkedAt": "2026-11-19T17:54:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FF4Y1Y5Z.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T20:44:34.929Z"
+  },
+  {
+    "id": "auto-b07kxn37vk",
+    "asin": "B07KXN37VK",
+    "title": "Super Mario Yum Yum Yoshi interaktive, bewegliche Actionfigur, 25cm",
+    "category": "Spielzeug & LEGO",
+    "price": 12.5,
+    "checkedAt": "2026-11-19T19:15:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07KXN37VK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T20:44:29.582Z"
+  },
+  {
+    "id": "auto-b00t7l20aq",
+    "asin": "B00T7L20AQ",
+    "title": "ON Creatin ist wieder im Angebot (Sparabo 13,49)",
+    "category": "Tech",
+    "price": 14.99,
+    "checkedAt": "2026-11-19T20:36:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00T7L20AQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T20:44:22.402Z"
+  },
+  {
+    "id": "auto-b0fpxbsxw3",
+    "asin": "B0FPXBSXW3",
+    "title": "NESCAFÉ Frappé Typ Iced-Coffee, Frappé-Kaffeepulver mit …",
+    "category": "Tech",
+    "price": 5.18,
+    "checkedAt": "2026-11-19T20:40:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXBSXW3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T20:44:15.850Z"
+  },
+  {
+    "id": "auto-b000ktavge",
+    "asin": "B000KTAVGE",
+    "title": "PiCK UP! Original Thekenaufsteller per Spar-Abo",
+    "category": "Tech",
+    "price": 10.25,
+    "oldPrice": 14.94,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T20:40:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000KTAVGE.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T20:44:05.352Z"
+  },
+  {
     "id": "auto-b0hnpgv61f",
     "asin": "B0HNPGV61F",
     "title": "Amazon | Toniebox 2 Bundles mit Weihnachtstonies",
@@ -3646,62 +3703,5 @@
     "image": "https://static.mydealz.de/threads/raw/H1zYZ/2875230_1/re/768x768/qt/55/2875230_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T23:52:51.553Z"
-  },
-  {
-    "id": "auto-b0f2nc69kk",
-    "asin": "B0F2NC69KK",
-    "title": "Xbox Wireless Controller",
-    "category": "Gaming",
-    "price": 42.74,
-    "checkedAt": "2026-11-18T23:46:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F2NC69KK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T23:52:45.480Z"
-  },
-  {
-    "id": "auto-150670638x",
-    "asin": "150670638X",
-    "title": "The Legend of Zelda Encyclopedia Englisch Ausgabe Gebundenes Buch",
-    "category": "Bücher & Filme",
-    "price": 21.99,
-    "checkedAt": "2026-11-18T23:46:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/150670638X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T23:52:40.385Z"
-  },
-  {
-    "id": "auto-b0851tszjn",
-    "asin": "B0851TSZJN",
-    "title": "DEWALT 18V XR Kit mit Schlagbohrer, Schlagschrauber, …",
-    "category": "Werkzeug",
-    "price": 629.49,
-    "checkedAt": "2026-11-18T23:49:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0851TSZJN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T23:52:35.408Z"
-  },
-  {
-    "id": "auto-b0h5q3pl7k",
-    "asin": "B0H5Q3PL7K",
-    "title": "DREO Luftreiniger für Allergiker & Wohnung, HEPA-Filter, CADR 196 m³/h",
-    "category": "Haushalt",
-    "price": 80.74,
-    "checkedAt": "2026-11-18T23:49:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H5Q3PL7K.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T23:52:30.098Z"
-  },
-  {
-    "id": "auto-b0c4kwcbry",
-    "asin": "B0C4KWCBRY",
-    "title": "UGREEN Cat 8 LAN-Kabel 10 m, flach, schwarz, inkl. Kabelclips",
-    "category": "Tech",
-    "price": 9.47,
-    "oldPrice": 10.76,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T23:44:31.000Z",
-    "image": "https://static.mydealz.de/threads/raw/ewrjK/2875229_1/re/768x768/qt/55/2875229_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T23:52:24.873Z"
   }
 ]
