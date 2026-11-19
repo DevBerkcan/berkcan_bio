@@ -1,5 +1,53 @@
 [
   {
+    "id": "auto-b0bgprjhjj",
+    "asin": "B0BGPRJHJJ",
+    "title": "Corsair KATAR Elite Wireless Gaming-Maus - 69 g, 26.000 DPI, 2,4 GHz & …",
+    "category": "Computer",
+    "price": 49.99,
+    "checkedAt": "2026-11-19T11:33:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BGPRJHJJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T11:41:17.929Z"
+  },
+  {
+    "id": "auto-b0gtdklhf4",
+    "asin": "B0GTDKLHF4",
+    "title": "Flow (4K Ultra HD) Blu-Ray Disc Animationsfilm [Prime]",
+    "category": "Bücher & Filme",
+    "price": 15.99,
+    "oldPrice": 19.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T11:32:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GTDKLHF4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T11:41:12.729Z"
+  },
+  {
+    "id": "queue-b0gqhggwhx",
+    "asin": "B0GQHGGWHX",
+    "title": "TCL 55V6D 55\" 4K Fire TV",
+    "subtitle": "4K mit HDR10+, Dolby Atmos, DTS:X, Game Master und AirPlay.",
+    "category": "Amazon-Geräte",
+    "price": 299,
+    "checkedAt": "2026-11-19T11:05:34.000Z",
+    "image": "https://static.mydealz.de/threads/raw/7gvkj/2875826_1/re/768x768/qt/55/2875826_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T11:40:53.728Z"
+  },
+  {
+    "id": "queue-b0dhy29psm",
+    "asin": "B0DHY29PSM",
+    "title": "ASUS ROG Pelta Wireless Gaming-Headset",
+    "subtitle": "Tri-Mode, 50-mm-Titan-Treiber und bis zu 90 h Akku bei nur 309 g.",
+    "category": "Gaming",
+    "price": 64.9,
+    "checkedAt": "2026-11-19T09:53:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DHY29PSM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T11:40:48.542Z"
+  },
+  {
     "id": "auto-b0hgbllfnq",
     "asin": "B0HGBLLFNQ",
     "title": "Milka Vielen Dank Pralinen 12 x44g",
@@ -2793,16 +2841,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0dklfhzdh",
-    "asin": "B0DKLFHZDH",
-    "title": "Amazon Echo Dot Max, Lautsprecher mit raumfüllendem Klang und …",
-    "category": "Amazon-Geräte",
-    "price": 74.99,
-    "checkedAt": "2026-11-18T15:08:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DKLFHZDH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b001nyv164",
     "asin": "B001NYV164",
     "title": "KS Tools 911.2080 1/4\" CLASSIC Bit-Satz, 99-tlg. im stabilen …",
@@ -3488,38 +3526,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GZNZ8XSJ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T12:23:12.400Z"
-  },
-  {
-    "id": "auto-b0g65fw24b",
-    "asin": "B0G65FW24B",
-    "title": "Bosch Serie 4 Waschmaschine 8 kg 1400 UpM Faltenreduzierung WAN282K4 …",
-    "subtitle": "🔥 118° bei mydealz",
-    "category": "Haushalt",
-    "price": 474.99,
-    "checkedAt": "2026-11-18T11:52:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G65FW24B.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 118,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T12:08:14.468Z"
-  },
-  {
-    "id": "auto-b0ctqnqsb5",
-    "asin": "B0CTQNQSB5",
-    "title": "Logitech MK950 Signature Slim kabelloses Tastatur-Maus-Set",
-    "category": "Computer",
-    "price": 64.49,
-    "checkedAt": "2026-11-18T11:38:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CTQNQSB5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gzpjf6m5",
-    "asin": "B0GZPJF6M5",
-    "title": "Philips DiamondClean 9900 Prestige elektr.Zahnbürste intelligentes …",
-    "category": "Beauty & Pflege",
-    "price": 279.99,
-    "checkedAt": "2026-11-18T11:39:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GZPJF6M5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
