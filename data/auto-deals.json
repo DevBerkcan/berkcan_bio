@@ -1,5 +1,60 @@
 [
   {
+    "id": "auto-b000et7g0e",
+    "asin": "B000ET7G0E",
+    "title": "Brüder Mannesmann M19652 Gabelringschlüsell Satz 12-tlg. DIN 3113, …",
+    "category": "Werkzeug",
+    "price": 6.79,
+    "checkedAt": "2026-11-19T15:17:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000ET7G0E.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T22:59:20.389Z"
+  },
+  {
+    "id": "auto-b0cpm9j2cq",
+    "asin": "B0CPM9J2CQ",
+    "title": "NATURBUMMLER Outdoor Sitzkissen (2er Set) – Faltbar, Thermo, …",
+    "category": "Sport & Outdoor",
+    "price": 7.99,
+    "checkedAt": "2026-11-19T15:26:23.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Ovqpc/2876166_1/re/768x768/qt/55/2876166_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T22:59:15.116Z"
+  },
+  {
+    "id": "auto-b0gqvm547y",
+    "asin": "B0GQVM547Y",
+    "title": "VTech Leap Move + TV Lernkonsole mit Kamera (Kinder)",
+    "category": "TV & Heimkino",
+    "price": 69.99,
+    "checkedAt": "2026-11-19T15:39:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GQVM547Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T22:59:04.868Z"
+  },
+  {
+    "id": "auto-b0gf9th9rg",
+    "asin": "B0GF9TH9RG",
+    "title": "Revell Sammeldeal",
+    "category": "Spielzeug & LEGO",
+    "price": 26.89,
+    "checkedAt": "2026-11-19T17:46:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GF9TH9RG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T22:58:58.397Z"
+  },
+  {
+    "id": "auto-b0gy8bs2fs",
+    "asin": "B0GY8BS2FS",
+    "title": "Insta360 Luna Ultra Must-Have-Bundle – 8K-Gimbal-Kamera mit …",
+    "category": "Foto & Video",
+    "price": 789,
+    "checkedAt": "2026-11-19T22:30:27.000Z",
+    "image": "https://static.mydealz.de/threads/raw/rSiCH/2876532_1/re/768x768/qt/55/2876532_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T22:58:53.136Z"
+  },
+  {
     "id": "auto-b001u4y28g",
     "asin": "B001U4Y28G",
     "title": "VICTORINOX Taschenmesser \"BW Scharf\"",
@@ -3618,67 +3673,6 @@
     "checkedAt": "2026-11-19T07:05:52.000Z",
     "image": "https://static.mydealz.de/threads/raw/cmipl/2875365_1/re/768x768/qt/55/2875365_1.jpg",
     "temperature": 150,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gl2h5dvs",
-    "asin": "B0GL2H5DVS",
-    "title": "WWE 2K26 - Nintendo Switch 2, PS5, Xbox",
-    "subtitle": "🔥 161° bei mydealz",
-    "category": "Gaming",
-    "price": 18.99,
-    "checkedAt": "2026-11-19T07:39:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GL2H5DVS.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 161,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b01flj6do6",
-    "asin": "B01FLJ6DO6",
-    "title": "Bosch Professional Kreuzlinienlaser GCL 2-15 Basic",
-    "category": "Werkzeug",
-    "price": 99.99,
-    "oldPrice": 129.68,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T07:27:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01FLJ6DO6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T08:24:36.629Z"
-  },
-  {
-    "id": "auto-b0bhl421wh",
-    "asin": "B0BHL421WH",
-    "title": "Makoto Shinkai Collection ~ 55,97€",
-    "subtitle": "🔥 129° bei mydealz",
-    "category": "Tech",
-    "price": 55.97,
-    "checkedAt": "2026-11-19T06:40:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BHL421WH.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 129,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dmws2l83",
-    "asin": "B0DMWS2L83",
-    "title": "Samsung The Premiere 7 LPU7D: 4K-Ultrakurzdistanz-Laserbeamer, bis 120 …",
-    "subtitle": "🔥 147° bei mydealz",
-    "category": "TV & Heimkino",
-    "price": 999,
-    "checkedAt": "2026-11-19T06:41:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DMWS2L83.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 147,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0bvnrxfht",
-    "asin": "B0BVNRXFHT",
-    "title": "Yubico Security Key C NFC (USB-C + NFC) – 15% Coupon",
-    "subtitle": "🔥 181° bei mydealz",
-    "category": "Tech",
-    "price": 29.33,
-    "checkedAt": "2026-11-19T06:51:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BVNRXFHT.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 181,
     "source": "auto"
   }
 ]
