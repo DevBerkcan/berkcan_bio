@@ -1,5 +1,54 @@
 [
   {
+    "id": "auto-b0d26gwwd1",
+    "asin": "B0D26GWWD1",
+    "title": "heat it Classic Insektenstichheiler USB-C",
+    "subtitle": "🔥 527° bei mydealz",
+    "category": "Tech",
+    "price": 19.99,
+    "checkedAt": "2026-11-19T05:44:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D26GWWD1.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 527,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h14jkkpw",
+    "asin": "B0H14JKKPW",
+    "title": "Flexispot Walking Pad (Plus), Laufband für Zuhause mit 7 % Steigung …",
+    "subtitle": "🔥 874° bei mydealz",
+    "category": "Sport & Outdoor",
+    "price": 123.49,
+    "checkedAt": "2026-11-19T05:47:35.000Z",
+    "image": "https://static.mydealz.de/threads/raw/1Arh5/2862375_1/re/768x768/qt/55/2862375_1.jpg",
+    "temperature": 874,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08bpf1h7t",
+    "asin": "B08BPF1H7T",
+    "title": "AVM FRITZ!Box 7430, TK-Anlage & Voice over IP mit DECT-Basis, …",
+    "subtitle": "🔥 897° bei mydealz",
+    "category": "Tech",
+    "price": 9.49,
+    "checkedAt": "2026-11-19T05:44:12.000Z",
+    "image": "https://static.mydealz.de/threads/raw/D8EFz/2833989_1/re/768x768/qt/55/2833989_1.jpg",
+    "temperature": 897,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fsy2kv99",
+    "asin": "B0FSY2KV99",
+    "title": "Rabatt auf Geschenkgutscheine wie zB. Zalando, H&M, Nike, Waipu tv. …",
+    "subtitle": "🔥 3656° bei mydealz",
+    "category": "TV & Heimkino",
+    "price": 21.25,
+    "checkedAt": "2026-11-19T06:16:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FSY2KV99.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 3656,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T06:26:13.027Z"
+  },
+  {
     "id": "auto-b0dky1hnpv",
     "asin": "B0DKY1HNPV",
     "title": "Super Mario World – 35 Jahre Retro-Nostalgie: Die komplette …",
@@ -2701,18 +2750,6 @@
     "telegramPostedAt": "2026-11-18T10:24:06.665Z"
   },
   {
-    "id": "queue-b0dqvgrysn",
-    "asin": "B0DQVGRYSN",
-    "title": "Panasonic SC-TMAX45 Bluetooth-Party-Lautsprecher",
-    "subtitle": "Party-Sound mit LED-Lichtshow, TV-Anschluss, Karaoke- und Gitarreneingang.",
-    "category": "Audio",
-    "price": 199,
-    "checkedAt": "2026-11-18T06:24:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQVGRYSN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T10:23:48.267Z"
-  },
-  {
     "id": "auto-b0c61f4r8q",
     "asin": "B0C61F4R8Q",
     "title": "Razer Cobra Pro kabellose Gaming-Maus",
@@ -3122,18 +3159,6 @@
     "source": "auto"
   },
   {
-    "id": "queue-b0001p0ckc",
-    "asin": "B0001P0CKC",
-    "title": "KNIPEX Cobra Wasserpumpenzange 250 mm",
-    "subtitle": "Klassiker: Feinverstellung per Knopfdruck, Muttern bis 46 mm, Rohre bis 52 mm.",
-    "category": "Werkzeug",
-    "price": 23.94,
-    "checkedAt": "2026-11-18T06:22:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0001P0CKC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T08:08:55.573Z"
-  },
-  {
     "id": "auto-b0gz76sh98",
     "asin": "B0GZ76SH98",
     "title": "adidas Men's ULTIMATE365 CLIMAPROOF JACKE / Verschieden Größen",
@@ -3366,26 +3391,6 @@
     "price": 34.29,
     "checkedAt": "2026-11-18T06:26:59.000Z",
     "image": "https://m.media-amazon.com/images/P/B093ZTYY3S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0001p154y",
-    "asin": "B0001P154Y",
-    "title": "Victorinox Swiss Card Multitool",
-    "category": "Tech",
-    "price": 20.89,
-    "checkedAt": "2026-11-18T06:13:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0001P154Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0b3f3rbmq",
-    "asin": "B0B3F3RBMQ",
-    "title": "Halo 4 - Forward Unto Dawn / King Richard je 11,99€ - 4K Blu-ray / …",
-    "category": "Bücher & Filme",
-    "price": 11.99,
-    "checkedAt": "2026-11-18T06:23:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B3F3RBMQ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   }
 ]
