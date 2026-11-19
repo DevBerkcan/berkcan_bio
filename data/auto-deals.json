@@ -1,5 +1,101 @@
 [
   {
+    "id": "auto-b0fw4rb3p7",
+    "asin": "B0FW4RB3P7",
+    "title": "Keter Stronghold 8x8 Gartenhaus braun 252x231x241",
+    "subtitle": "🔥 112° bei mydealz",
+    "category": "Tech",
+    "price": 706.99,
+    "checkedAt": "2026-11-19T07:55:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FW4RB3P7.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 112,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0b8bg4wd8",
+    "asin": "B0B8BG4WD8",
+    "title": "Mittelerde 6-Film Collection * Kino & Extended Edition * Herr der …",
+    "subtitle": "🔥 113° bei mydealz",
+    "category": "Tech",
+    "price": 71.71,
+    "checkedAt": "2026-11-19T07:37:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B8BG4WD8.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 113,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gxzfvq46",
+    "asin": "B0GXZFVQ46",
+    "title": "XGIMI Elfin Flip 4K Beamer",
+    "subtitle": "🔥 116° bei mydealz",
+    "category": "TV & Heimkino",
+    "price": 749,
+    "checkedAt": "2026-11-19T07:44:26.000Z",
+    "image": "https://static.mydealz.de/threads/raw/egXvY/2875389_1/re/768x768/qt/55/2875389_1.jpg",
+    "temperature": 116,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f5b9sc2d",
+    "asin": "B0F5B9SC2D",
+    "title": "adidas Unisex Cushioned Crew Socks",
+    "subtitle": "🔥 119° bei mydealz",
+    "category": "Tech",
+    "price": 15.36,
+    "checkedAt": "2026-11-19T07:38:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F5B9SC2D.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 119,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b076jt5mx2",
+    "asin": "B076JT5MX2",
+    "title": "Adobe Lightroom inkl. Lightroom Classic 1 TB |KI-gestützter …",
+    "subtitle": "🔥 134° bei mydealz",
+    "category": "Tech",
+    "price": 49.99,
+    "checkedAt": "2026-11-19T07:56:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B076JT5MX2.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 134,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0hgrqpmx1",
+    "asin": "B0HGRQPMX1",
+    "title": "Philips Hue Scenova Outdoor LED-Wandleuchte, quadratisch",
+    "subtitle": "🔥 136° bei mydealz",
+    "category": "Smart Home",
+    "price": 67.89,
+    "checkedAt": "2026-11-19T07:45:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HGRQPMX1.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 136,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gvbhwtrh",
+    "asin": "B0GVBHWTRH",
+    "title": "Zalando Gutscheine (15-150€) 15% reduziert",
+    "subtitle": "🔥 140° bei mydealz",
+    "category": "Tech",
+    "price": 42.5,
+    "checkedAt": "2026-11-19T07:41:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GVBHWTRH.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 140,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cl12g38j",
+    "asin": "B0CL12G38J",
+    "title": "Hase und Wolf - Alle 16 Original-Episoden in HD - plus 8 …",
+    "subtitle": "🔥 153° bei mydealz",
+    "category": "Tech",
+    "price": 16.99,
+    "checkedAt": "2026-11-19T07:46:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CL12G38J.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 153,
+    "source": "auto"
+  },
+  {
     "id": "auto-b0f2sy9b8z",
     "asin": "B0F2SY9B8Z",
     "title": "Story of Seasons: Grand Bazaar Limited Edition Set",
@@ -9,7 +105,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T07:42:53.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F2SY9B8Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:09:31.547Z"
   },
   {
     "id": "auto-b0c3528vhm",
@@ -3323,97 +3420,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FF9SCJHD.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T08:24:13.590Z"
-  },
-  {
-    "id": "auto-b0gwd3jcyy",
-    "asin": "B0GWD3JCYY",
-    "title": "SwitchBot E-Ink Home Dashboard",
-    "category": "Tech",
-    "price": 74.99,
-    "checkedAt": "2026-11-18T07:59:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GWD3JCYY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T15:21:54.689Z"
-  },
-  {
-    "id": "auto-b0cz9lh53b",
-    "asin": "B0CZ9LH53B",
-    "title": "Anker Zolo Powerbank 20.000 mAh / 30 W mit USB-C-Kabel",
-    "category": "Zubehör & Laden",
-    "price": 26.59,
-    "checkedAt": "2026-11-18T08:05:22.000Z",
-    "image": "https://static.mydealz.de/threads/raw/bQ9Uz/2874399_1/re/768x768/qt/55/2874399_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T13:22:31.228Z"
-  },
-  {
-    "id": "auto-b0ds2b3p2b",
-    "asin": "B0DS2B3P2B",
-    "title": "DJI Osmo Action 4 Essential-Combo, 4K/120fps Action-Kamera, 1/1,3 Zoll …",
-    "category": "Foto & Video",
-    "price": 176,
-    "checkedAt": "2026-11-18T08:07:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DS2B3P2B.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b096n81ggd",
-    "asin": "B096N81GGD",
-    "title": "KitchenAid Eiscremelöffel, Portionierer – Empire Rot",
-    "subtitle": "🔥 100° bei mydealz",
-    "category": "Beauty & Pflege",
-    "price": 9.29,
-    "checkedAt": "2026-11-18T07:59:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B096N81GGD.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 100,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b095gl3mss",
-    "asin": "B095GL3MSS",
-    "title": "Notorious B.I.G. - Ready To Die",
-    "subtitle": "🔥 104° bei mydealz",
-    "category": "Tech",
-    "price": 19.19,
-    "checkedAt": "2026-11-18T07:59:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B095GL3MSS.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 104,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b06xfs8nfb",
-    "asin": "B06XFS8NFB",
-    "title": "Yankee Candle – Christmas Magic",
-    "subtitle": "🔥 107° bei mydealz",
-    "category": "Tech",
-    "price": 19.94,
-    "checkedAt": "2026-11-18T07:59:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06XFS8NFB.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 107,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b01fokjans",
-    "asin": "B01FOKJANS",
-    "title": "Fischer Meister-Box DUOPOWER-Dübel+Schrauben 160-teilig",
-    "subtitle": "🔥 111° bei mydealz",
-    "category": "Tech",
-    "price": 9.99,
-    "checkedAt": "2026-11-18T07:58:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01FOKJANS.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 111,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b077bcjykw",
-    "asin": "B077BCJYKW",
-    "title": "Lavazza Tierra for Planet Bio-Organic (ganze Bohnen) 1 kg",
-    "subtitle": "🔥 120° bei mydealz",
-    "category": "Tech",
-    "price": 16.19,
-    "checkedAt": "2026-11-18T07:59:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B077BCJYKW.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 120,
-    "source": "auto"
   }
 ]
