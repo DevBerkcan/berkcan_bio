@@ -1,5 +1,44 @@
 [
   {
+    "id": "auto-b0fypw8tg7",
+    "asin": "B0FYPW8TG7",
+    "title": "UGREEN Nexode Pro 160W USB C Ladegerät 5-Port Smart Display Touch …",
+    "subtitle": "🔥 124° bei mydealz",
+    "category": "Zubehör & Laden",
+    "price": 59.99,
+    "checkedAt": "2026-11-19T08:43:11.000Z",
+    "image": "https://static.mydealz.de/threads/raw/HHtEy/2875523_1/re/768x768/qt/55/2875523_1.jpg",
+    "temperature": 124,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:54:50.602Z"
+  },
+  {
+    "id": "auto-b0fkt8y5h7",
+    "asin": "B0FKT8Y5H7",
+    "title": "Octopath Traveler 0 - PS5, Xbox, Nintendo Switch 2",
+    "subtitle": "🔥 346° bei mydealz",
+    "category": "Gaming",
+    "price": 29.99,
+    "checkedAt": "2026-11-19T08:45:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FKT8Y5H7.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 346,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:54:33.982Z"
+  },
+  {
+    "id": "auto-b00vhhwnmi",
+    "asin": "B00VHHWNMI",
+    "title": "Logitech K400 Plus Kabellose Touch-TV-Tastatur mit integriertem …",
+    "subtitle": "🔥 415° bei mydealz",
+    "category": "Computer",
+    "price": 25.99,
+    "checkedAt": "2026-11-19T08:44:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00VHHWNMI.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 415,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:54:29.593Z"
+  },
+  {
     "id": "auto-b09rn8q4cw",
     "asin": "B09RN8Q4CW",
     "title": "Haarglätter S8593 - Remington Glätteisen Profi",
@@ -89,7 +128,8 @@
     "checkedAt": "2026-11-19T08:10:36.000Z",
     "image": "https://static.mydealz.de/threads/raw/7LzK0/2875254_1/re/768x768/qt/55/2875254_1.jpg",
     "temperature": 121,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:54:43.660Z"
   },
   {
     "id": "auto-b0f66x7frv",
@@ -371,7 +411,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T07:09:12.000Z",
     "image": "https://m.media-amazon.com/images/P/B000VDX18E.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:54:38.409Z"
   },
   {
     "id": "auto-b006wvetfi",
@@ -3398,38 +3439,5 @@
     "image": "https://m.media-amazon.com/images/P/B01N6LB4V4.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T11:38:27.957Z"
-  },
-  {
-    "id": "auto-b0fs1ylgtp",
-    "asin": "B0FS1YLGTP",
-    "title": "Turtle Beach Nintendo Switch 2 Afterglow Wireless Controller",
-    "category": "Gaming",
-    "price": 34.99,
-    "oldPrice": 52,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T09:05:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FS1YLGTP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T09:09:08.175Z"
-  },
-  {
-    "id": "auto-b0crvr79zv",
-    "asin": "B0CRVR79ZV",
-    "title": "Look KEO Blade Carbon, Klick-Pedale",
-    "category": "Tech",
-    "price": 87.49,
-    "checkedAt": "2026-11-18T08:49:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CRVR79ZV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07nqhzsm6",
-    "asin": "B07NQHZSM6",
-    "title": "Bosch MUM58W20 Küchenmaschine 1000 W",
-    "category": "Küche",
-    "price": 159.99,
-    "checkedAt": "2026-11-18T08:50:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07NQHZSM6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
