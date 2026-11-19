@@ -1,5 +1,54 @@
 [
   {
+    "id": "auto-b0dt9mmztl",
+    "asin": "B0DT9MMZTL",
+    "title": "UGREEN FineCam Lite 4K – UHD Webcam 4K, Webcam mit Mikrofon und …",
+    "subtitle": "🔥 272° bei mydealz",
+    "category": "Computer",
+    "price": 27.67,
+    "checkedAt": "2026-11-19T13:24:14.000Z",
+    "image": "https://static.mydealz.de/threads/raw/6asRQ/2849823_1/re/768x768/qt/55/2849823_1.jpg",
+    "temperature": 272,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cvrq73sr",
+    "asin": "B0CVRQ73SR",
+    "title": "Carrera GO!!! Chase 'n Race Rennbahn 1:43",
+    "category": "Spielzeug & LEGO",
+    "price": 47.69,
+    "oldPrice": 60.94,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T13:00:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CVRQ73SR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0053pw98i",
+    "asin": "B0053PW98I",
+    "title": "Bosch Professional Diamanttrennscheibe Standard for Stone, Ø 125 mm, …",
+    "category": "Werkzeug",
+    "price": 6.99,
+    "oldPrice": 14.65,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T13:10:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0053PW98I.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ghnwhqwk",
+    "asin": "B0GHNWHQWK",
+    "title": "Monopoly Panini Prizm: FIFA World Cup 2026 mit 16 Trading Cards, für …",
+    "category": "Spielzeug & LEGO",
+    "price": 14.99,
+    "oldPrice": 31.18,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T13:22:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GHNWHQWK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T13:25:32.912Z"
+  },
+  {
     "id": "auto-b0cl28lqg3",
     "asin": "B0CL28LQG3",
     "title": "Leatherman ARC Multi-Tool",
@@ -3397,16 +3446,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0cspmt47x",
-    "asin": "B0CSPMT47X",
-    "title": "Sky Team Brettspiel, Spiel des Jahres 2024",
-    "category": "Spielzeug & LEGO",
-    "price": 16.56,
-    "checkedAt": "2026-11-18T13:15:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CSPMT47X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b09vn2fcdf",
     "asin": "B09VN2FCDF",
     "title": "Azzaro The Most Wanted Parfum - 150 ml - Herrenduft - Alternativ im …",
@@ -3487,16 +3526,6 @@
     "telegramPostedAt": "2026-11-18T13:52:03.819Z"
   },
   {
-    "id": "auto-b0gsqlsrm1",
-    "asin": "B0GSQLSRM1",
-    "title": "LED-Leuchtmittel Ultraeffiziente LED GU10 Spots 6er-Pack 50W …",
-    "category": "Tech",
-    "price": 17.99,
-    "checkedAt": "2026-11-18T13:24:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GSQLSRM1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0fs7jxwjg",
     "asin": "B0FS7JXWJG",
     "title": "SteelSeries Arctis Nova 7 Gen2 Wireless Gaming Headset mit 3D Surround",
@@ -3549,26 +3578,5 @@
     "image": "https://m.media-amazon.com/images/P/B00360CZZY.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T21:37:07.227Z"
-  },
-  {
-    "id": "auto-b00im7biy0",
-    "asin": "B00IM7BIY0",
-    "title": "Bosch Professional 32-tlg. Schrauberbit-Set Extra Hard inkl. …",
-    "category": "Werkzeug",
-    "price": 7.98,
-    "checkedAt": "2026-11-18T13:13:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00IM7BIY0.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T19:06:55.590Z"
-  },
-  {
-    "id": "auto-b0gx68m1b5",
-    "asin": "B0GX68M1B5",
-    "title": "Comfee Luftentfeuchter mit App Steuerung 16L",
-    "category": "Haushalt",
-    "price": 134.99,
-    "checkedAt": "2026-11-18T13:18:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GX68M1B5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
