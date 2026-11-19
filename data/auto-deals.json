@@ -1,16 +1,66 @@
 [
   {
-    "id": "auto-b0dr32k2gk",
+    "id": "auto-b0hb43y11z",
+    "asin": "B0HB43Y11Z",
+    "title": "SwitchBot Türklingel mit Kamera, 4,3'' Farbdisplay, 2K, Ohne Abo",
+    "category": "Smart Home",
+    "price": 79.99,
+    "oldPrice": 99.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T09:04:55.000Z",
+    "image": "https://static.mydealz.de/threads/raw/PqI2d/2875641_1/re/768x768/qt/55/2875641_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T09:24:55.655Z"
+  },
+  {
+    "id": "auto-b0fl76hlmp",
+    "asin": "B0FL76HLMP",
+    "title": "UGREEN WLAN Stick für PC WiFi 6 AX1800 WLAN Adapter PC Dual Band …",
+    "subtitle": "🔥 533° bei mydealz",
+    "category": "Tech",
+    "price": 14.22,
+    "checkedAt": "2026-11-19T09:14:57.000Z",
+    "image": "https://static.mydealz.de/threads/raw/f3pbn/2863154_1/re/768x768/qt/55/2863154_1.jpg",
+    "temperature": 533,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T09:24:49.186Z"
+  },
+  {
+    "id": "queue-b0g44zt6g3",
+    "asin": "B0G44ZT6G3",
+    "title": "Eve Thermo 5. Gen. Smartes Heizkörperthermostat",
+    "subtitle": "Smartes Heizkörperthermostat mit Matter-Unterstützung.",
+    "category": "Smart Home",
+    "price": 59.96,
+    "checkedAt": "2026-11-19T07:49:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G44ZT6G3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T09:24:29.508Z"
+  },
+  {
+    "id": "queue-b0dr32k2gk",
     "asin": "B0DR32K2GK",
-    "title": "OFF Nintendo Switch (Modul)",
+    "title": "OFF für Nintendo Switch",
+    "subtitle": "Switch-Spiel als Modul – laut Deal ein echter Geheimtipp.",
     "category": "Gaming",
     "price": 22.99,
     "oldPrice": 32.89,
-    "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T09:03:35.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DR32K2GK.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
-    "telegramPostedAt": "2026-11-19T09:09:48.359Z"
+    "telegramPostedAt": "2026-11-19T09:24:24.720Z"
+  },
+  {
+    "id": "queue-b0gswym8q2",
+    "asin": "B0GSWYM8Q2",
+    "title": "Dreame X60 Pro Ultra Complete Saug-Wischroboter",
+    "subtitle": "Saug- und Wischroboter mit ausfahrbaren Armen für Ecken und Kanten.",
+    "category": "Haushalt",
+    "price": 899,
+    "checkedAt": "2026-11-19T07:12:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GSWYM8Q2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T09:24:20.087Z"
   },
   {
     "id": "auto-b0gyz8crjh",
@@ -3397,51 +3447,5 @@
     "checkedAt": "2026-11-18T09:47:05.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FFMVZWQJ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0gtw3rm81",
-    "asin": "B0GTW3RM81",
-    "title": "Hisense 65U7DS PRO 65 Zoll 4K UHD TV, Hi-QLED Mini LED Pro, 165 Hz, …",
-    "category": "TV & Heimkino",
-    "price": 799,
-    "checkedAt": "2026-11-18T09:48:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GTW3RM81.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T13:37:15.926Z"
-  },
-  {
-    "id": "auto-b013erl6ks",
-    "asin": "B013ERL6KS",
-    "title": "Stanley Werkzeugbox/Werkzeugkoffer 12,5\"",
-    "category": "Werkzeug",
-    "price": 8.49,
-    "checkedAt": "2026-11-18T09:31:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B013ERL6KS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dqm8gpr7",
-    "asin": "B0DQM8GPR7",
-    "title": "GIGABYTE B850 AORUS Elite WIFI7 Mainboard",
-    "subtitle": "🔥 108° bei mydealz",
-    "category": "Computer",
-    "price": 161.45,
-    "checkedAt": "2026-11-18T09:21:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQM8GPR7.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 108,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b08twj51w7",
-    "asin": "B08TWJ51W7",
-    "title": "Mammut Comfort Down Bag -5C Daunen-Mumienschlafsack",
-    "category": "Sport & Outdoor",
-    "price": 166.11,
-    "oldPrice": 259.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T09:35:38.000Z",
-    "image": "https://static.mydealz.de/threads/raw/GewB9/2874477_1/re/768x768/qt/55/2874477_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T09:39:34.131Z"
   }
 ]
