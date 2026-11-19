@@ -1,5 +1,69 @@
 [
   {
+    "id": "auto-b0dr32k2gk",
+    "asin": "B0DR32K2GK",
+    "title": "OFF Nintendo Switch (Modul)",
+    "category": "Gaming",
+    "price": 22.99,
+    "oldPrice": 32.89,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T09:03:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DR32K2GK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T09:09:48.359Z"
+  },
+  {
+    "id": "auto-b0gyz8crjh",
+    "asin": "B0GYZ8CRJH",
+    "title": "UGREEN MagFlow Qi2 25W 2-in-1 Wireless-Ladegerät - MagSafe kompatibel, …",
+    "subtitle": "🔥 557° bei mydealz",
+    "category": "Zubehör & Laden",
+    "price": 33.99,
+    "checkedAt": "2026-11-19T09:07:36.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Ak2cj/2842150_1/re/768x768/qt/55/2842150_1.jpg",
+    "temperature": 557,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T09:09:43.144Z"
+  },
+  {
+    "id": "queue-b0grwg622s",
+    "asin": "B0GRWG622S",
+    "title": "AOC Agon Pro AG326UZD2 32\" 4K QD-OLED 240 Hz",
+    "subtitle": "31,5\" QD-OLED-Gaming-Monitor mit 4K-Auflösung und 240 Hz.",
+    "category": "Computer",
+    "price": 739.12,
+    "checkedAt": "2026-11-19T00:03:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GRWG622S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T09:09:23.518Z"
+  },
+  {
+    "id": "queue-b096ffy54y",
+    "asin": "B096FFY54Y",
+    "title": "Sennheiser IE 100 PRO In-Ear-Monitor",
+    "subtitle": "Kabelgebundener In-Ear-Monitor von Sennheiser für Bühne und Studio.",
+    "category": "Computer",
+    "price": 69,
+    "oldPrice": 85.36,
+    "checkedAt": "2026-11-19T00:30:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B096FFY54Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T09:09:18.724Z"
+  },
+  {
+    "id": "queue-b0czs33s79",
+    "asin": "B0CZS33S79",
+    "title": "Samsung QN900D 85\" Neo QLED 8K Smart TV",
+    "subtitle": "8K-Auflösung auf 85 Zoll mit Neo-QLED-Panel und Sprachsteuerung.",
+    "category": "TV & Heimkino",
+    "price": 3777,
+    "oldPrice": 8699,
+    "checkedAt": "2026-11-18T14:59:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CZS33S79.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T09:09:14.258Z"
+  },
+  {
     "id": "auto-b0fypw8tg7",
     "asin": "B0FYPW8TG7",
     "title": "UGREEN Nexode Pro 160W USB C Ladegerät 5-Port Smart Display Touch …",
@@ -68,18 +132,6 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T08:10:04.000Z",
     "image": "https://m.media-amazon.com/images/P/B07L6Z417X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b096ffy54y",
-    "asin": "B096FFY54Y",
-    "title": "Sennheiser IE 100 PRO In-Ear-Monitor, kabelgebunden, Schwarz oder …",
-    "category": "Computer",
-    "price": 69,
-    "oldPrice": 85.36,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T00:30:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B096FFY54Y.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -3391,53 +3443,5 @@
     "image": "https://static.mydealz.de/threads/raw/GewB9/2874477_1/re/768x768/qt/55/2874477_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T09:39:34.131Z"
-  },
-  {
-    "id": "auto-b073zg6yj4",
-    "asin": "B073ZG6YJ4",
-    "title": "REMINGTON Hygiene Clipper NE3850 Nano Series",
-    "category": "Tech",
-    "price": 7.99,
-    "checkedAt": "2026-11-18T09:18:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B073ZG6YJ4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0d7vnp61v",
-    "asin": "B0D7VNP61V",
-    "title": "Razer Kraken V4 Kabelloses Gaming-Headset, 3 Verbindungsmodi, Triforce …",
-    "subtitle": "🔥 103° bei mydealz",
-    "category": "Gaming",
-    "price": 94.9,
-    "checkedAt": "2026-11-18T09:20:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D7VNP61V.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 103,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0flkjsfy4",
-    "asin": "B0FLKJSFY4",
-    "title": "Ninja Perfect Temperature Wasserkocher 1,7 L",
-    "category": "Küche",
-    "price": 59.99,
-    "oldPrice": 119.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T09:13:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FLKJSFY4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T09:24:25.009Z"
-  },
-  {
-    "id": "auto-b01n6lb4v4",
-    "asin": "B01N6LB4V4",
-    "title": "156-tlg. Meister Werkzeug Trolley mit Rollen & Teleskopgriff",
-    "category": "Werkzeug",
-    "price": 135.95,
-    "oldPrice": 159.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T09:02:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01N6LB4V4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T11:38:27.957Z"
   }
 ]
