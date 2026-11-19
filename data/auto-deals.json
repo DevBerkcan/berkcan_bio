@@ -1,5 +1,57 @@
 [
   {
+    "id": "auto-b07ws8pjct",
+    "asin": "B07WS8PJCT",
+    "title": "Reloop RMX-10 BT - 2-Kanal DJ-Mixer mit eingebauter …",
+    "subtitle": "🔥 105° bei mydealz",
+    "category": "Küche",
+    "price": 109.65,
+    "checkedAt": "2026-11-19T14:50:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07WS8PJCT.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 105,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:55:17.848Z"
+  },
+  {
+    "id": "auto-b0gk95nsbf",
+    "asin": "B0GK95NSBF",
+    "title": "169,99 € mit Epson-Cashback",
+    "subtitle": "🔥 106° bei mydealz",
+    "category": "Tech",
+    "price": 219.99,
+    "checkedAt": "2026-11-19T14:20:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GK95NSBF.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 106,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:55:12.381Z"
+  },
+  {
+    "id": "auto-b0fdwwm72j",
+    "asin": "B0FDWWM72J",
+    "title": "DC Comics Actionfiguren (16,5-30 cm) – Superman, Batman, Venom & …",
+    "category": "Bücher & Filme",
+    "price": 9.49,
+    "oldPrice": 20,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T14:25:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FDWWM72J.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:55:02.989Z"
+  },
+  {
+    "id": "auto-b09l5kqq21",
+    "asin": "B09L5KQQ21",
+    "title": "PUMA Damen Carina 2.0 Turnschuhe, Puma White Puma White Puma Team Gold …",
+    "category": "Mode & Reise",
+    "price": 23.2,
+    "oldPrice": 64.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T14:53:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09L5KQQ21.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:54:57.662Z"
+  },
+  {
     "id": "auto-b098tq5n58",
     "asin": "B098TQ5N58",
     "title": "kwb Mini-Aluminium-Wasserwaage, 20 cm",
@@ -3573,51 +3625,5 @@
     "temperature": 103,
     "source": "auto",
     "telegramPostedAt": "2026-11-18T15:52:01.492Z"
-  },
-  {
-    "id": "auto-b09r9ysr5z",
-    "asin": "B09R9YSR5Z",
-    "title": "Gloryfeel Melatonin 0,5 mg – 400 vegane Tabletten",
-    "category": "Smartphone & Tablet",
-    "price": 5,
-    "oldPrice": 9.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T15:10:19.000Z",
-    "image": "https://static.mydealz.de/threads/raw/CpitV/2874839_1/re/768x768/qt/55/2874839_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T15:21:50.111Z"
-  },
-  {
-    "id": "auto-b0d1v2st8r",
-    "asin": "B0D1V2ST8R",
-    "title": "Tommy Hilfiger Layton 3.5 Ledergürtel Herren",
-    "category": "Tech",
-    "price": 28.52,
-    "checkedAt": "2026-11-18T14:50:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D1V2ST8R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b08dmt4d82",
-    "asin": "B08DMT4D82",
-    "title": "Hisense WF3S8043BB3 Waschmachine mit Dampffunkunktion 8kg 1400 U/min …",
-    "category": "Tech",
-    "price": 344.89,
-    "checkedAt": "2026-11-18T14:53:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08DMT4D82.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dq8hgd2p",
-    "asin": "B0DQ8HGD2P",
-    "title": "Kärcher K4 FJ Home (1.679-562.0)",
-    "category": "Licht & Garten",
-    "price": 179.99,
-    "oldPrice": 208.57,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T15:01:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQ8HGD2P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T15:07:04.636Z"
   }
 ]
