@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b09rn8q4cw",
+    "asin": "B09RN8Q4CW",
+    "title": "Haarglätter S8593 - Remington Glätteisen Profi",
+    "category": "Beauty & Pflege",
+    "price": 24.9,
+    "checkedAt": "2026-11-19T08:30:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09RN8Q4CW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0hglt3p9n",
+    "asin": "B0HGLT3P9N",
+    "title": "Philips Hue Festavia Lichtervorhang – 1,35 x 2 m",
+    "category": "Smart Home",
+    "price": 109.99,
+    "checkedAt": "2026-11-19T08:32:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HGLT3P9N.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07l6z417x",
+    "asin": "B07L6Z417X",
+    "title": "Einhell TE-CD 18/40 Li-Solo",
+    "category": "Werkzeug",
+    "price": 28.99,
+    "oldPrice": 31.9,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T08:10:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07L6Z417X.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b096ffy54y",
+    "asin": "B096FFY54Y",
+    "title": "Sennheiser IE 100 PRO In-Ear-Monitor, kabelgebunden, Schwarz oder …",
+    "category": "Computer",
+    "price": 69,
+    "oldPrice": 85.36,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T00:30:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B096FFY54Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0925nrnzw",
     "asin": "B0925NRNZW",
     "title": "\"Ki-ki-ki, ma-ma-ma\" [Prime] Paladone Movie Character Mask Lights - …",
@@ -69,7 +113,8 @@
     "checkedAt": "2026-11-19T08:09:28.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DGHXBDQQ.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 144,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:39:39.831Z"
   },
   {
     "id": "auto-b0fw4rb3p7",
@@ -165,7 +210,8 @@
     "checkedAt": "2026-11-19T07:46:34.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CL12G38J.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 153,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:39:35.506Z"
   },
   {
     "id": "auto-b0f2sy9b8z",
@@ -276,7 +322,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T05:03:00.000Z",
     "image": "https://m.media-amazon.com/images/P/B08W7GB95V.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:39:31.250Z"
   },
   {
     "id": "auto-b0bvmz5nt5",
@@ -336,7 +383,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T00:11:17.000Z",
     "image": "https://m.media-amazon.com/images/P/B006WVETFI.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:39:26.910Z"
   },
   {
     "id": "auto-b0d3x71v25",
@@ -348,7 +396,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T03:13:47.000Z",
     "image": "https://m.media-amazon.com/images/P/B0D3X71V25.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T08:39:22.572Z"
   },
   {
     "id": "auto-b085dv2vbj",
@@ -3364,16 +3413,6 @@
     "telegramPostedAt": "2026-11-18T09:09:08.175Z"
   },
   {
-    "id": "auto-b0fd9mq8z4",
-    "asin": "B0FD9MQ8Z4",
-    "title": "Refoss EM06P Smart Meter 3 Phasen, 6-Kanal WLAN Stromzähler mit Open …",
-    "category": "Tech",
-    "price": 64.99,
-    "checkedAt": "2026-11-18T08:38:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/RTu8i/2874428_1/re/768x768/qt/55/2874428_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0crvr79zv",
     "asin": "B0CRVR79ZV",
     "title": "Look KEO Blade Carbon, Klick-Pedale",
@@ -3392,38 +3431,5 @@
     "checkedAt": "2026-11-18T08:50:05.000Z",
     "image": "https://m.media-amazon.com/images/P/B07NQHZSM6.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0gl63wt5j",
-    "asin": "B0GL63WT5J",
-    "title": "UGREEN USB4 Docking Station für 2 Displays",
-    "category": "Tech",
-    "price": 85.49,
-    "checkedAt": "2026-11-18T08:30:09.000Z",
-    "image": "https://static.mydealz.de/threads/raw/4UAe7/2874421_1/re/768x768/qt/55/2874421_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0f9x85g4d",
-    "asin": "B0F9X85G4D",
-    "title": "Ed & Edda: Grand Prix - Racing Champions für Nintendo Switch",
-    "category": "Gaming",
-    "price": 23.85,
-    "checkedAt": "2026-11-18T08:37:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F9X85G4D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b06xcp1xfp",
-    "asin": "B06XCP1XFP",
-    "title": "STANLEY STST1-80150 Montagebox 50L mit Rollen",
-    "category": "Tech",
-    "price": 39.49,
-    "oldPrice": 50.55,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T08:32:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06XCP1XFP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T08:54:06.937Z"
   }
 ]
