@@ -1,32 +1,5 @@
 [
   {
-    "asin": "B0HDT94SVJ",
-    "title": "GameSir G7 Pro 8K Wireless Esports-Controller",
-    "price": 87.99,
-    "note": "8000 Hz Abtastrate, 0,25 ms Latenz, TMR-Sticks und 4 Makro-Tasten",
-    "category": "Gaming",
-    "image": "https://static.mydealz.de/threads/raw/9CG4W/2876445_1/re/768x768/qt/55/2876445_1.jpg",
-    "addedAt": "2026-11-19T20:25:52.000Z"
-  },
-  {
-    "asin": "B0CYFSQPJH",
-    "title": "Shokz OpenRun Knochenschall-Kopfhörer IP67",
-    "price": 99,
-    "note": "Open-Ear-Knochenschall: Ohren bleiben frei, wasserdicht nach IP67",
-    "category": "Audio",
-    "image": "https://static.mydealz.de/threads/raw/y942q/2875195_1/re/768x768/qt/55/2875195_1.jpg",
-    "addedAt": "2026-11-18T23:21:52.000Z"
-  },
-  {
-    "asin": "B0CQ2HMTD4",
-    "title": "HP OfficeJet Pro 8132e Multifunktionsdrucker",
-    "price": 89.99,
-    "note": "A4-Tintendrucker mit Scan, Kopie, Fax, Duplex, WLAN und LAN",
-    "category": "Computer",
-    "image": "https://static.mydealz.de/threads/raw/JSPQT/2875280_1/re/768x768/qt/55/2875280_1.jpg",
-    "addedAt": "2026-11-19T00:50:09.000Z"
-  },
-  {
     "asin": "B0FSRJT4KW",
     "title": "SwitchBot 60 GHz mmWave Präsenzmelder",
     "price": 21.99,
