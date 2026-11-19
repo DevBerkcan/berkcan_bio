@@ -1,5 +1,67 @@
 [
   {
+    "id": "auto-b0h14k5v7b",
+    "asin": "B0H14K5V7B",
+    "title": "FLEXISPOT E200 elektr. höhenverstellbares Schreibtischgestell",
+    "subtitle": "🔥 692° bei mydealz",
+    "category": "Computer",
+    "price": 249.99,
+    "checkedAt": "2026-11-19T11:44:31.000Z",
+    "image": "https://static.mydealz.de/threads/raw/DhLx0/2834467_1/re/768x768/qt/55/2834467_1.jpg",
+    "temperature": 692,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T11:56:12.707Z"
+  },
+  {
+    "id": "auto-b079d2xj7f",
+    "asin": "B079D2XJ7F",
+    "title": "Leica DISTO X4 robuster Laser-Entfernungsmesser",
+    "category": "Küche",
+    "price": 199,
+    "oldPrice": 367.9,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T11:46:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B079D2XJ7F.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T11:56:06.112Z"
+  },
+  {
+    "id": "queue-b09vpv3nzd",
+    "asin": "B09VPV3NZD",
+    "title": "Einhell IMPAXXO 18/450 Akku-Schlagschrauber",
+    "subtitle": "Brushless, 450 Nm und 3 Stufen – passt ins Power-X-Change-System.",
+    "category": "Werkzeug",
+    "price": 103.99,
+    "checkedAt": "2026-11-19T09:56:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09VPV3NZD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T11:55:50.610Z"
+  },
+  {
+    "id": "queue-b0bvlgp4wc",
+    "asin": "B0BVLGP4WC",
+    "title": "ASUS TUF Gaming X870E-Plus WiFi 7 (AM5)",
+    "subtitle": "AM5-Mainboard mit DDR5, PCIe 5.0, 4× M.2, USB4 und 2,5G LAN.",
+    "category": "Gaming",
+    "price": 229.99,
+    "checkedAt": "2026-11-19T11:00:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BVLGP4WC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T11:55:46.123Z"
+  },
+  {
+    "id": "queue-b0h416df3n",
+    "asin": "B0H416DF3N",
+    "title": "NARWAL Freo 20 Saug- und Wischroboter",
+    "subtitle": "Saug-Wisch-Kombi mit TrackMop und Heißwasserreinigung.",
+    "category": "Haushalt",
+    "price": 699,
+    "checkedAt": "2026-11-19T10:45:15.000Z",
+    "image": "https://static.mydealz.de/threads/raw/7lZUD/2875796_1/re/768x768/qt/55/2875796_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T11:55:41.393Z"
+  },
+  {
     "id": "auto-b0bgprjhjj",
     "asin": "B0BGPRJHJJ",
     "title": "Corsair KATAR Elite Wireless Gaming-Maus - 69 g, 26.000 DPI, 2,4 GHz & …",
@@ -3453,17 +3515,6 @@
     "telegramPostedAt": "2026-11-18T12:23:01.524Z"
   },
   {
-    "id": "auto-b0hbx6t38v",
-    "asin": "B0HBX6T38V",
-    "title": "RuneScape: Dragonwilds - Playstation 5 & Xbox Series X",
-    "category": "Gaming",
-    "price": 26.99,
-    "checkedAt": "2026-11-18T11:54:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HBX6T38V.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T16:06:54.117Z"
-  },
-  {
     "id": "auto-b0d95wszby",
     "asin": "B0D95WSZBY",
     "title": "QINCAO Boxershorts Herren 6er Pack für",
@@ -3482,49 +3533,5 @@
     "checkedAt": "2026-11-18T11:56:03.000Z",
     "image": "https://static.mydealz.de/threads/raw/doj6W/2874642_1/re/768x768/qt/55/2874642_1.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0dnr78c5j",
-    "asin": "B0DNR78C5J",
-    "title": "Ninja Blast kabelloser Mini-Mixer, 530 ml, 2er-Pack, auslaufsicherer …",
-    "category": "Küche",
-    "price": 74.98,
-    "checkedAt": "2026-11-18T11:57:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DNR78C5J.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0cmtqpwq8",
-    "asin": "B0CMTQPWQ8",
-    "title": "Razer Seiren V3 Mini USB-Kondensatormikrofon - 14-mm-Kapsel, …",
-    "category": "Audio",
-    "price": 34.99,
-    "checkedAt": "2026-11-18T12:02:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CMTQPWQ8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T17:51:56.236Z"
-  },
-  {
-    "id": "auto-b0cwndd7v3",
-    "asin": "B0CWNDD7V3",
-    "title": "ProFuel CREAPROOF Creatin Monohydrat",
-    "category": "Tech",
-    "price": 10.17,
-    "checkedAt": "2026-11-18T12:02:24.000Z",
-    "image": "https://static.mydealz.de/threads/raw/oWmeV/2874650_1/re/768x768/qt/55/2874650_1.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gznz8xsj",
-    "asin": "B0GZNZ8XSJ",
-    "title": "Philips Sonicare DiamondClean 8500 2er-Set HX8596/21 – …",
-    "category": "Beauty & Pflege",
-    "price": 299.99,
-    "oldPrice": 359.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T11:53:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GZNZ8XSJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T12:23:12.400Z"
   }
 ]
