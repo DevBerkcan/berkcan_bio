@@ -1,5 +1,57 @@
 [
   {
+    "id": "auto-b0d37by6zr",
+    "asin": "B0D37BY6ZR",
+    "title": "Sonos Roam 2 tragbarer Smart-Speaker, WLAN und Bluetooth, IP67, …",
+    "subtitle": "🔥 108° bei mydealz",
+    "category": "Audio",
+    "price": 159,
+    "checkedAt": "2026-11-19T15:20:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D37BY6ZR.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 108,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T15:25:26.506Z"
+  },
+  {
+    "id": "auto-b07j25z7kc",
+    "asin": "B07J25Z7KC",
+    "title": "Bosch Professional PRO Klappmesser mit Aluminiumgehäuse, Klingenfach …",
+    "category": "Küche",
+    "price": 14.77,
+    "oldPrice": 18.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T15:13:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07J25Z7KC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T15:25:21.535Z"
+  },
+  {
+    "id": "auto-b08z33r1xr",
+    "asin": "B08Z33R1XR",
+    "title": "2Pac - Best Of 2Pac Part 1: Thug",
+    "category": "Tech",
+    "price": 23.99,
+    "oldPrice": 33.98,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T15:21:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08Z33R1XR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T15:25:15.562Z"
+  },
+  {
+    "id": "auto-b0924nbjbb",
+    "asin": "B0924NBJBB",
+    "title": "HP Prelude Laptop-Tasche 15,6\"",
+    "category": "Computer",
+    "price": 12.72,
+    "oldPrice": 18.96,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T15:12:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0924NBJBB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T15:25:10.221Z"
+  },
+  {
     "id": "auto-b0gvdytflp",
     "asin": "B0GVDYTFLP",
     "title": "MAMMOTION LUBA mini 2 AWD 1500 mit Mini Garage",
@@ -476,7 +528,8 @@
     "price": 6.99,
     "checkedAt": "2026-11-19T13:07:01.000Z",
     "image": "https://m.media-amazon.com/images/P/B081S431L6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T15:25:30.832Z"
   },
   {
     "id": "auto-b0dfhbrr2r",
@@ -3555,27 +3608,6 @@
     "telegramPostedAt": "2026-11-18T15:51:52.451Z"
   },
   {
-    "id": "auto-b0f1z541pw",
-    "asin": "B0F1Z541PW",
-    "title": "ASUS Prime B850-PLUS-CSM AMD AM5 ATX Mainboard, DDR5, PCIe 5.0, 3x …",
-    "category": "Computer",
-    "price": 141,
-    "checkedAt": "2026-11-18T15:24:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F1Z541PW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T20:52:55.461Z"
-  },
-  {
-    "id": "auto-b0g64wrjgg",
-    "asin": "B0G64WRJGG",
-    "title": "Ninja CREAMi Scoop & Swirl Eismaschine, 13 Funktionen, Stone Gold …",
-    "category": "Tech",
-    "price": 259.99,
-    "checkedAt": "2026-11-18T15:24:31.000Z",
-    "image": "https://static.mydealz.de/threads/raw/VdGvY/2874855_1/re/768x768/qt/55/2874855_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b07px3pwb7",
     "asin": "B07PX3PWB7",
     "title": "Rammstein - Rammstein - Vinyl [2LP Doppelvinyl] / auch Sehnsucht 2LP / …",
@@ -3597,19 +3629,6 @@
     "telegramPostedAt": "2026-11-18T17:51:46.712Z"
   },
   {
-    "id": "auto-b0d49pz1hm",
-    "asin": "B0D49PZ1HM",
-    "title": "CORSAIR RS120 ARGB 120mm PWM-Lüfter – Weiß Daisy-Chain-Verbindung, …",
-    "category": "Tech",
-    "price": 9.99,
-    "oldPrice": 11.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T15:22:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D49PZ1HM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T16:51:35.064Z"
-  },
-  {
     "id": "auto-b0fy5z51qp",
     "asin": "B0FY5Z51QP",
     "title": "TechniSat DIGITRADIO 425 – Internetradio mit CD-Player",
@@ -3621,18 +3640,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FY5Z51QP.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T16:36:46.085Z"
-  },
-  {
-    "id": "auto-b0d98dn7j1",
-    "asin": "B0D98DN7J1",
-    "title": "TechniSat DIGITRADIO mobil 2 – Portables DAB+/FM Mini-Radio mit Akku",
-    "category": "Tech",
-    "price": 20,
-    "oldPrice": 29,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-18T15:25:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D98DN7J1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T15:36:42.172Z"
   }
 ]
