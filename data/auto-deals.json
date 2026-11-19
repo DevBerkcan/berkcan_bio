@@ -1,5 +1,30 @@
 [
   {
+    "id": "auto-b0dd7gfln3",
+    "asin": "B0DD7GFLN3",
+    "title": "OLIGHT Oclip Pro Mini EDC Taschenlampe (Schwarz)",
+    "subtitle": "🔥 115° bei mydealz",
+    "category": "Tech",
+    "price": 21.9,
+    "checkedAt": "2026-11-19T13:58:08.000Z",
+    "image": "https://static.mydealz.de/threads/raw/apXGH/2875854_1/re/768x768/qt/55/2875854_1.jpg",
+    "temperature": 115,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gznxftqc",
+    "asin": "B0GZNXFTQC",
+    "title": "Philips Sonicare DiamondClean 8000 - HX8312/11 Weiß und HX8312/14 …",
+    "category": "Beauty & Pflege",
+    "price": 199.99,
+    "oldPrice": 313.18,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T14:23:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GZNXFTQC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:24:56.249Z"
+  },
+  {
     "id": "auto-b0b21rnmk1",
     "asin": "B0B21RNMK1",
     "title": "deuter Mondego FB 4 Rahmentasche (4 L, Schwarz)",
@@ -21,7 +46,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T13:33:15.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BTB3SW3Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:25:00.876Z"
   },
   {
     "id": "auto-b0f8vj43d3",
@@ -70,7 +96,8 @@
     "checkedAt": "2026-11-19T13:41:05.000Z",
     "image": "https://m.media-amazon.com/images/P/B0H44KWKRS.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 116,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:25:18.198Z"
   },
   {
     "id": "auto-b0dzy3mt4r",
@@ -94,7 +121,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T13:52:14.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CP9DNQZX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:25:05.407Z"
   },
   {
     "id": "auto-b0071ik9ci",
@@ -231,7 +259,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T13:00:22.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CVRQ73SR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:25:13.774Z"
   },
   {
     "id": "auto-b0053pw98i",
@@ -3582,25 +3611,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BC963C58.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T14:52:12.001Z"
-  },
-  {
-    "id": "auto-b0clgpbvpj",
-    "asin": "B0CLGPBVPJ",
-    "title": "Clatronic Toaster 2 Toastschlitze",
-    "category": "Küche",
-    "price": 8.74,
-    "checkedAt": "2026-11-18T14:16:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CLGPBVPJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b01n2vxpgo",
-    "asin": "B01N2VXPGO",
-    "title": "Reebok Herren Club C 85 Sneaker 36, 36.5, 37.5, 39, 40, 42, 45.5, 46, …",
-    "category": "Mode & Reise",
-    "price": 41.93,
-    "checkedAt": "2026-11-18T14:18:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01N2VXPGO.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
