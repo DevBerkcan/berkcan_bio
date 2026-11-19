@@ -1,5 +1,44 @@
 [
   {
+    "id": "auto-b0d56g6p9k",
+    "asin": "B0D56G6P9K",
+    "title": "He-Man and the Masters of the Universe - Vol. 1 ~ 27,76€ / Vol. 2 ~ …",
+    "subtitle": "🔥 119° bei mydealz",
+    "category": "Tech",
+    "price": 27.76,
+    "checkedAt": "2026-11-19T12:20:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D56G6P9K.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 119,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T12:41:05.590Z"
+  },
+  {
+    "id": "auto-b0d9pvtqw1",
+    "asin": "B0D9PVTQW1",
+    "title": "2x Schrankbeleuchtung Unterbauleuchte Küche LED Lampe - 20cm …",
+    "subtitle": "🔥 130° bei mydealz",
+    "category": "Tech",
+    "price": 8.51,
+    "checkedAt": "2026-11-19T12:19:45.000Z",
+    "image": "https://static.mydealz.de/threads/raw/gqMJC/2875565_1/re/768x768/qt/55/2875565_1.jpg",
+    "temperature": 130,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T12:41:00.222Z"
+  },
+  {
+    "id": "auto-b00v3hv6os",
+    "asin": "B00V3HV6OS",
+    "title": "BUFF Heavyweight Merino Schlauchschal in 3 Farben zum gleichen Preis , …",
+    "subtitle": "🔥 131° bei mydealz",
+    "category": "Tech",
+    "price": 18.98,
+    "checkedAt": "2026-11-19T12:23:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00V3HV6OS.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 131,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T12:40:53.411Z"
+  },
+  {
     "id": "auto-b019v9m32i",
     "asin": "B019V9M32I",
     "title": "Vitamin D3 K2 VEGAN 120 Tabletten",
@@ -9,7 +48,8 @@
     "checkedAt": "2026-11-19T11:57:08.000Z",
     "image": "https://static.mydealz.de/threads/raw/2pCqx/2875684_1/re/768x768/qt/55/2875684_1.jpg",
     "temperature": 135,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T12:40:47.904Z"
   },
   {
     "id": "auto-b094xxjmt6",
@@ -21,7 +61,8 @@
     "checkedAt": "2026-11-19T11:50:45.000Z",
     "image": "https://static.mydealz.de/threads/raw/qLKkz/2862559_1/re/768x768/qt/55/2862559_1.jpg",
     "temperature": 143,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T12:40:38.877Z"
   },
   {
     "id": "auto-b0gyyy5cw9",
@@ -3513,37 +3554,5 @@
     "image": "https://m.media-amazon.com/images/P/B099WKS8ZB.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-18T17:06:26.710Z"
-  },
-  {
-    "id": "auto-b0c8nvnwsv",
-    "asin": "B0C8NVNWSV",
-    "title": "Corsair K65 PRO Mini RGB 65% Optisch Mechanische Gaming Tastatur - …",
-    "category": "Computer",
-    "price": 59.99,
-    "checkedAt": "2026-11-18T12:27:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C8NVNWSV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0079jb3qa",
-    "asin": "B0079JB3QA",
-    "title": "Wera Bit-Check 10 TX Impaktor 1",
-    "category": "Werkzeug",
-    "price": 33.09,
-    "checkedAt": "2026-11-18T12:32:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0079JB3QA.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T15:36:46.662Z"
-  },
-  {
-    "id": "auto-b0cnq3m61v",
-    "asin": "B0CNQ3M61V",
-    "title": "Sheba Adult Katzenfutter Geflügel in Sauce 120 x 85 g im Spar-Abo mit …",
-    "category": "Tech",
-    "price": 23.09,
-    "checkedAt": "2026-11-18T12:32:55.000Z",
-    "image": "https://static.mydealz.de/threads/raw/1KHto/2874691_1/re/768x768/qt/55/2874691_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-18T15:36:51.556Z"
   }
 ]
