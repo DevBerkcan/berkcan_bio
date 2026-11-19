@@ -1,5 +1,42 @@
 [
   {
+    "id": "auto-b0b21rnmk1",
+    "asin": "B0B21RNMK1",
+    "title": "deuter Mondego FB 4 Rahmentasche (4 L, Schwarz)",
+    "subtitle": "🔥 122° bei mydealz",
+    "category": "Tech",
+    "price": 22.99,
+    "checkedAt": "2026-11-19T13:39:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B21RNMK1.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 122,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0btb3sw3y",
+    "asin": "B0BTB3SW3Y",
+    "title": "Pokémon Evoli Plüschfigur 20 cm",
+    "category": "Spielzeug & LEGO",
+    "price": 14.39,
+    "oldPrice": 19.94,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T13:33:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BTB3SW3Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f8vj43d3",
+    "asin": "B0F8VJ43D3",
+    "title": "EcoFlow Laptop Powerbank 20.000 mAh mit 100W und ausziehbarem Kabel",
+    "category": "Computer",
+    "price": 47.99,
+    "oldPrice": 109.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-19T13:54:06.000Z",
+    "image": "https://static.mydealz.de/threads/raw/oc1Cf/2876066_1/re/768x768/qt/55/2876066_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:09:54.519Z"
+  },
+  {
     "id": "auto-b0fh5jqq15",
     "asin": "B0FH5JQQ15",
     "title": "Corsair K55 CORE TKL RGB Gaming-Tastatur, QWERTZ DE, Membrantasten, …",
@@ -69,7 +106,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T13:46:32.000Z",
     "image": "https://m.media-amazon.com/images/P/B0071IK9CI.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:10:03.829Z"
   },
   {
     "id": "auto-b0cwvklxr8",
@@ -81,7 +119,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T13:41:39.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CWVKLXR8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:09:58.935Z"
   },
   {
     "id": "auto-b0dnttdkkb",
@@ -154,7 +193,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T13:13:13.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DMWC3M3N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:10:16.901Z"
   },
   {
     "id": "auto-b0dq93jzbz",
@@ -166,7 +206,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-19T13:13:42.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DQ93JZBZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-19T14:10:12.259Z"
   },
   {
     "id": "auto-b0dt9mmztl",
@@ -3543,16 +3584,6 @@
     "telegramPostedAt": "2026-11-18T14:52:12.001Z"
   },
   {
-    "id": "auto-b0fw5jckbj",
-    "asin": "B0FW5JCKBJ",
-    "title": "Weber Traveler (Stealth Edition)",
-    "category": "Tech",
-    "price": 337.55,
-    "checkedAt": "2026-11-18T14:08:00.000Z",
-    "image": "https://static.mydealz.de/threads/raw/idx7J/2874503_1/re/768x768/qt/55/2874503_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0clgpbvpj",
     "asin": "B0CLGPBVPJ",
     "title": "Clatronic Toaster 2 Toastschlitze",
@@ -3570,26 +3601,6 @@
     "price": 41.93,
     "checkedAt": "2026-11-18T14:18:25.000Z",
     "image": "https://m.media-amazon.com/images/P/B01N2VXPGO.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b01mqdu36r",
-    "asin": "B01MQDU36R",
-    "title": "Amazon Prime oder Hornbach Tiefpreisgarantie: Gardena Premium …",
-    "category": "Tech",
-    "price": 19.8,
-    "checkedAt": "2026-11-18T14:00:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01MQDU36R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0dd7mfywz",
-    "asin": "B0DD7MFYWZ",
-    "title": "Shark HD542EU Haartrockner mokka silber",
-    "category": "Haushalt",
-    "price": 124.99,
-    "checkedAt": "2026-11-18T14:01:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DD7MFYWZ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   }
 ]
