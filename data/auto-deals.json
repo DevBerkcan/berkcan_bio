@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0ck2hc8zh",
+    "asin": "B0CK2HC8ZH",
+    "title": "Playmobil Asterix Römischer Streitwagen mit Senator Brutus, Soldat & 2 …",
+    "category": "Spielzeug & LEGO",
+    "price": 17.12,
+    "checkedAt": "2026-11-20T20:43:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CK2HC8ZH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dvzxsy7t",
+    "asin": "B0DVZXSY7T",
+    "title": "PLAYMOBIL 71862 –Western Promo Pack: Postkutschenüberfall im Wilden …",
+    "category": "Spielzeug & LEGO",
+    "price": 17.09,
+    "checkedAt": "2026-11-20T20:47:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DVZXSY7T.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07ymzqnvk",
+    "asin": "B07YMZQNVK",
+    "title": "Sigma Aura 80 USB + Blaze LED-Fahrradbeleuchtung Set",
+    "category": "Sport & Outdoor",
+    "price": 39.99,
+    "oldPrice": 46.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T21:38:17.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Cl63m/2877587_1/re/768x768/qt/55/2877587_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T21:52:12.999Z"
+  },
+  {
     "id": "auto-b01akyxukc",
     "asin": "B01AKYXUKC",
     "title": "Beurer UB 75 & UB 90 Wärmeunterbett",
@@ -7,7 +40,8 @@
     "price": 49.99,
     "checkedAt": "2026-11-20T21:25:34.000Z",
     "image": "https://m.media-amazon.com/images/P/B01AKYXUKC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T21:52:29.024Z"
   },
   {
     "id": "auto-b08sbg9d8z",
@@ -17,7 +51,8 @@
     "price": 72.99,
     "checkedAt": "2026-11-20T21:28:11.000Z",
     "image": "https://m.media-amazon.com/images/P/B08SBG9D8Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T21:52:23.519Z"
   },
   {
     "id": "auto-b0gx2jh4gc",
@@ -27,7 +62,8 @@
     "price": 19.99,
     "checkedAt": "2026-11-20T21:33:19.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GX2JH4GC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T21:52:18.288Z"
   },
   {
     "id": "auto-b0f62s8p1t",
@@ -3349,28 +3385,6 @@
     "telegramPostedAt": "2026-11-19T22:28:27.704Z"
   },
   {
-    "id": "auto-b0d1kclvpx",
-    "asin": "B0D1KCLVPX",
-    "title": "Akku Staubsauger VACTechPro beutellos",
-    "category": "Haushalt",
-    "price": 74.81,
-    "checkedAt": "2026-11-19T21:37:38.000Z",
-    "image": "https://static.mydealz.de/threads/raw/blv36/2876507_1/re/768x768/qt/55/2876507_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:13:52.038Z"
-  },
-  {
-    "id": "auto-b0gmqpgbl2",
-    "asin": "B0GMQPGBL2",
-    "title": "Prime - Feandrea Katzenbrunnen, 4,5L Trinkbrunnen für Katzen, 8 …",
-    "category": "Tech",
-    "price": 14.99,
-    "checkedAt": "2026-11-19T21:41:01.000Z",
-    "image": "https://static.mydealz.de/threads/raw/jQ5gp/2876509_1/re/768x768/qt/55/2876509_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:13:45.915Z"
-  },
-  {
     "id": "auto-b0gtqd6yps",
     "asin": "B0GTQD6YPS",
     "title": "MOUSE: P.I. For Hire - Switch 2",
@@ -3382,18 +3396,5 @@
     "temperature": 101,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T22:13:38.607Z"
-  },
-  {
-    "id": "auto-b075h58d65",
-    "asin": "B075H58D65",
-    "title": "10 liter Edelstahl-Topf * ø 24 cm * Glasdeckel * Kaltmetallgriff * …",
-    "subtitle": "🔥 108° bei mydealz",
-    "category": "Tech",
-    "price": 15.73,
-    "checkedAt": "2026-11-19T21:49:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B075H58D65.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 108,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:13:32.630Z"
   }
 ]
