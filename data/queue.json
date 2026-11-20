@@ -1,32 +1,5 @@
 [
   {
-    "asin": "B0HGLT3P9N",
-    "title": "Philips Hue Festavia Lichtervorhang 1,35 x 2 m",
-    "price": 109.99,
-    "note": "Smarter Lichtervorhang für Fenster, Wand oder Bett.",
-    "category": "Smart Home",
-    "image": "https://static.mydealz.de/threads/raw/D4KTh/2875593_1/re/768x768/qt/55/2875593_1.jpg",
-    "addedAt": "2026-11-19T08:32:08.000Z"
-  },
-  {
-    "asin": "B0GX1B795Q",
-    "title": "Epson EcoTank ET-2922 WLAN-Multifunktionsdrucker",
-    "price": 174.99,
-    "note": "Tintentank-Drucker mit WLAN, bis zu 95 % geringere Tintenkosten.",
-    "category": "Computer",
-    "image": "https://static.mydealz.de/threads/raw/QvMBn/2875743_1/re/768x768/qt/55/2875743_1.jpg",
-    "addedAt": "2026-11-19T09:59:29.000Z"
-  },
-  {
-    "asin": "B0DFMGYFN9",
-    "title": "Siemens iQ300 Unterbau-Geschirrspüler SN43ES06VE",
-    "price": 519.99,
-    "note": "Smarter 60-cm-Geschirrspüler inkl. Lieferung und Aufbau.",
-    "category": "Haushalt",
-    "image": "https://static.mydealz.de/threads/raw/mzyQw/2876764_1/re/768x768/qt/55/2876764_1.jpg",
-    "addedAt": "2026-11-20T07:38:51.000Z"
-  },
-  {
     "asin": "B0GGQF4C8V",
     "title": "Sonic Racing CrossWorlds (Switch 2)",
     "price": 37.99,
