@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b07nh26t31",
+    "asin": "B07NH26T31",
+    "title": "De'Longhi Tasciugo AriaDry Multi - Luftentfeuchter - DDSX225",
+    "category": "Haushalt",
+    "price": 279,
+    "checkedAt": "2026-11-20T19:44:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07NH26T31.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:52:46.562Z"
+  },
+  {
     "id": "auto-b0ggpd67dq",
     "asin": "B0GGPD67DQ",
     "title": "Lego Architectur Tower Bridge",
@@ -58,7 +69,8 @@
     "price": 71.95,
     "checkedAt": "2026-11-20T06:10:11.000Z",
     "image": "https://m.media-amazon.com/images/P/B0D4SZT3ZM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:53:03.069Z"
   },
   {
     "id": "auto-b0dggdbzv1",
@@ -68,7 +80,8 @@
     "price": 33.99,
     "checkedAt": "2026-11-20T06:12:14.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DGGDBZV1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:52:58.756Z"
   },
   {
     "id": "auto-b0gy56vrdf",
@@ -78,7 +91,8 @@
     "price": 26.99,
     "checkedAt": "2026-11-20T06:12:39.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GY56VRDF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:52:50.764Z"
   },
   {
     "id": "auto-b07tmrrp94",
@@ -854,7 +868,8 @@
     "price": 19.19,
     "checkedAt": "2026-11-20T16:20:04.000Z",
     "image": "https://m.media-amazon.com/images/P/B01KN6XDRW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:52:40.460Z"
   },
   {
     "id": "auto-b0g2sy3bvc",
@@ -3458,42 +3473,5 @@
     "temperature": 108,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T20:13:26.225Z"
-  },
-  {
-    "id": "auto-b0clv2ff29",
-    "asin": "B0CLV2FF29",
-    "title": "CHERRY KC 200 MX mechanische Tastatur mit MX2A Brown, DE-QWERTZ, …",
-    "category": "Computer",
-    "price": 40.99,
-    "oldPrice": 59.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T19:42:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CLV2FF29.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:58:22.770Z"
-  },
-  {
-    "id": "auto-b0gt7d9c1y",
-    "asin": "B0GT7D9C1Y",
-    "title": "Sekey Fliegengitter Tür Vorhang Gegen Katzenkratzer, Fiberglas …",
-    "category": "Tech",
-    "price": 5.09,
-    "checkedAt": "2026-11-19T19:40:45.000Z",
-    "image": "https://static.mydealz.de/threads/raw/fzS0v/2876413_1/re/768x768/qt/55/2876413_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:43:34.455Z"
-  },
-  {
-    "id": "auto-b0czxxvks7",
-    "asin": "B0CZXXVKS7",
-    "title": "Ninja MAX PRO AF180EUCP Heißluftfritteuse 6,2 l, 2000 W, 6 Programme, …",
-    "category": "Küche",
-    "price": 89.99,
-    "oldPrice": 118,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T19:39:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CZXXVKS7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:43:16.647Z"
   }
 ]
