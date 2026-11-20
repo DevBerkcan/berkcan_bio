@@ -1,5 +1,54 @@
 [
   {
+    "id": "auto-b0bb7kg7lz",
+    "asin": "B0BB7KG7LZ",
+    "title": "Wasserkocher AEG Deli 5 K5-1-6ST",
+    "category": "Küche",
+    "price": 47.45,
+    "oldPrice": 64,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T07:59:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BB7KG7LZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T08:04:16.961Z"
+  },
+  {
+    "id": "queue-b09n24bhkq",
+    "asin": "B09N24BHKQ",
+    "title": "Meta Quest 3 512GB VR-Headset inkl. Resident Evil 4",
+    "subtitle": "VR-Headset mit 512 GB Speicher, Resident Evil 4 ist inklusive.",
+    "category": "Gaming",
+    "price": 526.99,
+    "checkedAt": "2026-11-20T00:16:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09N24BHKQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T08:03:57.655Z"
+  },
+  {
+    "id": "queue-b0hbvfcydy",
+    "asin": "B0HBVFCYDY",
+    "title": "NARWAL Flow 2 Saug-Wischroboter 31.000 Pa",
+    "subtitle": "Saugen und Wischen in einem, mit 60 °C FlowWash-Wischsystem.",
+    "category": "Haushalt",
+    "price": 899,
+    "checkedAt": "2026-11-20T07:49:32.000Z",
+    "image": "https://static.mydealz.de/threads/raw/ncqFl/2876778_1/re/768x768/qt/55/2876778_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T08:03:49.112Z"
+  },
+  {
+    "id": "queue-b0dj9h1k74",
+    "asin": "B0DJ9H1K74",
+    "title": "Sonos Arc Ultra Premium-Soundbar",
+    "subtitle": "Premium-Soundbar von Sonos für satten Heimkino-Sound.",
+    "category": "TV & Heimkino",
+    "price": 799.99,
+    "checkedAt": "2026-11-20T05:12:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJ9H1K74.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T08:03:43.453Z"
+  },
+  {
     "id": "auto-b0dqcgqk65",
     "asin": "B0DQCGQK65",
     "title": "Screamer Day One Edition ~ 18,99€ für PlayStation 5 (PS5) / 22,29€ für …",
@@ -3595,56 +3644,5 @@
     "temperature": 133,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T10:24:29.060Z"
-  },
-  {
-    "id": "queue-b07l6z417x",
-    "asin": "B07L6Z417X",
-    "title": "Einhell TE-CD 18/40 Li Akku-Bohrschrauber Solo",
-    "subtitle": "2-Gang-Bohrschrauber mit 13-mm-Bohrfutter, Power X-Change.",
-    "category": "Werkzeug",
-    "price": 28.99,
-    "oldPrice": 31.9,
-    "checkedAt": "2026-11-19T08:10:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07L6Z417X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:24:10.798Z"
-  },
-  {
-    "id": "auto-b09t3k9zc6",
-    "asin": "B09T3K9ZC6",
-    "title": "Hitster Original – Musik-Partyspiel mit 300+ Songs, 2–10 Spieler",
-    "category": "Spielzeug & LEGO",
-    "price": 14.23,
-    "oldPrice": 18.94,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T09:20:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09T3K9ZC6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:09:38.722Z"
-  },
-  {
-    "id": "auto-b0017vdc7e",
-    "asin": "B0017VDC7E",
-    "title": "KRUPS Trockenhaube, 2 Temperaturstufen, Kaltluft-Funktion",
-    "category": "Tech",
-    "price": 35.14,
-    "oldPrice": 69.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T10:02:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0017VDC7E.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:09:33.510Z"
-  },
-  {
-    "id": "queue-b0fsl9vyl6",
-    "asin": "B0FSL9VYL6",
-    "title": "Code Vein II für PlayStation 5",
-    "subtitle": "Action-RPG-Fortsetzung für die PS5.",
-    "category": "Gaming",
-    "price": 29.99,
-    "checkedAt": "2026-11-19T08:46:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FSL9VYL6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:09:07.086Z"
   }
 ]
