@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0dqvt49gj",
+    "asin": "B0DQVT49GJ",
+    "title": "PLAYMOBIL | Adventskalendar | Horses of Waterfall | Weihnachtsbacken …",
+    "category": "Spielzeug & LEGO",
+    "price": 17.99,
+    "checkedAt": "2026-11-20T22:29:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQVT49GJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T23:50:40.520Z"
+  },
+  {
+    "id": "auto-b0h87cjrg3",
+    "asin": "B0H87CJRG3",
+    "title": "EcoFlow Rapid 30W USB C Ladegerät, super kompaktes GaN …",
+    "category": "Zubehör & Laden",
+    "price": 6.99,
+    "checkedAt": "2026-11-20T23:45:37.000Z",
+    "image": "https://static.mydealz.de/threads/raw/1bVzm/2877647_1/re/768x768/qt/55/2877647_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T23:50:35.048Z"
+  },
+  {
     "id": "auto-b0f8qpwpl7",
     "asin": "B0F8QPWPL7",
     "title": "Tineco FLOOR ONE i6 Stretch Nass-Trockensauger",
@@ -364,17 +386,6 @@
     "image": "https://m.media-amazon.com/images/P/B0CKLJ7RSK.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T19:37:43.021Z"
-  },
-  {
-    "id": "auto-b0dwdtrg1p",
-    "asin": "B0DWDTRG1P",
-    "title": "LEGO Technic Lamborghini Revuelto Supersportwagen 42214",
-    "category": "Spielzeug & LEGO",
-    "price": 113.99,
-    "checkedAt": "2026-11-19T23:49:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWDTRG1P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T20:08:06.559Z"
   },
   {
     "id": "auto-b084bg4wpg",
@@ -3299,17 +3310,5 @@
     "image": "https://m.media-amazon.com/images/P/B01C8QCYFW.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T06:50:40.869Z"
-  },
-  {
-    "id": "auto-b08sjrlf5c",
-    "asin": "B08SJRLF5C",
-    "title": "Amazon Basics Elektrischer Anspitzer mit Spiralförmiger Klinge, …",
-    "subtitle": "🔥 342° bei mydealz",
-    "category": "Tech",
-    "price": 5.92,
-    "checkedAt": "2026-11-19T23:46:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08SJRLF5C.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 342,
-    "source": "auto"
   }
 ]
