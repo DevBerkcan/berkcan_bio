@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0dqcgqk65",
+    "asin": "B0DQCGQK65",
+    "title": "Screamer Day One Edition ~ 18,99€ für PlayStation 5 (PS5) / 22,29€ für …",
+    "subtitle": "🔥 125° bei mydealz",
+    "category": "Gaming",
+    "price": 18.99,
+    "checkedAt": "2026-11-20T07:11:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQCGQK65.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 125,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T07:49:19.311Z"
+  },
+  {
     "id": "auto-b0f5b9sygt",
     "asin": "B0F5B9SYGT",
     "title": "6 Paar adidas Unisex Cushioned Crew Socks Gr 31/33 bis 49/51 Socken",
@@ -3633,18 +3646,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FSL9VYL6.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T10:09:07.086Z"
-  },
-  {
-    "id": "auto-b0fp4t5dwh",
-    "asin": "B0FP4T5DWH",
-    "title": "TUNAP SPORTS Kettenöl Ultimate Edition 2025, 100 ml Tropfflasche",
-    "category": "Tech",
-    "price": 12,
-    "oldPrice": 15.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T09:48:43.000Z",
-    "image": "https://static.mydealz.de/threads/raw/fhchI/2875718_1/re/768x768/qt/55/2875718_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T09:54:45.374Z"
   }
 ]
