@@ -1,5 +1,37 @@
 [
   {
+    "id": "auto-b0f8bt9lmz",
+    "asin": "B0F8BT9LMZ",
+    "title": "Meross Matter Smart Rolladenschalter WLAN 55x55mm, 1 Stück",
+    "category": "Smart Home",
+    "price": 29.75,
+    "checkedAt": "2026-11-20T06:59:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F8BT9LMZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08hj59l4s",
+    "asin": "B08HJ59L4S",
+    "title": "Victorinox Okulier und Hakenmesser",
+    "category": "Küche",
+    "price": 27.49,
+    "checkedAt": "2026-11-20T18:55:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08HJ59L4S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:07:27.516Z"
+  },
+  {
+    "id": "auto-b08swfrpjs",
+    "asin": "B08SWFRPJS",
+    "title": "Victorinox Mini Schraubenzieher Set 4-teilig",
+    "category": "Tech",
+    "price": 13.49,
+    "checkedAt": "2026-11-20T19:03:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08SWFRPJS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:07:22.217Z"
+  },
+  {
     "id": "auto-b0dj2xpptj",
     "asin": "B0DJ2XPPTJ",
     "title": "LEDVANCE Decor Fuji 4-flammige LED-Pendelleuchte, schwarz, 120,5 cm, …",
@@ -400,7 +432,8 @@
     "price": 39.71,
     "checkedAt": "2026-11-20T09:04:08.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F5HST783.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:07:36.573Z"
   },
   {
     "id": "auto-b01hry982c",
@@ -497,7 +530,8 @@
     "price": 15.99,
     "checkedAt": "2026-11-20T11:26:58.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F8HNJRKN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:07:31.999Z"
   },
   {
     "id": "auto-b0fx2vm6cg",
@@ -3473,17 +3507,6 @@
     "telegramPostedAt": "2026-11-19T19:28:03.766Z"
   },
   {
-    "id": "auto-b0dnr9547f",
-    "asin": "B0DNR9547F",
-    "title": "Brennenstuhl 4fach-Steckdose, 4 Farbkombis,",
-    "category": "Smart Home",
-    "price": 8.49,
-    "checkedAt": "2026-11-19T18:57:50.000Z",
-    "image": "https://static.mydealz.de/threads/raw/LkuVL/2876377_1/re/768x768/qt/55/2876377_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:13:27.087Z"
-  },
-  {
     "id": "auto-b0ggj2b6kf",
     "asin": "B0GGJ2B6KF",
     "title": "UGREEN FineTrack 2 Fußball Tracker kompatibel mit Apple Find My (nur …",
@@ -3506,19 +3529,6 @@
     "telegramPostedAt": "2026-11-19T19:13:14.643Z"
   },
   {
-    "id": "auto-b07z75zrsl",
-    "asin": "B07Z75ZRSL",
-    "title": "Prime: Guns N' Roses Appetite for Destruction 180gr+DC Vinyl LP",
-    "subtitle": "🔥 104° bei mydealz",
-    "category": "Tech",
-    "price": 20.71,
-    "checkedAt": "2026-11-19T19:06:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07Z75ZRSL.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 104,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:13:05.291Z"
-  },
-  {
     "id": "auto-b07t3h1qfp",
     "asin": "B07T3H1QFP",
     "title": "RÖSLE VARIO Dutch Oven (8,5 L, Ø 35 cm, Schwarz)",
@@ -3530,16 +3540,5 @@
     "temperature": 104,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T19:12:59.471Z"
-  },
-  {
-    "id": "auto-b01k4ju5jc",
-    "asin": "B01K4JU5JC",
-    "title": "LEIBNIZ Cream Choco, 2 knusprige Butterkekse mit zarter …",
-    "category": "Tech",
-    "price": 7.26,
-    "checkedAt": "2026-11-19T18:52:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01K4JU5JC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T18:58:00.193Z"
   }
 ]
