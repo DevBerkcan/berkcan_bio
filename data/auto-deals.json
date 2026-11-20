@@ -1,5 +1,54 @@
 [
   {
+    "id": "auto-b06y2mrtpg",
+    "asin": "B06Y2MRTPG",
+    "title": "SANTOS Gusseisenpfanne 25 cm - Runde Grillpfanne für Gasgrill, …",
+    "category": "Küche",
+    "price": 9.75,
+    "oldPrice": 25.89,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T08:39:15.000Z",
+    "image": "https://static.mydealz.de/threads/raw/pUHNk/2876838_1/re/768x768/qt/55/2876838_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T08:49:16.269Z"
+  },
+  {
+    "id": "queue-b0cbpjsxw1",
+    "asin": "B0CBPJSXW1",
+    "title": "CHERRY KW 7100 MINI BT Tastatur",
+    "subtitle": "Kompakte Bluetooth-Tastatur für bis zu 3 Geräte, QWERTZ.",
+    "category": "Computer",
+    "price": 15.99,
+    "checkedAt": "2026-11-20T05:48:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CBPJSXW1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T08:48:44.620Z"
+  },
+  {
+    "id": "queue-b0cn8jdyrq",
+    "asin": "B0CN8JDYRQ",
+    "title": "Samsung Powerbank EB-U2510 10.000 mAh 25W",
+    "subtitle": "Powerbank mit 25 W und induktiver Ladefunktion fürs Smartphone.",
+    "category": "Zubehör & Laden",
+    "price": 14.99,
+    "checkedAt": "2026-11-20T07:50:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CN8JDYRQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T08:48:39.890Z"
+  },
+  {
+    "id": "queue-b0ggqf4c8v",
+    "asin": "B0GGQF4C8V",
+    "title": "Sonic Racing CrossWorlds (Switch 2)",
+    "subtitle": "Fun-Racer mit Sonic & Co. als Modul für die Switch 2.",
+    "category": "Gaming",
+    "price": 37.99,
+    "checkedAt": "2026-11-20T05:30:07.000Z",
+    "image": "https://static.mydealz.de/threads/raw/9qp8W/2876659_1/re/768x768/qt/55/2876659_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T08:48:35.384Z"
+  },
+  {
     "id": "auto-b08l5phq89",
     "asin": "B08L5PHQ89",
     "title": "Carrera FIRST Mario Kart Yoshi",
@@ -3588,57 +3637,5 @@
     "temperature": 116,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T10:54:26.393Z"
-  },
-  {
-    "id": "auto-b0fh51hvdt",
-    "asin": "B0FH51HVDT",
-    "title": "UGREEN FineTrack Slim Tracker Karte – Kabelloses Laden, IP68 …",
-    "subtitle": "🔥 117° bei mydealz",
-    "category": "Tech",
-    "price": 15.19,
-    "checkedAt": "2026-11-19T10:38:52.000Z",
-    "image": "https://static.mydealz.de/threads/raw/7jcv1/2873889_1/re/768x768/qt/55/2873889_1.jpg",
-    "temperature": 117,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:54:21.057Z"
-  },
-  {
-    "id": "auto-b0cl9dwcpk",
-    "asin": "B0CL9DWCPK",
-    "title": "Oppenheimer / John Carpenter's THE THING je 15,99€ / Im Westen nichts …",
-    "subtitle": "🔥 118° bei mydealz",
-    "category": "Tech",
-    "price": 15.99,
-    "checkedAt": "2026-11-19T10:39:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CL9DWCPK.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 118,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:54:15.763Z"
-  },
-  {
-    "id": "auto-b0f3dq6k68",
-    "asin": "B0F3DQ6K68",
-    "title": "Daemon X Machina: Titanic Scion – Limited Edition",
-    "category": "Gaming",
-    "price": 34.55,
-    "oldPrice": 79.49,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T10:52:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F3DQ6K68.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:54:10.401Z"
-  },
-  {
-    "id": "auto-b0djf4j7g5",
-    "asin": "B0DJF4J7G5",
-    "title": "LEGO Horizon Adventures - Nintendo Switch",
-    "subtitle": "🔥 106° bei mydealz",
-    "category": "Gaming",
-    "price": 14.35,
-    "checkedAt": "2026-11-19T10:37:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJF4J7G5.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 106,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:39:29.599Z"
   }
 ]
