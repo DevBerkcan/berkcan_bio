@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0fqf32239",
+    "asin": "B0FQF32239",
+    "title": "Apple AirPods Pro 3",
+    "subtitle": "🔥 398° bei mydealz",
+    "category": "Tech",
+    "price": 199,
+    "checkedAt": "2026-11-20T05:20:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FQF32239.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 398,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T06:35:59.806Z"
+  },
+  {
     "id": "auto-b00o36k642",
     "asin": "B00O36K642",
     "title": "INBUS Winkelschraubendreher Set 9tlg, 1.5–10mm, mit Kugelkopf Das …",
@@ -3630,18 +3643,5 @@
     "image": "https://m.media-amazon.com/images/P/B0G3XD46CG.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T09:54:39.794Z"
-  },
-  {
-    "id": "queue-b07nqhzsm6",
-    "asin": "B07NQHZSM6",
-    "title": "Bosch MUM58W20 Küchenmaschine 1000 W",
-    "subtitle": "Starke 1000-W-Küchenmaschine für häufiges Backen und Kochen.",
-    "category": "Küche",
-    "price": 159.99,
-    "checkedAt": "2026-11-19T08:16:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07NQHZSM6.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 121,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T09:54:25.166Z"
   }
 ]
