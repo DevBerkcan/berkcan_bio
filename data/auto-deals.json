@@ -1,5 +1,106 @@
 [
   {
+    "id": "auto-b0c7rk5mzw",
+    "asin": "B0C7RK5MZW",
+    "title": "Die weiße Burg Brettspiel Kennerspiel",
+    "category": "Spielzeug & LEGO",
+    "price": 20.89,
+    "checkedAt": "2026-11-20T10:55:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C7RK5MZW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gtz12cnz",
+    "asin": "B0GTZ12CNZ",
+    "title": "PANTASY Vintage Kaffeemühle Klemmbausteine Set Kaffeemühle mit …",
+    "category": "Spielzeug & LEGO",
+    "price": 28.49,
+    "checkedAt": "2026-11-20T11:05:03.000Z",
+    "image": "https://static.mydealz.de/threads/raw/74LnC/2877041_1/re/768x768/qt/55/2877041_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f8hnjrkn",
+    "asin": "B0F8HNJRKN",
+    "title": "Final Destination: Bloodlines (4K Blu-ray + Blu-ray)",
+    "category": "Bücher & Filme",
+    "price": 15.99,
+    "checkedAt": "2026-11-20T11:26:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F8HNJRKN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fx2vm6cg",
+    "asin": "B0FX2VM6CG",
+    "title": "Harman Kardon Aura Studio 5 Bluetooth-Lautsprecher, Schwarz im Sale",
+    "category": "Audio",
+    "price": 249,
+    "checkedAt": "2026-11-20T11:28:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FX2VM6CG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d5d64syw",
+    "asin": "B0D5D64SYW",
+    "title": "Amazon Oral B io5 mit 3 Aufsteckbürsten und Etui",
+    "category": "Tech",
+    "price": 69.99,
+    "checkedAt": "2026-11-20T16:56:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D5D64SYW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:05:35.436Z"
+  },
+  {
+    "id": "auto-b00725abm8",
+    "asin": "B00725ABM8",
+    "title": "Bosch PRO Führungsschine FSN 800",
+    "category": "Tech",
+    "price": 44,
+    "checkedAt": "2026-11-20T16:57:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00725ABM8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:05:30.022Z"
+  },
+  {
+    "id": "auto-b0c354yk8z",
+    "asin": "B0C354YK8Z",
+    "title": "Fjällräven Skule Top 26 - Rucksack",
+    "subtitle": "🔥 109° bei mydealz",
+    "category": "Sport & Outdoor",
+    "price": 68.99,
+    "checkedAt": "2026-11-20T16:52:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C354YK8Z.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 109,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:05:24.842Z"
+  },
+  {
+    "id": "auto-b0fcs35v79",
+    "asin": "B0FCS35V79",
+    "title": "Thermaltake Toughpower GT 1000W [schwarz oder weiß] ATX-Netzteil, ATX …",
+    "category": "Zubehör & Laden",
+    "price": 99,
+    "oldPrice": 127.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T16:53:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FCS35V79.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:05:18.922Z"
+  },
+  {
+    "id": "auto-b0fcs5j6z6",
+    "asin": "B0FCS5J6Z6",
+    "title": "Thermaltake Toughpower GT 1200W ATX-Netzteil [schwarz 111,40 € / weiß …",
+    "category": "Zubehör & Laden",
+    "price": 111.4,
+    "oldPrice": 148.14,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T16:53:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FCS5J6Z6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:05:13.194Z"
+  },
+  {
     "id": "auto-b094xz8h5h",
     "asin": "B094XZ8H5H",
     "title": "SwitchBot Türsensor mit Licht und Bewegungssensor",
@@ -109,7 +210,8 @@
     "price": 1078,
     "checkedAt": "2026-11-20T12:53:42.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F63BY78J.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:06:24.931Z"
   },
   {
     "id": "auto-b0f2npnxvp",
@@ -119,7 +221,8 @@
     "price": 459,
     "checkedAt": "2026-11-20T16:19:47.000Z",
     "image": "https://static.mydealz.de/threads/raw/E1fch/2877357_1/re/768x768/qt/55/2877357_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:05:40.144Z"
   },
   {
     "id": "auto-b01kn6xdrw",
@@ -314,7 +417,8 @@
     "price": 8.49,
     "checkedAt": "2026-11-20T12:53:54.000Z",
     "image": "https://static.mydealz.de/threads/raw/WfPX8/2877154_1/re/768x768/qt/55/2877154_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:06:20.571Z"
   },
   {
     "id": "auto-b0ghq4jsst",
@@ -391,7 +495,8 @@
     "price": 71.75,
     "checkedAt": "2026-11-20T13:22:16.000Z",
     "image": "https://m.media-amazon.com/images/P/B07X7JSBHG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:06:15.729Z"
   },
   {
     "id": "auto-b0969lxtff",
@@ -401,7 +506,8 @@
     "price": 89.95,
     "checkedAt": "2026-11-20T13:23:04.000Z",
     "image": "https://static.mydealz.de/threads/raw/ZYCzK/2877183_1/re/768x768/qt/55/2877183_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:06:11.349Z"
   },
   {
     "id": "auto-b07pqgp8b7",
@@ -411,7 +517,8 @@
     "price": 20.09,
     "checkedAt": "2026-11-20T14:22:23.000Z",
     "image": "https://m.media-amazon.com/images/P/B07PQGP8B7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:05:48.585Z"
   },
   {
     "id": "auto-b01bmw645o",
@@ -421,7 +528,8 @@
     "price": 21.85,
     "checkedAt": "2026-11-20T14:40:10.000Z",
     "image": "https://m.media-amazon.com/images/P/B01BMW645O.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:05:44.367Z"
   },
   {
     "id": "auto-b0dfmbx3l5",
@@ -558,7 +666,8 @@
     "price": 149.98,
     "checkedAt": "2026-11-20T13:23:41.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FN47TDSQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:06:05.648Z"
   },
   {
     "id": "auto-b0dhsfrg9d",
@@ -568,7 +677,8 @@
     "price": 14.6,
     "checkedAt": "2026-11-20T13:31:40.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DHSFRG9D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:06:01.406Z"
   },
   {
     "id": "auto-b0fd9v92vl",
@@ -648,7 +758,8 @@
     "price": 10.49,
     "checkedAt": "2026-11-20T13:33:22.000Z",
     "image": "https://m.media-amazon.com/images/P/B09V8HLR83.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:05:56.751Z"
   },
   {
     "id": "auto-b0h4lllfwx",
@@ -3418,28 +3529,6 @@
     "telegramPostedAt": "2026-11-19T17:27:02.091Z"
   },
   {
-    "id": "auto-b0c3m5ms3n",
-    "asin": "B0C3M5MS3N",
-    "title": "AUVON LED Nachtlicht mit Bewegungs- & Dämmerungssensor, 2er Pack",
-    "category": "Tech",
-    "price": 13.73,
-    "checkedAt": "2026-11-19T16:51:52.000Z",
-    "image": "https://static.mydealz.de/threads/raw/2xmCp/2876254_1/re/768x768/qt/55/2876254_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:11:56.526Z"
-  },
-  {
-    "id": "auto-b01mtb55wh",
-    "asin": "B01MTB55WH",
-    "title": "Anker Soundcore 2 Bluetooth-Lautsprecher, 12 W Stereo, duale …",
-    "category": "Audio",
-    "price": 23.99,
-    "checkedAt": "2026-11-19T17:01:22.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Spnc9/2876267_1/re/768x768/qt/55/2876267_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:11:49.795Z"
-  },
-  {
     "id": "auto-b0dd3n4ygq",
     "asin": "B0DD3N4YGQ",
     "title": "Amazon Black Friday - The Glendronach 12 Jahre 0,7 l - 43% Vol.",
@@ -3453,32 +3542,6 @@
     "telegramPostedAt": "2026-11-19T17:11:36.527Z"
   },
   {
-    "id": "auto-b07qrqtkcz",
-    "asin": "B07QRQTKCZ",
-    "title": "UGREEN 20 W USB-C Ladegerät, PD 3.0, kompakt, für iPhone, iPad, …",
-    "subtitle": "🔥 106° bei mydealz",
-    "category": "Smartphone & Tablet",
-    "price": 7.99,
-    "checkedAt": "2026-11-19T16:55:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07QRQTKCZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 106,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:11:30.975Z"
-  },
-  {
-    "id": "auto-b0cvyhhdld",
-    "asin": "B0CVYHHDLD",
-    "title": "Elgato Facecam Neo Full-HD-Webcam, 1080p60, HDR-fähig, Autofokus, …",
-    "subtitle": "🔥 108° bei mydealz",
-    "category": "Computer",
-    "price": 37.99,
-    "checkedAt": "2026-11-19T16:51:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CVYHHDLD.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 108,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:11:25.427Z"
-  },
-  {
     "id": "auto-b08w299vlt",
     "asin": "B08W299VLT",
     "title": "UGREEN Cat 8 LAN-Kabel z.B. 2 m für 5,31",
@@ -3490,70 +3553,5 @@
     "temperature": 108,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T17:11:20.138Z"
-  },
-  {
-    "id": "auto-b000rvymwe",
-    "asin": "B000RVYMWE",
-    "title": "Yamaha GL-1 Guitalele natur Hybrid aus Gitarre und Ukulele, 6 …",
-    "subtitle": "🔥 109° bei mydealz",
-    "category": "Tech",
-    "price": 67.9,
-    "checkedAt": "2026-11-19T16:56:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000RVYMWE.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 109,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:11:13.269Z"
-  },
-  {
-    "id": "auto-b00xksbmqa",
-    "asin": "B00XKSBMQA",
-    "title": "Canon EF 50mm F1.8 STM Objektiv schwarz, Festbrennweite",
-    "subtitle": "🔥 110° bei mydealz",
-    "category": "Foto & Video",
-    "price": 89,
-    "checkedAt": "2026-11-19T16:57:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00XKSBMQA.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 110,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:11:04.209Z"
-  },
-  {
-    "id": "auto-b0hgftf6ym",
-    "asin": "B0HGFTF6YM",
-    "title": "UGREEN Revodok Pro 14-in-1 Docking Station, 3 Monitore, 2x HDMI 4K60, …",
-    "subtitle": "🔥 111° bei mydealz",
-    "category": "Computer",
-    "price": 89.99,
-    "checkedAt": "2026-11-19T16:59:39.000Z",
-    "image": "https://static.mydealz.de/threads/raw/qiGEZ/2876090_1/re/768x768/qt/55/2876090_1.jpg",
-    "temperature": 111,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:10:58.895Z"
-  },
-  {
-    "id": "auto-b00valutww",
-    "asin": "B00VALUTWW",
-    "title": "The Wire - Die komplette Serie (Staffel 1-5) Blu-Ray",
-    "subtitle": "🔥 112° bei mydealz",
-    "category": "Bücher & Filme",
-    "price": 54.69,
-    "checkedAt": "2026-11-19T16:50:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00VALUTWW.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 112,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T16:55:55.803Z"
-  },
-  {
-    "id": "auto-b0bwdt7c4y",
-    "asin": "B0BWDT7C4Y",
-    "title": "Govee LED Strip 20m, RGBIC LED Streifen mit Segmentcontrol, Musik Sync",
-    "subtitle": "🔥 113° bei mydealz",
-    "category": "Tech",
-    "price": 19.99,
-    "checkedAt": "2026-11-19T16:50:37.000Z",
-    "image": "https://static.mydealz.de/threads/raw/VY3vx/2875778_1/re/768x768/qt/55/2875778_1.jpg",
-    "temperature": 113,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T16:55:50.146Z"
   }
 ]
