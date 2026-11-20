@@ -1,5 +1,66 @@
 [
   {
+    "id": "auto-b09bfqlfn2",
+    "asin": "B09BFQLFN2",
+    "title": "ASUS TUF Gaming 850W Platinum ATX-Netzteil, ATX 3.1, PCIe 5.1, GaN …",
+    "category": "Gaming",
+    "price": 99.99,
+    "checkedAt": "2026-11-20T12:06:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09BFQLFN2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:50:39.564Z"
+  },
+  {
+    "id": "auto-b08556xv39",
+    "asin": "B08556XV39",
+    "title": "Bialetti New Venus Induction Espressokocher [induktionsgeeignet] aus …",
+    "category": "Küche",
+    "price": 21.79,
+    "checkedAt": "2026-11-20T12:40:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08556XV39.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:50:34.669Z"
+  },
+  {
+    "id": "auto-b0cjn1589l",
+    "asin": "B0CJN1589L",
+    "title": "FC Bayern München Flachmann-Set (Silber) – Edelstahl, 2 Schnapsbecher …",
+    "subtitle": "🔥 100° bei mydealz",
+    "category": "Tech",
+    "price": 15.96,
+    "checkedAt": "2026-11-20T12:26:33.000Z",
+    "image": "https://static.mydealz.de/threads/raw/pSRxR/2876200_1/re/768x768/qt/55/2876200_1.jpg",
+    "temperature": 100,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:50:29.539Z"
+  },
+  {
+    "id": "auto-b0c7hdkqf5",
+    "asin": "B0C7HDKQF5",
+    "title": "JACK & JONES Herren Kapuzenpullover – versch. Farben",
+    "subtitle": "🔥 119° bei mydealz",
+    "category": "Tech",
+    "price": 15.19,
+    "checkedAt": "2026-11-20T12:39:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C7HDKQF5.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 119,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:50:23.083Z"
+  },
+  {
+    "id": "auto-b0cw3k81zn",
+    "asin": "B0CW3K81ZN",
+    "title": "Disney Epic Mickey: Rebrushed - Nintendo Switch Upgrade Switch 2 …",
+    "subtitle": "🔥 145° bei mydealz",
+    "category": "Gaming",
+    "price": 19.31,
+    "checkedAt": "2026-11-20T12:24:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CW3K81ZN.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 145,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:50:17.943Z"
+  },
+  {
     "id": "auto-b0dcght9h8",
     "asin": "B0DCGHT9H8",
     "title": "Philips Sonicare 5500 elektrische Zahnbürste Schallzahnbürste 2-er …",
@@ -1230,17 +1291,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0gsx45vs5",
-    "asin": "B0GSX45VS5",
-    "title": "Monopoly Star Wars : Heroes vs. Villains - PS5 / Nintendo Switch 1+2 - …",
-    "category": "Gaming",
-    "price": 19.99,
-    "checkedAt": "2026-11-19T12:43:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GSX45VS5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:46:21.636Z"
-  },
-  {
     "id": "auto-b0dt9q59fd",
     "asin": "B0DT9Q59FD",
     "title": "Wiha Essential Stiftschlüssel-Set (14-tlg.)",
@@ -1374,18 +1424,6 @@
     "temperature": 119,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T23:30:24.423Z"
-  },
-  {
-    "id": "queue-b0h8nd4bfy",
-    "asin": "B0H8ND4BFY",
-    "title": "ECOVACS WINBOT W2S PRO OMNI Fensterputzroboter",
-    "subtitle": "Fensterputzroboter mit Multifunktionsstation und TruEdge 2.0 für saubere Ränder",
-    "category": "Haushalt",
-    "price": 499,
-    "checkedAt": "2026-11-19T12:42:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H8ND4BFY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:30:01.013Z"
   },
   {
     "id": "auto-b0gpy1xnhz",
@@ -3569,44 +3607,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DZY3MT4R.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 116,
     "source": "auto"
-  },
-  {
-    "id": "auto-b0cp9dnqzx",
-    "asin": "B0CP9DNQZX",
-    "title": "Philips HR2681/00 5000-Serie Stabmixer",
-    "category": "Küche",
-    "price": 39.97,
-    "oldPrice": 52.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T13:52:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CP9DNQZX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T14:25:05.407Z"
-  },
-  {
-    "id": "auto-b0071ik9ci",
-    "asin": "B0071IK9CI",
-    "title": "Bosch 27-tlg. Schrauberbit- und Ratschen-Set mit Mini-Ratsche und …",
-    "category": "Werkzeug",
-    "price": 10.99,
-    "oldPrice": 16.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T13:46:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0071IK9CI.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T14:10:03.829Z"
-  },
-  {
-    "id": "auto-b0cwvklxr8",
-    "asin": "B0CWVKLXR8",
-    "title": "Philips Pet Series Katzenbrunnen PAW3210/02",
-    "category": "Tech",
-    "price": 24.99,
-    "oldPrice": 46.73,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T13:41:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CWVKLXR8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T14:09:58.935Z"
   }
 ]
