@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0bmf5ck81",
+    "asin": "B0BMF5CK81",
+    "title": "X-Sense Funk-Hitzemelder mit fest verbauter 10-Jahres-Batterie",
+    "category": "Tech",
+    "price": 20.39,
+    "oldPrice": 29.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T07:12:29.000Z",
+    "image": "https://static.mydealz.de/threads/raw/jspsx/2876730_1/re/768x768/qt/55/2876730_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T07:19:59.594Z"
+  },
+  {
     "id": "auto-b0fxgwjnnz",
     "asin": "B0FXGWJNNZ",
     "title": "DJI Osmo 360 Essential Combo mit 8K-Aufnahme und Selfie-Stick",
@@ -2936,18 +2949,6 @@
     "temperature": 111,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T12:25:28.144Z"
-  },
-  {
-    "id": "queue-b0cwvzrmcx",
-    "asin": "B0CWVZRMCX",
-    "title": "Amazon Fire TV Soundbar 2.0",
-    "subtitle": "Besserer TV-Sound mit DTS Virtual:X, Dolby Audio und Bluetooth.",
-    "category": "Amazon-Geräte",
-    "price": 71.99,
-    "checkedAt": "2026-11-19T07:18:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CWVZRMCX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T12:25:23.530Z"
   },
   {
     "id": "auto-b0bvmmpn54",
