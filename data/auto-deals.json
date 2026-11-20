@@ -1,5 +1,65 @@
 [
   {
+    "id": "auto-b0cr5fd97n",
+    "asin": "B0CR5FD97N",
+    "title": "🫨 LED-Deckenleuchte für",
+    "category": "Licht & Garten",
+    "price": 7.25,
+    "checkedAt": "2026-11-20T11:56:28.000Z",
+    "image": "https://static.mydealz.de/threads/raw/okNWA/2877108_1/re/768x768/qt/55/2877108_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:05:49.315Z"
+  },
+  {
+    "id": "auto-b0fjrjhrjy",
+    "asin": "B0FJRJHRJY",
+    "title": "PS5 - Sonic Racing: CrossWorlds - Exklusive Amazon-Edition",
+    "subtitle": "🔥 223° bei mydealz",
+    "category": "Gaming",
+    "price": 20.89,
+    "checkedAt": "2026-11-20T12:00:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FJRJHRJY.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 223,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:05:41.566Z"
+  },
+  {
+    "id": "queue-b0dzh8zrd6",
+    "asin": "B0DZH8ZRD6",
+    "title": "Nanoleaf Matter Smart Stehlampe RGBIC",
+    "subtitle": "72 RGBIC-LEDs, bis 1700 Lumen, Matter-kompatibel",
+    "category": "Licht & Garten",
+    "price": 59.99,
+    "checkedAt": "2026-11-20T07:03:34.000Z",
+    "image": "https://static.mydealz.de/threads/raw/hRw70/2876728_1/re/768x768/qt/55/2876728_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:05:25.341Z"
+  },
+  {
+    "id": "queue-b0flk9d5nj",
+    "asin": "B0FLK9D5NJ",
+    "title": "ULTIMEA Skywave X40 5.1.2 Soundsystem 530W",
+    "subtitle": "Kabelloses Surround-System mit HDMI eARC und 5-GHz-Funk",
+    "category": "TV & Heimkino",
+    "price": 299,
+    "checkedAt": "2026-11-20T07:58:57.000Z",
+    "image": "https://static.mydealz.de/threads/raw/lGX34/2876791_1/re/768x768/qt/55/2876791_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:05:19.902Z"
+  },
+  {
+    "id": "queue-b0bgktzp1w",
+    "asin": "B0BGKTZP1W",
+    "title": "Einhell E-Case Tower Werkzeug-Koffersystem",
+    "subtitle": "Stapelbares Koffersystem für Werkzeug und Zubehör",
+    "category": "Werkzeug",
+    "price": 87.99,
+    "checkedAt": "2026-11-20T07:47:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BGKTZP1W.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:05:14.334Z"
+  },
+  {
     "id": "auto-b0d318qdgn",
     "asin": "B0D318QDGN",
     "title": "Bessey BEYCEPS Einhand-Montagewerkzeug",
@@ -1031,18 +1091,6 @@
     "telegramPostedAt": "2026-11-20T06:21:22.145Z"
   },
   {
-    "id": "queue-b0gy4gvfpg",
-    "asin": "B0GY4GVFPG",
-    "title": "Shokz OpenFit Air 2 Open-Ear-Kopfhörer",
-    "subtitle": "Open-Ear-Sportkopfhörer mit flexiblem Ni-Ti-Bügel für sicheren Halt",
-    "category": "Audio",
-    "price": 109,
-    "checkedAt": "2026-11-19T11:51:14.000Z",
-    "image": "https://static.mydealz.de/threads/raw/1FlpJ/2875882_1/re/768x768/qt/55/2875882_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T06:20:59.271Z"
-  },
-  {
     "id": "auto-b0bgxzrkqn",
     "asin": "B0BGXZRKQN",
     "title": "TOSHIBA Canvio Partner 2TB Portable 2.5'' Externe Festplatte, USB 3.2, …",
@@ -1079,39 +1127,6 @@
     "image": "https://m.media-amazon.com/images/P/B08SJRLF5C.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 342,
     "source": "auto"
-  },
-  {
-    "id": "auto-b0cztslyg6",
-    "asin": "B0CZTSLYG6",
-    "title": "LG XBOOM Go DXG2T tragbarer Bluetooth-Lautsprecher, 5 W, IP67, bis 10 …",
-    "category": "Audio",
-    "price": 20.43,
-    "checkedAt": "2026-11-19T11:53:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CZTSLYG6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:46:55.208Z"
-  },
-  {
-    "id": "auto-b0cktxgnf1",
-    "asin": "B0CKTXGNF1",
-    "title": "Vitamin D3 1000 IE 365 Tabletten",
-    "category": "Smartphone & Tablet",
-    "price": 8.03,
-    "checkedAt": "2026-11-19T11:59:21.000Z",
-    "image": "https://static.mydealz.de/threads/raw/9biKt/2875896_1/re/768x768/qt/55/2875896_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:46:50.213Z"
-  },
-  {
-    "id": "auto-b0dk54776f",
-    "asin": "B0DK54776F",
-    "title": "2 Stück SwitchBot Matter Relais Schalter 1PM, Wlan Schalter kompatibel …",
-    "category": "Audio",
-    "price": 16.14,
-    "checkedAt": "2026-11-19T12:02:31.000Z",
-    "image": "https://static.mydealz.de/threads/raw/vdmgF/2875907_1/re/768x768/qt/55/2875907_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:46:43.675Z"
   },
   {
     "id": "auto-b08y49yz9n",
@@ -1413,18 +1428,6 @@
     "image": "https://m.media-amazon.com/images/P/B0CK2P1PXS.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T23:14:18.970Z"
-  },
-  {
-    "id": "queue-b0b4kb6ctb",
-    "asin": "B0B4KB6CTB",
-    "title": "Reolink 4K PTZ Überwachungskamera mit Wi-Fi 6",
-    "subtitle": "8 MP Außenkamera mit Auto-Tracking-Zoom und Schwenk-/Neigefunktion",
-    "category": "Smart Home",
-    "price": 149.99,
-    "checkedAt": "2026-11-19T11:59:52.000Z",
-    "image": "https://static.mydealz.de/threads/raw/mWmt4/2875898_1/re/768x768/qt/55/2875898_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:13:53.945Z"
   },
   {
     "id": "auto-b000et7g0e",
