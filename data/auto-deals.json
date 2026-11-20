@@ -1,5 +1,32 @@
 [
   {
+    "id": "auto-b00o36k642",
+    "asin": "B00O36K642",
+    "title": "INBUS Winkelschraubendreher Set 9tlg, 1.5–10mm, mit Kugelkopf Das …",
+    "subtitle": "🔥 369° bei mydealz",
+    "category": "Tech",
+    "price": 18.95,
+    "oldPrice": 24.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T05:18:48.000Z",
+    "image": "https://static.mydealz.de/threads/raw/xHlWf/2852521_1/re/768x768/qt/55/2852521_1.jpg",
+    "temperature": 369,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T06:21:22.145Z"
+  },
+  {
+    "id": "queue-b0gy4gvfpg",
+    "asin": "B0GY4GVFPG",
+    "title": "Shokz OpenFit Air 2 Open-Ear-Kopfhörer",
+    "subtitle": "Open-Ear-Sportkopfhörer mit flexiblem Ni-Ti-Bügel für sicheren Halt",
+    "category": "Audio",
+    "price": 109,
+    "checkedAt": "2026-11-19T11:51:14.000Z",
+    "image": "https://static.mydealz.de/threads/raw/1FlpJ/2875882_1/re/768x768/qt/55/2875882_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T06:20:59.271Z"
+  },
+  {
     "id": "auto-b0bgxzrkqn",
     "asin": "B0BGXZRKQN",
     "title": "TOSHIBA Canvio Partner 2TB Portable 2.5'' Externe Festplatte, USB 3.2, …",
@@ -3616,31 +3643,5 @@
     "temperature": 121,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T09:54:25.166Z"
-  },
-  {
-    "id": "auto-b0c3mr9n75",
-    "asin": "B0C3MR9N75",
-    "title": "Pokémon Plüschtier Glurak 30cm von Jazwares",
-    "category": "Spielzeug & LEGO",
-    "price": 18.99,
-    "oldPrice": 26.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T09:16:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C3MR9N75.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T09:39:51.705Z"
-  },
-  {
-    "id": "auto-b09b1gfm3r",
-    "asin": "B09B1GFM3R",
-    "title": "Lewis-Plast Erste-Hilfe-Tasche, 92-teilig, kompakt für Rucksack, …",
-    "category": "Sport & Outdoor",
-    "price": 6.79,
-    "oldPrice": 12.35,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T09:25:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09B1GFM3R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T09:39:46.774Z"
   }
 ]
