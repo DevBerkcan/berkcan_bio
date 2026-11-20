@@ -1,5 +1,104 @@
 [
   {
+    "id": "auto-b0dj19tn6f",
+    "asin": "B0DJ19TN6F",
+    "title": "12er Star Wars Bitty Pops",
+    "category": "Spielzeug & LEGO",
+    "price": 21,
+    "checkedAt": "2026-11-20T12:37:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJ19TN6F.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f63by78j",
+    "asin": "B0F63BY78J",
+    "title": "Fischer E-Bike City CITA 2403 Active Elektrofahrrad für Damen und …",
+    "category": "Sport & Outdoor",
+    "price": 1078,
+    "checkedAt": "2026-11-20T12:53:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F63BY78J.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f2npnxvp",
+    "asin": "B0F2NPNXVP",
+    "title": "Canon EOS R50 V Vlog-Kamera, APS-C, 24,2 MP, 4K, RF-Mount, Dual Pixel …",
+    "category": "Foto & Video",
+    "price": 459,
+    "checkedAt": "2026-11-20T16:19:47.000Z",
+    "image": "https://static.mydealz.de/threads/raw/E1fch/2877357_1/re/768x768/qt/55/2877357_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b01kn6xdrw",
+    "asin": "B01KN6XDRW",
+    "title": "Leonard Cohen - You Want It Darker Vinyl",
+    "category": "Tech",
+    "price": 19.19,
+    "checkedAt": "2026-11-20T16:20:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01KN6XDRW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0g2sy3bvc",
+    "asin": "B0G2SY3BVC",
+    "title": "Hisense RS3P558NEFE Side-by-Side Kühl-/ Gefrierkombi / EEK D / 544L / …",
+    "category": "Tech",
+    "price": 573.9,
+    "checkedAt": "2026-11-20T16:27:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G2SY3BVC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:35:28.552Z"
+  },
+  {
+    "id": "auto-b0d89dsd2l",
+    "asin": "B0D89DSD2L",
+    "title": "PeakTech P 2755 VDE-0100-Installationstester mit Bluetooth, USB und …",
+    "category": "Tech",
+    "price": 670.49,
+    "checkedAt": "2026-11-20T16:27:45.000Z",
+    "image": "https://static.mydealz.de/threads/raw/32OpZ/2877370_1/re/768x768/qt/55/2877370_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:35:23.175Z"
+  },
+  {
+    "id": "auto-b0bqljysbx",
+    "asin": "B0BQLJYSBX",
+    "title": "RØDE RØDECaster Duo Audio-Produktionslösung, 2 Combo-Buchsen, …",
+    "category": "Tech",
+    "price": 336,
+    "checkedAt": "2026-11-20T16:30:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BQLJYSBX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:35:16.927Z"
+  },
+  {
+    "id": "auto-b0fy3t5qks",
+    "asin": "B0FY3T5QKS",
+    "title": "OsmoFresh Fusion Stream & Fusion Air Auftisch-Osmoseanlagen – mit …",
+    "category": "Tech",
+    "price": 424.15,
+    "oldPrice": 499,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T16:25:24.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Y4sGP/2877364_1/re/768x768/qt/55/2877364_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:35:11.746Z"
+  },
+  {
+    "id": "auto-b0b2bdhlh1",
+    "asin": "B0B2BDHLH1",
+    "title": "Mattel Disney Princess Cinderella Puppe im klassischen Look",
+    "category": "Spielzeug & LEGO",
+    "price": 6.81,
+    "oldPrice": 14.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T15:53:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B2BDHLH1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:35:04.329Z"
+  },
+  {
     "id": "auto-b07jmt3b59",
     "asin": "B07JMT3B59",
     "title": "Revell U.S.S. Voyager",
@@ -3101,28 +3200,6 @@
     "telegramPostedAt": "2026-11-19T17:57:34.129Z"
   },
   {
-    "id": "auto-b00imf1ccu",
-    "asin": "B00IMF1CCU",
-    "title": "Wera 05004018001 8100 SA 8 Zyklop Metal-Knarrensatz, Umschalthebel, …",
-    "category": "Werkzeug",
-    "price": 63.99,
-    "checkedAt": "2026-11-19T16:22:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00IMF1CCU.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:42:58.249Z"
-  },
-  {
-    "id": "auto-b09lhxs23s",
-    "asin": "B09LHXS23S",
-    "title": "Hero Quest Basisspiel - Deutsche Version",
-    "category": "Spielzeug & LEGO",
-    "price": 75.49,
-    "checkedAt": "2026-11-19T16:23:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09LHXS23S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:42:53.165Z"
-  },
-  {
     "id": "auto-b00aeanyig",
     "asin": "B00AEANYIG",
     "title": "Don Julio 1942, luxuriöser Tequila Añejo aus Mexiko, 38% Vol, 700 ml",
@@ -3154,28 +3231,6 @@
     "image": "https://static.mydealz.de/threads/raw/x0846/2876303_1/re/768x768/qt/55/2876303_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T17:42:37.022Z"
-  },
-  {
-    "id": "auto-b0gqvfjd3t",
-    "asin": "B0GQVFJD3T",
-    "title": "Apple iPad Air 11\" 2026 WiFi 256GB in violett",
-    "category": "Smartphone & Tablet",
-    "price": 779,
-    "checkedAt": "2026-11-19T16:23:40.000Z",
-    "image": "https://static.mydealz.de/threads/raw/aY39x/2876231_1/re/768x768/qt/55/2876231_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:28:00.776Z"
-  },
-  {
-    "id": "auto-b0cbl24dkw",
-    "asin": "B0CBL24DKW",
-    "title": "Salewa Isarco 0,6 L Edelstahlflasche",
-    "category": "Sport & Outdoor",
-    "price": 11.99,
-    "checkedAt": "2026-11-19T16:24:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CBL24DKW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:27:54.437Z"
   },
   {
     "id": "auto-b0c5jl6cxx",
@@ -3268,28 +3323,6 @@
     "temperature": 549,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T17:27:02.091Z"
-  },
-  {
-    "id": "auto-b0dc74whyv",
-    "asin": "B0DC74WHYV",
-    "title": "Philips OneBlade Pro Rasierer 360 Face & Body Electric Shaver",
-    "category": "Beauty & Pflege",
-    "price": 52.99,
-    "checkedAt": "2026-11-19T16:27:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DC74WHYV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:12:19.214Z"
-  },
-  {
-    "id": "auto-b0f66ms88r",
-    "asin": "B0F66MS88R",
-    "title": "CMF Watch 3 Pro Smartwatch, 1,43\" AMOLED, bis 13 Tage Akku, Dual-GPS, …",
-    "category": "Smartphone & Tablet",
-    "price": 59,
-    "checkedAt": "2026-11-19T16:33:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F66MS88R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:12:13.511Z"
   },
   {
     "id": "auto-b0fbgv69ck",
@@ -3525,44 +3558,5 @@
     "image": "https://m.media-amazon.com/images/P/B00H5LALCO.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T16:40:43.061Z"
-  },
-  {
-    "id": "auto-b0cxxfx625",
-    "asin": "B0CXXFX625",
-    "title": "Luigis Mansion 2 HD Nintendo Switch",
-    "subtitle": "🔥 245° bei mydealz",
-    "category": "Gaming",
-    "price": 24.69,
-    "checkedAt": "2026-11-19T16:25:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CXXFX625.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 245,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T16:40:32.053Z"
-  },
-  {
-    "id": "auto-b0dxfs95zd",
-    "asin": "B0DXFS95ZD",
-    "title": "Schott NYC Daunenjacke mit Kapuze Schott Colten, Schwarz, Schwarz, XXL",
-    "category": "Mode & Reise",
-    "price": 41.75,
-    "oldPrice": 160,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T16:26:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DXFS95ZD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T16:40:25.944Z"
-  },
-  {
-    "id": "auto-b0886zpwc8",
-    "asin": "B0886ZPWC8",
-    "title": "Akai Professional MPK Mini MK3 USB MIDI Keyboard Controller, 25 …",
-    "subtitle": "🔥 105° bei mydealz",
-    "category": "Computer",
-    "price": 76.48,
-    "checkedAt": "2026-11-19T16:22:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0886ZPWC8.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 105,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T16:25:38.068Z"
   }
 ]
