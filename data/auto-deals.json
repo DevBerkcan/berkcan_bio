@@ -1,5 +1,54 @@
 [
   {
+    "id": "auto-b0h38v38mj",
+    "asin": "B0H38V38MJ",
+    "title": "Thermosocken für Damen und Herren, 2 Paar extra dicke Warme Socken",
+    "category": "Tech",
+    "price": 9.68,
+    "oldPrice": 16.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T08:13:16.000Z",
+    "image": "https://static.mydealz.de/threads/raw/FKvgz/2876800_1/re/768x768/qt/55/2876800_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T08:19:11.005Z"
+  },
+  {
+    "id": "queue-b0glm67pwd",
+    "asin": "B0GLM67PWD",
+    "title": "UGREEN 10-in-1 Steckdosenleiste mit 65W USB-C",
+    "subtitle": "Mehrfachsteckdose mit 65W USB-C – lädt sogar ein MacBook Air.",
+    "category": "Smart Home",
+    "price": 31.34,
+    "checkedAt": "2026-11-20T07:35:49.000Z",
+    "image": "https://static.mydealz.de/threads/raw/EpMrO/2876757_1/re/768x768/qt/55/2876757_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T08:18:51.904Z"
+  },
+  {
+    "id": "queue-b07dghm81s",
+    "asin": "B07DGHM81S",
+    "title": "Bosch Professional 12V 3,0Ah Akku",
+    "subtitle": "Mehr Laufzeit als der 2Ah-Akku für alle Bosch-12V-Geräte.",
+    "category": "Werkzeug",
+    "price": 27.59,
+    "checkedAt": "2026-11-20T07:12:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07DGHM81S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T08:18:46.458Z"
+  },
+  {
+    "id": "queue-b0ds2b3p2b",
+    "asin": "B0DS2B3P2B",
+    "title": "DJI Osmo Action 4 Essential Combo",
+    "subtitle": "Robuste Action-Cam von DJI im Essential-Combo-Paket.",
+    "category": "Foto & Video",
+    "price": 170,
+    "checkedAt": "2026-11-20T07:17:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DS2B3P2B.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T08:18:41.912Z"
+  },
+  {
     "id": "auto-b0bb7kg7lz",
     "asin": "B0BB7KG7LZ",
     "title": "Wasserkocher AEG Deli 5 K5-1-6ST",
@@ -3592,57 +3641,5 @@
     "temperature": 107,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T10:39:20.034Z"
-  },
-  {
-    "id": "auto-b0crvr79zv",
-    "asin": "B0CRVR79ZV",
-    "title": "Look KEO Blade Carbon, Klick-Pedale",
-    "subtitle": "🔥 113° bei mydealz",
-    "category": "Tech",
-    "price": 87.49,
-    "checkedAt": "2026-11-19T10:27:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CRVR79ZV.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 113,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:39:14.618Z"
-  },
-  {
-    "id": "auto-b0cc3sc6qz",
-    "asin": "B0CC3SC6QZ",
-    "title": "PreSonus Eris 3.5 BT (Gen 2) Aktive Studiomonitor-Lautsprecher",
-    "subtitle": "🔥 115° bei mydealz",
-    "category": "Computer",
-    "price": 105.95,
-    "checkedAt": "2026-11-19T10:22:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CC3SC6QZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 115,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:39:10.168Z"
-  },
-  {
-    "id": "auto-b09wz8pvzh",
-    "asin": "B09WZ8PVZH",
-    "title": "Ernie Ball Regular Slinky, Saiten für E-Gitarre, 4er-Pack, Stärke …",
-    "subtitle": "🔥 112° bei mydealz",
-    "category": "Tech",
-    "price": 18.04,
-    "checkedAt": "2026-11-19T10:20:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09WZ8PVZH.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 112,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:24:34.258Z"
-  },
-  {
-    "id": "auto-b01h88gsw0",
-    "asin": "B01H88GSW0",
-    "title": "Wera 950 SPKL/9 SM N Multicolour Winkelschlüsselsatz, metrisch, …",
-    "subtitle": "🔥 133° bei mydealz",
-    "category": "Werkzeug",
-    "price": 24.59,
-    "checkedAt": "2026-11-19T10:13:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01H88GSW0.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 133,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:24:29.060Z"
   }
 ]
