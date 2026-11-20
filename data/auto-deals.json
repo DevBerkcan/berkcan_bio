@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0fxgwjnnz",
+    "asin": "B0FXGWJNNZ",
+    "title": "DJI Osmo 360 Essential Combo mit 8K-Aufnahme und Selfie-Stick",
+    "category": "Foto & Video",
+    "price": 350,
+    "oldPrice": 559,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T06:48:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FXGWJNNZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T07:05:19.945Z"
+  },
+  {
     "id": "auto-b0fqf32239",
     "asin": "B0FQF32239",
     "title": "Apple AirPods Pro 3",
@@ -3631,18 +3644,5 @@
     "image": "https://static.mydealz.de/threads/raw/fhchI/2875718_1/re/768x768/qt/55/2875718_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T09:54:45.374Z"
-  },
-  {
-    "id": "auto-b0g3xd46cg",
-    "asin": "B0G3XD46CG",
-    "title": "Masters of the Universe 2026 Movie Skeletor Actionfigur, 14 cm, mit …",
-    "category": "Spielzeug & LEGO",
-    "price": 8.99,
-    "oldPrice": 13.42,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T09:28:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G3XD46CG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T09:54:39.794Z"
   }
 ]
