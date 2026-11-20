@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0dcght9h8",
+    "asin": "B0DCGHT9H8",
+    "title": "Philips Sonicare 5500 elektrische Zahnbürste Schallzahnbürste 2-er …",
+    "category": "Beauty & Pflege",
+    "price": 119.99,
+    "checkedAt": "2026-11-20T12:06:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DCGHT9H8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:35:42.110Z"
+  },
+  {
+    "id": "auto-b09n9sjqz9",
+    "asin": "B09N9SJQZ9",
+    "title": "Gorenje OptiBake BSA 6747 A04BG Einbau-Backofen, 77 L, Heißluft, …",
+    "category": "Küche",
+    "price": 349,
+    "checkedAt": "2026-11-20T12:28:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09N9SJQZ9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:35:37.020Z"
+  },
+  {
+    "id": "auto-b00zzv9t60",
+    "asin": "B00ZZV9T60",
+    "title": "Zippo Handwärmer – 12 Stunden Wärme – Nachfüllbar mit Feuerzeugbenzin …",
+    "category": "Tech",
+    "price": 22.63,
+    "checkedAt": "2026-11-20T12:31:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00ZZV9T60.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:35:31.928Z"
+  },
+  {
+    "id": "auto-b07sq2fztk",
+    "asin": "B07SQ2FZTK",
+    "title": "Philips Hue Go V2 tragbare Akzentleuchte weiß",
+    "category": "Smart Home",
+    "price": 53.21,
+    "checkedAt": "2026-11-20T12:33:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07SQ2FZTK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T12:35:26.862Z"
+  },
+  {
     "id": "auto-b0d37r7x6z",
     "asin": "B0D37R7X6Z",
     "title": "Sonos Ace (weiß) bei mehreren Anbietern reduziert!",
@@ -1184,17 +1228,6 @@
     "image": "https://m.media-amazon.com/images/P/B08SJRLF5C.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 342,
     "source": "auto"
-  },
-  {
-    "id": "auto-b0fkhdhnxc",
-    "asin": "B0FKHDHNXC",
-    "title": "Smart-Home-Zentrale Honeywell Home Evohome Apartment Plus Lösung",
-    "category": "Smart Home",
-    "price": 180.15,
-    "checkedAt": "2026-11-19T12:21:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FKHDHNXC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:46:27.429Z"
   },
   {
     "id": "auto-b0gsx45vs5",
@@ -3575,42 +3608,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CWVKLXR8.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T14:09:58.935Z"
-  },
-  {
-    "id": "auto-b0dnttdkkb",
-    "asin": "B0DNTTDKKB",
-    "title": "HEAD Padelschläger",
-    "category": "Tech",
-    "price": 60.19,
-    "oldPrice": 150,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T13:49:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DNTTDKKB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T13:55:04.247Z"
-  },
-  {
-    "id": "auto-b0ft3wmlg3",
-    "asin": "B0FT3WMLG3",
-    "title": "Fanatec CSL Steering Wheel GT3 Sim-Racing-Lenkrad, 300 mm, OLED, …",
-    "subtitle": "🔥 119° bei mydealz",
-    "category": "Tech",
-    "price": 139.95,
-    "checkedAt": "2026-11-19T13:17:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FT3WMLG3.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 119,
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0c7rj56t5",
-    "asin": "B0C7RJ56T5",
-    "title": "Revolution Race Sherpa Hoodie Fleecejacke",
-    "subtitle": "🔥 120° bei mydealz",
-    "category": "Mode & Reise",
-    "price": 57,
-    "checkedAt": "2026-11-19T13:12:40.000Z",
-    "image": "https://static.mydealz.de/threads/raw/xtgRd/2875588_1/re/768x768/qt/55/2875588_1.jpg",
-    "temperature": 120,
-    "source": "auto"
   }
 ]
