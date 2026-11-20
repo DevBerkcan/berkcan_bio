@@ -1,5 +1,30 @@
 [
   {
+    "id": "auto-b0bgxzrkqn",
+    "asin": "B0BGXZRKQN",
+    "title": "TOSHIBA Canvio Partner 2TB Portable 2.5'' Externe Festplatte, USB 3.2, …",
+    "category": "Computer",
+    "price": 103.99,
+    "oldPrice": 180,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T05:54:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BGXZRKQN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T06:06:38.165Z"
+  },
+  {
+    "id": "queue-b07wh4qd8h",
+    "asin": "B07WH4QD8H",
+    "title": "Bosch Professional GAS 18V-10 L Akku-Nass-/Trockensauger",
+    "subtitle": "10 l, beutellos, für den 18V-Bosch-Akku – Solo ohne Akku und Ladegerät",
+    "category": "Haushalt",
+    "price": 107.99,
+    "checkedAt": "2026-11-19T10:47:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07WH4QD8H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T06:06:14.900Z"
+  },
+  {
     "id": "auto-b01c8qcyfw",
     "asin": "B01C8QCYFW",
     "title": "Star Wars Trilogy – The Original Soundtrack - Limited Edition Vinyl |",
@@ -2543,18 +2568,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b07wh4qd8h",
-    "asin": "B07WH4QD8H",
-    "title": "Bosch Professional GAS 18V-10 L Akku-Nass-/Trockensauger, 10 l, …",
-    "subtitle": "🔥 124° bei mydealz",
-    "category": "Haushalt",
-    "price": 107.99,
-    "checkedAt": "2026-11-19T13:13:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07WH4QD8H.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 124,
-    "source": "auto"
-  },
-  {
     "id": "auto-b0dtjrxtc9",
     "asin": "B0DTJRXTC9",
     "title": "AstroAI Fahrradpumpe Elektrische Luftpumpe 150PSI 17,99€ / AstroAI …",
@@ -3629,17 +3642,5 @@
     "image": "https://m.media-amazon.com/images/P/B09B1GFM3R.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T09:39:46.774Z"
-  },
-  {
-    "id": "queue-b0gwlh8z7d",
-    "asin": "B0GWLH8Z7D",
-    "title": "Anker soundcore Liberty 5 Pro In-Ear-Kopfhörer",
-    "subtitle": "Kabellose Premium-In-Ears von Anker soundcore.",
-    "category": "Audio",
-    "price": 139.99,
-    "checkedAt": "2026-11-19T08:49:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/ymgHi/2875616_1/re/768x768/qt/55/2875616_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T09:39:18.680Z"
   }
 ]
