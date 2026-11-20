@@ -1,5 +1,89 @@
 [
   {
+    "id": "auto-b0dwdtrg1p",
+    "asin": "B0DWDTRG1P",
+    "title": "LEGO Technic Lamborghini Revuelto Supersportwagen 42214",
+    "category": "Spielzeug & LEGO",
+    "price": 113.99,
+    "checkedAt": "2026-11-19T23:49:01.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DWDTRG1P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b084bg4wpg",
+    "asin": "B084BG4WPG",
+    "title": "Rogue One: A Star Wars Story / Der Marsianer / Predator / Braveheart …",
+    "category": "Bücher & Filme",
+    "price": 16.07,
+    "checkedAt": "2026-11-20T05:12:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B084BG4WPG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h14v1q6l",
+    "asin": "B0H14V1Q6L",
+    "title": "GoveeLife Smart WLAN-Wassermelder Boden, 3 Wassersensoren mit Hub",
+    "category": "Smart Home",
+    "price": 26.05,
+    "checkedAt": "2026-11-20T05:32:38.000Z",
+    "image": "https://static.mydealz.de/threads/raw/vWcPQ/2876661_1/re/768x768/qt/55/2876661_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d4szt3zm",
+    "asin": "B0D4SZT3ZM",
+    "title": "Amazon: THE NORTH FACE Damen W Antora Rain Jacket - Refit Jacket …",
+    "category": "Mode & Reise",
+    "price": 71.95,
+    "checkedAt": "2026-11-20T06:10:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D4SZT3ZM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dggdbzv1",
+    "asin": "B0DGGDBZV1",
+    "title": "Bosch Ringmaulschlüssel Set 6-19 mm",
+    "category": "Werkzeug",
+    "price": 33.99,
+    "checkedAt": "2026-11-20T06:12:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DGGDBZV1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gy56vrdf",
+    "asin": "B0GY56VRDF",
+    "title": "Disney Epic Mickey: Rebrushed - Nintendo Switch 2",
+    "category": "Gaming",
+    "price": 26.99,
+    "checkedAt": "2026-11-20T06:12:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GY56VRDF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07tmrrp94",
+    "asin": "B07TMRRP94",
+    "title": "Shining (4K Ultra-HD) + Blu-ray",
+    "category": "Bücher & Filme",
+    "price": 16.55,
+    "checkedAt": "2026-11-20T19:19:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07TMRRP94.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:22:38.310Z"
+  },
+  {
+    "id": "auto-b0d6wkzwhl",
+    "asin": "B0D6WKZWHL",
+    "title": "Träumegut24 7-Zonen-Kaltschaummatratze – H2 & H3, OEKO-TEX,",
+    "subtitle": "🔥 100° bei mydealz",
+    "category": "Tech",
+    "price": 80.66,
+    "checkedAt": "2026-11-20T19:16:11.000Z",
+    "image": "https://static.mydealz.de/threads/raw/cu5en/2875605_1/re/768x768/qt/55/2875605_1.jpg",
+    "temperature": 100,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:22:32.815Z"
+  },
+  {
     "id": "auto-b0f8bt9lmz",
     "asin": "B0F8BT9LMZ",
     "title": "Meross Matter Smart Rolladenschalter WLAN 55x55mm, 1 Stück",
@@ -402,7 +486,8 @@
     "price": 16.99,
     "checkedAt": "2026-11-20T08:46:44.000Z",
     "image": "https://m.media-amazon.com/images/P/B087VHVHCV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:22:51.887Z"
   },
   {
     "id": "auto-b088mlzpms",
@@ -412,7 +497,8 @@
     "price": 8.35,
     "checkedAt": "2026-11-20T08:56:23.000Z",
     "image": "https://static.mydealz.de/threads/raw/AeKth/2876858_1/re/768x768/qt/55/2876858_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:22:47.452Z"
   },
   {
     "id": "auto-b09qmjqgv6",
@@ -422,7 +508,8 @@
     "price": 59.19,
     "checkedAt": "2026-11-20T08:57:35.000Z",
     "image": "https://m.media-amazon.com/images/P/B09QMJQGV6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:22:42.664Z"
   },
   {
     "id": "auto-b0f5hst783",
@@ -3217,17 +3304,6 @@
     "telegramPostedAt": "2026-11-19T20:59:19.521Z"
   },
   {
-    "id": "auto-b07kxn37vk",
-    "asin": "B07KXN37VK",
-    "title": "Super Mario Yum Yum Yoshi interaktive, bewegliche Actionfigur, 25cm",
-    "category": "Spielzeug & LEGO",
-    "price": 12.5,
-    "checkedAt": "2026-11-19T19:15:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07KXN37VK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T20:44:29.582Z"
-  },
-  {
     "id": "auto-b00t7l20aq",
     "asin": "B00T7L20AQ",
     "title": "ON Creatin ist wieder im Angebot (Sparabo 13,49)",
@@ -3394,17 +3470,6 @@
     "telegramPostedAt": "2026-11-19T19:58:22.770Z"
   },
   {
-    "id": "auto-b0fqnvp87y",
-    "asin": "B0FQNVP87Y",
-    "title": "Insta360 X4 Air Starter-Bundle",
-    "category": "Foto & Video",
-    "price": 319,
-    "checkedAt": "2026-11-19T19:21:13.000Z",
-    "image": "https://static.mydealz.de/threads/raw/jPlba/2876397_1/re/768x768/qt/55/2876397_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:43:42.293Z"
-  },
-  {
     "id": "auto-b0gt7d9c1y",
     "asin": "B0GT7D9C1Y",
     "title": "Sekey Fliegengitter Tür Vorhang Gegen Katzenkratzer, Fiberglas …",
@@ -3455,19 +3520,6 @@
     "telegramPostedAt": "2026-11-19T19:43:16.647Z"
   },
   {
-    "id": "auto-b084c1lpdt",
-    "asin": "B084C1LPDT",
-    "title": "LG NeoChef Mikrowelle mit Grill, 25 l, 1000 W, Smart Inverter, …",
-    "subtitle": "🔥 100° bei mydealz",
-    "category": "Licht & Garten",
-    "price": 126,
-    "checkedAt": "2026-11-19T19:14:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B084C1LPDT.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 100,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:28:26.021Z"
-  },
-  {
     "id": "auto-b0f4qh9f1q",
     "asin": "B0F4QH9F1Q",
     "title": "Anker Solix Y-Kabel 2er Pack inkl Versand Verkabelung Solarpanels BKW …",
@@ -3479,66 +3531,5 @@
     "temperature": 104,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T19:28:20.285Z"
-  },
-  {
-    "id": "auto-b0dp1zcwxk",
-    "asin": "B0DP1ZCWXK",
-    "title": "UGREEN 100W USB C Ladegerät 6-Port 65W Desktop Ladestation Laptop …",
-    "subtitle": "🔥 106° bei mydealz",
-    "category": "Computer",
-    "price": 30.66,
-    "checkedAt": "2026-11-19T19:19:33.000Z",
-    "image": "https://static.mydealz.de/threads/raw/CviM0/2875855_1/re/768x768/qt/55/2875855_1.jpg",
-    "temperature": 106,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:28:13.903Z"
-  },
-  {
-    "id": "auto-b0d3fg116x",
-    "asin": "B0D3FG116X",
-    "title": "Sportbekleidung Sammeldeal: Jacken & mehr von Patagonia, Mammut & Co.",
-    "category": "Mode & Reise",
-    "price": 45.44,
-    "oldPrice": 383.2,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T19:11:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D3FG116X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:28:03.766Z"
-  },
-  {
-    "id": "auto-b0ggj2b6kf",
-    "asin": "B0GGJ2B6KF",
-    "title": "UGREEN FineTrack 2 Fußball Tracker kompatibel mit Apple Find My (nur …",
-    "category": "Tech",
-    "price": 6.99,
-    "checkedAt": "2026-11-19T19:08:36.000Z",
-    "image": "https://static.mydealz.de/threads/raw/FfbyI/2876386_1/re/768x768/qt/55/2876386_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:13:21.179Z"
-  },
-  {
-    "id": "auto-b0fr9b3q5r",
-    "asin": "B0FR9B3Q5R",
-    "title": "Super Mario Galaxy Movie Hatchin' Yoshi im Ei",
-    "category": "Gaming",
-    "price": 27.99,
-    "checkedAt": "2026-11-19T19:11:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FR9B3Q5R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:13:14.643Z"
-  },
-  {
-    "id": "auto-b07t3h1qfp",
-    "asin": "B07T3H1QFP",
-    "title": "RÖSLE VARIO Dutch Oven (8,5 L, Ø 35 cm, Schwarz)",
-    "subtitle": "🔥 104° bei mydealz",
-    "category": "Tech",
-    "price": 77.99,
-    "checkedAt": "2026-11-19T19:08:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07T3H1QFP.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 104,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:12:59.471Z"
   }
 ]
