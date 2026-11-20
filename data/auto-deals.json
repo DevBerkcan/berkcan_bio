@@ -1,5 +1,64 @@
 [
   {
+    "id": "auto-b0hgbpxbrv",
+    "asin": "B0HGBPXBRV",
+    "title": "Lenovo L27-4r 27 Zoll FHD Monitor, IPS, 165 Hz, 99 % sRGB, AMD …",
+    "category": "Computer",
+    "price": 109,
+    "checkedAt": "2026-11-20T17:47:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HGBPXBRV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:52:12.459Z"
+  },
+  {
+    "id": "auto-b0054l2qwu",
+    "asin": "B0054L2QWU",
+    "title": "Regina Kamille Toilettenpapier 48 Rollen, 3-lagig, 150 Blatt pro …",
+    "category": "Tech",
+    "price": 14.24,
+    "checkedAt": "2026-11-20T17:48:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0054L2QWU.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:52:07.119Z"
+  },
+  {
+    "id": "auto-b0ctsmf8pw",
+    "asin": "B0CTSMF8PW",
+    "title": "schleich HARRY POTTER",
+    "category": "Spielzeug & LEGO",
+    "price": 14.19,
+    "checkedAt": "2026-11-20T17:49:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CTSMF8PW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:52:01.805Z"
+  },
+  {
+    "id": "auto-b0gcnxm3k9",
+    "asin": "B0GCNXM3K9",
+    "title": "schleich Harry Potter Adventskalender 2026 (29 Teile)",
+    "category": "Tech",
+    "price": 39.59,
+    "oldPrice": 47.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T17:39:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GCNXM3K9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:51:56.529Z"
+  },
+  {
+    "id": "auto-b0f7468m2n",
+    "asin": "B0F7468M2N",
+    "title": "LG OLED48G56LS OLED evo TV (48 Zoll)",
+    "category": "TV & Heimkino",
+    "price": 699,
+    "oldPrice": 849.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T17:45:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F7468M2N.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T17:51:47.488Z"
+  },
+  {
     "id": "auto-b0ggt6r9d8",
     "asin": "B0GGT6R9D8",
     "title": "GXTrust Emita II USB-Mikrofon mit Arm, Pop- und Windfilter, Niere, 192 …",
@@ -2623,17 +2682,6 @@
     "telegramPostedAt": "2026-11-19T23:14:18.970Z"
   },
   {
-    "id": "auto-b0gf9th9rg",
-    "asin": "B0GF9TH9RG",
-    "title": "Revell Sammeldeal",
-    "category": "Spielzeug & LEGO",
-    "price": 26.89,
-    "checkedAt": "2026-11-19T17:46:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GF9TH9RG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:58:58.397Z"
-  },
-  {
     "id": "auto-b0gy8bs2fs",
     "asin": "B0GY8BS2FS",
     "title": "Insta360 Luna Ultra Must-Have-Bundle – 8K-Gimbal-Kamera mit …",
@@ -2855,28 +2903,6 @@
     "temperature": 106,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T21:14:26.833Z"
-  },
-  {
-    "id": "auto-b0ff4w5cvp",
-    "asin": "B0FF4W5CVP",
-    "title": "Pokémon-Sammelkartenspiel: Weltmeisterschaftsdeck 2024 - Fernando …",
-    "category": "Spielzeug & LEGO",
-    "price": 19.89,
-    "checkedAt": "2026-11-19T17:49:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FF4W5CVP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T20:59:42.822Z"
-  },
-  {
-    "id": "auto-b0ff4rqldw",
-    "asin": "B0FF4RQLDW",
-    "title": "Pokémon-Sammelkartenspiel: Weltmeisterschaftsdeck 2024 - Sakuya OTA - …",
-    "category": "Spielzeug & LEGO",
-    "price": 18.45,
-    "checkedAt": "2026-11-19T17:49:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FF4RQLDW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T20:59:37.220Z"
   },
   {
     "id": "auto-b0d8pth7cp",
@@ -3527,27 +3553,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FPXDXJ98.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T18:12:35.828Z"
-  },
-  {
-    "id": "auto-b0f12qcj4w",
-    "asin": "B0F12QCJ4W",
-    "title": "Magnesium Komplex hochdosiert – 200 Kapseln – 400 mg pro Tag",
-    "category": "Tech",
-    "price": 6.39,
-    "checkedAt": "2026-11-19T17:48:26.000Z",
-    "image": "https://static.mydealz.de/threads/raw/1vHfM/2876310_1/re/768x768/qt/55/2876310_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:57:40.002Z"
-  },
-  {
-    "id": "auto-b0f7m1jxvv",
-    "asin": "B0F7M1JXVV",
-    "title": "Bose QuietComfort Ultra Bluetooth-Earbuds (2. Gen.)",
-    "category": "Audio",
-    "price": 169,
-    "checkedAt": "2026-11-19T17:51:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F7M1JXVV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:57:34.129Z"
   }
 ]
