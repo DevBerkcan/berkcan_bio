@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0f8qpwpl7",
+    "asin": "B0F8QPWPL7",
+    "title": "Tineco FLOOR ONE i6 Stretch Nass-Trockensauger",
+    "category": "Haushalt",
+    "price": 159,
+    "checkedAt": "2026-11-20T23:10:43.000Z",
+    "image": "https://static.mydealz.de/threads/raw/ac7hD/2877628_1/re/768x768/qt/55/2877628_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T23:21:24.067Z"
+  },
+  {
     "id": "auto-b0cpghxgmc",
     "asin": "B0CPGHXGMC",
     "title": "Fisher-Price - mein erster RC-Fernlenkwagen / RC Car/ Ferngesteuertes …",
@@ -342,17 +353,6 @@
     "image": "https://m.media-amazon.com/images/P/B07NH26T31.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T19:52:46.562Z"
-  },
-  {
-    "id": "auto-b0ggpd67dq",
-    "asin": "B0GGPD67DQ",
-    "title": "Lego Architectur Tower Bridge",
-    "category": "Spielzeug & LEGO",
-    "price": 205.57,
-    "checkedAt": "2026-11-19T23:19:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GGPD67DQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T20:37:56.153Z"
   },
   {
     "id": "auto-b0cklj7rsk",
@@ -3335,17 +3335,6 @@
     "telegramPostedAt": "2026-11-19T23:46:01.593Z"
   },
   {
-    "id": "auto-b0flqdcr7x",
-    "asin": "B0FLQDCR7X",
-    "title": "Wahoo Fitness KICKR CORE 2 Indoor Fahrradtrainer mit ZWIFT COG und …",
-    "category": "Sport & Outdoor",
-    "price": 399.99,
-    "checkedAt": "2026-11-19T23:18:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FLQDCR7X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:30:45.350Z"
-  },
-  {
     "id": "auto-b06xnwqrn3",
     "asin": "B06XNWQRN3",
     "title": "Celebrations Schokolade, Mini-Schokoriegel, Snickers, Maltesers, 1435 …",
@@ -3377,18 +3366,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CDKPYTB5.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T23:30:29.711Z"
-  },
-  {
-    "id": "auto-b00ejimzt8",
-    "asin": "B00EJIMZT8",
-    "title": "3M Mehrweg-Atemschutzmaske 6002C mit 2 Filtern",
-    "subtitle": "🔥 119° bei mydealz",
-    "category": "Tech",
-    "price": 37.99,
-    "checkedAt": "2026-11-19T23:18:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00EJIMZT8.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 119,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:30:24.423Z"
   }
 ]
