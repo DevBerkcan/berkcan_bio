@@ -1,5 +1,42 @@
 [
   {
+    "id": "auto-b00ezrkoz0",
+    "asin": "B00EZRKOZ0",
+    "title": "Police Academy Collection (7 Discs)",
+    "subtitle": "🔥 111° bei mydealz",
+    "category": "Tech",
+    "price": 33.38,
+    "checkedAt": "2026-11-20T13:11:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00EZRKOZ0.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 111,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b079phf8n6",
+    "asin": "B079PHF8N6",
+    "title": "BraveStarr - Die komplette Serie + Legende (Blu-Ray)",
+    "subtitle": "🔥 132° bei mydealz",
+    "category": "Bücher & Filme",
+    "price": 10.87,
+    "checkedAt": "2026-11-20T13:11:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B079PHF8N6.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 132,
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dz1t4yqk",
+    "asin": "B0DZ1T4YQK",
+    "title": "Amazon Basics Pour-Over-Kaffeebereiter 1 L, Borosilikatglas mit …",
+    "category": "Tech",
+    "price": 14.89,
+    "oldPrice": 20.6,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T13:19:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DZ1T4YQK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T13:34:35.202Z"
+  },
+  {
     "id": "auto-b07zkzxm4b",
     "asin": "B07ZKZXM4B",
     "title": "Bialetti New Venus Induction Espressokocher, 6 Tassen, Edelstahl, für …",
@@ -3174,19 +3211,6 @@
     "telegramPostedAt": "2026-11-19T15:55:38.605Z"
   },
   {
-    "id": "auto-b0cm28yh6k",
-    "asin": "B0CM28YH6K",
-    "title": "Samsung Odyssey G5 G55C 27\" Curved",
-    "category": "Computer",
-    "price": 118.06,
-    "oldPrice": 138.16,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T13:34:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CM28YH6K.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T15:55:33.681Z"
-  },
-  {
     "id": "auto-b00109o2t0",
     "asin": "B00109O2T0",
     "title": "Maßband wat 8 Meter lang is, Stanley Tylon 6,39€",
@@ -3537,19 +3561,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0btb3sw3y",
-    "asin": "B0BTB3SW3Y",
-    "title": "Pokémon Evoli Plüschfigur 20 cm",
-    "category": "Spielzeug & LEGO",
-    "price": 14.39,
-    "oldPrice": 19.94,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T13:33:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BTB3SW3Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T14:25:00.876Z"
-  },
-  {
     "id": "auto-b0f8vj43d3",
     "asin": "B0F8VJ43D3",
     "title": "EcoFlow Laptop Powerbank 20.000 mAh mit 100W und ausziehbarem Kabel",
@@ -3561,18 +3572,6 @@
     "image": "https://static.mydealz.de/threads/raw/oc1Cf/2876066_1/re/768x768/qt/55/2876066_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T14:09:54.519Z"
-  },
-  {
-    "id": "auto-b0fh5jqq15",
-    "asin": "B0FH5JQQ15",
-    "title": "Corsair K55 CORE TKL RGB Gaming-Tastatur, QWERTZ DE, Membrantasten, …",
-    "subtitle": "🔥 111° bei mydealz",
-    "category": "Computer",
-    "price": 29.99,
-    "checkedAt": "2026-11-19T13:31:08.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FH5JQQ15.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 111,
-    "source": "auto"
   },
   {
     "id": "auto-b009fufd1c",
