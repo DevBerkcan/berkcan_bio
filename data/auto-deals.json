@@ -1,5 +1,17 @@
 [
   {
+    "id": "auto-b01c8qcyfw",
+    "asin": "B01C8QCYFW",
+    "title": "Star Wars Trilogy – The Original Soundtrack - Limited Edition Vinyl |",
+    "category": "Tech",
+    "price": 18.99,
+    "oldPrice": 30.49,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T00:46:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01C8QCYFW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b08sjrlf5c",
     "asin": "B08SJRLF5C",
     "title": "Amazon Basics Elektrischer Anspitzer mit Spiralförmiger Klinge, …",
@@ -3591,18 +3603,6 @@
     "temperature": 121,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T09:54:25.166Z"
-  },
-  {
-    "id": "queue-b0g58cdzn5",
-    "asin": "B0G58CDZN5",
-    "title": "Samsung Galaxy Buds4 Pro",
-    "subtitle": "Samsungs Premium-In-Ears, hier mit 2 Jahren Herstellergarantie.",
-    "category": "Audio",
-    "price": 149.98,
-    "checkedAt": "2026-11-19T01:10:58.000Z",
-    "image": "https://static.mydealz.de/threads/raw/QE0dA/2875290_1/re/768x768/qt/55/2875290_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T09:54:20.504Z"
   },
   {
     "id": "auto-b0c3mr9n75",
