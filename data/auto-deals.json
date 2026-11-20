@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0fn47tdsq",
+    "asin": "B0FN47TDSQ",
+    "title": "Levoit LVAC-200 MAX Akku-Staubsauger",
+    "category": "Haushalt",
+    "price": 149.98,
+    "checkedAt": "2026-11-20T13:23:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FN47TDSQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dhsfrg9d",
+    "asin": "B0DHSFRG9D",
+    "title": "LEGO Ninjago Lloyds Actionflitzer 71828",
+    "category": "Spielzeug & LEGO",
+    "price": 14.6,
+    "checkedAt": "2026-11-20T13:31:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DHSFRG9D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fd9v92vl",
+    "asin": "B0FD9V92VL",
+    "title": "Matter Wassermelder mit Hub Meross MSH450, 0,3 mm Erkennung, 100dB …",
+    "category": "Tech",
+    "price": 25.49,
+    "checkedAt": "2026-11-20T14:56:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FD9V92VL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T15:04:09.824Z"
+  },
+  {
+    "id": "auto-b01ielhh6g",
+    "asin": "B01IELHH6G",
+    "title": "Buff Lightweight Merino Wool Hat Wollmütze",
+    "subtitle": "🔥 359° bei mydealz",
+    "category": "Tech",
+    "price": 14.35,
+    "checkedAt": "2026-11-20T14:58:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01IELHH6G.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 359,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T15:04:04.619Z"
+  },
+  {
     "id": "auto-b0grh78dz5",
     "asin": "B0GRH78DZ5",
     "title": "Novilla Modulares Sofa 3 Sitzer 270cm Breit, Ecksofa Cord für …",
@@ -63,7 +107,8 @@
     "price": 97.69,
     "checkedAt": "2026-11-20T13:40:05.000Z",
     "image": "https://m.media-amazon.com/images/P/B0H4LLLFWX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T15:04:18.716Z"
   },
   {
     "id": "auto-b0002yym9e",
@@ -171,7 +216,8 @@
     "price": 629.99,
     "checkedAt": "2026-11-20T13:55:29.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DJR4ZJ2T.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T15:04:14.176Z"
   },
   {
     "id": "auto-b0cjjt2mx7",
@@ -1720,17 +1766,6 @@
     "temperature": 119,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T23:30:24.423Z"
-  },
-  {
-    "id": "auto-b0fbgff48y",
-    "asin": "B0FBGFF48Y",
-    "title": "Mammut Women's Protect Fiber Bag -21C",
-    "category": "Sport & Outdoor",
-    "price": 211.2,
-    "checkedAt": "2026-11-19T15:02:00.000Z",
-    "image": "https://static.mydealz.de/threads/raw/WULEI/2875774_1/re/768x768/qt/55/2875774_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:14:48.639Z"
   },
   {
     "id": "auto-b06y3j4wmx",
@@ -3564,44 +3599,5 @@
     "image": "https://m.media-amazon.com/images/P/B0924NBJBB.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T15:25:10.221Z"
-  },
-  {
-    "id": "auto-b09lq9m7kh",
-    "asin": "B09LQ9M7KH",
-    "title": "Yaheetech Couchtisch höhenverstellbar Kaffeetisch mit Hebeplatte …",
-    "subtitle": "🔥 101° bei mydealz",
-    "category": "Tech",
-    "price": 53.69,
-    "checkedAt": "2026-11-19T15:02:04.000Z",
-    "image": "https://static.mydealz.de/threads/raw/rZMCA/2876102_1/re/768x768/qt/55/2876102_1.jpg",
-    "temperature": 101,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T15:10:24.868Z"
-  },
-  {
-    "id": "auto-b07tgpqhw5",
-    "asin": "B07TGPQHW5",
-    "title": "Buff Midweight Merino Schlauchschal",
-    "subtitle": "🔥 107° bei mydealz",
-    "category": "Tech",
-    "price": 15.25,
-    "checkedAt": "2026-11-19T15:01:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07TGPQHW5.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 107,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T15:10:16.105Z"
-  },
-  {
-    "id": "auto-b07ws8pjct",
-    "asin": "B07WS8PJCT",
-    "title": "Reloop RMX-10 BT - 2-Kanal DJ-Mixer mit eingebauter …",
-    "subtitle": "🔥 105° bei mydealz",
-    "category": "Küche",
-    "price": 109.65,
-    "checkedAt": "2026-11-19T14:50:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07WS8PJCT.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 105,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T14:55:17.848Z"
   }
 ]
