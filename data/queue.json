@@ -1,32 +1,5 @@
 [
   {
-    "asin": "B0HL999513",
-    "title": "Meross IR-Lesekopf für Stromzähler (WLAN)",
-    "price": 53.95,
-    "note": "Stromzähler auslesen ohne Öffnen – mit Home Assistant und MQTT.",
-    "category": "Smart Home",
-    "image": "https://static.mydealz.de/threads/raw/cgkJf/2875784_1/re/768x768/qt/55/2875784_1.jpg",
-    "addedAt": "2026-11-19T10:38:24.000Z"
-  },
-  {
-    "asin": "B0H946SB1G",
-    "title": "Garmin Cirqa Fitnessarmband",
-    "price": 170.51,
-    "note": "Fitnessarmband von Garmin, ganz ohne Abo nutzbar.",
-    "category": "Tech",
-    "image": "https://static.mydealz.de/threads/raw/Im1in/2875671_1/re/768x768/qt/55/2875671_1.jpg",
-    "addedAt": "2026-11-19T09:22:46.000Z"
-  },
-  {
-    "asin": "B0119Y4KKQ",
-    "title": "Bosch Professional GOL 32 D Nivelliergerät",
-    "price": 168.02,
-    "note": "32-fache Vergrößerung, inklusive Stativ, Messlatte und Koffer.",
-    "category": "Werkzeug",
-    "image": "https://static.mydealz.de/threads/raw/sbwhC/2876674_1/re/768x768/qt/55/2876674_1.jpg",
-    "addedAt": "2026-11-20T05:50:10.000Z"
-  },
-  {
     "asin": "B0BRSR8GNQ",
     "title": "UGREEN HDMI 2.1 Switch 3-in-1 8K@60Hz",
     "price": 29.66,

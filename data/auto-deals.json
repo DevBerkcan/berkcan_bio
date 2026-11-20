@@ -1,5 +1,30 @@
 [
   {
+    "id": "auto-b0dwnd2t6f",
+    "asin": "B0DWND2T6F",
+    "title": "Weber Spirit E-210 Gasgrill mit 2 Brennern, 51 × 46 cm Grillfläche & …",
+    "category": "Licht & Garten",
+    "price": 299.99,
+    "oldPrice": 458.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T08:54:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DWND2T6F.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T09:04:08.598Z"
+  },
+  {
+    "id": "queue-b0119y4kkq",
+    "asin": "B0119Y4KKQ",
+    "title": "Bosch Professional GOL 32 D Nivelliergerät",
+    "subtitle": "32-fache Vergrößerung, inklusive Stativ, Messlatte und Koffer.",
+    "category": "Werkzeug",
+    "price": 168.02,
+    "checkedAt": "2026-11-20T05:50:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0119Y4KKQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T09:03:49.463Z"
+  },
+  {
     "id": "auto-b06y2mrtpg",
     "asin": "B06Y2MRTPG",
     "title": "SANTOS Gusseisenpfanne 25 cm - Runde Grillpfanne für Gasgrill, …",
@@ -3611,31 +3636,5 @@
     "temperature": 111,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T11:09:48.790Z"
-  },
-  {
-    "id": "auto-b0ggb48psh",
-    "asin": "B0GGB48PSH",
-    "title": "Old Spice Gentle Man's Coconut + Vanille 3-in-1 Duschgel & Shampoo",
-    "subtitle": "🔥 113° bei mydealz",
-    "category": "Beauty & Pflege",
-    "price": 5.6,
-    "checkedAt": "2026-11-19T10:39:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GGB48PSH.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 113,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:54:31.704Z"
-  },
-  {
-    "id": "auto-b09bfffvj9",
-    "asin": "B09BFFFVJ9",
-    "title": "Lavazza, Espresso Qualità Rossa, 10 x 10 Aluminiumkapseln kompatibel …",
-    "subtitle": "🔥 116° bei mydealz",
-    "category": "Küche",
-    "price": 21.36,
-    "checkedAt": "2026-11-19T10:39:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09BFFFVJ9.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 116,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T10:54:26.393Z"
   }
 ]
