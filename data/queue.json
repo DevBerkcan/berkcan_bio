@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "asin": "B0FJ8YQVS9",
+    "title": "Synology DS925+ NAS mit 48 TB (4× 12 TB HDD)",
+    "price": 1021.18,
+    "note": "4-Bay-NAS mit AMD Ryzen und vorinstallierten Festplatten",
+    "category": "Computer",
+    "image": "https://static.mydealz.de/threads/raw/99hg7/2876874_1/re/768x768/qt/55/2876874_1.jpg",
+    "addedAt": "2026-11-20T09:05:04.000Z"
+  },
+  {
+    "asin": "B0FLJCXNYQ",
+    "title": "Reolink Argus PT Lite 2K Akku-Solar-Set (2 Kameras)",
+    "price": 186.99,
+    "note": "Zwei schwenkbare Außenkameras inkl. Home Hub Mini, Dualband-WLAN",
+    "category": "Smart Home",
+    "image": "https://static.mydealz.de/threads/raw/Q1hlN/2876865_1/re/768x768/qt/55/2876865_1.jpg",
+    "addedAt": "2026-11-20T08:58:47.000Z"
+  },
+  {
+    "asin": "B0GN5PVH94",
+    "title": "Mammotion LUBA 3 AWD 1500 Mähroboter inkl. Waschstand",
+    "price": 1899,
+    "oldPrice": 2099,
+    "note": "Allradantrieb, arbeitet ganz ohne Begrenzungskabel",
+    "category": "Haushalt",
+    "image": "https://static.mydealz.de/threads/raw/DzhM6/2876880_1/re/768x768/qt/55/2876880_1.jpg",
+    "addedAt": "2026-11-20T09:09:37.000Z"
+  },
+  {
+    "asin": "B0GVK4SPQW",
+    "title": "Oppo Pad 5 Tablet 12,1\" 8/128 GB 2.8K-Display",
+    "price": 280.55,
+    "note": "Mattes 2.8K-Display, 10.050 mAh Akku und 33W SUPERVOOC",
+    "category": "Smartphone",
+    "image": "https://static.mydealz.de/threads/raw/BXnyA/2876801_1/re/768x768/qt/55/2876801_1.jpg",
+    "addedAt": "2026-11-20T08:10:07.000Z"
+  },
+  {
+    "asin": "B0FB989WN8",
+    "title": "Akko TAC75 HE Gaming-Tastatur 75% Rapid Trigger",
+    "price": 50.86,
+    "note": "Hall-Effect-Switches, Rapid Trigger, 8.000 Hz Polling, PBT-Tasten",
+    "category": "Gaming",
+    "image": "https://static.mydealz.de/threads/raw/V5agj/2876944_1/re/768x768/qt/55/2876944_1.jpg",
+    "addedAt": "2026-11-20T09:54:02.000Z"
+  },
+  {
+    "asin": "B0CZ81ZQFG",
+    "title": "soundcore Boom 2 Plus Outdoor-Bluetooth-Lautsprecher",
+    "price": 129.99,
+    "note": "Robuste Musikbox für drinnen und draußen",
+    "category": "Audio",
+    "image": "https://static.mydealz.de/threads/raw/xLY8V/2876870_1/re/768x768/qt/55/2876870_1.jpg",
+    "addedAt": "2026-11-20T09:03:30.000Z"
+  },
+  {
+    "asin": "B0BGKTZP1W",
+    "title": "Einhell E-Case Tower Werkzeug-Koffersystem",
+    "price": 87.99,
+    "note": "Stapelbares Koffersystem für Werkzeug und Zubehör",
+    "category": "Werkzeug",
+    "image": "https://static.mydealz.de/threads/raw/03KjL/2876772_1/re/768x768/qt/55/2876772_1.jpg",
+    "addedAt": "2026-11-20T07:47:24.000Z"
+  },
+  {
+    "asin": "B0FLK9D5NJ",
+    "title": "ULTIMEA Skywave X40 5.1.2 Soundsystem 530W",
+    "price": 299,
+    "note": "Kabelloses Surround-System mit HDMI eARC und 5-GHz-Funk",
+    "category": "TV",
+    "image": "https://static.mydealz.de/threads/raw/lGX34/2876791_1/re/768x768/qt/55/2876791_1.jpg",
+    "addedAt": "2026-11-20T07:58:57.000Z"
+  },
+  {
+    "asin": "B0DZH8ZRD6",
+    "title": "Nanoleaf Matter Smart Stehlampe RGBIC",
+    "price": 59.99,
+    "note": "72 RGBIC-LEDs, bis 1700 Lumen, Matter-kompatibel",
+    "category": "Smart Home",
+    "image": "https://static.mydealz.de/threads/raw/hRw70/2876728_1/re/768x768/qt/55/2876728_1.jpg",
+    "addedAt": "2026-11-20T07:03:34.000Z"
+  },
+  {
+    "asin": "B0CRVPRYKK",
+    "title": "PANTUM BM2309W 3-in-1 Laser-Multifunktionsdrucker",
+    "price": 127.42,
+    "note": "Drucken, Scannen, Kopieren per WLAN, mit AirPrint",
+    "category": "Computer",
+    "image": "https://static.mydealz.de/threads/raw/WDMdn/2876890_1/re/768x768/qt/55/2876890_1.jpg",
+    "addedAt": "2026-11-20T09:18:29.000Z"
+  },
+  {
+    "asin": "B0H6222S24",
+    "title": "SHINOBI: Art of Vengeance Deluxe (Switch 2)",
+    "price": 18.99,
+    "note": "Deluxe Edition für Nintendo Switch 2",
+    "category": "Gaming",
+    "image": "https://static.mydealz.de/threads/raw/MyvF7/2876604_1/re/768x768/qt/55/2876604_1.jpg",
+    "addedAt": "2026-11-20T01:32:17.000Z"
+  }
+]
