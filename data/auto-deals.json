@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b0djr4zj2t",
+    "asin": "B0DJR4ZJ2T",
+    "title": "Haier FD 70 Serie 3 HFR3718ENMM French-Door-Kühl-/Gefrierkombi, 402 L, …",
+    "category": "Tech",
+    "price": 629.99,
+    "checkedAt": "2026-11-20T13:55:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJR4ZJ2T.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cjjt2mx7",
+    "asin": "B0CJJT2MX7",
+    "title": "HEAD Women's I-Peak 2.0 Joy Cross Bike, Matt Grey/Mint - Fahrrad",
+    "category": "Sport & Outdoor",
+    "price": 274.26,
+    "checkedAt": "2026-11-20T14:03:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CJJT2MX7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d7lxs2b5",
+    "asin": "B0D7LXS2B5",
+    "title": "Bosch Professional GBS 750 Bandschleifer, 850 W, 75 mm Band, …",
+    "subtitle": "🔥 124° bei mydealz",
+    "category": "Werkzeug",
+    "price": 111.99,
+    "checkedAt": "2026-11-20T13:47:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D7LXS2B5.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 124,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:04:11.641Z"
+  },
+  {
+    "id": "auto-b0cl8svphx",
+    "asin": "B0CL8SVPHX",
+    "title": "Indiana Jones und das Rad des Schicksals [Blu-ray]",
+    "category": "Bücher & Filme",
+    "price": 6.08,
+    "oldPrice": 9.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T13:50:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CL8SVPHX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:03:57.238Z"
+  },
+  {
     "id": "auto-b0btzxzp1h",
     "asin": "B0BTZXZP1H",
     "title": "Bosch UniversalLeafBlower 18V-130 Akku-Laubbläser, 1,3 kg, Power for …",
@@ -21,7 +67,8 @@
     "checkedAt": "2026-11-20T13:40:38.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FGDRJMZV.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 103,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:04:15.836Z"
   },
   {
     "id": "auto-b01jbrnzli",
@@ -33,7 +80,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-20T13:43:15.000Z",
     "image": "https://m.media-amazon.com/images/P/B01JBRNZLI.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:04:01.810Z"
   },
   {
     "id": "auto-b0999j73wt",
@@ -70,7 +118,8 @@
     "checkedAt": "2026-11-20T13:11:43.000Z",
     "image": "https://m.media-amazon.com/images/P/B079PHF8N6.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 132,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:04:06.354Z"
   },
   {
     "id": "auto-b0dz1t4yqk",
@@ -1447,28 +1496,6 @@
     "image": "https://static.mydealz.de/threads/raw/9CG4W/2876445_1/re/768x768/qt/55/2876445_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T23:45:35.951Z"
-  },
-  {
-    "id": "auto-b017kk1ipi",
-    "asin": "B017KK1IPI",
-    "title": "-21% Bio Grapefruitkernextrakt 100ml oder 250mg",
-    "category": "Beauty & Pflege",
-    "price": 14.99,
-    "checkedAt": "2026-11-19T13:49:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B017KK1IPI.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:30:56.398Z"
-  },
-  {
-    "id": "auto-b009rukxt2",
-    "asin": "B009RUKXT2",
-    "title": "Amazon Black Friday - Johnnie Walker Blue Label Blended Scotch Whisky, …",
-    "category": "Lebensmittel & Drinks",
-    "price": 116.36,
-    "checkedAt": "2026-11-19T13:50:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B009RUKXT2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:30:50.676Z"
   },
   {
     "id": "auto-b0flqdcr7x",
@@ -3572,19 +3599,6 @@
     "telegramPostedAt": "2026-11-19T14:39:56.489Z"
   },
   {
-    "id": "auto-b0dd7gfln3",
-    "asin": "B0DD7GFLN3",
-    "title": "OLIGHT Oclip Pro Mini EDC Taschenlampe (Schwarz)",
-    "subtitle": "🔥 115° bei mydealz",
-    "category": "Tech",
-    "price": 21.9,
-    "checkedAt": "2026-11-19T13:58:08.000Z",
-    "image": "https://static.mydealz.de/threads/raw/apXGH/2875854_1/re/768x768/qt/55/2875854_1.jpg",
-    "temperature": 115,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T14:40:16.576Z"
-  },
-  {
     "id": "auto-b0gznxftqc",
     "asin": "B0GZNXFTQC",
     "title": "Philips Sonicare DiamondClean 8000 - HX8312/11 Weiß und HX8312/14 …",
@@ -3596,18 +3610,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GZNXFTQC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T14:24:56.249Z"
-  },
-  {
-    "id": "auto-b0f8vj43d3",
-    "asin": "B0F8VJ43D3",
-    "title": "EcoFlow Laptop Powerbank 20.000 mAh mit 100W und ausziehbarem Kabel",
-    "category": "Computer",
-    "price": 47.99,
-    "oldPrice": 109.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T13:54:06.000Z",
-    "image": "https://static.mydealz.de/threads/raw/oc1Cf/2876066_1/re/768x768/qt/55/2876066_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T14:09:54.519Z"
   }
 ]
