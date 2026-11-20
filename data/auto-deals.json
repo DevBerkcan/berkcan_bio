@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0cpghxgmc",
+    "asin": "B0CPGHXGMC",
+    "title": "Fisher-Price - mein erster RC-Fernlenkwagen / RC Car/ Ferngesteuertes …",
+    "category": "Spielzeug & LEGO",
+    "price": 22.53,
+    "checkedAt": "2026-11-20T20:53:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CPGHXGMC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T23:06:39.787Z"
+  },
+  {
+    "id": "auto-b0fpxgsyz1",
+    "asin": "B0FPXGSYZ1",
+    "title": "LEGO City 60503 Hubschrauber der Küstenwache",
+    "category": "Werkzeug",
+    "price": 34.99,
+    "oldPrice": 59.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T21:27:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXGSYZ1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T23:06:34.144Z"
+  },
+  {
     "id": "auto-b0gl1xc475",
     "asin": "B0GL1XC475",
     "title": "Red Bull Sugarfree Energy Drink Kirsche-Sakura Cherry Edition 250 ml, …",
@@ -3366,16 +3390,5 @@
     "temperature": 119,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T23:30:24.423Z"
-  },
-  {
-    "id": "auto-b0ck2p1pxs",
-    "asin": "B0CK2P1PXS",
-    "title": "Brother HL-L2400DW, S/W-Laserdrucker, Duplex, WLAN, 30 Seiten/Min.",
-    "category": "Computer",
-    "price": 118.74,
-    "checkedAt": "2026-11-19T23:03:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CK2P1PXS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:14:18.970Z"
   }
 ]
