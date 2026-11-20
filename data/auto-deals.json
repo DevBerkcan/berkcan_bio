@@ -1,5 +1,44 @@
 [
   {
+    "id": "auto-b006u9jh3q",
+    "asin": "B006U9JH3Q",
+    "title": "Ballistol Universalöl Spray 400 ml",
+    "subtitle": "🔥 115° bei mydealz",
+    "category": "Tech",
+    "price": 8.87,
+    "checkedAt": "2026-11-20T14:10:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B006U9JH3Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 115,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:19:16.131Z"
+  },
+  {
+    "id": "auto-b0hknq75tx",
+    "asin": "B0HKNQ75TX",
+    "title": "NATURAL ELEMENTS - Proteinriegel",
+    "subtitle": "🔥 119° bei mydealz",
+    "category": "Lebensmittel & Drinks",
+    "price": 14,
+    "checkedAt": "2026-11-20T14:05:59.000Z",
+    "image": "https://static.mydealz.de/threads/raw/etG14/2877174_1/re/768x768/qt/55/2877174_1.jpg",
+    "temperature": 119,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:19:10.984Z"
+  },
+  {
+    "id": "auto-b0f9frgqq8",
+    "asin": "B0F9FRGQQ8",
+    "title": "Paladone One Piece Logo Leuchte",
+    "category": "Tech",
+    "price": 16.77,
+    "oldPrice": 25.9,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T14:05:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F9FRGQQ8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:19:04.139Z"
+  },
+  {
     "id": "auto-b0djr4zj2t",
     "asin": "B0DJR4ZJ2T",
     "title": "Haier FD 70 Serie 3 HFR3718ENMM French-Door-Kühl-/Gefrierkombi, 402 L, …",
@@ -55,7 +94,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-20T13:25:11.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BTZXZP1H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:19:25.051Z"
   },
   {
     "id": "auto-b0fgdrjmzv",
@@ -106,7 +146,8 @@
     "checkedAt": "2026-11-20T13:11:32.000Z",
     "image": "https://m.media-amazon.com/images/P/B00EZRKOZ0.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 111,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:19:20.694Z"
   },
   {
     "id": "auto-b079phf8n6",
@@ -3547,32 +3588,6 @@
     "telegramPostedAt": "2026-11-19T14:54:57.662Z"
   },
   {
-    "id": "auto-b098tq5n58",
-    "asin": "B098TQ5N58",
-    "title": "kwb Mini-Aluminium-Wasserwaage, 20 cm",
-    "subtitle": "🔥 111° bei mydealz",
-    "category": "Tech",
-    "price": 5.79,
-    "checkedAt": "2026-11-19T14:17:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B098TQ5N58.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 111,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T14:40:21.480Z"
-  },
-  {
-    "id": "auto-b005uxoiu0",
-    "asin": "B005UXOIU0",
-    "title": "Tanqueray Rangpur Lime Gin (700 ml) |",
-    "subtitle": "🔥 125° bei mydealz",
-    "category": "Lebensmittel & Drinks",
-    "price": 11.59,
-    "checkedAt": "2026-11-19T14:11:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B005UXOIU0.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 125,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T14:40:11.822Z"
-  },
-  {
     "id": "auto-b0frr5h6hw",
     "asin": "B0FRR5H6HW",
     "title": "UGREEN USB C Kabel 240W 2M Winkelstecker PD 3.1 Ladekabel USB-C …",
@@ -3597,18 +3612,5 @@
     "temperature": 289,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T14:39:56.489Z"
-  },
-  {
-    "id": "auto-b0gznxftqc",
-    "asin": "B0GZNXFTQC",
-    "title": "Philips Sonicare DiamondClean 8000 - HX8312/11 Weiß und HX8312/14 …",
-    "category": "Beauty & Pflege",
-    "price": 199.99,
-    "oldPrice": 313.18,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T14:23:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GZNXFTQC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T14:24:56.249Z"
   }
 ]
