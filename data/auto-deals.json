@@ -1,5 +1,83 @@
 [
   {
+    "id": "auto-b09v8hlr83",
+    "asin": "B09V8HLR83",
+    "title": "Neutrogena (Augencreme) Retinol Boost",
+    "category": "Beauty & Pflege",
+    "price": 10.49,
+    "checkedAt": "2026-11-20T13:33:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09V8HLR83.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h4lllfwx",
+    "asin": "B0H4LLLFWX",
+    "title": "Philips Smart Lighting HDMI 2.1 Sync Box 8K mit vierseitigem …",
+    "category": "Smart Home",
+    "price": 97.69,
+    "checkedAt": "2026-11-20T13:40:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H4LLLFWX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0002yym9e",
+    "asin": "B0002YYM9E",
+    "title": "KNIPEX Alligator Wasserpumpenzange, 250 mm, Muttern bis 46 mm, 88 01 …",
+    "category": "Werkzeug",
+    "price": 13.97,
+    "checkedAt": "2026-11-20T13:49:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0002YYM9E.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gqvlw917",
+    "asin": "B0GQVLW917",
+    "title": "Apple iPad Air 11\" (2026), Apple M4, Liquid Retina Display, 128 GB, …",
+    "category": "Smartphone & Tablet",
+    "price": 666,
+    "checkedAt": "2026-11-20T14:09:05.000Z",
+    "image": "https://static.mydealz.de/threads/raw/cokDC/2877230_1/re/768x768/qt/55/2877230_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:34:16.993Z"
+  },
+  {
+    "id": "auto-b0d9ks1yrg",
+    "asin": "B0D9KS1YRG",
+    "title": "Weber Traveler Compact Gasgrill [Prime]",
+    "category": "Licht & Garten",
+    "price": 283,
+    "checkedAt": "2026-11-20T14:26:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D9KS1YRG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:34:11.094Z"
+  },
+  {
+    "id": "auto-b00vnydego",
+    "asin": "B00VNYDEGO",
+    "title": "Hasbro Looping Louie Gesellschaftsspiel",
+    "category": "Spielzeug & LEGO",
+    "price": 19.49,
+    "oldPrice": 23.79,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T13:33:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00VNYDEGO.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:34:05.620Z"
+  },
+  {
+    "id": "auto-b00bej77wk",
+    "asin": "B00BEJ77WK",
+    "title": "Russell Hobbs Cook",
+    "category": "Tech",
+    "price": 25.25,
+    "oldPrice": 32.55,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T14:26:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00BEJ77WK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:34:00.082Z"
+  },
+  {
     "id": "auto-b006u9jh3q",
     "asin": "B006U9JH3Q",
     "title": "Ballistol Universalöl Spray 400 ml",
@@ -56,7 +134,8 @@
     "price": 274.26,
     "checkedAt": "2026-11-20T14:03:05.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CJJT2MX7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T14:34:21.388Z"
   },
   {
     "id": "auto-b0d7lxs2b5",
@@ -1594,39 +1673,6 @@
     "temperature": 119,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T23:30:24.423Z"
-  },
-  {
-    "id": "auto-b0gpy1xnhz",
-    "asin": "B0GPY1XNHZ",
-    "title": "Rocka Nutrition Daily Protein",
-    "category": "Lebensmittel & Drinks",
-    "price": 19.64,
-    "checkedAt": "2026-11-19T14:25:33.000Z",
-    "image": "https://static.mydealz.de/threads/raw/N6Rqq/2876096_1/re/768x768/qt/55/2876096_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:15:23.728Z"
-  },
-  {
-    "id": "auto-b0gtnpsj5q",
-    "asin": "B0GTNPSJ5Q",
-    "title": "GL.iNet GL-E5800 EU Mudi 7 5G Tri-Band Wi-Fi 7 Reiserouter mit eSIM",
-    "category": "Computer",
-    "price": 361.24,
-    "checkedAt": "2026-11-19T14:28:00.000Z",
-    "image": "https://static.mydealz.de/threads/raw/tvT4u/2876097_1/re/768x768/qt/55/2876097_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:15:06.740Z"
-  },
-  {
-    "id": "auto-b0dwdrzdzc",
-    "asin": "B0DWDRZDZC",
-    "title": "LEGO Botanicals Fröhliche Pflanzen (10349)",
-    "category": "Spielzeug & LEGO",
-    "price": 11.69,
-    "checkedAt": "2026-11-19T14:32:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWDRZDZC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:15:00.338Z"
   },
   {
     "id": "auto-b07v3863wc",
@@ -3523,19 +3569,6 @@
     "telegramPostedAt": "2026-11-19T15:10:10.228Z"
   },
   {
-    "id": "auto-b01elg5yeu",
-    "asin": "B01ELG5YEU",
-    "title": "Hasbro Risiko – Strategiespiel-Klassiker",
-    "category": "Spielzeug & LEGO",
-    "price": 26.99,
-    "oldPrice": 36.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T14:29:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01ELG5YEU.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T15:10:05.005Z"
-  },
-  {
     "id": "auto-b07ws8pjct",
     "asin": "B07WS8PJCT",
     "title": "Reloop RMX-10 BT - 2-Kanal DJ-Mixer mit eingebauter …",
@@ -3549,32 +3582,6 @@
     "telegramPostedAt": "2026-11-19T14:55:17.848Z"
   },
   {
-    "id": "auto-b0gk95nsbf",
-    "asin": "B0GK95NSBF",
-    "title": "169,99 € mit Epson-Cashback",
-    "subtitle": "🔥 106° bei mydealz",
-    "category": "Tech",
-    "price": 219.99,
-    "checkedAt": "2026-11-19T14:20:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GK95NSBF.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 106,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T14:55:12.381Z"
-  },
-  {
-    "id": "auto-b0fdwwm72j",
-    "asin": "B0FDWWM72J",
-    "title": "DC Comics Actionfiguren (16,5-30 cm) – Superman, Batman, Venom & …",
-    "category": "Bücher & Filme",
-    "price": 9.49,
-    "oldPrice": 20,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T14:25:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FDWWM72J.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T14:55:02.989Z"
-  },
-  {
     "id": "auto-b09l5kqq21",
     "asin": "B09L5KQQ21",
     "title": "PUMA Damen Carina 2.0 Turnschuhe, Puma White Puma White Puma Team Gold …",
@@ -3586,19 +3593,6 @@
     "image": "https://m.media-amazon.com/images/P/B09L5KQQ21.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T14:54:57.662Z"
-  },
-  {
-    "id": "auto-b0frr5h6hw",
-    "asin": "B0FRR5H6HW",
-    "title": "UGREEN USB C Kabel 240W 2M Winkelstecker PD 3.1 Ladekabel USB-C …",
-    "subtitle": "🔥 128° bei mydealz",
-    "category": "Zubehör & Laden",
-    "price": 9.46,
-    "checkedAt": "2026-11-19T14:31:44.000Z",
-    "image": "https://static.mydealz.de/threads/raw/nLvju/2875954_1/re/768x768/qt/55/2875954_1.jpg",
-    "temperature": 128,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T14:40:02.315Z"
   },
   {
     "id": "auto-b0hkmgyvbl",
