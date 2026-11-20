@@ -1,5 +1,97 @@
 [
   {
+    "id": "auto-b094xz8h5h",
+    "asin": "B094XZ8H5H",
+    "title": "SwitchBot Türsensor mit Licht und Bewegungssensor",
+    "category": "Smart Home",
+    "price": 14.44,
+    "checkedAt": "2026-11-20T11:39:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B094XZ8H5H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07jlfjkpq",
+    "asin": "B07JLFJKPQ",
+    "title": "PLAYMOBIL | Family Fun | Familien-Wohnmobil | mit abnehmbaren Dach | …",
+    "category": "Spielzeug & LEGO",
+    "price": 30.59,
+    "checkedAt": "2026-11-20T11:49:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07JLFJKPQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0g3q82pqf",
+    "asin": "B0G3Q82PQF",
+    "title": "Amazon Prime: Hot Wheels Brick Shop Lamborghini Miura P400 SV",
+    "category": "Spielzeug & LEGO",
+    "price": 97.19,
+    "checkedAt": "2026-11-20T11:50:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G3Q82PQF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07t54wg14",
+    "asin": "B07T54WG14",
+    "title": "Hasbro Kroko Doc –Amazon Prime Black Friday Angebot",
+    "category": "Spielzeug & LEGO",
+    "price": 12.49,
+    "checkedAt": "2026-11-20T11:52:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07T54WG14.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d7vyd33r",
+    "asin": "B0D7VYD33R",
+    "title": "Tatonka EDC Pack 30L BC Rucksack in Schwarz",
+    "subtitle": "🔥 105° bei mydealz",
+    "category": "Sport & Outdoor",
+    "price": 119.33,
+    "checkedAt": "2026-11-20T16:44:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D7VYD33R.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 105,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:50:28.969Z"
+  },
+  {
+    "id": "auto-b085drxrkk",
+    "asin": "B085DRXRKK",
+    "title": "Full Metal Jacket (4K Ultra-HD) (+ Blu-ray 2D)",
+    "subtitle": "🔥 164° bei mydealz",
+    "category": "Bücher & Filme",
+    "price": 16.14,
+    "checkedAt": "2026-11-20T16:39:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B085DRXRKK.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 164,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:50:19.364Z"
+  },
+  {
+    "id": "auto-b086pv27p2",
+    "asin": "B086PV27P2",
+    "title": "District 9 - 4K Blu-ray + Blu",
+    "subtitle": "🔥 200° bei mydealz",
+    "category": "Bücher & Filme",
+    "price": 14.97,
+    "checkedAt": "2026-11-20T16:40:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B086PV27P2.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 200,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:50:14.036Z"
+  },
+  {
+    "id": "auto-b09nzl3n6g",
+    "asin": "B09NZL3N6G",
+    "title": "Fiskars Kräuterschere, Länge: 12,9 cm",
+    "category": "Tech",
+    "price": 7.99,
+    "oldPrice": 11.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T16:42:28.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Gnd6C/2877377_1/re/768x768/qt/55/2877377_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:50:08.859Z"
+  },
+  {
     "id": "auto-b0dj19tn6f",
     "asin": "B0DJ19TN6F",
     "title": "12er Star Wars Bitty Pops",
@@ -288,7 +380,8 @@
     "price": 44.79,
     "checkedAt": "2026-11-20T13:09:04.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FT31V915.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:50:23.720Z"
   },
   {
     "id": "auto-b07x7jsbhg",
@@ -3325,28 +3418,6 @@
     "telegramPostedAt": "2026-11-19T17:27:02.091Z"
   },
   {
-    "id": "auto-b0fbgv69ck",
-    "asin": "B0FBGV69CK",
-    "title": "Prime/Mediamarkt: Beck Mellow Gold",
-    "category": "Tech",
-    "price": 23.99,
-    "checkedAt": "2026-11-19T16:46:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FBGV69CK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:12:08.074Z"
-  },
-  {
-    "id": "auto-b0dhct6nzq",
-    "asin": "B0DHCT6NZQ",
-    "title": "Cherry XTRFY K4V2 TKL kabelgebundene Gaming-Tastatur, MX2A Red, …",
-    "category": "Computer",
-    "price": 39.99,
-    "checkedAt": "2026-11-19T16:48:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHCT6NZQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:12:01.876Z"
-  },
-  {
     "id": "auto-b0c3m5ms3n",
     "asin": "B0C3M5MS3N",
     "title": "AUVON LED Nachtlicht mit Bewegungs- & Dämmerungssensor, 2er Pack",
@@ -3367,19 +3438,6 @@
     "image": "https://static.mydealz.de/threads/raw/Spnc9/2876267_1/re/768x768/qt/55/2876267_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T17:11:49.795Z"
-  },
-  {
-    "id": "auto-b0979g1rz5",
-    "asin": "B0979G1RZ5",
-    "title": "LG Serie 7 F4WV708P1E Waschmaschine – 8 kg, 68 l, TurboWash 39, AI DD, …",
-    "category": "Haushalt",
-    "price": 383.9,
-    "oldPrice": 429.89,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T16:46:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0979G1RZ5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:11:42.242Z"
   },
   {
     "id": "auto-b0dd3n4ygq",
@@ -3497,66 +3555,5 @@
     "temperature": 113,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T16:55:50.146Z"
-  },
-  {
-    "id": "auto-b0fldrctc7",
-    "asin": "B0FLDRCTC7",
-    "title": "Grand Theft Auto: The Trilogy – The Definitive Edition / Code in a Box …",
-    "subtitle": "🔥 116° bei mydealz",
-    "category": "Tech",
-    "price": 14.99,
-    "checkedAt": "2026-11-19T16:49:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FLDRCTC7.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 116,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T16:55:42.719Z"
-  },
-  {
-    "id": "auto-b0cjf4fnyr",
-    "asin": "B0CJF4FNYR",
-    "title": "Nikon ZF - Body Only - Black Week",
-    "subtitle": "🔥 127° bei mydealz",
-    "category": "Tech",
-    "price": 1389,
-    "checkedAt": "2026-11-19T16:39:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CJF4FNYR.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 127,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T16:55:37.073Z"
-  },
-  {
-    "id": "auto-b071kbx7cm",
-    "asin": "B071KBX7CM",
-    "title": "Metroid Prime 4: Beyond - [Nintendo Switch]",
-    "subtitle": "🔥 442° bei mydealz",
-    "category": "Gaming",
-    "price": 26.59,
-    "checkedAt": "2026-11-19T16:48:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B071KBX7CM.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 442,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T16:55:31.760Z"
-  },
-  {
-    "id": "auto-b0fvlcc922",
-    "asin": "B0FVLCC922",
-    "title": "Simgot eg280 Prime Mitgliedschaft",
-    "category": "Tech",
-    "price": 66.21,
-    "checkedAt": "2026-11-19T16:35:04.000Z",
-    "image": "https://static.mydealz.de/threads/raw/xRO3V/2876239_1/re/768x768/qt/55/2876239_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T16:40:49.608Z"
-  },
-  {
-    "id": "auto-b00h5lalco",
-    "asin": "B00H5LALCO",
-    "title": "Günstige Birkenstock Alternative! Lico Herren Bioline Hausschuhe in …",
-    "category": "Mode & Reise",
-    "price": 18.71,
-    "checkedAt": "2026-11-19T16:35:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00H5LALCO.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T16:40:43.061Z"
   }
 ]
