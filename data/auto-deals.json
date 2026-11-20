@@ -1,5 +1,60 @@
 [
   {
+    "id": "auto-b0hj454vc7",
+    "asin": "B0HJ454VC7",
+    "title": "Pepsi Zero Zucker Gingerbread Geschmack Erfrischungsgetränk, 24x0,33l …",
+    "category": "Lebensmittel & Drinks",
+    "price": 20.99,
+    "checkedAt": "2026-11-20T17:56:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HJ454VC7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T18:22:37.697Z"
+  },
+  {
+    "id": "auto-b0f5sgk5q7",
+    "asin": "B0F5SGK5Q7",
+    "title": "NZXT Kraken Plus 240 AIO-CPU-Wasserkühlung, 1,54\" LCD, Turbine-Pumpe, …",
+    "category": "Tech",
+    "price": 62.9,
+    "checkedAt": "2026-11-20T18:05:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F5SGK5Q7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T18:22:31.286Z"
+  },
+  {
+    "id": "auto-b07ftxbnvl",
+    "asin": "B07FTXBNVL",
+    "title": "PRIME Real Techniques Pinsel- & Schwammset für",
+    "category": "Tech",
+    "price": 10.99,
+    "checkedAt": "2026-11-20T18:08:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07FTXBNVL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T18:22:26.230Z"
+  },
+  {
+    "id": "auto-b0fdwz5zk3",
+    "asin": "B0FDWZ5ZK3",
+    "title": "Gabbys Dollhouse: Bereit für die Party - PS5",
+    "category": "Gaming",
+    "price": 13.99,
+    "checkedAt": "2026-11-20T18:09:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FDWZ5ZK3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T18:22:21.114Z"
+  },
+  {
+    "id": "auto-b00nabot8u",
+    "asin": "B00NABOT8U",
+    "title": "Beurer FC 45 elektrische Gesichtsreinigungsbürste, 2-stufige Rotation",
+    "category": "Tech",
+    "price": 9.99,
+    "checkedAt": "2026-11-20T18:21:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00NABOT8U.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T18:22:15.923Z"
+  },
+  {
     "id": "auto-b07bjkw567",
     "asin": "B07BJKW567",
     "title": "Amazon Essentials Herren Athletic-Fit-Stretchjeans - Auslauffarben",
@@ -3162,39 +3217,6 @@
     "telegramPostedAt": "2026-11-19T20:13:26.225Z"
   },
   {
-    "id": "auto-b0gghskq48",
-    "asin": "B0GGHSKQ48",
-    "title": "Pokémon-Sammelkartenspiel: Tin-Box Mega-Glurak – Mega-Glurak X-ex",
-    "category": "Spielzeug & LEGO",
-    "price": 24.99,
-    "checkedAt": "2026-11-19T18:07:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GGHSKQ48.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:58:44.813Z"
-  },
-  {
-    "id": "auto-b0dhsbbv6r",
-    "asin": "B0DHSBBV6R",
-    "title": "LEGO Speed Champions Ferrari SF-24 F1 Rennauto 77242",
-    "category": "Spielzeug & LEGO",
-    "price": 16.15,
-    "checkedAt": "2026-11-19T18:10:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHSBBV6R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:58:39.747Z"
-  },
-  {
-    "id": "auto-b0g7zb945y",
-    "asin": "B0G7ZB945Y",
-    "title": "Schmidt Ligretto, Fußball: Familienkartenspiel",
-    "category": "Spielzeug & LEGO",
-    "price": 9.95,
-    "checkedAt": "2026-11-19T18:13:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G7ZB945Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:58:33.997Z"
-  },
-  {
     "id": "auto-b0f29h3vz8",
     "asin": "B0F29H3VZ8",
     "title": "Razer Pro Click V2 – kabellose ergonomische Maus mit 30.000 DPI, …",
@@ -3527,29 +3549,5 @@
     "image": "https://static.mydealz.de/threads/raw/VCPZ8/2876352_1/re/768x768/qt/55/2876352_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T18:28:02.605Z"
-  },
-  {
-    "id": "auto-b0d7zmj6bz",
-    "asin": "B0D7ZMJ6BZ",
-    "title": "Blukar LED Stirnlampe Aufladbar, 2000L",
-    "category": "Sport & Outdoor",
-    "price": 8.51,
-    "checkedAt": "2026-11-19T18:26:35.000Z",
-    "image": "https://static.mydealz.de/threads/raw/1hYMk/2852262_1/re/768x768/qt/55/2852262_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T18:27:56.292Z"
-  },
-  {
-    "id": "auto-b0gt9l7mk6",
-    "asin": "B0GT9L7MK6",
-    "title": "Cherry XTRFY K33 Compact Wireless Gaming-Tastatur, QWERTZ, 75 %, …",
-    "subtitle": "🔥 101° bei mydealz",
-    "category": "Computer",
-    "price": 37.99,
-    "checkedAt": "2026-11-19T18:24:29.000Z",
-    "image": "https://static.mydealz.de/threads/raw/xof5A/2875870_1/re/768x768/qt/55/2875870_1.jpg",
-    "temperature": 101,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T18:27:49.821Z"
   }
 ]
