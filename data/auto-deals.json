@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0gl1xc475",
+    "asin": "B0GL1XC475",
+    "title": "Red Bull Sugarfree Energy Drink Kirsche-Sakura Cherry Edition 250 ml, …",
+    "category": "Lebensmittel & Drinks",
+    "price": 23.76,
+    "checkedAt": "2026-11-20T22:37:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GL1XC475.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T22:51:57.908Z"
+  },
+  {
     "id": "auto-b0dk2mjnl5",
     "asin": "B0DK2MJNL5",
     "title": "Bellroy Transit Workpack Pro 22l",
@@ -3366,16 +3377,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CK2P1PXS.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T23:14:18.970Z"
-  },
-  {
-    "id": "auto-b0d4dzdhz1",
-    "asin": "B0D4DZDHZ1",
-    "title": "Loop Experience 2 Ohrstöpsel",
-    "category": "Audio",
-    "price": 23.95,
-    "checkedAt": "2026-11-19T22:42:42.000Z",
-    "image": "https://static.mydealz.de/threads/raw/5LnCi/2876537_1/re/768x768/qt/55/2876537_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:43:54.348Z"
   }
 ]
