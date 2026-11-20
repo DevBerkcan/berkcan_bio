@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0ggsk4j2n",
+    "asin": "B0GGSK4J2N",
+    "title": "LEGO Star Wars Adventskalender 2026 (75456)",
+    "category": "Spielzeug & LEGO",
+    "price": 22.99,
+    "oldPrice": 34.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T22:17:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GGSK4J2N.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T22:22:27.261Z"
+  },
+  {
     "id": "auto-b0ck2hc8zh",
     "asin": "B0CK2HC8ZH",
     "title": "Playmobil Asterix Römischer Streitwagen mit Senator Brutus, Soldat & 2 …",
@@ -3366,17 +3379,6 @@
     "telegramPostedAt": "2026-11-19T22:43:54.348Z"
   },
   {
-    "id": "auto-b09bft7nzj",
-    "asin": "B09BFT7NZJ",
-    "title": "TP-Link Tapo Smart WLAN Socket P110 with Energy Consumption Control",
-    "category": "Smart Home",
-    "price": 6,
-    "checkedAt": "2026-11-19T22:07:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09BFT7NZJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:28:33.036Z"
-  },
-  {
     "id": "auto-b0c7hf3g7k",
     "asin": "B0C7HF3G7K",
     "title": "JACK & JONES Herren Jjebradley Sweat Hood Noos",
@@ -3386,18 +3388,5 @@
     "image": "https://m.media-amazon.com/images/P/B0C7HF3G7K.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T22:28:27.704Z"
-  },
-  {
-    "id": "auto-b0gtqd6yps",
-    "asin": "B0GTQD6YPS",
-    "title": "MOUSE: P.I. For Hire - Switch 2",
-    "subtitle": "🔥 101° bei mydealz",
-    "category": "Computer",
-    "price": 27.99,
-    "checkedAt": "2026-11-19T22:11:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GTQD6YPS.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 101,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:13:38.607Z"
   }
 ]
