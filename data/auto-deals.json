@@ -1,5 +1,64 @@
 [
   {
+    "id": "auto-b07jmt3b59",
+    "asin": "B07JMT3B59",
+    "title": "Revell U.S.S. Voyager",
+    "category": "Spielzeug & LEGO",
+    "price": 30.89,
+    "checkedAt": "2026-11-20T15:47:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07JMT3B59.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:20:22.126Z"
+  },
+  {
+    "id": "auto-b0d38bll4y",
+    "asin": "B0D38BLL4Y",
+    "title": "Glorious Model D 2 Wireless – ergonomische Gaming-Maus mit 66 g, …",
+    "category": "Computer",
+    "price": 32.99,
+    "checkedAt": "2026-11-20T16:07:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D38BLL4Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:20:16.418Z"
+  },
+  {
+    "id": "auto-b0b2x1kddy",
+    "asin": "B0B2X1KDDY",
+    "title": "SteelSeries Apex Pro Mini Wireless (DE Layout)",
+    "category": "Tech",
+    "price": 99.99,
+    "checkedAt": "2026-11-20T16:10:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B2X1KDDY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:20:10.776Z"
+  },
+  {
+    "id": "auto-b08mvcfml2",
+    "asin": "B08MVCFML2",
+    "title": "ICY BOX USB 3.2 Gen 1 Hub 7 Port mit Einzelschaltern IB-HUB1701",
+    "category": "Tech",
+    "price": 40.01,
+    "oldPrice": 56.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T16:04:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08MVCFML2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:20:05.276Z"
+  },
+  {
+    "id": "auto-b09nw9cp9h",
+    "asin": "B09NW9CP9H",
+    "title": "Lancôme Rénergie H.C.F. Triple Serum, Anti-Aging Gesichtsserum, 50ml - …",
+    "category": "Tech",
+    "price": 65.25,
+    "oldPrice": 142,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T16:17:24.000Z",
+    "image": "https://static.mydealz.de/threads/raw/9GRTA/2877344_1/re/768x768/qt/55/2877344_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T16:19:59.682Z"
+  },
+  {
     "id": "auto-b08kdscc6s",
     "asin": "B08KDSCC6S",
     "title": "Midea MIH741F238K0 Induktionskochfeld, 4 Kochzonen, 7400W",
@@ -3009,28 +3068,6 @@
     "telegramPostedAt": "2026-11-19T18:12:35.828Z"
   },
   {
-    "id": "auto-b0ddtxzr57",
-    "asin": "B0DDTXZR57",
-    "title": "AEG GV77D61SL Kopffreie Dunstabzugshaube",
-    "category": "Haushalt",
-    "price": 474,
-    "checkedAt": "2026-11-19T16:10:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DDTXZR57.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:57:55.614Z"
-  },
-  {
-    "id": "auto-b0f99yg1x8",
-    "asin": "B0F99YG1X8",
-    "title": "Sony GP-VPT3 Bluetooth-Aufnahmegriff und Stativ, abnehmbare …",
-    "category": "Tech",
-    "price": 79,
-    "checkedAt": "2026-11-19T16:19:08.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F99YG1X8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T17:57:50.460Z"
-  },
-  {
     "id": "auto-b0cyzz1sq2",
     "asin": "B0CYZZ1SQ2",
     "title": "ATM Gaming Quickstop - Das Buchstaben-Duell - Kartenspiel PRIME …",
@@ -3490,19 +3527,6 @@
     "telegramPostedAt": "2026-11-19T16:40:43.061Z"
   },
   {
-    "id": "auto-b0c3cq1rxz",
-    "asin": "B0C3CQ1RXZ",
-    "title": "Bosch Ratschen-Kombischlüssel-Set 8-teilig mit 72-Zahn-Ratsche, …",
-    "subtitle": "🔥 128° bei mydealz",
-    "category": "Tech",
-    "price": 37.39,
-    "checkedAt": "2026-11-19T16:18:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C3CQ1RXZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 128,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T16:40:37.344Z"
-  },
-  {
     "id": "auto-b0cxxfx625",
     "asin": "B0CXXFX625",
     "title": "Luigis Mansion 2 HD Nintendo Switch",
@@ -3540,31 +3564,5 @@
     "temperature": 105,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T16:25:38.068Z"
-  },
-  {
-    "id": "auto-b09rfhz3w2",
-    "asin": "B09RFHZ3W2",
-    "title": "LG F6WV710P2S Frontlader-Waschmaschine, 10,5 kg, 1600 U/min, AI Wash, …",
-    "subtitle": "🔥 109° bei mydealz",
-    "category": "Haushalt",
-    "price": 487,
-    "checkedAt": "2026-11-19T16:22:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09RFHZ3W2.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 109,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T16:25:32.591Z"
-  },
-  {
-    "id": "auto-b002oc1cfe",
-    "asin": "B002OC1CFE",
-    "title": "Buff Lightweight Merino Schlauchschal // Lightweight Beanie für 14,35",
-    "subtitle": "🔥 140° bei mydealz",
-    "category": "Tech",
-    "price": 12.43,
-    "checkedAt": "2026-11-19T16:12:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B002OC1CFE.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 140,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T16:25:27.398Z"
   }
 ]
