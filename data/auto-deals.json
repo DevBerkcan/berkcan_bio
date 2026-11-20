@@ -1,5 +1,70 @@
 [
   {
+    "id": "auto-b0dv5rkpm1",
+    "asin": "B0DV5RKPM1",
+    "title": "Nintendo Switch - Lets School - Physisch",
+    "subtitle": "🔥 115° bei mydealz",
+    "category": "Gaming",
+    "price": 9.8,
+    "checkedAt": "2026-11-20T10:00:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DV5RKPM1.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 115,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T10:03:53.923Z"
+  },
+  {
+    "id": "auto-b001c9xjkg",
+    "asin": "B001C9XJKG",
+    "title": "HAZET 5122-2CT Drehmomentschlüssel, 40-200 Nm, Ratsche, 519 mm 1170 g …",
+    "subtitle": "🔥 119° bei mydealz",
+    "category": "Tech",
+    "price": 114.99,
+    "checkedAt": "2026-11-20T09:52:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B001C9XJKG.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 119,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T10:03:48.488Z"
+  },
+  {
+    "id": "auto-b0cllrghd9",
+    "asin": "B0CLLRGHD9",
+    "title": "Steiff Gin Schlange 130 cm Plüschtier",
+    "category": "Lebensmittel & Drinks",
+    "price": 27.54,
+    "oldPrice": 35,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T08:43:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CLLRGHD9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T10:03:42.303Z"
+  },
+  {
+    "id": "auto-b0h4m5frzy",
+    "asin": "B0H4M5FRZY",
+    "title": "Playmobil WWE Figuren Set 210527",
+    "category": "Spielzeug & LEGO",
+    "price": 34.98,
+    "oldPrice": 54.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T08:44:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H4M5FRZY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T10:03:36.579Z"
+  },
+  {
+    "id": "auto-b0dqttn97k",
+    "asin": "B0DQTTN97K",
+    "title": "Surface Pro 13\" OLED (16GB/256GB) 1.099€ / Bundle 1.299€",
+    "category": "Tech",
+    "price": 1099,
+    "oldPrice": 1849,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T09:56:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQTTN97K.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T10:03:30.863Z"
+  },
+  {
     "id": "auto-b0h1jbl3st",
     "asin": "B0H1JBL3ST",
     "title": "Disney Toy Story 5 Lilypad-Hülle",
@@ -3327,18 +3392,6 @@
     "telegramPostedAt": "2026-11-19T11:56:06.112Z"
   },
   {
-    "id": "queue-b09vpv3nzd",
-    "asin": "B09VPV3NZD",
-    "title": "Einhell IMPAXXO 18/450 Akku-Schlagschrauber",
-    "subtitle": "Brushless, 450 Nm und 3 Stufen – passt ins Power-X-Change-System.",
-    "category": "Werkzeug",
-    "price": 103.99,
-    "checkedAt": "2026-11-19T09:56:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09VPV3NZD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T11:55:50.610Z"
-  },
-  {
     "id": "queue-b0bvlgp4wc",
     "asin": "B0BVLGP4WC",
     "title": "ASUS TUF Gaming X870E-Plus WiFi 7 (AM5)",
@@ -3399,18 +3452,6 @@
     "telegramPostedAt": "2026-11-19T11:40:53.728Z"
   },
   {
-    "id": "queue-b0dhy29psm",
-    "asin": "B0DHY29PSM",
-    "title": "ASUS ROG Pelta Wireless Gaming-Headset",
-    "subtitle": "Tri-Mode, 50-mm-Titan-Treiber und bis zu 90 h Akku bei nur 309 g.",
-    "category": "Gaming",
-    "price": 64.9,
-    "checkedAt": "2026-11-19T09:53:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHY29PSM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T11:40:48.542Z"
-  },
-  {
     "id": "auto-b0hgbllfnq",
     "asin": "B0HGBLLFNQ",
     "title": "Milka Vielen Dank Pralinen 12 x44g",
@@ -3442,19 +3483,6 @@
     "image": "https://m.media-amazon.com/images/P/B0DTKMQN2V.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T11:25:58.446Z"
-  },
-  {
-    "id": "auto-b01nbh6mf4",
-    "asin": "B01NBH6MF4",
-    "title": "Kleiner Feigling, Vodka Feige 30 x 20 ml",
-    "category": "Lebensmittel & Drinks",
-    "price": 8.88,
-    "oldPrice": 9.87,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T09:55:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01NBH6MF4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T11:25:51.988Z"
   },
   {
     "id": "auto-b01boaftmi",
@@ -3493,19 +3521,6 @@
     "image": "https://m.media-amazon.com/images/P/B0F5B56X84.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T11:25:21.211Z"
-  },
-  {
-    "id": "queue-b0dqv6kg6k",
-    "asin": "B0DQV6KG6K",
-    "title": "Bosch Professional GSR 18V-65 Set mit 2× 5,0-Ah-Akku",
-    "subtitle": "Akku-Bohrschrauber inkl. zwei 5,0-Ah-Akkus, Ladegerät GAL 18V-40 und L-BOXX.",
-    "category": "Werkzeug",
-    "price": 189.29,
-    "oldPrice": 215.99,
-    "checkedAt": "2026-11-19T09:49:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQV6KG6K.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T11:25:12.388Z"
   },
   {
     "id": "auto-b0hgf3x8r7",
@@ -3623,18 +3638,5 @@
     "temperature": 109,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T11:09:53.844Z"
-  },
-  {
-    "id": "auto-b0gxdkfpdr",
-    "asin": "B0GXDKFPDR",
-    "title": "GL.iNet Slate 7 Pro (GL-BE10000) WLAN 7 Reiserouter, 6GHz, 2,5G, …",
-    "subtitle": "🔥 109° bei mydealz",
-    "category": "Tech",
-    "price": 185.99,
-    "checkedAt": "2026-11-19T10:38:54.000Z",
-    "image": "https://static.mydealz.de/threads/raw/gTRYS/2872797_1/re/768x768/qt/55/2872797_1.jpg",
-    "temperature": 109,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T11:09:58.437Z"
   }
 ]
