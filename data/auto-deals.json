@@ -1,5 +1,48 @@
 [
   {
+    "id": "auto-b01akyxukc",
+    "asin": "B01AKYXUKC",
+    "title": "Beurer UB 75 & UB 90 Wärmeunterbett",
+    "category": "Tech",
+    "price": 49.99,
+    "checkedAt": "2026-11-20T21:25:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01AKYXUKC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08sbg9d8z",
+    "asin": "B08SBG9D8Z",
+    "title": "Bosch elektrischer Laubsauger/Laubbläser Universal GardenTidy 3000",
+    "category": "Haushalt",
+    "price": 72.99,
+    "checkedAt": "2026-11-20T21:28:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08SBG9D8Z.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gx2jh4gc",
+    "asin": "B0GX2JH4GC",
+    "title": "Gothic Classic - PS5 Playstation - Disc - Pirania/THQ Nordic - USK 12",
+    "category": "Gaming",
+    "price": 19.99,
+    "checkedAt": "2026-11-20T21:33:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GX2JH4GC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f62s8p1t",
+    "asin": "B0F62S8P1T",
+    "title": "UGREEN 240 W USB-C Kabel mit Digital-Display, PD 3.1, E-Marker, 1 m, …",
+    "subtitle": "🔥 123° bei mydealz",
+    "category": "Tech",
+    "price": 10.16,
+    "checkedAt": "2026-11-20T21:23:34.000Z",
+    "image": "https://static.mydealz.de/threads/raw/LvGH2/2875241_1/re/768x768/qt/55/2875241_1.jpg",
+    "temperature": 123,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T21:37:15.059Z"
+  },
+  {
     "id": "auto-b0fjxzj9n7",
     "asin": "B0FJXZJ9N7",
     "title": "Philips Hue Bridge + 4x E27 Smart LED Lampen (bunt)",
@@ -3240,17 +3283,6 @@
     "telegramPostedAt": "2026-11-19T23:30:24.423Z"
   },
   {
-    "id": "auto-b0fpvtsq3g",
-    "asin": "B0FPVTSQ3G",
-    "title": "Prime - LEGO Spidey: Spidey Unterwasserfahrzeuge 11207 Spielzeug ab 4 …",
-    "category": "Spielzeug & LEGO",
-    "price": 23.99,
-    "checkedAt": "2026-11-19T21:34:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPVTSQ3G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:14:25.038Z"
-  },
-  {
     "id": "auto-b0ck2p1pxs",
     "asin": "B0CK2P1PXS",
     "title": "Brother HL-L2400DW, S/W-Laserdrucker, Duplex, WLAN, 30 Seiten/Min.",
@@ -3293,39 +3325,6 @@
     "image": "https://static.mydealz.de/threads/raw/5LnCi/2876537_1/re/768x768/qt/55/2876537_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T22:43:54.348Z"
-  },
-  {
-    "id": "auto-b0fd28c4dm",
-    "asin": "B0FD28C4DM",
-    "title": "Spigen iPhone Air Hülle Ultra Hybrid MagFit - Classic Black",
-    "category": "Smartphone & Tablet",
-    "price": 11.5,
-    "checkedAt": "2026-11-19T21:23:16.000Z",
-    "image": "https://static.mydealz.de/threads/raw/uN7Lo/2876496_1/re/768x768/qt/55/2876496_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:28:50.445Z"
-  },
-  {
-    "id": "auto-b0fd2smtxb",
-    "asin": "B0FD2SMTXB",
-    "title": "Spigen iPhone Air Hülle Ultra Hybrid MagFit -Neo One",
-    "category": "Smartphone & Tablet",
-    "price": 11.5,
-    "checkedAt": "2026-11-19T21:24:51.000Z",
-    "image": "https://static.mydealz.de/threads/raw/bQ3zM/2876497_1/re/768x768/qt/55/2876497_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:28:44.495Z"
-  },
-  {
-    "id": "auto-b0fwkxhg7k",
-    "asin": "B0FWKXHG7K",
-    "title": "Prime - adidas RUNFALCON 6 J HALMIN/BLILIL/FLAAQU, in vielen Größen",
-    "category": "Tech",
-    "price": 31.5,
-    "checkedAt": "2026-11-19T21:36:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FWKXHG7K.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:28:38.253Z"
   },
   {
     "id": "auto-b09bft7nzj",
@@ -3396,31 +3395,5 @@
     "temperature": 108,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T22:13:32.630Z"
-  },
-  {
-    "id": "auto-b074pzz7mh",
-    "asin": "B074PZZ7MH",
-    "title": "Apollo 13 (4K Ultra-HD) + Blu-ray",
-    "subtitle": "🔥 111° bei mydealz",
-    "category": "Bücher & Filme",
-    "price": 14.75,
-    "checkedAt": "2026-11-19T21:29:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B074PZZ7MH.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 111,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:13:27.364Z"
-  },
-  {
-    "id": "auto-b075tcmc2n",
-    "asin": "B075TCMC2N",
-    "title": "Wagemut PX Cask Barbados Rum (31,40€ im 5er-Spar-Abo)",
-    "subtitle": "🔥 112° bei mydealz",
-    "category": "Tech",
-    "price": 33.05,
-    "checkedAt": "2026-11-19T21:33:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B075TCMC2N.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 112,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T21:58:40.386Z"
   }
 ]
