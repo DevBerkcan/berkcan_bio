@@ -1,5 +1,76 @@
 [
   {
+    "id": "auto-b00fze0qf0",
+    "asin": "B00FZE0QF0",
+    "title": "PHYSIOGEL Scalp Care Mildes Shampoo 250ml für empfindliche Kopfhaut",
+    "category": "Beauty & Pflege",
+    "price": 7.83,
+    "checkedAt": "2026-11-20T15:10:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00FZE0QF0.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09mfqwg1s",
+    "asin": "B09MFQWG1S",
+    "title": "CHERRY MP 2000 XXL Mauspad (800 x 350 x 5 mm, Schwarz)",
+    "category": "Tech",
+    "price": 17.99,
+    "checkedAt": "2026-11-20T15:12:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09MFQWG1S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T15:19:24.966Z"
+  },
+  {
+    "id": "auto-b0hgxsjnn9",
+    "asin": "B0HGXSJNN9",
+    "title": "roborock F25 BX Gen 2 Nass-Trockensauger, 20.000 Pa, bis 60 min, 180° …",
+    "category": "Haushalt",
+    "price": 199,
+    "checkedAt": "2026-11-20T15:14:37.000Z",
+    "image": "https://static.mydealz.de/threads/raw/kPvdz/2877290_1/re/768x768/qt/55/2877290_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T15:19:19.629Z"
+  },
+  {
+    "id": "auto-b0g255kg5v",
+    "asin": "B0G255KG5V",
+    "title": "UGREEN USB C auf HDMI Adapter HDMI 2.1 8K 60Hz 4K 240/120H 1440P",
+    "subtitle": "🔥 106° bei mydealz",
+    "category": "Tech",
+    "price": 15.18,
+    "checkedAt": "2026-11-20T15:15:31.000Z",
+    "image": "https://static.mydealz.de/threads/raw/NatV9/2877185_1/re/768x768/qt/55/2877185_1.jpg",
+    "temperature": 106,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T15:19:13.306Z"
+  },
+  {
+    "id": "auto-b0gpqmffxl",
+    "asin": "B0GPQMFFXL",
+    "title": "HAZET Adventskalender ADVENTSKALENDER26, 24-teilig, Akku-Kompressor …",
+    "subtitle": "🔥 115° bei mydealz",
+    "category": "Werkzeug",
+    "price": 49.99,
+    "checkedAt": "2026-11-20T15:11:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GPQMFFXL.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 115,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T15:19:06.833Z"
+  },
+  {
+    "id": "auto-b0byw7t8y9",
+    "asin": "B0BYW7T8Y9",
+    "title": "Hasbro Brettspiel Wer ist es?",
+    "category": "Spielzeug & LEGO",
+    "price": 13.49,
+    "oldPrice": 18.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T14:37:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BYW7T8Y9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T15:19:00.415Z"
+  },
+  {
     "id": "auto-b0fn47tdsq",
     "asin": "B0FN47TDSQ",
     "title": "Levoit LVAC-200 MAX Akku-Staubsauger",
@@ -1768,39 +1839,6 @@
     "telegramPostedAt": "2026-11-19T23:30:24.423Z"
   },
   {
-    "id": "auto-b06y3j4wmx",
-    "asin": "B06Y3J4WMX",
-    "title": "Target Corona Vision Lightning LED Dartscheibenbeleuchtung",
-    "category": "Sport & Outdoor",
-    "price": 63.95,
-    "checkedAt": "2026-11-19T15:05:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06Y3J4WMX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:14:42.852Z"
-  },
-  {
-    "id": "auto-b0dq1lmj4f",
-    "asin": "B0DQ1LMJ4F",
-    "title": "Fakir AS 1480 LT Floor Akku Staubsauger 180 W, , kabelloser …",
-    "category": "Haushalt",
-    "price": 65.76,
-    "checkedAt": "2026-11-19T15:06:47.000Z",
-    "image": "https://static.mydealz.de/threads/raw/GBXQG/2876139_1/re/768x768/qt/55/2876139_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:14:37.335Z"
-  },
-  {
-    "id": "auto-b0076z6pla",
-    "asin": "B0076Z6PLA",
-    "title": "REMINGTON Personal Groomer PG6030 Edge Haarschneidegerät",
-    "category": "Beauty & Pflege",
-    "price": 18.99,
-    "checkedAt": "2026-11-19T15:10:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0076Z6PLA.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:14:30.906Z"
-  },
-  {
     "id": "auto-b0fpvtsq3g",
     "asin": "B0FPVTSQ3G",
     "title": "Prime - LEGO Spidey: Spidey Unterwasserfahrzeuge 11207 Spielzeug ab 4 …",
@@ -1821,17 +1859,6 @@
     "image": "https://m.media-amazon.com/images/P/B0CK2P1PXS.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T23:14:18.970Z"
-  },
-  {
-    "id": "auto-b000et7g0e",
-    "asin": "B000ET7G0E",
-    "title": "Brüder Mannesmann M19652 Gabelringschlüsell Satz 12-tlg. DIN 3113, …",
-    "category": "Werkzeug",
-    "price": 6.79,
-    "checkedAt": "2026-11-19T15:17:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000ET7G0E.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:59:20.389Z"
   },
   {
     "id": "auto-b0cpm9j2cq",
@@ -3562,19 +3589,6 @@
     "telegramPostedAt": "2026-11-19T15:25:26.506Z"
   },
   {
-    "id": "auto-b07j25z7kc",
-    "asin": "B07J25Z7KC",
-    "title": "Bosch Professional PRO Klappmesser mit Aluminiumgehäuse, Klingenfach …",
-    "category": "Küche",
-    "price": 14.77,
-    "oldPrice": 18.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T15:13:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07J25Z7KC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T15:25:21.535Z"
-  },
-  {
     "id": "auto-b08z33r1xr",
     "asin": "B08Z33R1XR",
     "title": "2Pac - Best Of 2Pac Part 1: Thug",
@@ -3586,18 +3600,5 @@
     "image": "https://m.media-amazon.com/images/P/B08Z33R1XR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T15:25:15.562Z"
-  },
-  {
-    "id": "auto-b0924nbjbb",
-    "asin": "B0924NBJBB",
-    "title": "HP Prelude Laptop-Tasche 15,6\"",
-    "category": "Computer",
-    "price": 12.72,
-    "oldPrice": 18.96,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T15:12:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0924NBJBB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T15:25:10.221Z"
   }
 ]
