@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0h7k5ryf4",
+    "asin": "B0H7K5RYF4",
+    "title": "Dyson Airwrap nachtblau / kupfer",
+    "category": "Beauty & Pflege",
+    "price": 274,
+    "checkedAt": "2026-11-20T20:57:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H7K5RYF4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T21:07:48.953Z"
+  },
+  {
     "id": "auto-b00295d0bk",
     "asin": "B00295D0BK",
     "title": "LIQUI MOLY Kunststofftiefenpfleger Auto Garten , Art.-Nr. 1536 I 500 …",
@@ -3414,19 +3425,6 @@
     "telegramPostedAt": "2026-11-19T21:58:40.386Z"
   },
   {
-    "id": "auto-b0dhzqb3sl",
-    "asin": "B0DHZQB3SL",
-    "title": "Philips Sonicare C1 ProResults 8er-Pack Ersatzbürstenköpfe HX6018/87 …",
-    "subtitle": "🔥 120° bei mydealz",
-    "category": "Beauty & Pflege",
-    "price": 24.99,
-    "checkedAt": "2026-11-19T21:06:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHZQB3SL.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 120,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T21:43:49.171Z"
-  },
-  {
     "id": "auto-b002g9udyg",
     "asin": "B002G9UDYG",
     "title": "Carhartt Herren Strickmütze Beanie",
@@ -3438,28 +3436,5 @@
     "image": "https://m.media-amazon.com/images/P/B002G9UDYG.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T21:29:06.532Z"
-  },
-  {
-    "id": "auto-b01mfbnn9j",
-    "asin": "B01MFBNN9J",
-    "title": "Logitech G Saitek Pro Flight Multi-Panel, Autopilot-Controller für …",
-    "subtitle": "🔥 106° bei mydealz",
-    "category": "Gaming",
-    "price": 62.99,
-    "checkedAt": "2026-11-19T21:04:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01MFBNN9J.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 106,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T21:14:26.833Z"
-  },
-  {
-    "id": "auto-b0hm7wsnhq",
-    "asin": "B0HM7WSNHQ",
-    "title": "KESSER Weihnachtsbaum künstlich naturgetreuer Tannenbaum, …",
-    "category": "Tech",
-    "price": 83.45,
-    "checkedAt": "2026-11-19T20:53:53.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T20:59:19.521Z"
   }
 ]
