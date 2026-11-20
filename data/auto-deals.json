@@ -1,5 +1,26 @@
 [
   {
+    "id": "auto-b0ggpd67dq",
+    "asin": "B0GGPD67DQ",
+    "title": "Lego Architectur Tower Bridge",
+    "category": "Spielzeug & LEGO",
+    "price": 205.57,
+    "checkedAt": "2026-11-19T23:19:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GGPD67DQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cklj7rsk",
+    "asin": "B0CKLJ7RSK",
+    "title": "Helles Pülleken 18 x 0.33l Dose mild & süffig",
+    "category": "Tech",
+    "price": 10.91,
+    "checkedAt": "2026-11-20T19:25:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CKLJ7RSK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:37:43.021Z"
+  },
+  {
     "id": "auto-b0dwdtrg1p",
     "asin": "B0DWDTRG1P",
     "title": "LEGO Technic Lamborghini Revuelto Supersportwagen 42214",
@@ -91,7 +112,8 @@
     "price": 29.75,
     "checkedAt": "2026-11-20T06:59:00.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F8BT9LMZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:38:00.502Z"
   },
   {
     "id": "auto-b08hj59l4s",
@@ -123,7 +145,8 @@
     "price": 29.98,
     "checkedAt": "2026-11-20T07:55:56.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DJ2XPPTJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:37:56.253Z"
   },
   {
     "id": "auto-b0dv9wbjz7",
@@ -133,7 +156,8 @@
     "price": 157.24,
     "checkedAt": "2026-11-20T08:12:16.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DV9WBJZ7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:37:52.147Z"
   },
   {
     "id": "auto-b0gkpfdq11",
@@ -143,7 +167,8 @@
     "price": 248.89,
     "checkedAt": "2026-11-20T08:16:41.000Z",
     "image": "https://static.mydealz.de/threads/raw/eJvYP/2876814_1/re/768x768/qt/55/2876814_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T19:37:47.691Z"
   },
   {
     "id": "auto-b0d66tfzks",
@@ -3339,28 +3364,6 @@
     "telegramPostedAt": "2026-11-19T20:44:05.352Z"
   },
   {
-    "id": "auto-b0hnpgv61f",
-    "asin": "B0HNPGV61F",
-    "title": "Amazon | Toniebox 2 Bundles mit Weihnachtstonies",
-    "category": "Spielzeug & LEGO",
-    "price": 112.99,
-    "checkedAt": "2026-11-19T19:29:09.000Z",
-    "image": "https://static.mydealz.de/threads/raw/bd5aF/2876406_1/re/768x768/qt/55/2876406_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T20:29:02.141Z"
-  },
-  {
-    "id": "auto-b000mvzxfo",
-    "asin": "B000MVZXFO",
-    "title": "Die Maulwurf Company",
-    "category": "Spielzeug & LEGO",
-    "price": 17.99,
-    "checkedAt": "2026-11-19T19:32:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000MVZXFO.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T20:28:55.742Z"
-  },
-  {
     "id": "auto-b0hj4xmkh8",
     "asin": "B0HJ4XMKH8",
     "title": "FLEXISPOT Tischplatte 160x80 cm, Hochwertige einteilige …",
@@ -3481,32 +3484,6 @@
     "telegramPostedAt": "2026-11-19T19:43:34.455Z"
   },
   {
-    "id": "auto-b000kgohlm",
-    "asin": "B000KGOHLM",
-    "title": "Carhartt Beanie Hat Wintermütze -",
-    "subtitle": "🔥 111° bei mydealz",
-    "category": "Tech",
-    "price": 13.52,
-    "checkedAt": "2026-11-19T19:35:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000KGOHLM.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 111,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:43:27.969Z"
-  },
-  {
-    "id": "auto-b009i4hrdw",
-    "asin": "B009I4HRDW",
-    "title": "Brüder Mannesmann Steckschlüssel- und Bitsatz, 130-teilig [prime]",
-    "subtitle": "🔥 112° bei mydealz",
-    "category": "Tech",
-    "price": 13.39,
-    "checkedAt": "2026-11-19T19:37:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B009I4HRDW.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 112,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:43:22.770Z"
-  },
-  {
     "id": "auto-b0czxxvks7",
     "asin": "B0CZXXVKS7",
     "title": "Ninja MAX PRO AF180EUCP Heißluftfritteuse 6,2 l, 2000 W, 6 Programme, …",
@@ -3518,18 +3495,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CZXXVKS7.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T19:43:16.647Z"
-  },
-  {
-    "id": "auto-b0f4qh9f1q",
-    "asin": "B0F4QH9F1Q",
-    "title": "Anker Solix Y-Kabel 2er Pack inkl Versand Verkabelung Solarpanels BKW …",
-    "subtitle": "🔥 104° bei mydealz",
-    "category": "Tech",
-    "price": 15,
-    "checkedAt": "2026-11-19T19:24:09.000Z",
-    "image": "https://static.mydealz.de/threads/raw/WNU8q/2867798_1/re/768x768/qt/55/2867798_1.jpg",
-    "temperature": 104,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T19:28:20.285Z"
   }
 ]
