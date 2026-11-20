@@ -7,7 +7,8 @@
     "price": 17.12,
     "checkedAt": "2026-11-20T20:43:43.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CK2HC8ZH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T22:07:30.866Z"
   },
   {
     "id": "auto-b0dvzxsy7t",
@@ -17,7 +18,8 @@
     "price": 17.09,
     "checkedAt": "2026-11-20T20:47:52.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DVZXSY7T.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T22:07:24.789Z"
   },
   {
     "id": "auto-b07ymzqnvk",
@@ -86,7 +88,8 @@
     "price": 79.99,
     "checkedAt": "2026-11-20T21:08:00.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FJXZJ9N7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T22:07:16.886Z"
   },
   {
     "id": "auto-b0ffzq83fd",
