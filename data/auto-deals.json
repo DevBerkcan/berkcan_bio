@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0hcpg1zp7",
+    "asin": "B0HCPG1ZP7",
+    "title": "6x Glade Duftkerzen Twinkling Apple & Cinnamon Duft",
+    "category": "Tech",
+    "price": 16.76,
+    "checkedAt": "2026-11-20T20:33:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HCPG1ZP7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T20:37:52.201Z"
+  },
+  {
+    "id": "auto-b0dhsd643w",
+    "asin": "B0DHSD643W",
+    "title": "LEGO City - Abenteuer-Wohnmobil (60454)",
+    "category": "Spielzeug & LEGO",
+    "price": 17.09,
+    "oldPrice": 29.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-20T19:24:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DHSD643W.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T20:37:47.226Z"
+  },
+  {
     "id": "auto-b0fpxfpjfy",
     "asin": "B0FPXFPJFY",
     "title": "LEGO Icons - Golden Retriever Welpe 11384 [Prime/ Otto]",
@@ -97,7 +121,8 @@
     "price": 205.57,
     "checkedAt": "2026-11-19T23:19:42.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GGPD67DQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T20:37:56.153Z"
   },
   {
     "id": "auto-b0cklj7rsk",
@@ -3080,18 +3105,6 @@
     "telegramPostedAt": "2026-11-19T23:46:01.593Z"
   },
   {
-    "id": "queue-b0hdt94svj",
-    "asin": "B0HDT94SVJ",
-    "title": "GameSir G7 Pro 8K Wireless Esports-Controller",
-    "subtitle": "8000 Hz Abtastrate, 0,25 ms Latenz, TMR-Sticks und 4 Makro-Tasten",
-    "category": "Gaming",
-    "price": 87.99,
-    "checkedAt": "2026-11-19T20:25:52.000Z",
-    "image": "https://static.mydealz.de/threads/raw/9CG4W/2876445_1/re/768x768/qt/55/2876445_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T23:45:35.951Z"
-  },
-  {
     "id": "auto-b0flqdcr7x",
     "asin": "B0FLQDCR7X",
     "title": "Wahoo Fitness KICKR CORE 2 Indoor Fahrradtrainer mit ZWIFT COG und …",
@@ -3415,17 +3428,6 @@
     "telegramPostedAt": "2026-11-19T20:59:19.521Z"
   },
   {
-    "id": "auto-b00t7l20aq",
-    "asin": "B00T7L20AQ",
-    "title": "ON Creatin ist wieder im Angebot (Sparabo 13,49)",
-    "category": "Tech",
-    "price": 14.99,
-    "checkedAt": "2026-11-19T20:36:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00T7L20AQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T20:44:22.402Z"
-  },
-  {
     "id": "auto-b0fpxbsxw3",
     "asin": "B0FPXBSXW3",
     "title": "NESCAFÉ Frappé Typ Iced-Coffee, Frappé-Kaffeepulver mit …",
@@ -3448,18 +3450,5 @@
     "image": "https://m.media-amazon.com/images/P/B000KTAVGE.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T20:44:05.352Z"
-  },
-  {
-    "id": "auto-b0fydnts1z",
-    "asin": "B0FYDNTS1Z",
-    "title": "UGREEN Magnetisches 240 W USB-C Kabel, selbstaufwickelnd, PD 3.1, …",
-    "subtitle": "🔥 106° bei mydealz",
-    "category": "Tech",
-    "price": 12.49,
-    "checkedAt": "2026-11-19T20:22:54.000Z",
-    "image": "https://static.mydealz.de/threads/raw/LqK2u/2876073_1/re/768x768/qt/55/2876073_1.jpg",
-    "temperature": 106,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T20:28:36.991Z"
   }
 ]
