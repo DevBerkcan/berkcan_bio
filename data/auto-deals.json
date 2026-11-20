@@ -1,5 +1,26 @@
 [
   {
+    "id": "auto-b0fjxzj9n7",
+    "asin": "B0FJXZJ9N7",
+    "title": "Philips Hue Bridge + 4x E27 Smart LED Lampen (bunt)",
+    "category": "Smart Home",
+    "price": 79.99,
+    "checkedAt": "2026-11-20T21:08:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FJXZJ9N7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ffzq83fd",
+    "asin": "B0FFZQ83FD",
+    "title": "Tommy Hilfiger Herren Trunk Um0um03890 (3er Pack)",
+    "category": "Tech",
+    "price": 20.49,
+    "checkedAt": "2026-11-20T21:11:42.000Z",
+    "image": "https://static.mydealz.de/threads/raw/rXtn7/2877576_1/re/768x768/qt/55/2877576_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T21:22:32.116Z"
+  },
+  {
     "id": "auto-b0h7k5ryf4",
     "asin": "B0H7K5RYF4",
     "title": "Dyson Airwrap nachtblau / kupfer",
@@ -3252,28 +3273,6 @@
     "telegramPostedAt": "2026-11-19T22:58:53.136Z"
   },
   {
-    "id": "auto-b001u4y28g",
-    "asin": "B001U4Y28G",
-    "title": "VICTORINOX Taschenmesser \"BW Scharf\"",
-    "category": "Küche",
-    "price": 42.41,
-    "checkedAt": "2026-11-19T21:08:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B001U4Y28G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:44:13.538Z"
-  },
-  {
-    "id": "auto-b09fkg7zmv",
-    "asin": "B09FKG7ZMV",
-    "title": "RevolutionRace Herren RVRC GP Outdoor Hose -",
-    "category": "Sport & Outdoor",
-    "price": 57,
-    "checkedAt": "2026-11-19T21:09:53.000Z",
-    "image": "https://static.mydealz.de/threads/raw/fyo1f/2876482_1/re/768x768/qt/55/2876482_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:44:07.912Z"
-  },
-  {
     "id": "auto-b0bg3cnbbb",
     "asin": "B0BG3CNBBB",
     "title": "GANT Men's D2. Archive Shield Ss T-Shirt",
@@ -3423,18 +3422,5 @@
     "temperature": 112,
     "source": "auto",
     "telegramPostedAt": "2026-11-19T21:58:40.386Z"
-  },
-  {
-    "id": "auto-b002g9udyg",
-    "asin": "B002G9UDYG",
-    "title": "Carhartt Herren Strickmütze Beanie",
-    "category": "Tech",
-    "price": 14.15,
-    "oldPrice": 17.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-19T21:19:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B002G9UDYG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T21:29:06.532Z"
   }
 ]
