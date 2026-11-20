@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0dk2mjnl5",
+    "asin": "B0DK2MJNL5",
+    "title": "Bellroy Transit Workpack Pro 22l",
+    "category": "Tech",
+    "price": 186.75,
+    "checkedAt": "2026-11-20T22:21:51.000Z",
+    "image": "https://static.mydealz.de/threads/raw/jHZxO/2877602_1/re/768x768/qt/55/2877602_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T22:37:15.401Z"
+  },
+  {
+    "id": "auto-b0c59fbgg1",
+    "asin": "B0C59FBGG1",
+    "title": "SANDISK Extreme Portable SSD 4 TB - bis zu 1.050 MB/s Lesen - Monterey",
+    "category": "Computer",
+    "price": 397.58,
+    "checkedAt": "2026-11-20T22:27:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C59FBGG1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-20T22:37:05.869Z"
+  },
+  {
     "id": "auto-b0ggsk4j2n",
     "asin": "B0GGSK4J2N",
     "title": "LEGO Star Wars Adventskalender 2026 (75456)",
@@ -3346,28 +3368,6 @@
     "telegramPostedAt": "2026-11-19T23:14:18.970Z"
   },
   {
-    "id": "auto-b0gy8bs2fs",
-    "asin": "B0GY8BS2FS",
-    "title": "Insta360 Luna Ultra Must-Have-Bundle – 8K-Gimbal-Kamera mit …",
-    "category": "Foto & Video",
-    "price": 789,
-    "checkedAt": "2026-11-19T22:30:27.000Z",
-    "image": "https://static.mydealz.de/threads/raw/rSiCH/2876532_1/re/768x768/qt/55/2876532_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:58:53.136Z"
-  },
-  {
-    "id": "auto-b0bg3cnbbb",
-    "asin": "B0BG3CNBBB",
-    "title": "GANT Men's D2. Archive Shield Ss T-Shirt",
-    "category": "Mode & Reise",
-    "price": 16.86,
-    "checkedAt": "2026-11-19T22:32:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BG3CNBBB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:44:00.052Z"
-  },
-  {
     "id": "auto-b0d4dzdhz1",
     "asin": "B0D4DZDHZ1",
     "title": "Loop Experience 2 Ohrstöpsel",
@@ -3377,16 +3377,5 @@
     "image": "https://static.mydealz.de/threads/raw/5LnCi/2876537_1/re/768x768/qt/55/2876537_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-19T22:43:54.348Z"
-  },
-  {
-    "id": "auto-b0c7hf3g7k",
-    "asin": "B0C7HF3G7K",
-    "title": "JACK & JONES Herren Jjebradley Sweat Hood Noos",
-    "category": "Tech",
-    "price": 15.99,
-    "checkedAt": "2026-11-19T22:26:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C7HF3G7K.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-19T22:28:27.704Z"
   }
 ]
