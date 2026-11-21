@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0bs4c2ydx",
+    "asin": "B0BS4C2YDX",
+    "title": "X-Shot Insanity Bezerko Blaster mit 48 Schaumstoff-Darts [Entfernung …",
+    "category": "Spielzeug & LEGO",
+    "price": 13.79,
+    "checkedAt": "2026-11-21T13:18:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BS4C2YDX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T14:20:04.505Z"
+  },
+  {
+    "id": "auto-b0b7f8c35r",
+    "asin": "B0B7F8C35R",
+    "title": "ASUS Prime AP201 MicroATX Gehäuse",
+    "category": "Tech",
+    "price": 52.9,
+    "checkedAt": "2026-11-21T14:05:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B7F8C35R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T14:19:59.413Z"
+  },
+  {
+    "id": "auto-b000mlxx3s",
+    "asin": "B000MLXX3S",
+    "title": "Victorinox Angler Schweizer Taschenmesser mit 19 Funktionen |",
+    "category": "Küche",
+    "price": 32.12,
+    "oldPrice": 41,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-21T14:08:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000MLXX3S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T14:19:53.914Z"
+  },
+  {
     "id": "auto-b08mt2c6jh",
     "asin": "B08MT2C6JH",
     "title": "PJ Harvey - Stories from the City, Stories from the Sea [Vinyl LP]",
@@ -2372,17 +2407,6 @@
     "telegramPostedAt": "2026-11-20T14:49:19.676Z"
   },
   {
-    "id": "auto-b0gqvlw917",
-    "asin": "B0GQVLW917",
-    "title": "Apple iPad Air 11\" (2026), Apple M4, Liquid Retina Display, 128 GB, …",
-    "category": "Smartphone & Tablet",
-    "price": 666,
-    "checkedAt": "2026-11-20T14:09:05.000Z",
-    "image": "https://static.mydealz.de/threads/raw/cokDC/2877230_1/re/768x768/qt/55/2877230_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:34:16.993Z"
-  },
-  {
     "id": "auto-b0d9ks1yrg",
     "asin": "B0D9KS1YRG",
     "title": "Weber Traveler Compact Gasgrill [Prime]",
@@ -2405,44 +2429,5 @@
     "image": "https://m.media-amazon.com/images/P/B00BEJ77WK.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T14:34:00.082Z"
-  },
-  {
-    "id": "auto-b006u9jh3q",
-    "asin": "B006U9JH3Q",
-    "title": "Ballistol Universalöl Spray 400 ml",
-    "subtitle": "🔥 115° bei mydealz",
-    "category": "Tech",
-    "price": 8.87,
-    "checkedAt": "2026-11-20T14:10:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B006U9JH3Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 115,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:19:16.131Z"
-  },
-  {
-    "id": "auto-b0hknq75tx",
-    "asin": "B0HKNQ75TX",
-    "title": "NATURAL ELEMENTS - Proteinriegel",
-    "subtitle": "🔥 119° bei mydealz",
-    "category": "Lebensmittel & Drinks",
-    "price": 14,
-    "checkedAt": "2026-11-20T14:05:59.000Z",
-    "image": "https://static.mydealz.de/threads/raw/etG14/2877174_1/re/768x768/qt/55/2877174_1.jpg",
-    "temperature": 119,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:19:10.984Z"
-  },
-  {
-    "id": "auto-b0f9frgqq8",
-    "asin": "B0F9FRGQQ8",
-    "title": "Paladone One Piece Logo Leuchte",
-    "category": "Tech",
-    "price": 16.77,
-    "oldPrice": 25.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T14:05:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F9FRGQQ8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:19:04.139Z"
   }
 ]
