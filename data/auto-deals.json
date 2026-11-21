@@ -2035,57 +2035,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FCS5J6Z6.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T17:05:13.194Z"
-  },
-  {
-    "id": "auto-b0d7vyd33r",
-    "asin": "B0D7VYD33R",
-    "title": "Tatonka EDC Pack 30L BC Rucksack in Schwarz",
-    "subtitle": "🔥 105° bei mydealz",
-    "category": "Sport & Outdoor",
-    "price": 119.33,
-    "checkedAt": "2026-11-20T16:44:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D7VYD33R.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 105,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:50:28.969Z"
-  },
-  {
-    "id": "auto-b085drxrkk",
-    "asin": "B085DRXRKK",
-    "title": "Full Metal Jacket (4K Ultra-HD) (+ Blu-ray 2D)",
-    "subtitle": "🔥 164° bei mydealz",
-    "category": "Bücher & Filme",
-    "price": 16.14,
-    "checkedAt": "2026-11-20T16:39:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B085DRXRKK.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 164,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:50:19.364Z"
-  },
-  {
-    "id": "auto-b086pv27p2",
-    "asin": "B086PV27P2",
-    "title": "District 9 - 4K Blu-ray + Blu",
-    "subtitle": "🔥 200° bei mydealz",
-    "category": "Bücher & Filme",
-    "price": 14.97,
-    "checkedAt": "2026-11-20T16:40:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B086PV27P2.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 200,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:50:14.036Z"
-  },
-  {
-    "id": "auto-b09nzl3n6g",
-    "asin": "B09NZL3N6G",
-    "title": "Fiskars Kräuterschere, Länge: 12,9 cm",
-    "category": "Tech",
-    "price": 7.99,
-    "oldPrice": 11.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T16:42:28.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Gnd6C/2877377_1/re/768x768/qt/55/2877377_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:50:08.859Z"
   }
 ]
