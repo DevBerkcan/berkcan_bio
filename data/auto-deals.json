@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b09b2s8wkd",
+    "asin": "B09B2S8WKD",
+    "title": "Echo Show 5",
+    "category": "Amazon-Geräte",
+    "price": 64.99,
+    "checkedAt": "2026-11-21T22:15:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09B2S8WKD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T22:27:07.188Z"
+  },
+  {
     "id": "auto-b0bg5gg6mp",
     "asin": "B0BG5GG6MP",
     "title": "Gant Herren 2008006-093 Logo Sweatjacke MIT REIßVERSCHLUSS (1er Pack) …",
@@ -1712,17 +1723,6 @@
     "telegramPostedAt": "2026-11-20T22:51:57.908Z"
   },
   {
-    "id": "auto-b0dk2mjnl5",
-    "asin": "B0DK2MJNL5",
-    "title": "Bellroy Transit Workpack Pro 22l",
-    "category": "Tech",
-    "price": 186.75,
-    "checkedAt": "2026-11-20T22:21:51.000Z",
-    "image": "https://static.mydealz.de/threads/raw/jHZxO/2877602_1/re/768x768/qt/55/2877602_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T22:37:15.401Z"
-  },
-  {
     "id": "auto-b0c59fbgg1",
     "asin": "B0C59FBGG1",
     "title": "SANDISK Extreme Portable SSD 4 TB - bis zu 1.050 MB/s Lesen - Monterey",
@@ -1732,18 +1732,5 @@
     "image": "https://m.media-amazon.com/images/P/B0C59FBGG1.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T22:37:05.869Z"
-  },
-  {
-    "id": "auto-b0ggsk4j2n",
-    "asin": "B0GGSK4J2N",
-    "title": "LEGO Star Wars Adventskalender 2026 (75456)",
-    "category": "Spielzeug & LEGO",
-    "price": 22.99,
-    "oldPrice": 34.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T22:17:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GGSK4J2N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T22:22:27.261Z"
   }
 ]
