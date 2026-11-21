@@ -1,5 +1,57 @@
 [
   {
+    "id": "auto-b0gwqjrynm",
+    "asin": "B0GWQJRYNM",
+    "title": "Matratzen-Topper 80x200cm, 90x200cm - 7cm Dicke, Härte H2/H3 - mit …",
+    "category": "Tech",
+    "price": 64.59,
+    "checkedAt": "2026-11-21T20:17:36.000Z",
+    "image": "https://static.mydealz.de/threads/raw/dsLKx/2878201_1/re/768x768/qt/55/2878201_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T20:28:48.258Z"
+  },
+  {
+    "id": "auto-b0czy23dyb",
+    "asin": "B0CZY23DYB",
+    "title": "Ninja Double Stack XL Heißluftfritteuse, 9,5 L, 6-in-1, Schwarz/Kupfer",
+    "subtitle": "🔥 102° bei mydealz",
+    "category": "Küche",
+    "price": 159.99,
+    "checkedAt": "2026-11-21T20:25:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CZY23DYB.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 102,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T20:28:41.073Z"
+  },
+  {
+    "id": "auto-b01n2vxpgo",
+    "asin": "B01N2VXPGO",
+    "title": "Reebok Herren Club C 85 Sneaker 36, 36.5, 37.5, 39, 40, 42, 45.5, 46, …",
+    "subtitle": "🔥 103° bei mydealz",
+    "category": "Mode & Reise",
+    "price": 41.93,
+    "checkedAt": "2026-11-21T20:20:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01N2VXPGO.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 103,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T20:28:35.351Z"
+  },
+  {
+    "id": "auto-b0fdvz3tqw",
+    "asin": "B0FDVZ3TQW",
+    "title": "Anker Nano 70W USB C Ladegerät",
+    "subtitle": "🔥 107° bei mydealz",
+    "category": "Zubehör & Laden",
+    "price": 28.45,
+    "oldPrice": 35.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-21T20:19:47.000Z",
+    "image": "https://static.mydealz.de/threads/raw/OsY5O/2867790_1/re/768x768/qt/55/2867790_1.jpg",
+    "temperature": 107,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T20:28:30.612Z"
+  },
+  {
     "id": "auto-b0cz43567w",
     "asin": "B0CZ43567W",
     "title": "Anker Nano 240 W USB C Cable Flexible Coloured Braided [1.8 m]",
@@ -1695,29 +1747,5 @@
     "image": "https://m.media-amazon.com/images/P/B0HCPG1ZP7.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T20:37:52.201Z"
-  },
-  {
-    "id": "auto-b0fvd6xfpb",
-    "asin": "B0FVD6XFPB",
-    "title": "Gabby’s Dollhouse – Der Film DVD/Blu-ray",
-    "category": "Bücher & Filme",
-    "price": 7.47,
-    "checkedAt": "2026-11-20T20:15:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FVD6XFPB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T20:22:51.990Z"
-  },
-  {
-    "id": "auto-b07w7k3hl6",
-    "asin": "B07W7K3HL6",
-    "title": "Kabellose Tastatur Logitech MX Keys Mini for Mac",
-    "category": "Computer",
-    "price": 64.99,
-    "oldPrice": 77,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T20:20:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07W7K3HL6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T20:22:46.629Z"
   }
 ]
