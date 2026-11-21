@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b08zfh5q8l",
+    "asin": "B08ZFH5Q8L",
+    "title": "Last Action Hero (Ultra HD Blu-ray)",
+    "category": "Bücher & Filme",
+    "price": 14.27,
+    "checkedAt": "2026-11-21T19:53:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08ZFH5Q8L.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T19:59:03.688Z"
+  },
+  {
+    "id": "auto-b0fq68967j",
+    "asin": "B0FQ68967J",
+    "title": "Hisense 98 Zoll TV",
+    "category": "TV & Heimkino",
+    "price": 1169,
+    "checkedAt": "2026-11-21T19:53:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FQ68967J.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T19:58:58.062Z"
+  },
+  {
+    "id": "auto-b0h7xcfzp8",
+    "asin": "B0H7XCFZP8",
+    "title": "Mini-Saugroboter SwitchBot K11+ Pro",
+    "category": "Haushalt",
+    "price": 194.48,
+    "checkedAt": "2026-11-21T19:57:30.000Z",
+    "image": "https://static.mydealz.de/threads/raw/DbedL/2878194_1/re/768x768/qt/55/2878194_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T19:58:52.173Z"
+  },
+  {
     "id": "auto-b0785wwvm9",
     "asin": "B0785WWVM9",
     "title": "Under Armour Herren UA Tech ½ Zip Long Sleeve Shirt / Sweatshirt – …",
@@ -1605,17 +1638,6 @@
     "telegramPostedAt": "2026-11-20T21:07:48.953Z"
   },
   {
-    "id": "auto-b00295d0bk",
-    "asin": "B00295D0BK",
-    "title": "LIQUI MOLY Kunststofftiefenpfleger Auto Garten , Art.-Nr. 1536 I 500 …",
-    "category": "Licht & Garten",
-    "price": 9.95,
-    "checkedAt": "2026-11-20T19:48:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00295D0BK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T20:52:54.615Z"
-  },
-  {
     "id": "auto-b0dnffhps1",
     "asin": "B0DNFFHPS1",
     "title": "Könighaus Anti-Schimmel Heizung",
@@ -1706,27 +1728,5 @@
     "image": "https://m.media-amazon.com/images/P/B07W7K3HL6.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T20:22:46.629Z"
-  },
-  {
-    "id": "auto-b084c118y1",
-    "asin": "B084C118Y1",
-    "title": "Bio Probivia Kulturen Komplex mit 20 Mrd. KBE pro Tagesdosis",
-    "category": "Tech",
-    "price": 16.5,
-    "checkedAt": "2026-11-20T19:54:54.000Z",
-    "image": "https://static.mydealz.de/threads/raw/2kx21/2877525_1/re/768x768/qt/55/2877525_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T20:07:42.755Z"
-  },
-  {
-    "id": "auto-b07nh26t31",
-    "asin": "B07NH26T31",
-    "title": "De'Longhi Tasciugo AriaDry Multi - Luftentfeuchter - DDSX225",
-    "category": "Haushalt",
-    "price": 279,
-    "checkedAt": "2026-11-20T19:44:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07NH26T31.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T19:52:46.562Z"
   }
 ]
