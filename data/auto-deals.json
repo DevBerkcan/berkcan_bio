@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0g595w6dd",
+    "asin": "B0G595W6DD",
+    "title": "Seagate 8TB Expansion Desktop-Festplatte",
+    "category": "Computer",
+    "price": 233.99,
+    "checkedAt": "2026-11-21T20:38:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G595W6DD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T20:43:35.378Z"
+  },
+  {
+    "id": "auto-b001gtfdx8",
+    "asin": "B001GTFDX8",
+    "title": "Camel Active Vegas Herren Geldbörse Portemonnaie Schwarz Leder",
+    "category": "Mode & Reise",
+    "price": 17.43,
+    "checkedAt": "2026-11-21T20:40:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B001GTFDX8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T20:43:26.556Z"
+  },
+  {
     "id": "auto-b0gwqjrynm",
     "asin": "B0GWQJRYNM",
     "title": "Matratzen-Topper 80x200cm, 90x200cm - 7cm Dicke, Härte H2/H3 - mit …",
@@ -1703,17 +1725,6 @@
     "telegramPostedAt": "2026-11-20T21:07:48.953Z"
   },
   {
-    "id": "auto-b0dnffhps1",
-    "asin": "B0DNFFHPS1",
-    "title": "Könighaus Anti-Schimmel Heizung",
-    "category": "Tech",
-    "price": 27.3,
-    "checkedAt": "2026-11-20T20:39:18.000Z",
-    "image": "https://static.mydealz.de/threads/raw/qf4q2/2877554_1/re/768x768/qt/55/2877554_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T20:52:49.235Z"
-  },
-  {
     "id": "auto-b079j5cwsy",
     "asin": "B079J5CWSY",
     "title": "Soehnle Küchenwaage Page Compact 300, Haushaltswaage bis 5 kg …",
@@ -1723,29 +1734,5 @@
     "image": "https://m.media-amazon.com/images/P/B079J5CWSY.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T20:52:42.920Z"
-  },
-  {
-    "id": "auto-b06y3hwbvs",
-    "asin": "B06Y3HWBVS",
-    "title": "Amazon Basics E27 LED Glühbirne Warmweiß, 7W, Angebotsmenge begrenzt + …",
-    "category": "Tech",
-    "price": 7,
-    "oldPrice": 11.87,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T20:42:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06Y3HWBVS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T20:52:37.437Z"
-  },
-  {
-    "id": "auto-b0hcpg1zp7",
-    "asin": "B0HCPG1ZP7",
-    "title": "6x Glade Duftkerzen Twinkling Apple & Cinnamon Duft",
-    "category": "Tech",
-    "price": 16.76,
-    "checkedAt": "2026-11-20T20:33:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HCPG1ZP7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T20:37:52.201Z"
   }
 ]
