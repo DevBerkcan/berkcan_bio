@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0h87dhnrr",
+    "asin": "B0H87DHNRR",
+    "title": "BlueBrixx-Pro 109641 - Burg Bärenfels: Grundburg",
+    "category": "Spielzeug & LEGO",
+    "price": 85.21,
+    "checkedAt": "2026-11-21T13:26:09.000Z",
+    "image": "https://static.mydealz.de/threads/raw/01dZ2/2877987_1/re/768x768/qt/55/2877987_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T14:34:53.651Z"
+  },
+  {
+    "id": "auto-b0f6pqqzvt",
+    "asin": "B0F6PQQZVT",
+    "title": "Shark PowerDetect Clean & Empty kabelloser Staubsauger, Grau IP3225EUT",
+    "category": "Haushalt",
+    "price": 289.99,
+    "checkedAt": "2026-11-21T14:27:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F6PQQZVT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T14:34:46.705Z"
+  },
+  {
+    "id": "auto-b08jh7h1ng",
+    "asin": "B08JH7H1NG",
+    "title": "CORSAIR MM300 PRO Extended Gaming-Mauspad",
+    "category": "Gaming",
+    "price": 14.99,
+    "oldPrice": 36.79,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-21T14:24:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08JH7H1NG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T14:34:41.055Z"
+  },
+  {
     "id": "auto-b0bs4c2ydx",
     "asin": "B0BS4C2YDX",
     "title": "X-Shot Insanity Bezerko Blaster mit 48 Schaumstoff-Darts [Entfernung …",
@@ -2201,17 +2236,6 @@
     "telegramPostedAt": "2026-11-20T15:49:37.471Z"
   },
   {
-    "id": "auto-b07pqgp8b7",
-    "asin": "B07PQGP8B7",
-    "title": "Carrera FIRST Mario Kart Mario vs. Yoshi",
-    "category": "Spielzeug & LEGO",
-    "price": 20.09,
-    "checkedAt": "2026-11-20T14:22:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07PQGP8B7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:05:48.585Z"
-  },
-  {
     "id": "auto-b01bmw645o",
     "asin": "B01BMW645O",
     "title": "Hot Wheels 1:64 Die-Cast 20er Geschenkset",
@@ -2405,29 +2429,5 @@
     "image": "https://m.media-amazon.com/images/P/B09ZF7GDCJ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T14:49:19.676Z"
-  },
-  {
-    "id": "auto-b0d9ks1yrg",
-    "asin": "B0D9KS1YRG",
-    "title": "Weber Traveler Compact Gasgrill [Prime]",
-    "category": "Licht & Garten",
-    "price": 283,
-    "checkedAt": "2026-11-20T14:26:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D9KS1YRG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:34:11.094Z"
-  },
-  {
-    "id": "auto-b00bej77wk",
-    "asin": "B00BEJ77WK",
-    "title": "Russell Hobbs Cook",
-    "category": "Tech",
-    "price": 25.25,
-    "oldPrice": 32.55,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T14:26:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00BEJ77WK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:34:00.082Z"
   }
 ]
