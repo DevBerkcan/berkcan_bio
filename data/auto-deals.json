@@ -1,5 +1,42 @@
 [
   {
+    "id": "auto-b0cglpcgxf",
+    "asin": "B0CGLPCGXF",
+    "title": "Inateck Hülle mit Tastatur für iPad 11(A16)/10. Gen, Ultraleicht 427g",
+    "category": "Computer",
+    "price": 25.89,
+    "checkedAt": "2026-11-21T07:17:29.000Z",
+    "image": "https://static.mydealz.de/threads/raw/YLZtY/2877727_1/re/768x768/qt/55/2877727_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T07:24:49.247Z"
+  },
+  {
+    "id": "auto-b00rzdsrhs",
+    "asin": "B00RZDSRHS",
+    "title": "Victorinox Swiss Made Korkenzieher mit integriertem Kapselschneider",
+    "subtitle": "🔥 165° bei mydealz",
+    "category": "Tech",
+    "price": 10.35,
+    "checkedAt": "2026-11-21T07:11:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00RZDSRHS.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 165,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T07:24:42.686Z"
+  },
+  {
+    "id": "auto-b0g64ztdqd",
+    "asin": "B0G64ZTDQD",
+    "title": "UGREEN FineTrack Mini 2 Tracker für Apple Find My (nur iOS), 4 Pack …",
+    "subtitle": "🔥 246° bei mydealz",
+    "category": "Tech",
+    "price": 19.99,
+    "checkedAt": "2026-11-21T07:09:01.000Z",
+    "image": "https://static.mydealz.de/threads/raw/EBN4T/2869550_1/re/768x768/qt/55/2869550_1.jpg",
+    "temperature": 246,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T07:24:37.119Z"
+  },
+  {
     "id": "auto-b0g392645b",
     "asin": "B0G392645B",
     "title": "MicroSD Express (Ex) Karte 1TB Switch 2",
@@ -3160,30 +3197,6 @@
     "telegramPostedAt": "2026-11-20T08:18:51.904Z"
   },
   {
-    "id": "queue-b07dghm81s",
-    "asin": "B07DGHM81S",
-    "title": "Bosch Professional 12V 3,0Ah Akku",
-    "subtitle": "Mehr Laufzeit als der 2Ah-Akku für alle Bosch-12V-Geräte.",
-    "category": "Werkzeug",
-    "price": 27.59,
-    "checkedAt": "2026-11-20T07:12:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07DGHM81S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T08:18:46.458Z"
-  },
-  {
-    "id": "queue-b0ds2b3p2b",
-    "asin": "B0DS2B3P2B",
-    "title": "DJI Osmo Action 4 Essential Combo",
-    "subtitle": "Robuste Action-Cam von DJI im Essential-Combo-Paket.",
-    "category": "Foto & Video",
-    "price": 170,
-    "checkedAt": "2026-11-20T07:17:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DS2B3P2B.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T08:18:41.912Z"
-  },
-  {
     "id": "auto-b0bb7kg7lz",
     "asin": "B0BB7KG7LZ",
     "title": "Wasserkocher AEG Deli 5 K5-1-6ST",
@@ -3209,19 +3222,6 @@
     "telegramPostedAt": "2026-11-20T08:03:49.112Z"
   },
   {
-    "id": "auto-b0dqcgqk65",
-    "asin": "B0DQCGQK65",
-    "title": "Screamer Day One Edition ~ 18,99€ für PlayStation 5 (PS5) / 22,29€ für …",
-    "subtitle": "🔥 125° bei mydealz",
-    "category": "Gaming",
-    "price": 18.99,
-    "checkedAt": "2026-11-20T07:11:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQCGQK65.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 125,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T07:49:19.311Z"
-  },
-  {
     "id": "auto-b0f5b9sygt",
     "asin": "B0F5B9SYGT",
     "title": "6 Paar adidas Unisex Cushioned Crew Socks Gr 31/33 bis 49/51 Socken",
@@ -3233,18 +3233,5 @@
     "temperature": 1268,
     "source": "auto",
     "telegramPostedAt": "2026-11-20T07:34:33.606Z"
-  },
-  {
-    "id": "auto-b0bmf5ck81",
-    "asin": "B0BMF5CK81",
-    "title": "X-Sense Funk-Hitzemelder mit fest verbauter 10-Jahres-Batterie",
-    "category": "Tech",
-    "price": 20.39,
-    "oldPrice": 29.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T07:12:29.000Z",
-    "image": "https://static.mydealz.de/threads/raw/jspsx/2876730_1/re/768x768/qt/55/2876730_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T07:19:59.594Z"
   }
 ]
