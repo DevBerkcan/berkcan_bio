@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0dbhvsrz8",
+    "asin": "B0DBHVSRZ8",
+    "title": "Amazon Prime: Thermalright Phantom Spirit 120 CPU-Luftkühler",
+    "category": "Tech",
+    "price": 28.43,
+    "checkedAt": "2026-11-21T12:01:16.000Z",
+    "image": "https://static.mydealz.de/threads/raw/P8N5M/2877909_1/re/768x768/qt/55/2877909_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T12:05:48.297Z"
+  },
+  {
     "id": "auto-b0fjktgf68",
     "asin": "B0FJKTGF68",
     "title": "WORKPRO Klappbare Japansäge, SK5 Stahl Handsäge, 14 cm …",
@@ -1519,17 +1530,6 @@
     "telegramPostedAt": "2026-11-20T17:05:13.194Z"
   },
   {
-    "id": "auto-b07t54wg14",
-    "asin": "B07T54WG14",
-    "title": "Hasbro Kroko Doc –Amazon Prime Black Friday Angebot",
-    "category": "Spielzeug & LEGO",
-    "price": 12.49,
-    "checkedAt": "2026-11-20T11:52:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07T54WG14.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:21:42.790Z"
-  },
-  {
     "id": "auto-b0d7vyd33r",
     "asin": "B0D7VYD33R",
     "title": "Tatonka EDC Pack 30L BC Rucksack in Schwarz",
@@ -2575,29 +2575,5 @@
     "image": "https://m.media-amazon.com/images/P/B09C6J3Z9F.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T12:20:36.058Z"
-  },
-  {
-    "id": "auto-b0cr5fd97n",
-    "asin": "B0CR5FD97N",
-    "title": "🫨 LED-Deckenleuchte für",
-    "category": "Licht & Garten",
-    "price": 7.25,
-    "checkedAt": "2026-11-20T11:56:28.000Z",
-    "image": "https://static.mydealz.de/threads/raw/okNWA/2877108_1/re/768x768/qt/55/2877108_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T12:05:49.315Z"
-  },
-  {
-    "id": "auto-b0fjrjhrjy",
-    "asin": "B0FJRJHRJY",
-    "title": "PS5 - Sonic Racing: CrossWorlds - Exklusive Amazon-Edition",
-    "subtitle": "🔥 223° bei mydealz",
-    "category": "Gaming",
-    "price": 20.89,
-    "checkedAt": "2026-11-20T12:00:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJRJHRJY.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 223,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T12:05:41.566Z"
   }
 ]
