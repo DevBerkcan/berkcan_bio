@@ -1,5 +1,62 @@
 [
   {
+    "id": "auto-b0828l97qf",
+    "asin": "B0828L97QF",
+    "title": "NOCO GENIUS10 10A 6V/12V Autobatterie-Ladegerät & Erhaltungsladegerät",
+    "category": "Zubehör & Laden",
+    "price": 86.21,
+    "checkedAt": "2026-11-21T08:31:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0828L97QF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T13:50:34.823Z"
+  },
+  {
+    "id": "auto-b013fu3gvg",
+    "asin": "B013FU3GVG",
+    "title": "EBL wiederaufladbare Batterien AA / AAA",
+    "category": "Tech",
+    "price": 6.86,
+    "checkedAt": "2026-11-21T13:38:59.000Z",
+    "image": "https://static.mydealz.de/threads/raw/xHkbb/2877994_1/re/768x768/qt/55/2877994_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T13:50:29.394Z"
+  },
+  {
+    "id": "auto-b08n5s8cb6",
+    "asin": "B08N5S8CB6",
+    "title": "PRIME Gebraucht \"sehr gut\" Xiaomi 17 Ultra Smartphone 16+512 GB …",
+    "category": "Smartphone & Tablet",
+    "price": 880,
+    "checkedAt": "2026-11-21T13:41:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08N5S8CB6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T13:50:22.630Z"
+  },
+  {
+    "id": "auto-b0g665yvmk",
+    "asin": "B0G665YVMK",
+    "title": "Bosch Professional 18V 3er Combo-Kit",
+    "category": "Werkzeug",
+    "price": 444.99,
+    "checkedAt": "2026-11-21T13:43:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G665YVMK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T13:50:17.170Z"
+  },
+  {
+    "id": "auto-b0gsqz78lv",
+    "asin": "B0GSQZ78LV",
+    "title": "TRELOCK Fold-it Daily – Faltschloss 130 cm, Sicherheitsstufe 10, 1,0 …",
+    "category": "Tech",
+    "price": 36.29,
+    "oldPrice": 52.04,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-21T13:45:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GSQZ78LV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T13:50:11.770Z"
+  },
+  {
     "id": "auto-b003tqu1si",
     "asin": "B003TQU1SI",
     "title": "Ravensburger Puzzle Wasserfälle von Iguazu – 2000 Teile …",
@@ -2315,28 +2372,6 @@
     "telegramPostedAt": "2026-11-20T14:49:10.041Z"
   },
   {
-    "id": "auto-b0h4lllfwx",
-    "asin": "B0H4LLLFWX",
-    "title": "Philips Smart Lighting HDMI 2.1 Sync Box 8K mit vierseitigem …",
-    "category": "Smart Home",
-    "price": 97.69,
-    "checkedAt": "2026-11-20T13:40:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H4LLLFWX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:04:18.716Z"
-  },
-  {
-    "id": "auto-b0002yym9e",
-    "asin": "B0002YYM9E",
-    "title": "KNIPEX Alligator Wasserpumpenzange, 250 mm, Muttern bis 46 mm, 88 01 …",
-    "category": "Werkzeug",
-    "price": 13.97,
-    "checkedAt": "2026-11-20T13:49:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0002YYM9E.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:49:14.268Z"
-  },
-  {
     "id": "auto-b0gqvlw917",
     "asin": "B0GQVLW917",
     "title": "Apple iPad Air 11\" (2026), Apple M4, Liquid Retina Display, 128 GB, …",
@@ -2433,19 +2468,6 @@
     "telegramPostedAt": "2026-11-20T14:34:21.388Z"
   },
   {
-    "id": "auto-b0d7lxs2b5",
-    "asin": "B0D7LXS2B5",
-    "title": "Bosch Professional GBS 750 Bandschleifer, 850 W, 75 mm Band, …",
-    "subtitle": "🔥 124° bei mydealz",
-    "category": "Werkzeug",
-    "price": 111.99,
-    "checkedAt": "2026-11-20T13:47:57.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D7LXS2B5.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 124,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:04:11.641Z"
-  },
-  {
     "id": "auto-b0cl8svphx",
     "asin": "B0CL8SVPHX",
     "title": "Indiana Jones und das Rad des Schicksals [Blu-ray]",
@@ -2457,44 +2479,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CL8SVPHX.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T14:03:57.238Z"
-  },
-  {
-    "id": "auto-b0fgdrjmzv",
-    "asin": "B0FGDRJMZV",
-    "title": "Victorinox Swiss Classic Gemüsemesser-Set",
-    "subtitle": "🔥 103° bei mydealz",
-    "category": "Küche",
-    "price": 12.79,
-    "checkedAt": "2026-11-20T13:40:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FGDRJMZV.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 103,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:04:15.836Z"
-  },
-  {
-    "id": "auto-b01jbrnzli",
-    "asin": "B01JBRNZLI",
-    "title": "Drake - Views [Vinyl LP / 2 LPs] 2016 - mit \"One Dance\", \"Controlla\" & …",
-    "category": "Tech",
-    "price": 29.99,
-    "oldPrice": 37.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T13:43:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01JBRNZLI.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:04:01.810Z"
-  },
-  {
-    "id": "auto-b0999j73wt",
-    "asin": "B0999J73WT",
-    "title": "Uvex Gravel X deep space/silver - Fahrradhelm",
-    "category": "Sport & Outdoor",
-    "price": 35.64,
-    "oldPrice": 78.85,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T13:38:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0999J73WT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T13:49:12.544Z"
   }
 ]
