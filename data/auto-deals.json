@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b08mt2c6jh",
+    "asin": "B08MT2C6JH",
+    "title": "PJ Harvey - Stories from the City, Stories from the Sea [Vinyl LP]",
+    "subtitle": "🔥 231° bei mydealz",
+    "category": "Tech",
+    "price": 17.59,
+    "checkedAt": "2026-11-21T13:56:01.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08MT2C6JH.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 231,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T14:05:15.119Z"
+  },
+  {
     "id": "auto-b0828l97qf",
     "asin": "B0828L97QF",
     "title": "NOCO GENIUS10 10A 6V/12V Autobatterie-Ladegerät & Erhaltungsladegerät",
@@ -2359,19 +2372,6 @@
     "telegramPostedAt": "2026-11-20T14:49:19.676Z"
   },
   {
-    "id": "auto-b0bqytxdkr",
-    "asin": "B0BQYTXDKR",
-    "title": "Sammeldeal: Ferngesteuerte Carrera RC Mario Kart ab",
-    "category": "Spielzeug & LEGO",
-    "price": 28.49,
-    "oldPrice": 40.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T14:02:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BQYTXDKR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:49:10.041Z"
-  },
-  {
     "id": "auto-b0gqvlw917",
     "asin": "B0GQVLW917",
     "title": "Apple iPad Air 11\" (2026), Apple M4, Liquid Retina Display, 128 GB, …",
@@ -2444,40 +2444,5 @@
     "image": "https://m.media-amazon.com/images/P/B0F9FRGQQ8.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T14:19:04.139Z"
-  },
-  {
-    "id": "auto-b0djr4zj2t",
-    "asin": "B0DJR4ZJ2T",
-    "title": "Haier FD 70 Serie 3 HFR3718ENMM French-Door-Kühl-/Gefrierkombi, 402 L, …",
-    "category": "Tech",
-    "price": 629.99,
-    "checkedAt": "2026-11-20T13:55:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJR4ZJ2T.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:04:14.176Z"
-  },
-  {
-    "id": "auto-b0cjjt2mx7",
-    "asin": "B0CJJT2MX7",
-    "title": "HEAD Women's I-Peak 2.0 Joy Cross Bike, Matt Grey/Mint - Fahrrad",
-    "category": "Sport & Outdoor",
-    "price": 274.26,
-    "checkedAt": "2026-11-20T14:03:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CJJT2MX7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:34:21.388Z"
-  },
-  {
-    "id": "auto-b0cl8svphx",
-    "asin": "B0CL8SVPHX",
-    "title": "Indiana Jones und das Rad des Schicksals [Blu-ray]",
-    "category": "Bücher & Filme",
-    "price": 6.08,
-    "oldPrice": 9.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T13:50:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CL8SVPHX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:03:57.238Z"
   }
 ]
