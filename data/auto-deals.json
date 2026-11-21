@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b08khlw7tx",
+    "asin": "B08KHLW7TX",
+    "title": "ThinkFun Gravity Maze - Logikspiel ab 8 Jahre, Spiel ab 1 Spieler",
+    "category": "Spielzeug & LEGO",
+    "price": 13.49,
+    "checkedAt": "2026-11-21T06:56:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08KHLW7TX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T08:08:45.749Z"
+  },
+  {
     "id": "auto-b0ck1v24gw",
     "asin": "B0CK1V24GW",
     "title": "Playmobil Action Heroes - Feuerwehrmotorrad am Unfallort",
@@ -693,17 +704,6 @@
     "image": "https://m.media-amazon.com/images/P/B08SWFRPJS.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T19:07:22.217Z"
-  },
-  {
-    "id": "auto-b0dj2xpptj",
-    "asin": "B0DJ2XPPTJ",
-    "title": "LEDVANCE Decor Fuji 4-flammige LED-Pendelleuchte, schwarz, 120,5 cm, …",
-    "category": "Smart Home",
-    "price": 29.98,
-    "checkedAt": "2026-11-20T07:55:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJ2XPPTJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T19:37:56.253Z"
   },
   {
     "id": "auto-b0dv9wbjz7",
@@ -2402,18 +2402,6 @@
     "telegramPostedAt": "2026-11-20T12:05:41.566Z"
   },
   {
-    "id": "queue-b0flk9d5nj",
-    "asin": "B0FLK9D5NJ",
-    "title": "ULTIMEA Skywave X40 5.1.2 Soundsystem 530W",
-    "subtitle": "Kabelloses Surround-System mit HDMI eARC und 5-GHz-Funk",
-    "category": "TV & Heimkino",
-    "price": 299,
-    "checkedAt": "2026-11-20T07:58:57.000Z",
-    "image": "https://static.mydealz.de/threads/raw/lGX34/2876791_1/re/768x768/qt/55/2876791_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T12:05:19.902Z"
-  },
-  {
     "id": "auto-b0d318qdgn",
     "asin": "B0D318QDGN",
     "title": "Bessey BEYCEPS Einhand-Montagewerkzeug",
@@ -2626,18 +2614,6 @@
     "image": "https://m.media-amazon.com/images/P/B07W5JKB8Z.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T11:19:58.991Z"
-  },
-  {
-    "id": "queue-b0fych5hzb",
-    "asin": "B0FYCH5HZB",
-    "title": "Shokz OpenFit Pro Open-Ear-Kopfhörer",
-    "subtitle": "Offene Bauweise mit Open-Ear-Geräuschreduzierung, stabiler Sitz beim Sport",
-    "category": "Audio",
-    "price": 209,
-    "checkedAt": "2026-11-20T07:57:13.000Z",
-    "image": "https://static.mydealz.de/threads/raw/u3LN7/2876790_1/re/768x768/qt/55/2876790_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:19:49.999Z"
   },
   {
     "id": "queue-b0bw15d2fs",
@@ -3168,18 +3144,5 @@
     "image": "https://static.mydealz.de/threads/raw/FKvgz/2876800_1/re/768x768/qt/55/2876800_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T08:19:11.005Z"
-  },
-  {
-    "id": "auto-b0bb7kg7lz",
-    "asin": "B0BB7KG7LZ",
-    "title": "Wasserkocher AEG Deli 5 K5-1-6ST",
-    "category": "Küche",
-    "price": 47.45,
-    "oldPrice": 64,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T07:59:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BB7KG7LZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T08:04:16.961Z"
   }
 ]
