@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b00u2kibek",
+    "asin": "B00U2KIBEK",
+    "title": "Prime - Spar-Abo",
+    "category": "Tech",
+    "price": 12.12,
+    "checkedAt": "2026-11-21T08:42:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00U2KIBEK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T08:53:06.313Z"
+  },
+  {
+    "id": "auto-b0916yhdy1",
+    "asin": "B0916YHDY1",
+    "title": "Karak Kosmos Brettspiel",
+    "category": "Spielzeug & LEGO",
+    "price": 17.29,
+    "checkedAt": "2026-11-21T08:50:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0916YHDY1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T08:53:00.675Z"
+  },
+  {
     "id": "auto-b0g7lfxy3n",
     "asin": "B0G7LFXY3N",
     "title": "PLAYMOBIL 72112 Große Löwenritterburg – 183 Teile, 3 Ritter, ab 4 …",
@@ -1070,17 +1092,6 @@
     "image": "https://m.media-amazon.com/images/P/B0BWFNBJ7C.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T17:36:44.693Z"
-  },
-  {
-    "id": "auto-b087vhvhcv",
-    "asin": "B087VHVHCV",
-    "title": "Philips Nasentrimmer 5000 Serie, Effiziente Haarentfernung für Nase, …",
-    "category": "Beauty & Pflege",
-    "price": 16.99,
-    "checkedAt": "2026-11-20T08:46:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B087VHVHCV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T19:22:51.887Z"
   },
   {
     "id": "auto-b088mlzpms",
@@ -2977,32 +2988,6 @@
     "telegramPostedAt": "2026-11-20T10:03:48.488Z"
   },
   {
-    "id": "auto-b0cllrghd9",
-    "asin": "B0CLLRGHD9",
-    "title": "Steiff Gin Schlange 130 cm Plüschtier",
-    "category": "Lebensmittel & Drinks",
-    "price": 27.54,
-    "oldPrice": 35,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T08:43:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CLLRGHD9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T10:03:42.303Z"
-  },
-  {
-    "id": "auto-b0h4m5frzy",
-    "asin": "B0H4M5FRZY",
-    "title": "Playmobil WWE Figuren Set 210527",
-    "category": "Spielzeug & LEGO",
-    "price": 34.98,
-    "oldPrice": 54.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T08:44:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H4M5FRZY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T10:03:36.579Z"
-  },
-  {
     "id": "auto-b0dqttn97k",
     "asin": "B0DQTTN97K",
     "title": "Surface Pro 13\" OLED (16GB/256GB) 1.099€ / Bundle 1.299€",
@@ -3066,18 +3051,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DWND2T6F.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T09:04:08.598Z"
-  },
-  {
-    "id": "auto-b06y2mrtpg",
-    "asin": "B06Y2MRTPG",
-    "title": "SANTOS Gusseisenpfanne 25 cm - Runde Grillpfanne für Gasgrill, …",
-    "category": "Küche",
-    "price": 9.75,
-    "oldPrice": 25.89,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T08:39:15.000Z",
-    "image": "https://static.mydealz.de/threads/raw/pUHNk/2876838_1/re/768x768/qt/55/2876838_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T08:49:16.269Z"
   }
 ]
