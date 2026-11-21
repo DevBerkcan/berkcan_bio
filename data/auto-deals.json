@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0785wwvm9",
+    "asin": "B0785WWVM9",
+    "title": "Under Armour Herren UA Tech ½ Zip Long Sleeve Shirt / Sweatshirt – …",
+    "category": "Mode & Reise",
+    "price": 22.5,
+    "checkedAt": "2026-11-21T19:14:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0785WWVM9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T19:29:42.609Z"
+  },
+  {
+    "id": "auto-b07ztj4pfj",
+    "asin": "B07ZTJ4PFJ",
+    "title": "Stanley FAT MAX Trockenbauschleifer",
+    "category": "Tech",
+    "price": 122.55,
+    "checkedAt": "2026-11-21T19:19:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07ZTJ4PFJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T19:29:37.151Z"
+  },
+  {
     "id": "auto-b0h9y8b877",
     "asin": "B0H9Y8B877",
     "title": "BASEUS PicoGo Pro AH22 100W USB C Profi-Ladegerät, Display, Smart …",
@@ -1640,19 +1662,6 @@
     "telegramPostedAt": "2026-11-20T20:37:52.201Z"
   },
   {
-    "id": "auto-b0dhsd643w",
-    "asin": "B0DHSD643W",
-    "title": "LEGO City - Abenteuer-Wohnmobil (60454)",
-    "category": "Spielzeug & LEGO",
-    "price": 17.09,
-    "oldPrice": 29.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T19:24:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHSD643W.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T20:37:47.226Z"
-  },
-  {
     "id": "auto-b0chw1vryr",
     "asin": "B0CHW1VRYR",
     "title": "Harry Potter Socken Adventskalender",
@@ -1719,40 +1728,5 @@
     "image": "https://m.media-amazon.com/images/P/B07NH26T31.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T19:52:46.562Z"
-  },
-  {
-    "id": "auto-b0cklj7rsk",
-    "asin": "B0CKLJ7RSK",
-    "title": "Helles Pülleken 18 x 0.33l Dose mild & süffig",
-    "category": "Tech",
-    "price": 10.91,
-    "checkedAt": "2026-11-20T19:25:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CKLJ7RSK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T19:37:43.021Z"
-  },
-  {
-    "id": "auto-b07tmrrp94",
-    "asin": "B07TMRRP94",
-    "title": "Shining (4K Ultra-HD) + Blu-ray",
-    "category": "Bücher & Filme",
-    "price": 16.55,
-    "checkedAt": "2026-11-20T19:19:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07TMRRP94.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T19:22:38.310Z"
-  },
-  {
-    "id": "auto-b0d6wkzwhl",
-    "asin": "B0D6WKZWHL",
-    "title": "Träumegut24 7-Zonen-Kaltschaummatratze – H2 & H3, OEKO-TEX,",
-    "subtitle": "🔥 100° bei mydealz",
-    "category": "Tech",
-    "price": 80.66,
-    "checkedAt": "2026-11-20T19:16:11.000Z",
-    "image": "https://static.mydealz.de/threads/raw/cu5en/2875605_1/re/768x768/qt/55/2875605_1.jpg",
-    "temperature": 100,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T19:22:32.815Z"
   }
 ]
