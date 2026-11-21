@@ -1,5 +1,42 @@
 [
   {
+    "id": "auto-b09b1vq121",
+    "asin": "B09B1VQ121",
+    "title": "Oclean Flow elektrische Zahnbürste",
+    "category": "Beauty & Pflege",
+    "price": 19.8,
+    "checkedAt": "2026-11-21T23:05:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09B1VQ121.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T23:11:14.409Z"
+  },
+  {
+    "id": "auto-b0dzqmz7dc",
+    "asin": "B0DZQMZ7DC",
+    "title": "Pepsi Zero Zucker Mango 24 x 0,33 l",
+    "subtitle": "🔥 102° bei mydealz",
+    "category": "Tech",
+    "price": 14.99,
+    "checkedAt": "2026-11-21T22:58:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DZQMZ7DC.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 102,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T23:11:09.269Z"
+  },
+  {
+    "id": "auto-b0dhrwt38p",
+    "asin": "B0DHRWT38P",
+    "title": "Burnhard RAGNAR Küchenmesser Grillmesser Pakkaholzgriff 20cm",
+    "subtitle": "🔥 105° bei mydealz",
+    "category": "Küche",
+    "price": 34.13,
+    "checkedAt": "2026-11-21T23:01:17.000Z",
+    "image": "https://static.mydealz.de/threads/raw/BFxLh/2870897_1/re/768x768/qt/55/2870897_1.jpg",
+    "temperature": 105,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T23:11:03.769Z"
+  },
+  {
     "id": "auto-b07k35jgcf",
     "asin": "B07K35JGCF",
     "title": "adidas Unisex Adilette Aqua SlidesRUTSCHEN",
