@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0g392645b",
+    "asin": "B0G392645B",
+    "title": "MicroSD Express (Ex) Karte 1TB Switch 2",
+    "category": "Computer",
+    "price": 186.99,
+    "checkedAt": "2026-11-21T06:58:25.000Z",
+    "image": "https://static.mydealz.de/threads/raw/PYVhL/2877716_1/re/768x768/qt/55/2877716_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T07:09:50.469Z"
+  },
+  {
+    "id": "auto-b0fx9c5qvj",
+    "asin": "B0FX9C5QVJ",
+    "title": "GL.iNet GL-BE6500 Flint 3e Wi-Fi 7 Router mit VPN für Heim und Gaming",
+    "category": "Computer",
+    "price": 120.24,
+    "checkedAt": "2026-11-21T07:01:28.000Z",
+    "image": "https://static.mydealz.de/threads/raw/TcUkr/2877717_1/re/768x768/qt/55/2877717_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T07:09:44.432Z"
+  },
+  {
+    "id": "auto-b0hb4f8q46",
+    "asin": "B0HB4F8Q46",
+    "title": "DJI Osmo 360 II Essential Combo mit 8K/60fps",
+    "category": "Foto & Video",
+    "price": 559,
+    "checkedAt": "2026-11-21T07:04:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HB4F8Q46.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T07:09:38.073Z"
+  },
+  {
+    "id": "auto-b0f8vmx2vp",
+    "asin": "B0F8VMX2VP",
+    "title": "Tineco FLOOR ONE Switch S7 Stretch 5-in-1 Nass-Trockensauger & …",
+    "category": "Haushalt",
+    "price": 399,
+    "checkedAt": "2026-11-21T07:09:00.000Z",
+    "image": "https://static.mydealz.de/threads/raw/wYF3D/2877722_1/re/768x768/qt/55/2877722_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T07:09:32.669Z"
+  },
+  {
     "id": "auto-b0bwflzwdf",
     "asin": "B0BWFLZWDF",
     "title": "L'Oréal Men Expert für Männer, Geschenkset mit XXL Duschgel Barber …",
@@ -557,17 +601,6 @@
     "temperature": 100,
     "source": "auto",
     "telegramPostedAt": "2026-11-20T19:22:32.815Z"
-  },
-  {
-    "id": "auto-b0f8bt9lmz",
-    "asin": "B0F8BT9LMZ",
-    "title": "Meross Matter Smart Rolladenschalter WLAN 55x55mm, 1 Stück",
-    "category": "Smart Home",
-    "price": 29.75,
-    "checkedAt": "2026-11-20T06:59:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F8BT9LMZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T19:38:00.502Z"
   },
   {
     "id": "auto-b08hj59l4s",
@@ -2297,18 +2330,6 @@
     "temperature": 223,
     "source": "auto",
     "telegramPostedAt": "2026-11-20T12:05:41.566Z"
-  },
-  {
-    "id": "queue-b0dzh8zrd6",
-    "asin": "B0DZH8ZRD6",
-    "title": "Nanoleaf Matter Smart Stehlampe RGBIC",
-    "subtitle": "72 RGBIC-LEDs, bis 1700 Lumen, Matter-kompatibel",
-    "category": "Licht & Garten",
-    "price": 59.99,
-    "checkedAt": "2026-11-20T07:03:34.000Z",
-    "image": "https://static.mydealz.de/threads/raw/hRw70/2876728_1/re/768x768/qt/55/2876728_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T12:05:25.341Z"
   },
   {
     "id": "queue-b0flk9d5nj",
