@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0dyd7thp7",
+    "asin": "B0DYD7THP7",
+    "title": "Im Westen nichts Neues (4K UHD) (Dolby Atmos, HDR10)",
+    "category": "Bücher & Filme",
+    "price": 12.79,
+    "checkedAt": "2026-11-21T21:14:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DYD7THP7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T21:27:34.530Z"
+  },
+  {
     "id": "auto-b0746qvbr8",
     "asin": "B0746QVBR8",
     "title": "Bosch PRO Akku-Bauleuchte GLI 18V-300",
@@ -1646,17 +1657,6 @@
     "telegramPostedAt": "2026-11-20T21:52:12.999Z"
   },
   {
-    "id": "auto-b01akyxukc",
-    "asin": "B01AKYXUKC",
-    "title": "Beurer UB 75 & UB 90 Wärmeunterbett",
-    "category": "Tech",
-    "price": 49.99,
-    "checkedAt": "2026-11-20T21:25:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01AKYXUKC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T21:52:29.024Z"
-  },
-  {
     "id": "auto-b08sbg9d8z",
     "asin": "B08SBG9D8Z",
     "title": "Bosch elektrischer Laubsauger/Laubbläser Universal GardenTidy 3000",
@@ -1677,18 +1677,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GX2JH4GC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T21:52:18.288Z"
-  },
-  {
-    "id": "auto-b0f62s8p1t",
-    "asin": "B0F62S8P1T",
-    "title": "UGREEN 240 W USB-C Kabel mit Digital-Display, PD 3.1, E-Marker, 1 m, …",
-    "subtitle": "🔥 123° bei mydealz",
-    "category": "Tech",
-    "price": 10.16,
-    "checkedAt": "2026-11-20T21:23:34.000Z",
-    "image": "https://static.mydealz.de/threads/raw/LvGH2/2875241_1/re/768x768/qt/55/2875241_1.jpg",
-    "temperature": 123,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T21:37:15.059Z"
   }
 ]
