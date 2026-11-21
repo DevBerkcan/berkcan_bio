@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b082td4r4l",
+    "asin": "B082TD4R4L",
+    "title": "Einhell Original Starter Kit PXC 2,5 Ah 18 Volt Akku + Ladegerät",
+    "category": "Werkzeug",
+    "price": 14.99,
+    "checkedAt": "2026-11-21T10:36:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B082TD4R4L.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T10:51:23.598Z"
+  },
+  {
     "id": "auto-b000futqn2",
     "asin": "B000FUTQN2",
     "title": "BRIO World Goldene Batterielok mit Licht und Sound - Spielzeug ab 3 …",
@@ -2643,39 +2654,6 @@
     "telegramPostedAt": "2026-11-20T11:20:15.867Z"
   },
   {
-    "id": "auto-b0cdcnqjzl",
-    "asin": "B0CDCNQJZL",
-    "title": "Terminator: Resistance COMPLETE COLLECTOR’S Edition - /Xbox Series X",
-    "category": "Gaming",
-    "price": 43.25,
-    "checkedAt": "2026-11-20T10:37:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CDCNQJZL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:04:20.055Z"
-  },
-  {
-    "id": "auto-b00008xwo7",
-    "asin": "B00008XWO7",
-    "title": "WMF Profi Plus Kartoffelschäler Pendelklinge 19 cm",
-    "category": "Tech",
-    "price": 9.99,
-    "checkedAt": "2026-11-20T10:40:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00008XWO7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:04:14.708Z"
-  },
-  {
-    "id": "auto-b0fmy8yhcc",
-    "asin": "B0FMY8YHCC",
-    "title": "Samsung Odyssey G7 G75F 37” Curved Gaming-Monitor – 4K UHD, 165 Hz, 1 …",
-    "category": "Computer",
-    "price": 399,
-    "checkedAt": "2026-11-20T10:48:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FMY8YHCC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:04:08.801Z"
-  },
-  {
     "id": "auto-b0gsgwwkhy",
     "asin": "B0GSGWWKHY",
     "title": "LG 65NU8E0B3LA Nano 4K UHD TV, 65 Zoll",
@@ -2685,44 +2663,5 @@
     "image": "https://static.mydealz.de/threads/raw/zxN7g/2877035_1/re/768x768/qt/55/2877035_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T11:04:03.441Z"
-  },
-  {
-    "id": "auto-b00nc1wz84",
-    "asin": "B00NC1WZ84",
-    "title": "Bosch Professional Werkzeugtasche groß",
-    "subtitle": "🔥 104° bei mydealz",
-    "category": "Werkzeug",
-    "price": 20,
-    "checkedAt": "2026-11-20T10:40:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00NC1WZ84.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 104,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T10:49:06.671Z"
-  },
-  {
-    "id": "auto-b08wdmxsry",
-    "asin": "B08WDMXSRY",
-    "title": "Snickers Creamy Peanut Butter Großpackung (24er-Pack)",
-    "category": "Tech",
-    "price": 11.7,
-    "oldPrice": 18,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T10:42:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08WDMXSRY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T10:49:00.580Z"
-  },
-  {
-    "id": "auto-b0g43c71hs",
-    "asin": "B0G43C71HS",
-    "title": "4er-Pack | UGREEN HDMI Dummy Plug - 4K",
-    "subtitle": "🔥 804° bei mydealz",
-    "category": "Tech",
-    "price": 8.27,
-    "checkedAt": "2026-11-20T10:39:38.000Z",
-    "image": "https://static.mydealz.de/threads/raw/PX2a9/2837618_1/re/768x768/qt/55/2837618_1.jpg",
-    "temperature": 804,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T10:48:55.013Z"
   }
 ]
