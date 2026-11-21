@@ -1,25 +1,101 @@
 [
   {
-    "id": "auto-b096y59z7r",
+    "id": "auto-b000xg4w5k",
+    "asin": "B000XG4W5K",
+    "title": "WMF Kochtopf 6,5l Induktion Fleischtopf",
+    "category": "Küche",
+    "price": 38.49,
+    "checkedAt": "2026-11-21T12:41:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000XG4W5K.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T12:50:43.620Z"
+  },
+  {
+    "id": "auto-b0gmrlt6yg",
+    "asin": "B0GMRLT6YG",
+    "title": "Samsung microSD T7, 128 GB, MB-MB128T/WW",
+    "category": "Computer",
+    "price": 25.99,
+    "checkedAt": "2026-11-21T12:44:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GMRLT6YG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T12:50:38.567Z"
+  },
+  {
+    "id": "auto-b0bqmg1t6p",
+    "asin": "B0BQMG1T6P",
+    "title": "AEG 18 V Pro18V Akku-Handstaubsauger BHSS18C-0",
+    "category": "Haushalt",
+    "price": 38.99,
+    "checkedAt": "2026-11-21T12:47:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BQMG1T6P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T12:50:33.497Z"
+  },
+  {
+    "id": "auto-b0c5jwwwp3",
+    "asin": "B0C5JWWWP3",
+    "title": "Home Pilot RolloTron Classic Minigurt: Elektrischer Gurtwickler für …",
+    "category": "Tech",
+    "price": 68.84,
+    "oldPrice": 98.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-21T12:37:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C5JWWWP3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T12:50:28.443Z"
+  },
+  {
+    "id": "auto-b0f9vwsrtz",
+    "asin": "B0F9VWSRTZ",
+    "title": "Apache 207 - 21 Gramm - 2LP Vinyl |",
+    "subtitle": "🔥 148° bei mydealz",
+    "category": "Tech",
+    "price": 18.99,
+    "oldPrice": 27.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-21T12:44:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F9VWSRTZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 148,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T12:50:23.471Z"
+  },
+  {
+    "id": "auto-b099x4ph62",
+    "asin": "B099X4PH62",
+    "title": "ABUS Pro Shield XPlus 5955 Rahmenschloss-Set",
+    "category": "Tech",
+    "price": 44.64,
+    "oldPrice": 84.07,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-21T12:42:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B099X4PH62.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T12:50:18.368Z"
+  },
+  {
+    "id": "queue-b0csknxs2d",
+    "asin": "B0CSKNXS2D",
+    "title": "Wiha Essential Feinmechaniker-Schraubendreher-Set 7-tlg.",
+    "subtitle": "Präzisionsschraubendreher mit ergonomischer Drehkappe, inklusive Tasche.",
+    "category": "Werkzeug",
+    "price": 9.99,
+    "checkedAt": "2026-11-21T12:30:00.000Z",
+    "image": "https://static.mydealz.de/threads/raw/4PokH/2877927_1/re/768x768/qt/55/2877927_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T12:50:03.323Z"
+  },
+  {
+    "id": "queue-b096y59z7r",
     "asin": "B096Y59Z7R",
-    "title": "Gaming Laptop MSI Cyborg, RTX5060, 1TB SSD, Intel Core 7, 144hz",
+    "title": "MSI Cyborg 15 Gaming-Laptop, RTX 5060, 1 TB SSD, 144 Hz",
+    "subtitle": "Intel Core 7 240H mit 10 Kernen, RTX 5060 und 144-Hz-Display fürs Gaming.",
     "category": "Computer",
     "price": 1079,
     "checkedAt": "2026-11-21T12:27:39.000Z",
     "image": "https://m.media-amazon.com/images/P/B096Y59Z7R.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
-    "telegramPostedAt": "2026-11-21T12:35:37.543Z"
-  },
-  {
-    "id": "auto-b0csknxs2d",
-    "asin": "B0CSKNXS2D",
-    "title": "Wiha Essential Feinmechaniker Schraubendreher Set 7-tlg. In Tasche …",
-    "category": "Tech",
-    "price": 9.99,
-    "checkedAt": "2026-11-21T12:30:00.000Z",
-    "image": "https://static.mydealz.de/threads/raw/4PokH/2877927_1/re/768x768/qt/55/2877927_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T12:35:32.149Z"
+    "telegramPostedAt": "2026-11-21T12:49:58.198Z"
   },
   {
     "id": "auto-b0h9ymqgss",
@@ -1661,17 +1737,6 @@
     "telegramPostedAt": "2026-11-20T16:50:08.859Z"
   },
   {
-    "id": "auto-b0dj19tn6f",
-    "asin": "B0DJ19TN6F",
-    "title": "12er Star Wars Bitty Pops",
-    "category": "Spielzeug & LEGO",
-    "price": 21,
-    "checkedAt": "2026-11-20T12:37:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJ19TN6F.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:21:37.468Z"
-  },
-  {
     "id": "auto-b0f63by78j",
     "asin": "B0F63BY78J",
     "title": "Fischer E-Bike City CITA 2403 Active Elektrofahrrad für Damen und …",
@@ -2516,29 +2581,5 @@
     "temperature": 210,
     "source": "auto",
     "telegramPostedAt": "2026-11-20T13:05:15.832Z"
-  },
-  {
-    "id": "auto-b08556xv39",
-    "asin": "B08556XV39",
-    "title": "Bialetti New Venus Induction Espressokocher [induktionsgeeignet] aus …",
-    "category": "Küche",
-    "price": 21.79,
-    "checkedAt": "2026-11-20T12:40:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08556XV39.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T12:50:34.669Z"
-  },
-  {
-    "id": "auto-b0c7hdkqf5",
-    "asin": "B0C7HDKQF5",
-    "title": "JACK & JONES Herren Kapuzenpullover – versch. Farben",
-    "subtitle": "🔥 119° bei mydealz",
-    "category": "Tech",
-    "price": 15.19,
-    "checkedAt": "2026-11-20T12:39:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C7HDKQF5.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 119,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T12:50:23.083Z"
   }
 ]
