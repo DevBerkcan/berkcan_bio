@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0ck1v24gw",
+    "asin": "B0CK1V24GW",
+    "title": "Playmobil Action Heroes - Feuerwehrmotorrad am Unfallort",
+    "category": "Spielzeug & LEGO",
+    "price": 6.79,
+    "checkedAt": "2026-11-21T06:47:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CK1V24GW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T07:54:06.443Z"
+  },
+  {
+    "id": "auto-b0b3wtjl5m",
+    "asin": "B0B3WTJL5M",
+    "title": "SONGMICS Aktenschrank, Doppeltüren, Schloss, 5 Ebenen, 80x40x180 cm",
+    "category": "Tech",
+    "price": 105.9,
+    "checkedAt": "2026-11-21T07:39:55.000Z",
+    "image": "https://static.mydealz.de/threads/raw/k7uxi/2877736_1/re/768x768/qt/55/2877736_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T07:54:01.278Z"
+  },
+  {
+    "id": "auto-b002vpupma",
+    "asin": "B002VPUPMA",
+    "title": "Cointreau Orangenlikör 1x 0,7l mit 40% Vol.",
+    "category": "Tech",
+    "price": 13.95,
+    "checkedAt": "2026-11-21T07:50:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B002VPUPMA.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T07:53:54.962Z"
+  },
+  {
     "id": "auto-b0cglpcgxf",
     "asin": "B0CGLPCGXF",
     "title": "Inateck Hülle mit Tastatur für iPad 11(A16)/10. Gen, Ultraleicht 427g",
@@ -2381,18 +2414,6 @@
     "telegramPostedAt": "2026-11-20T12:05:19.902Z"
   },
   {
-    "id": "queue-b0bgktzp1w",
-    "asin": "B0BGKTZP1W",
-    "title": "Einhell E-Case Tower Werkzeug-Koffersystem",
-    "subtitle": "Stapelbares Koffersystem für Werkzeug und Zubehör",
-    "category": "Werkzeug",
-    "price": 87.99,
-    "checkedAt": "2026-11-20T07:47:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BGKTZP1W.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T12:05:14.334Z"
-  },
-  {
     "id": "auto-b0d318qdgn",
     "asin": "B0D318QDGN",
     "title": "Bessey BEYCEPS Einhand-Montagewerkzeug",
@@ -3123,18 +3144,6 @@
     "telegramPostedAt": "2026-11-20T08:49:16.269Z"
   },
   {
-    "id": "queue-b0cn8jdyrq",
-    "asin": "B0CN8JDYRQ",
-    "title": "Samsung Powerbank EB-U2510 10.000 mAh 25W",
-    "subtitle": "Powerbank mit 25 W und induktiver Ladefunktion fürs Smartphone.",
-    "category": "Zubehör & Laden",
-    "price": 14.99,
-    "checkedAt": "2026-11-20T07:50:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CN8JDYRQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T08:48:39.890Z"
-  },
-  {
     "id": "auto-b08l5phq89",
     "asin": "B08L5PHQ89",
     "title": "Carrera FIRST Mario Kart Yoshi",
@@ -3172,17 +3181,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BB7KG7LZ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T08:04:16.961Z"
-  },
-  {
-    "id": "queue-b0hbvfcydy",
-    "asin": "B0HBVFCYDY",
-    "title": "NARWAL Flow 2 Saug-Wischroboter 31.000 Pa",
-    "subtitle": "Saugen und Wischen in einem, mit 60 °C FlowWash-Wischsystem.",
-    "category": "Haushalt",
-    "price": 899,
-    "checkedAt": "2026-11-20T07:49:32.000Z",
-    "image": "https://static.mydealz.de/threads/raw/ncqFl/2876778_1/re/768x768/qt/55/2876778_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T08:03:49.112Z"
   }
 ]
