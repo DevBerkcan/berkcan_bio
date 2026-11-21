@@ -1,5 +1,42 @@
 [
   {
+    "id": "auto-b0fn84hf2b",
+    "asin": "B0FN84HF2B",
+    "title": "AEG Serie 7000 Waschtrockner, Waschen 8 kg, Trocknen 5 kg",
+    "category": "Haushalt",
+    "price": 597,
+    "checkedAt": "2026-11-21T18:32:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FN84HF2B.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T18:45:06.150Z"
+  },
+  {
+    "id": "auto-b09jfp9ngn",
+    "asin": "B09JFP9NGN",
+    "title": "BEDSURE Bettwäsche 135x200 4teilig Mikrofaser - Anthrazit, 80x80 …",
+    "subtitle": "🔥 101° bei mydealz",
+    "category": "Tech",
+    "price": 9.45,
+    "checkedAt": "2026-11-21T18:41:27.000Z",
+    "image": "https://static.mydealz.de/threads/raw/K4kOW/2877068_1/re/768x768/qt/55/2877068_1.jpg",
+    "temperature": 101,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T18:45:00.674Z"
+  },
+  {
+    "id": "auto-b0gr3wvdwm",
+    "asin": "B0GR3WVDWM",
+    "title": "Meross Smart Rauchmelder Matter kompatibel 6x mit Hub MSH450",
+    "subtitle": "🔥 102° bei mydealz",
+    "category": "Tech",
+    "price": 119.99,
+    "checkedAt": "2026-11-21T18:41:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GR3WVDWM.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 102,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T18:44:54.148Z"
+  },
+  {
     "id": "auto-b0dydn44hc",
     "asin": "B0DYDN44HC",
     "title": "Leichen pflastern seinen Weg",
@@ -1717,27 +1754,5 @@
     "image": "https://m.media-amazon.com/images/P/B08SWFRPJS.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T19:07:22.217Z"
-  },
-  {
-    "id": "auto-b0d66tfzks",
-    "asin": "B0D66TFZKS",
-    "title": "VASAGLE Nachttisch Snapsemble, mit 1 Schublade Beistelltisch, …",
-    "category": "Tech",
-    "price": 21.37,
-    "checkedAt": "2026-11-20T18:40:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D66TFZKS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T18:52:21.576Z"
-  },
-  {
-    "id": "auto-b0cy5pbpjd",
-    "asin": "B0CY5PBPJD",
-    "title": "JBL PartyBox Wireless Mic Set, Schwarz",
-    "category": "Tech",
-    "price": 69.99,
-    "checkedAt": "2026-11-20T18:34:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CY5PBPJD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T18:37:14.383Z"
   }
 ]
