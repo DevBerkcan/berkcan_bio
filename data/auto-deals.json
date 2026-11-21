@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0h2lntr7m",
+    "asin": "B0H2LNTR7M",
+    "title": "Nanoleaf Smart Led Deckenleuchte 2600lm Flach Rund Ø32cm Dimmable …",
+    "category": "Licht & Garten",
+    "price": 67.49,
+    "checkedAt": "2026-11-21T10:07:14.000Z",
+    "image": "https://static.mydealz.de/threads/raw/pamSN/2877829_1/re/768x768/qt/55/2877829_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T10:21:56.626Z"
+  },
+  {
+    "id": "auto-b0828wpnj9",
+    "asin": "B0828WPNJ9",
+    "title": "ROCKBROS Kinderfahrradhelm mit abnehmbarem Kinnschutz",
+    "category": "Sport & Outdoor",
+    "price": 57.59,
+    "checkedAt": "2026-11-21T10:10:42.000Z",
+    "image": "https://static.mydealz.de/threads/raw/3Qred/2877832_1/re/768x768/qt/55/2877832_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T10:21:50.416Z"
+  },
+  {
+    "id": "auto-b09hgzhxjt",
+    "asin": "B09HGZHXJT",
+    "title": "WOLFANG GA100 Action Cam 4K 20MP Unterwasserkamera WiFi 40M …",
+    "category": "Foto & Video",
+    "price": 27.99,
+    "checkedAt": "2026-11-21T10:11:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09HGZHXJT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T10:21:44.426Z"
+  },
+  {
+    "id": "auto-b0bbw4p1pf",
+    "asin": "B0BBW4P1PF",
+    "title": "The Illusionist Dry Gin Magnum Opus",
+    "category": "Lebensmittel & Drinks",
+    "price": 168.27,
+    "checkedAt": "2026-11-21T10:14:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BBW4P1PF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T10:21:35.396Z"
+  },
+  {
     "id": "auto-b0bbkqtzm9",
     "asin": "B0BBKQTZM9",
     "title": "Yaheetech Badezimmerschrank Unterschrank mit Schubladen & Tür, Weiß …",
@@ -2575,28 +2619,6 @@
     "telegramPostedAt": "2026-11-20T11:20:15.867Z"
   },
   {
-    "id": "auto-b0gsgrgvcb",
-    "asin": "B0GSGRGVCB",
-    "title": "LG 75NU8E0B3LA Nano 4K UHD TV",
-    "category": "TV & Heimkino",
-    "price": 619,
-    "checkedAt": "2026-11-20T10:09:05.000Z",
-    "image": "https://static.mydealz.de/threads/raw/vhrzQ/2876969_1/re/768x768/qt/55/2876969_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:04:41.456Z"
-  },
-  {
-    "id": "auto-b0gzp149xd",
-    "asin": "B0GZP149XD",
-    "title": "Philips Sonicare DiamondClean 9900 Prestige Schallzahnbürste",
-    "category": "Beauty & Pflege",
-    "price": 279.99,
-    "checkedAt": "2026-11-20T10:19:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GZP149XD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:04:35.507Z"
-  },
-  {
     "id": "auto-b0dv4x1zsl",
     "asin": "B0DV4X1ZSL",
     "title": "Blink Black Friday",
@@ -2713,31 +2735,5 @@
     "temperature": 104,
     "source": "auto",
     "telegramPostedAt": "2026-11-20T10:33:57.967Z"
-  },
-  {
-    "id": "auto-b09f6cywj6",
-    "asin": "B09F6CYWJ6",
-    "title": "2er-Set LED-Nachtlicht, Orientierungslicht mit Bewegungsmelder, …",
-    "category": "Tech",
-    "price": 8.54,
-    "oldPrice": 13,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T10:18:27.000Z",
-    "image": "https://static.mydealz.de/threads/raw/JSTJ3/2876982_1/re/768x768/qt/55/2876982_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T10:33:44.496Z"
-  },
-  {
-    "id": "auto-b0fbx9886p",
-    "asin": "B0FBX9886P",
-    "title": "Absolum - Nintendo Switch - Physisch AMAZON/Otto UP",
-    "subtitle": "🔥 308° bei mydealz",
-    "category": "Gaming",
-    "price": 27.99,
-    "checkedAt": "2026-11-20T10:17:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FBX9886P.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 308,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T10:33:38.221Z"
   }
 ]
