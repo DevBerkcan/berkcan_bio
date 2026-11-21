@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0gwdsksz1",
+    "asin": "B0GWDSKSZ1",
+    "title": "Avatar -Fire and Ash UHD-BluRay [Prime]",
+    "category": "Bücher & Filme",
+    "price": 20.17,
+    "checkedAt": "2026-11-21T23:44:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GWDSKSZ1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T23:55:21.824Z"
+  },
+  {
     "id": "auto-b002qzw85w",
     "asin": "B002QZW85W",
     "title": "GRAEF Manuale H9 Manueller Allesschneider, Made in Germany, Vollmetall",
@@ -1780,16 +1791,5 @@
     "temperature": 1220,
     "source": "auto",
     "telegramPostedAt": "2026-11-21T06:25:12.198Z"
-  },
-  {
-    "id": "auto-b0h87cjrg3",
-    "asin": "B0H87CJRG3",
-    "title": "EcoFlow Rapid 30W USB C Ladegerät, super kompaktes GaN …",
-    "category": "Zubehör & Laden",
-    "price": 6.99,
-    "checkedAt": "2026-11-20T23:45:37.000Z",
-    "image": "https://static.mydealz.de/threads/raw/1bVzm/2877647_1/re/768x768/qt/55/2877647_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T23:50:35.048Z"
   }
 ]
