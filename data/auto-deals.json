@@ -706,28 +706,6 @@
     "telegramPostedAt": "2026-11-20T19:07:22.217Z"
   },
   {
-    "id": "auto-b0dv9wbjz7",
-    "asin": "B0DV9WBJZ7",
-    "title": "Poly Voyager Focus 2 Schnurloses On-Ear Headset",
-    "category": "Audio",
-    "price": 157.24,
-    "checkedAt": "2026-11-20T08:12:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DV9WBJZ7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T19:37:52.147Z"
-  },
-  {
-    "id": "auto-b0gkpfdq11",
-    "asin": "B0GKPFDQ11",
-    "title": "Comfee' 204L kühlschrank mit gefrierfach(-24℃), 39dB, 143 cm Höhe",
-    "category": "Haushalt",
-    "price": 248.89,
-    "checkedAt": "2026-11-20T08:16:41.000Z",
-    "image": "https://static.mydealz.de/threads/raw/eJvYP/2876814_1/re/768x768/qt/55/2876814_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T19:37:47.691Z"
-  },
-  {
     "id": "auto-b0d66tfzks",
     "asin": "B0D66TFZKS",
     "title": "VASAGLE Nachttisch Snapsemble, mit 1 Schublade Beistelltisch, …",
@@ -2459,18 +2437,6 @@
     "telegramPostedAt": "2026-11-20T11:50:17.971Z"
   },
   {
-    "id": "queue-b0gvk4spqw",
-    "asin": "B0GVK4SPQW",
-    "title": "Oppo Pad 5 Tablet 12,1\" 8/128 GB 2.8K-Display",
-    "subtitle": "Mattes 2.8K-Display, 10.050 mAh Akku und 33W SUPERVOOC",
-    "category": "Smartphone & Tablet",
-    "price": 280.55,
-    "checkedAt": "2026-11-20T08:10:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GVK4SPQW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:50:12.503Z"
-  },
-  {
     "id": "auto-b0gj3crkmz",
     "asin": "B0GJ3CRKMZ",
     "title": "Magichome Hochdruck-Duschkopf mit 25-Schicht-Filter, 6 Strahlarten, …",
@@ -3029,19 +2995,6 @@
     "telegramPostedAt": "2026-11-20T10:03:30.863Z"
   },
   {
-    "id": "auto-b0h1jbl3st",
-    "asin": "B0H1JBL3ST",
-    "title": "Disney Toy Story 5 Lilypad-Hülle",
-    "category": "Tech",
-    "price": 29.99,
-    "oldPrice": 39.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T08:22:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H1JBL3ST.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T09:48:50.843Z"
-  },
-  {
     "id": "auto-b0cqmgbf95",
     "asin": "B0CQMGBF95",
     "title": "Tabu Unzensiert",
@@ -3131,18 +3084,5 @@
     "image": "https://m.media-amazon.com/images/P/B08L5PHQ89.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T08:34:13.000Z"
-  },
-  {
-    "id": "auto-b0h38v38mj",
-    "asin": "B0H38V38MJ",
-    "title": "Thermosocken für Damen und Herren, 2 Paar extra dicke Warme Socken",
-    "category": "Tech",
-    "price": 9.68,
-    "oldPrice": 16.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T08:13:16.000Z",
-    "image": "https://static.mydealz.de/threads/raw/FKvgz/2876800_1/re/768x768/qt/55/2876800_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T08:19:11.005Z"
   }
 ]
