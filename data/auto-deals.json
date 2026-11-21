@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0c6k7546x",
+    "asin": "B0C6K7546X",
+    "title": "Comfee Gefrierschrank 160L mit 5 Schubladen [Energieklasse E]",
+    "category": "Tech",
+    "price": 263.9,
+    "checkedAt": "2026-11-21T11:22:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C6K7546X.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T11:36:26.230Z"
+  },
+  {
+    "id": "auto-b0b4khsnmd",
+    "asin": "B0B4KHSNMD",
+    "title": "LEXIVON Stecknuss-Adapter-Set inkl. magnetischem Bithalter – 4-teilig, …",
+    "category": "Tech",
+    "price": 7.27,
+    "checkedAt": "2026-11-21T11:33:55.000Z",
+    "image": "https://static.mydealz.de/threads/raw/GeBTh/2877898_1/re/768x768/qt/55/2877898_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T11:36:20.938Z"
+  },
+  {
+    "id": "auto-b09kn658yg",
+    "asin": "B09KN658YG",
+    "title": "Sancho und Pancho (1969-72) - Die komplette Zeichentrick-Serie - DVD - …",
+    "subtitle": "🔥 124° bei mydealz",
+    "category": "Bücher & Filme",
+    "price": 10,
+    "checkedAt": "2026-11-21T11:33:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09KN658YG.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 124,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T11:36:11.914Z"
+  },
+  {
     "id": "auto-b09v8kg3bn",
     "asin": "B09V8KG3BN",
     "title": "L'Oréal Men Expert XXL 100ml kühlende Gesichtspflege Anti-Glanz …",
@@ -1410,28 +1445,6 @@
     "telegramPostedAt": "2026-11-20T17:21:11.372Z"
   },
   {
-    "id": "auto-b0f8hnjrkn",
-    "asin": "B0F8HNJRKN",
-    "title": "Final Destination: Bloodlines (4K Blu-ray + Blu-ray)",
-    "category": "Bücher & Filme",
-    "price": 15.99,
-    "checkedAt": "2026-11-20T11:26:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F8HNJRKN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T19:07:31.999Z"
-  },
-  {
-    "id": "auto-b0fx2vm6cg",
-    "asin": "B0FX2VM6CG",
-    "title": "Harman Kardon Aura Studio 5 Bluetooth-Lautsprecher, Schwarz im Sale",
-    "category": "Audio",
-    "price": 249,
-    "checkedAt": "2026-11-20T11:28:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FX2VM6CG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T18:52:39.769Z"
-  },
-  {
     "id": "auto-b0d5d64syw",
     "asin": "B0D5D64SYW",
     "title": "Amazon Oral B io5 mit 3 Aufsteckbürsten und Etui",
@@ -2639,18 +2652,5 @@
     "image": "https://static.mydealz.de/threads/raw/wSrDY/2877100_1/re/768x768/qt/55/2877100_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T11:50:40.492Z"
-  },
-  {
-    "id": "auto-b0gj3crkmz",
-    "asin": "B0GJ3CRKMZ",
-    "title": "Magichome Hochdruck-Duschkopf mit 25-Schicht-Filter, 6 Strahlarten, …",
-    "subtitle": "🔥 169° bei mydealz",
-    "category": "Tech",
-    "price": 6.64,
-    "checkedAt": "2026-11-20T11:21:57.000Z",
-    "image": "https://static.mydealz.de/threads/raw/xntYg/2855391_1/re/768x768/qt/55/2855391_1.jpg",
-    "temperature": 169,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:35:50.726Z"
   }
 ]
