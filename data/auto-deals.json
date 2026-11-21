@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0g7lfxy3n",
+    "asin": "B0G7LFXY3N",
+    "title": "PLAYMOBIL 72112 Große Löwenritterburg – 183 Teile, 3 Ritter, ab 4 …",
+    "category": "Spielzeug & LEGO",
+    "price": 85.48,
+    "checkedAt": "2026-11-21T06:57:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G7LFXY3N.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T08:38:16.626Z"
+  },
+  {
+    "id": "auto-b0c8tcj3jq",
+    "asin": "B0C8TCJ3JQ",
+    "title": "Kinder Jugendliche Betten ABC Kaltschaum Matratze 140 x 200 Oeko-Tex",
+    "category": "Tech",
+    "price": 101.86,
+    "checkedAt": "2026-11-21T08:26:38.000Z",
+    "image": "https://static.mydealz.de/threads/raw/N35B4/2877763_1/re/768x768/qt/55/2877763_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T08:38:09.334Z"
+  },
+  {
+    "id": "auto-b0bwfwkcd8",
+    "asin": "B0BWFWKCD8",
+    "title": "„Energie!“ - Star Trek: The Next Generation 4-Movie Boxset UK-Import …",
+    "category": "Tech",
+    "price": 54.31,
+    "checkedAt": "2026-11-21T08:36:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BWFWKCD8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T08:38:02.081Z"
+  },
+  {
     "id": "auto-b08khlw7tx",
     "asin": "B08KHLW7TX",
     "title": "ThinkFun Gravity Maze - Logikspiel ab 8 Jahre, Spiel ab 1 Spieler",
@@ -2582,18 +2615,6 @@
     "telegramPostedAt": "2026-11-20T11:19:58.991Z"
   },
   {
-    "id": "queue-b0bw15d2fs",
-    "asin": "B0BW15D2FS",
-    "title": "Bosch Unlimited 7 BSS715CARP Akku-Staubsauger",
-    "subtitle": "Mit Knickrohr, XXL-Polsterdüse und Schnellladegerät, TurboSpin-Motor",
-    "category": "Haushalt",
-    "price": 279,
-    "checkedAt": "2026-11-20T08:28:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BW15D2FS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:19:44.861Z"
-  },
-  {
     "id": "auto-b0fqj4sw72",
     "asin": "B0FQJ4SW72",
     "title": "Simba - Glücksbärchi Brummbärchi 23cm – Kuschelweiches Plüschtier",
@@ -3008,19 +3029,6 @@
     "telegramPostedAt": "2026-11-20T09:48:39.762Z"
   },
   {
-    "id": "auto-b07fjw6s3b",
-    "asin": "B07FJW6S3B",
-    "title": "Wahoo Kickr Climb",
-    "category": "Sport & Outdoor",
-    "price": 339.99,
-    "oldPrice": 519,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T08:37:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07FJW6S3B.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T09:48:45.143Z"
-  },
-  {
     "id": "auto-b0f4dvyffh",
     "asin": "B0F4DVYFFH",
     "title": "Bosch Professional Combo Kit (0615A5007U) GSB 18V-45 + GBH 18V-22 + …",
@@ -3071,18 +3079,5 @@
     "image": "https://static.mydealz.de/threads/raw/pUHNk/2876838_1/re/768x768/qt/55/2876838_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T08:49:16.269Z"
-  },
-  {
-    "id": "auto-b08l5phq89",
-    "asin": "B08L5PHQ89",
-    "title": "Carrera FIRST Mario Kart Yoshi",
-    "category": "Gaming",
-    "price": 8.49,
-    "oldPrice": 11.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T08:33:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08L5PHQ89.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T08:34:13.000Z"
   }
 ]
