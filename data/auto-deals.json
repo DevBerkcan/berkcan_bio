@@ -2692,19 +2692,6 @@
     "telegramPostedAt": "2026-11-20T11:03:57.103Z"
   },
   {
-    "id": "auto-b0ddqcx1bg",
-    "asin": "B0DDQCX1BG",
-    "title": "Oral-B iO Series 10 Plus Sensitive Edition Cosmic Black inkl. 3 …",
-    "category": "Beauty & Pflege",
-    "price": 259.99,
-    "oldPrice": 313.03,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T00:37:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DDQCX1BG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T10:49:18.054Z"
-  },
-  {
     "id": "auto-b086ghjfjy",
     "asin": "B086GHJFJY",
     "title": "Remington PROluxe Midnight Edition Haartrockner AC9140B",
@@ -3317,18 +3304,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BGXZRKQN.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T06:06:38.165Z"
-  },
-  {
-    "id": "auto-b01c8qcyfw",
-    "asin": "B01C8QCYFW",
-    "title": "Star Wars Trilogy – The Original Soundtrack - Limited Edition Vinyl |",
-    "category": "Tech",
-    "price": 18.99,
-    "oldPrice": 30.49,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T00:46:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01C8QCYFW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T06:50:40.869Z"
   }
 ]
