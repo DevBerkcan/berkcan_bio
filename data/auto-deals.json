@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0g3qj3fgl",
+    "asin": "B0G3QJ3FGL",
+    "title": "Jurassic World Mattel Hammond Collection Indominus Rex",
+    "category": "Spielzeug & LEGO",
+    "price": 32.99,
+    "checkedAt": "2026-11-21T12:44:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G3QJ3FGL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T13:20:46.827Z"
+  },
+  {
+    "id": "auto-b016d5qdaq",
+    "asin": "B016D5QDAQ",
+    "title": "BLACKROLL BLACKBOX, Faszienrollen-Set für die Selbstmassage",
+    "category": "Tech",
+    "price": 42.66,
+    "checkedAt": "2026-11-21T13:18:07.000Z",
+    "image": "https://static.mydealz.de/threads/raw/yOCLt/2877978_1/re/768x768/qt/55/2877978_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T13:20:41.607Z"
+  },
+  {
+    "id": "auto-b09rgmfc4j",
+    "asin": "B09RGMFC4J",
+    "title": "Bächlein Handbrause Matt Schwarz oder Chrom rund oder eckig",
+    "category": "Tech",
+    "price": 11.95,
+    "oldPrice": 19.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-21T13:11:16.000Z",
+    "image": "https://static.mydealz.de/threads/raw/rkC6C/2877974_1/re/768x768/qt/55/2877974_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T13:20:34.882Z"
+  },
+  {
     "id": "auto-b0fzlcx56k",
     "asin": "B0FZLCX56K",
     "title": "Arkham Horror Kartenspiel LGC / Kapitel 2 2026 Version",
@@ -2050,17 +2085,6 @@
     "telegramPostedAt": "2026-11-20T15:49:37.471Z"
   },
   {
-    "id": "auto-b0ft31v915",
-    "asin": "B0FT31V915",
-    "title": "Multipacks Brennenstuhl Rauchmelder-Set RM C 9010,",
-    "category": "Smart Home",
-    "price": 44.79,
-    "checkedAt": "2026-11-20T13:09:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FT31V915.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:50:23.720Z"
-  },
-  {
     "id": "auto-b07x7jsbhg",
     "asin": "B07X7JSBHG",
     "title": "Wera 05134000001 Kraftform Micro Big Pack 1 Schraubendreher Set mit 25 …",
@@ -2542,57 +2566,5 @@
     "image": "https://m.media-amazon.com/images/P/B0999J73WT.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T13:49:12.544Z"
-  },
-  {
-    "id": "auto-b00ezrkoz0",
-    "asin": "B00EZRKOZ0",
-    "title": "Police Academy Collection (7 Discs)",
-    "subtitle": "🔥 111° bei mydealz",
-    "category": "Tech",
-    "price": 33.38,
-    "checkedAt": "2026-11-20T13:11:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00EZRKOZ0.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 111,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:19:20.694Z"
-  },
-  {
-    "id": "auto-b079phf8n6",
-    "asin": "B079PHF8N6",
-    "title": "BraveStarr - Die komplette Serie + Legende (Blu-Ray)",
-    "subtitle": "🔥 132° bei mydealz",
-    "category": "Bücher & Filme",
-    "price": 10.87,
-    "checkedAt": "2026-11-20T13:11:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B079PHF8N6.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 132,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T14:04:06.354Z"
-  },
-  {
-    "id": "auto-b0dz1t4yqk",
-    "asin": "B0DZ1T4YQK",
-    "title": "Amazon Basics Pour-Over-Kaffeebereiter 1 L, Borosilikatglas mit …",
-    "category": "Tech",
-    "price": 14.89,
-    "oldPrice": 20.6,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T13:19:08.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DZ1T4YQK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T13:34:35.202Z"
-  },
-  {
-    "id": "auto-b07zkzxm4b",
-    "asin": "B07ZKZXM4B",
-    "title": "Bialetti New Venus Induction Espressokocher, 6 Tassen, Edelstahl, für …",
-    "category": "Küche",
-    "price": 25.29,
-    "oldPrice": 33.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T13:15:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07ZKZXM4B.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T13:19:59.483Z"
   }
 ]
