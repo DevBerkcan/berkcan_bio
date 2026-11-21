@@ -1608,17 +1608,6 @@
     "telegramPostedAt": "2026-11-20T18:52:21.576Z"
   },
   {
-    "id": "auto-b0d87nfxgq",
-    "asin": "B0D87NFXGQ",
-    "title": "Beyblade X Cobalt Dragoon 2-60C Deluxe linksdreh",
-    "category": "Spielzeug & LEGO",
-    "price": 17.49,
-    "checkedAt": "2026-11-20T16:26:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D87NFXGQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T18:52:35.453Z"
-  },
-  {
     "id": "auto-b0dg2wqmrd",
     "asin": "B0DG2WQMRD",
     "title": "Anker 240W PowerLine III Flow USB C auf USB C Kabel [0,9m]",
@@ -2098,73 +2087,5 @@
     "image": "https://static.mydealz.de/threads/raw/Gnd6C/2877377_1/re/768x768/qt/55/2877377_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T16:50:08.859Z"
-  },
-  {
-    "id": "auto-b0f2npnxvp",
-    "asin": "B0F2NPNXVP",
-    "title": "Canon EOS R50 V Vlog-Kamera, APS-C, 24,2 MP, 4K, RF-Mount, Dual Pixel …",
-    "category": "Foto & Video",
-    "price": 459,
-    "checkedAt": "2026-11-20T16:19:47.000Z",
-    "image": "https://static.mydealz.de/threads/raw/E1fch/2877357_1/re/768x768/qt/55/2877357_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:05:40.144Z"
-  },
-  {
-    "id": "auto-b01kn6xdrw",
-    "asin": "B01KN6XDRW",
-    "title": "Leonard Cohen - You Want It Darker Vinyl",
-    "category": "Tech",
-    "price": 19.19,
-    "checkedAt": "2026-11-20T16:20:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01KN6XDRW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T19:52:40.460Z"
-  },
-  {
-    "id": "auto-b0g2sy3bvc",
-    "asin": "B0G2SY3BVC",
-    "title": "Hisense RS3P558NEFE Side-by-Side Kühl-/ Gefrierkombi / EEK D / 544L / …",
-    "category": "Tech",
-    "price": 573.9,
-    "checkedAt": "2026-11-20T16:27:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G2SY3BVC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:35:28.552Z"
-  },
-  {
-    "id": "auto-b0d89dsd2l",
-    "asin": "B0D89DSD2L",
-    "title": "PeakTech P 2755 VDE-0100-Installationstester mit Bluetooth, USB und …",
-    "category": "Tech",
-    "price": 670.49,
-    "checkedAt": "2026-11-20T16:27:45.000Z",
-    "image": "https://static.mydealz.de/threads/raw/32OpZ/2877370_1/re/768x768/qt/55/2877370_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:35:23.175Z"
-  },
-  {
-    "id": "auto-b0bqljysbx",
-    "asin": "B0BQLJYSBX",
-    "title": "RØDE RØDECaster Duo Audio-Produktionslösung, 2 Combo-Buchsen, …",
-    "category": "Tech",
-    "price": 336,
-    "checkedAt": "2026-11-20T16:30:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BQLJYSBX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:35:16.927Z"
-  },
-  {
-    "id": "auto-b0fy3t5qks",
-    "asin": "B0FY3T5QKS",
-    "title": "OsmoFresh Fusion Stream & Fusion Air Auftisch-Osmoseanlagen – mit …",
-    "category": "Tech",
-    "price": 424.15,
-    "oldPrice": 499,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T16:25:24.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Y4sGP/2877364_1/re/768x768/qt/55/2877364_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:35:11.746Z"
   }
 ]
