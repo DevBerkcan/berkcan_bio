@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0dwn571hf",
+    "asin": "B0DWN571HF",
+    "title": "3 CD Helloween - March of Time The Best of 40 Years",
+    "category": "Tech",
+    "price": 13.99,
+    "checkedAt": "2026-11-21T15:10:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DWN571HF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T15:19:27.960Z"
+  },
+  {
+    "id": "auto-b0d6bf6gcn",
+    "asin": "B0D6BF6GCN",
+    "title": "6 Stück X-Sense Smarter Rauchmelder WLAN mit Sprachausgabe und 17 …",
+    "category": "Tech",
+    "price": 117.79,
+    "oldPrice": 159.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-21T15:07:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D6BF6GCN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T15:19:22.409Z"
+  },
+  {
     "id": "auto-b0dw4f4f4t",
     "asin": "B0DW4F4F4T",
     "title": "Jack & Jones 2er-Pack",
@@ -2297,28 +2321,6 @@
     "telegramPostedAt": "2026-11-20T15:49:37.471Z"
   },
   {
-    "id": "auto-b0dfmbx3l5",
-    "asin": "B0DFMBX3L5",
-    "title": "playvital Silikonhülle für ps5 Controller, Anti-Rutsch Schutzhülle …",
-    "category": "Gaming",
-    "price": 11.99,
-    "checkedAt": "2026-11-20T15:05:11.000Z",
-    "image": "https://static.mydealz.de/threads/raw/QZpz1/2877277_1/re/768x768/qt/55/2877277_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:50:05.471Z"
-  },
-  {
-    "id": "auto-b0f53nmdbb",
-    "asin": "B0F53NMDBB",
-    "title": "CYCPLUS AS2Ultra Tiny Elektrofahrradpumpe, 90g, Magnesiumgehäuse",
-    "category": "Sport & Outdoor",
-    "price": 77.33,
-    "checkedAt": "2026-11-20T15:08:28.000Z",
-    "image": "https://static.mydealz.de/threads/raw/CiWP0/2877282_1/re/768x768/qt/55/2877282_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:34:54.020Z"
-  },
-  {
     "id": "auto-b07c9fhz65",
     "asin": "B07C9FHZ65",
     "title": "Skechers Herren Track Scloric – Sportschuhe mit Memory Foam & …",
@@ -2350,64 +2352,5 @@
     "image": "https://static.mydealz.de/threads/raw/5atnb/2877300_1/re/768x768/qt/55/2877300_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T15:34:12.257Z"
-  },
-  {
-    "id": "auto-b00fze0qf0",
-    "asin": "B00FZE0QF0",
-    "title": "PHYSIOGEL Scalp Care Mildes Shampoo 250ml für empfindliche Kopfhaut",
-    "category": "Beauty & Pflege",
-    "price": 7.83,
-    "checkedAt": "2026-11-20T15:10:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00FZE0QF0.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:34:28.605Z"
-  },
-  {
-    "id": "auto-b09mfqwg1s",
-    "asin": "B09MFQWG1S",
-    "title": "CHERRY MP 2000 XXL Mauspad (800 x 350 x 5 mm, Schwarz)",
-    "category": "Tech",
-    "price": 17.99,
-    "checkedAt": "2026-11-20T15:12:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09MFQWG1S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:19:24.966Z"
-  },
-  {
-    "id": "auto-b0hgxsjnn9",
-    "asin": "B0HGXSJNN9",
-    "title": "roborock F25 BX Gen 2 Nass-Trockensauger, 20.000 Pa, bis 60 min, 180° …",
-    "category": "Haushalt",
-    "price": 199,
-    "checkedAt": "2026-11-20T15:14:37.000Z",
-    "image": "https://static.mydealz.de/threads/raw/kPvdz/2877290_1/re/768x768/qt/55/2877290_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:19:19.629Z"
-  },
-  {
-    "id": "auto-b0g255kg5v",
-    "asin": "B0G255KG5V",
-    "title": "UGREEN USB C auf HDMI Adapter HDMI 2.1 8K 60Hz 4K 240/120H 1440P",
-    "subtitle": "🔥 106° bei mydealz",
-    "category": "Tech",
-    "price": 15.18,
-    "checkedAt": "2026-11-20T15:15:31.000Z",
-    "image": "https://static.mydealz.de/threads/raw/NatV9/2877185_1/re/768x768/qt/55/2877185_1.jpg",
-    "temperature": 106,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:19:13.306Z"
-  },
-  {
-    "id": "auto-b0gpqmffxl",
-    "asin": "B0GPQMFFXL",
-    "title": "HAZET Adventskalender ADVENTSKALENDER26, 24-teilig, Akku-Kompressor …",
-    "subtitle": "🔥 115° bei mydealz",
-    "category": "Werkzeug",
-    "price": 49.99,
-    "checkedAt": "2026-11-20T15:11:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GPQMFFXL.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 115,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:19:06.833Z"
   }
 ]
