@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b000futqn2",
+    "asin": "B000FUTQN2",
+    "title": "BRIO World Goldene Batterielok mit Licht und Sound - Spielzeug ab 3 …",
+    "category": "Spielzeug & LEGO",
+    "price": 19.99,
+    "checkedAt": "2026-11-21T09:32:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000FUTQN2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T10:36:45.763Z"
+  },
+  {
+    "id": "auto-b073zg6yj4",
+    "asin": "B073ZG6YJ4",
+    "title": "REMINGTON Hygiene Clipper NE3850 Nano Series",
+    "subtitle": "🔥 102° bei mydealz",
+    "category": "Tech",
+    "price": 7.99,
+    "checkedAt": "2026-11-21T10:29:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B073ZG6YJ4.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 102,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T10:36:35.929Z"
+  },
+  {
     "id": "auto-b0h2lntr7m",
     "asin": "B0H2LNTR7M",
     "title": "Nanoleaf Smart Led Deckenleuchte 2600lm Flach Rund Ø32cm Dimmable …",
@@ -2619,28 +2643,6 @@
     "telegramPostedAt": "2026-11-20T11:20:15.867Z"
   },
   {
-    "id": "auto-b0dv4x1zsl",
-    "asin": "B0DV4X1ZSL",
-    "title": "Blink Black Friday",
-    "category": "Tech",
-    "price": 37.99,
-    "checkedAt": "2026-11-20T10:35:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DV4X1ZSL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:04:30.389Z"
-  },
-  {
-    "id": "auto-b0dwnbmp5n",
-    "asin": "B0DWNBMP5N",
-    "title": "Weber Spirit E-410 Gasgrill (Schwarz/Silber)",
-    "category": "Licht & Garten",
-    "price": 465.8,
-    "checkedAt": "2026-11-20T10:36:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWNBMP5N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:04:25.132Z"
-  },
-  {
     "id": "auto-b0cdcnqjzl",
     "asin": "B0CDCNQJZL",
     "title": "Terminator: Resistance COMPLETE COLLECTOR’S Edition - /Xbox Series X",
@@ -2722,18 +2724,5 @@
     "temperature": 804,
     "source": "auto",
     "telegramPostedAt": "2026-11-20T10:48:55.013Z"
-  },
-  {
-    "id": "auto-b07jvmf2p9",
-    "asin": "B07JVMF2P9",
-    "title": "Wahoo Fitness KICKR Headwind, Ventilator zum Indoorsporteln zwift",
-    "subtitle": "🔥 104° bei mydealz",
-    "category": "Haushalt",
-    "price": 211.49,
-    "checkedAt": "2026-11-20T10:27:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07JVMF2P9.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 104,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T10:33:57.967Z"
   }
 ]
