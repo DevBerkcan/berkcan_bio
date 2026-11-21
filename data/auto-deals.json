@@ -452,17 +452,6 @@
     "telegramPostedAt": "2026-11-20T19:37:43.021Z"
   },
   {
-    "id": "auto-b084bg4wpg",
-    "asin": "B084BG4WPG",
-    "title": "Rogue One: A Star Wars Story / Der Marsianer / Predator / Braveheart …",
-    "category": "Bücher & Filme",
-    "price": 16.07,
-    "checkedAt": "2026-11-20T05:12:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B084BG4WPG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T20:08:02.180Z"
-  },
-  {
     "id": "auto-b0h14v1q6l",
     "asin": "B0H14V1Q6L",
     "title": "GoveeLife Smart WLAN-Wassermelder Boden, 3 Wassersensoren mit Hub",
@@ -3209,18 +3198,6 @@
     "telegramPostedAt": "2026-11-20T08:03:49.112Z"
   },
   {
-    "id": "queue-b0dj9h1k74",
-    "asin": "B0DJ9H1K74",
-    "title": "Sonos Arc Ultra Premium-Soundbar",
-    "subtitle": "Premium-Soundbar von Sonos für satten Heimkino-Sound.",
-    "category": "TV & Heimkino",
-    "price": 799.99,
-    "checkedAt": "2026-11-20T05:12:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJ9H1K74.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T08:03:43.453Z"
-  },
-  {
     "id": "auto-b0dqcgqk65",
     "asin": "B0DQCGQK65",
     "title": "Screamer Day One Edition ~ 18,99€ für PlayStation 5 (PS5) / 22,29€ für …",
@@ -3271,34 +3248,6 @@
     "image": "https://m.media-amazon.com/images/P/B0FXGWJNNZ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T07:05:19.945Z"
-  },
-  {
-    "id": "auto-b0fqf32239",
-    "asin": "B0FQF32239",
-    "title": "Apple AirPods Pro 3",
-    "subtitle": "🔥 398° bei mydealz",
-    "category": "Tech",
-    "price": 199,
-    "checkedAt": "2026-11-20T05:20:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FQF32239.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 398,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T06:35:59.806Z"
-  },
-  {
-    "id": "auto-b00o36k642",
-    "asin": "B00O36K642",
-    "title": "INBUS Winkelschraubendreher Set 9tlg, 1.5–10mm, mit Kugelkopf Das …",
-    "subtitle": "🔥 369° bei mydealz",
-    "category": "Tech",
-    "price": 18.95,
-    "oldPrice": 24.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T05:18:48.000Z",
-    "image": "https://static.mydealz.de/threads/raw/xHlWf/2852521_1/re/768x768/qt/55/2852521_1.jpg",
-    "temperature": 369,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T06:21:22.145Z"
   },
   {
     "id": "auto-b0bgxzrkqn",
