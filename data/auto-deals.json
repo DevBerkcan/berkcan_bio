@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0986bdrsd",
+    "asin": "B0986BDRSD",
+    "title": "Emerson, Lake & Palmer - Out of This World : Live (1970-1997) 10LPs …",
+    "category": "Tech",
+    "price": 64.99,
+    "checkedAt": "2026-11-21T15:39:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0986BDRSD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T15:48:53.476Z"
+  },
+  {
     "id": "auto-b0dwn571hf",
     "asin": "B0DWN571HF",
     "title": "3 CD Helloween - March of Time The Best of 40 Years",
@@ -2159,17 +2170,6 @@
     "telegramPostedAt": "2026-11-20T16:35:04.329Z"
   },
   {
-    "id": "auto-b07jmt3b59",
-    "asin": "B07JMT3B59",
-    "title": "Revell U.S.S. Voyager",
-    "category": "Spielzeug & LEGO",
-    "price": 30.89,
-    "checkedAt": "2026-11-20T15:47:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07JMT3B59.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:20:22.126Z"
-  },
-  {
     "id": "auto-b0d38bll4y",
     "asin": "B0D38BLL4Y",
     "title": "Glorious Model D 2 Wireless – ergonomische Gaming-Maus mit 66 g, …",
@@ -2273,51 +2273,5 @@
     "image": "https://m.media-amazon.com/images/P/B07SD1721Y.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T16:04:50.027Z"
-  },
-  {
-    "id": "auto-b0ghq4jsst",
-    "asin": "B0GHQ4JSST",
-    "title": "Dreifachobjektiv PoE Sicherheitskamera für Außenbereich,Reolink OMVI …",
-    "category": "Smart Home",
-    "price": 223.99,
-    "checkedAt": "2026-11-20T15:35:13.000Z",
-    "image": "https://static.mydealz.de/threads/raw/FRT3a/2877302_1/re/768x768/qt/55/2877302_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:50:00.415Z"
-  },
-  {
-    "id": "auto-b0dq5hydbg",
-    "asin": "B0DQ5HYDBG",
-    "title": "Anker Nano 35 W USB-C Ladegerät mit weiterem USB-C Port, integriertes …",
-    "category": "Zubehör & Laden",
-    "price": 18.98,
-    "checkedAt": "2026-11-20T15:36:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/eJ3VY/2877308_1/re/768x768/qt/55/2877308_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:49:49.819Z"
-  },
-  {
-    "id": "auto-b07c8l9ymx",
-    "asin": "B07C8L9YMX",
-    "title": "KNIPEX KNIPEX CoBolt S Kompakt-Bolzenschneider, 160 mm, 71 01 160",
-    "category": "Werkzeug",
-    "price": 22.79,
-    "checkedAt": "2026-11-20T15:38:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07C8L9YMX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:49:43.391Z"
-  },
-  {
-    "id": "auto-b0dhczwzvs",
-    "asin": "B0DHCZWZVS",
-    "title": "Brother PT-N10 Handheld-Beschriftungsgerät, 12 mm Bänder, QWERTZ, LCD, …",
-    "subtitle": "🔥 105° bei mydealz",
-    "category": "Tech",
-    "price": 19.37,
-    "checkedAt": "2026-11-20T15:35:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHCZWZVS.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 105,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:49:37.471Z"
   }
 ]
