@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0gkwrk6fm",
+    "asin": "B0GKWRK6FM",
+    "title": "NORDMUT Campingsofa faltbar für 2 Personen – stabile Camping Couch 320 …",
+    "category": "Sport & Outdoor",
+    "price": 83.77,
+    "checkedAt": "2026-11-21T16:53:14.000Z",
+    "image": "https://static.mydealz.de/threads/raw/0h8NM/2878097_1/re/768x768/qt/55/2878097_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T17:02:08.521Z"
+  },
+  {
+    "id": "auto-b0dj3sk7js",
+    "asin": "B0DJ3SK7JS",
+    "title": "SKECHERS Sneaker Hotshot - Pyke, viele Größen",
+    "category": "Mode & Reise",
+    "price": 28.74,
+    "checkedAt": "2026-11-21T17:00:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJ3SK7JS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T17:02:01.282Z"
+  },
+  {
     "id": "auto-b0fm88wvrh",
     "asin": "B0FM88WVRH",
     "title": "UGREEN 20Gbps NVMe SSD-Dockingstation, Dual-Bay M.2 SSD Gehäuse mit …",
@@ -1974,66 +1996,5 @@
     "image": "https://static.mydealz.de/threads/raw/SIzzn/2877398_1/re/768x768/qt/55/2877398_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T17:21:11.372Z"
-  },
-  {
-    "id": "auto-b0d5d64syw",
-    "asin": "B0D5D64SYW",
-    "title": "Amazon Oral B io5 mit 3 Aufsteckbürsten und Etui",
-    "category": "Tech",
-    "price": 69.99,
-    "checkedAt": "2026-11-20T16:56:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D5D64SYW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:05:35.436Z"
-  },
-  {
-    "id": "auto-b00725abm8",
-    "asin": "B00725ABM8",
-    "title": "Bosch PRO Führungsschine FSN 800",
-    "category": "Tech",
-    "price": 44,
-    "checkedAt": "2026-11-20T16:57:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00725ABM8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:05:30.022Z"
-  },
-  {
-    "id": "auto-b0c354yk8z",
-    "asin": "B0C354YK8Z",
-    "title": "Fjällräven Skule Top 26 - Rucksack",
-    "subtitle": "🔥 109° bei mydealz",
-    "category": "Sport & Outdoor",
-    "price": 68.99,
-    "checkedAt": "2026-11-20T16:52:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C354YK8Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 109,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:05:24.842Z"
-  },
-  {
-    "id": "auto-b0fcs35v79",
-    "asin": "B0FCS35V79",
-    "title": "Thermaltake Toughpower GT 1000W [schwarz oder weiß] ATX-Netzteil, ATX …",
-    "category": "Zubehör & Laden",
-    "price": 99,
-    "oldPrice": 127.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T16:53:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FCS35V79.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:05:18.922Z"
-  },
-  {
-    "id": "auto-b0fcs5j6z6",
-    "asin": "B0FCS5J6Z6",
-    "title": "Thermaltake Toughpower GT 1200W ATX-Netzteil [schwarz 111,40 € / weiß …",
-    "category": "Zubehör & Laden",
-    "price": 111.4,
-    "oldPrice": 148.14,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T16:53:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FCS5J6Z6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:05:13.194Z"
   }
 ]
