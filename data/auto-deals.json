@@ -1,5 +1,62 @@
 [
   {
+    "id": "auto-b0bsp1g341",
+    "asin": "B0BSP1G341",
+    "title": "Schleich Horse Club Pferdetransporter 42619",
+    "category": "Spielzeug & LEGO",
+    "price": 86.99,
+    "checkedAt": "2026-11-21T20:32:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BSP1G341.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T21:42:35.332Z"
+  },
+  {
+    "id": "auto-b0bn1xfqn2",
+    "asin": "B0BN1XFQN2",
+    "title": "VIVIL Kräuter-Mint Hustenbonbons 15 × 120 g (1,8 kg)",
+    "category": "Tech",
+    "price": 23.41,
+    "checkedAt": "2026-11-21T21:29:29.000Z",
+    "image": "https://static.mydealz.de/threads/raw/c9G3v/2878244_1/re/768x768/qt/55/2878244_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T21:42:29.913Z"
+  },
+  {
+    "id": "auto-b0dxq27x44",
+    "asin": "B0DXQ27X44",
+    "title": "TCL 65\" Q6C QD Mini-LED TV",
+    "category": "TV & Heimkino",
+    "price": 599,
+    "checkedAt": "2026-11-21T21:29:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DXQ27X44.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T21:42:23.278Z"
+  },
+  {
+    "id": "auto-b077xq5qm7",
+    "asin": "B077XQ5QM7",
+    "title": "Under Armour Shorts blau Tech Graphic Laufshort",
+    "category": "Tech",
+    "price": 12.53,
+    "checkedAt": "2026-11-21T21:34:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B077XQ5QM7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T21:42:17.933Z"
+  },
+  {
+    "id": "auto-b000burk3y",
+    "asin": "B000BURK3Y",
+    "title": "CHERRY G80-11900, Kompakte Mechanische Tastatur, Deutsch QWERTZ, …",
+    "subtitle": "🔥 101° bei mydealz",
+    "category": "Computer",
+    "price": 109.99,
+    "checkedAt": "2026-11-21T21:34:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000BURK3Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 101,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T21:42:12.461Z"
+  },
+  {
     "id": "auto-b0dyd7thp7",
     "asin": "B0DYD7THP7",
     "title": "Im Westen nichts Neues (4K UHD) (Dolby Atmos, HDR10)",
@@ -1585,19 +1642,6 @@
     "telegramPostedAt": "2026-11-20T23:21:24.067Z"
   },
   {
-    "id": "auto-b0fpxgsyz1",
-    "asin": "B0FPXGSYZ1",
-    "title": "LEGO City 60503 Hubschrauber der Küstenwache",
-    "category": "Werkzeug",
-    "price": 34.99,
-    "oldPrice": 59.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T21:27:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXGSYZ1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T23:06:34.144Z"
-  },
-  {
     "id": "auto-b0gl1xc475",
     "asin": "B0GL1XC475",
     "title": "Red Bull Sugarfree Energy Drink Kirsche-Sakura Cherry Edition 250 ml, …",
@@ -1642,40 +1686,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GGSK4J2N.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T22:22:27.261Z"
-  },
-  {
-    "id": "auto-b07ymzqnvk",
-    "asin": "B07YMZQNVK",
-    "title": "Sigma Aura 80 USB + Blaze LED-Fahrradbeleuchtung Set",
-    "category": "Sport & Outdoor",
-    "price": 39.99,
-    "oldPrice": 46.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T21:38:17.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Cl63m/2877587_1/re/768x768/qt/55/2877587_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T21:52:12.999Z"
-  },
-  {
-    "id": "auto-b08sbg9d8z",
-    "asin": "B08SBG9D8Z",
-    "title": "Bosch elektrischer Laubsauger/Laubbläser Universal GardenTidy 3000",
-    "category": "Haushalt",
-    "price": 72.99,
-    "checkedAt": "2026-11-20T21:28:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08SBG9D8Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T21:52:23.519Z"
-  },
-  {
-    "id": "auto-b0gx2jh4gc",
-    "asin": "B0GX2JH4GC",
-    "title": "Gothic Classic - PS5 Playstation - Disc - Pirania/THQ Nordic - USK 12",
-    "category": "Gaming",
-    "price": 19.99,
-    "checkedAt": "2026-11-20T21:33:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GX2JH4GC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T21:52:18.288Z"
   }
 ]
