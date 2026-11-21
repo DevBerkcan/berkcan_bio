@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0937cdlmr",
+    "asin": "B0937CDLMR",
+    "title": "Jever Fun alkoholfrei 24×0,5l Dosen 11,86€ (0,99€/l) + 6€ Pfand – 32 …",
+    "category": "Tech",
+    "price": 11.86,
+    "checkedAt": "2026-11-21T17:05:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0937CDLMR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T17:16:51.629Z"
+  },
+  {
+    "id": "auto-b0c9d4kl9d",
+    "asin": "B0C9D4KL9D",
+    "title": "Dreo Atom 316 Gold (DR-HSH006)",
+    "subtitle": "🔥 100° bei mydealz",
+    "category": "Tech",
+    "price": 39.99,
+    "checkedAt": "2026-11-21T17:07:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C9D4KL9D.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 100,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T17:16:46.000Z"
+  },
+  {
     "id": "auto-b0gkwrk6fm",
     "asin": "B0GKWRK6FM",
     "title": "NORDMUT Campingsofa faltbar für 2 Personen – stabile Camping Couch 320 …",
@@ -1941,28 +1965,6 @@
     "telegramPostedAt": "2026-11-20T17:36:44.693Z"
   },
   {
-    "id": "auto-b0dswhd594",
-    "asin": "B0DSWHD594",
-    "title": "Bosch Stubby Ratschenschraubendreher mit Bit Magazin, 6-teilig",
-    "category": "Tech",
-    "price": 7.12,
-    "checkedAt": "2026-11-20T17:10:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DSWHD594.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:21:32.691Z"
-  },
-  {
-    "id": "auto-b0fjs5xcyz",
-    "asin": "B0FJS5XCYZ",
-    "title": "Philips Series 700 S792/06 Elektrorasierer, 4D Flex-Scherkopf, Nass- …",
-    "category": "Beauty & Pflege",
-    "price": 99,
-    "checkedAt": "2026-11-20T17:11:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJS5XCYZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:21:27.442Z"
-  },
-  {
     "id": "auto-b07v5wyxp5",
     "asin": "B07V5WYXP5",
     "title": "Amazon Basics Magnetischer Schraubendreher mit Bits im Griff, …",
@@ -1983,18 +1985,5 @@
     "image": "https://m.media-amazon.com/images/P/B0H99LLYFS.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T17:21:16.976Z"
-  },
-  {
-    "id": "auto-b0c9cjkch3",
-    "asin": "B0C9CJKCH3",
-    "title": "Amazon Black Friday: Anker Nano Powerbank 10.000 mAh / 30W mit …",
-    "category": "Zubehör & Laden",
-    "price": 33.23,
-    "oldPrice": 49.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T17:12:42.000Z",
-    "image": "https://static.mydealz.de/threads/raw/SIzzn/2877398_1/re/768x768/qt/55/2877398_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:21:11.372Z"
   }
 ]
