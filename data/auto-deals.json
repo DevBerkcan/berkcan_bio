@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b0brjx56bl",
+    "asin": "B0BRJX56BL",
+    "title": "Arbeitshandschuhe 10x Paar EN388 Herren Gr 8-9 (S-M) Modell TK34004554",
+    "category": "Mode & Reise",
+    "price": 8.49,
+    "checkedAt": "2026-11-21T17:43:16.000Z",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T17:46:21.635Z"
+  },
+  {
     "id": "auto-b0drz2hdc2",
     "asin": "B0DRZ2HDC2",
     "title": "Bosch Wasserpumpenzange 250mm",
@@ -1687,28 +1697,6 @@
     "telegramPostedAt": "2026-11-20T18:52:21.576Z"
   },
   {
-    "id": "auto-b0h7bf91xg",
-    "asin": "B0H7BF91XG",
-    "title": "Xiaomi TV F Pro 32 (2026), 32 Zoll HD QLED Fire TV, Triple Tuner, …",
-    "category": "Amazon-Geräte",
-    "price": 140,
-    "checkedAt": "2026-11-20T17:41:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H7BF91XG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T18:37:36.662Z"
-  },
-  {
-    "id": "auto-b0fcsrgtwg",
-    "asin": "B0FCSRGTWG",
-    "title": "uandu Glasbehälter mit Deckel 24-teilig – Meal Prep Boxen Glas",
-    "category": "Audio",
-    "price": 32.25,
-    "checkedAt": "2026-11-20T17:44:52.000Z",
-    "image": "https://static.mydealz.de/threads/raw/AvLUk/2877426_1/re/768x768/qt/55/2877426_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T18:37:31.541Z"
-  },
-  {
     "id": "auto-b0d19gfb38",
     "asin": "B0D19GFB38",
     "title": "Adidas Essentials 3-Streifen French Terry Sweatshirt",
@@ -1889,68 +1877,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CTSMF8PW.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T17:52:01.805Z"
-  },
-  {
-    "id": "auto-b0gcnxm3k9",
-    "asin": "B0GCNXM3K9",
-    "title": "schleich Harry Potter Adventskalender 2026 (29 Teile)",
-    "category": "Tech",
-    "price": 39.59,
-    "oldPrice": 47.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T17:39:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GCNXM3K9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:51:56.529Z"
-  },
-  {
-    "id": "auto-b0f7468m2n",
-    "asin": "B0F7468M2N",
-    "title": "LG OLED48G56LS OLED evo TV (48 Zoll)",
-    "category": "TV & Heimkino",
-    "price": 699,
-    "oldPrice": 849.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T17:45:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F7468M2N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:51:47.488Z"
-  },
-  {
-    "id": "auto-b0f45bld1h",
-    "asin": "B0F45BLD1H",
-    "title": "Xiaomi TV F Pro 75 (190 cm), 4K UHD QLED, Smart TV, Fire OS8, HDR10+, …",
-    "category": "TV & Heimkino",
-    "price": 494,
-    "checkedAt": "2026-11-20T17:35:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F45BLD1H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:36:58.859Z"
-  },
-  {
-    "id": "auto-b0886sspyb",
-    "asin": "B0886SSPYB",
-    "title": "CASO Design HW 660 Turbo Heißwasserspender (2,7 L)",
-    "category": "Tech",
-    "price": 75.99,
-    "oldPrice": 84.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T17:35:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0886SSPYB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:36:49.845Z"
-  },
-  {
-    "id": "auto-b0bwfnbj7c",
-    "asin": "B0BWFNBJ7C",
-    "title": "Philips Avent Natural Response Babyflaschen 3er-Pack",
-    "category": "Tech",
-    "price": 13.98,
-    "oldPrice": 21.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T17:32:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BWFNBJ7C.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:36:44.693Z"
   }
 ]
