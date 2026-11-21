@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0dw4f4f4t",
+    "asin": "B0DW4F4F4T",
+    "title": "Jack & Jones 2er-Pack",
+    "category": "Tech",
+    "price": 28.79,
+    "checkedAt": "2026-11-21T14:48:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DW4F4F4T.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T15:04:45.570Z"
+  },
+  {
+    "id": "auto-b0d76chn58",
+    "asin": "B0D76CHN58",
+    "title": "QINCAO Baumwollsocken Herren & Damen",
+    "subtitle": "🔥 107° bei mydealz",
+    "category": "Tech",
+    "price": 11.99,
+    "checkedAt": "2026-11-21T14:58:33.000Z",
+    "image": "https://static.mydealz.de/threads/raw/hn5ec/2875257_1/re/768x768/qt/55/2875257_1.jpg",
+    "temperature": 107,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T15:04:35.591Z"
+  },
+  {
     "id": "auto-b09jztjhyg",
     "asin": "B09JZTJHYG",
     "title": "Corsair M65 RGB Ultra Gaming-Maus |",
@@ -2385,29 +2409,5 @@
     "temperature": 115,
     "source": "auto",
     "telegramPostedAt": "2026-11-20T15:19:06.833Z"
-  },
-  {
-    "id": "auto-b0fd9v92vl",
-    "asin": "B0FD9V92VL",
-    "title": "Matter Wassermelder mit Hub Meross MSH450, 0,3 mm Erkennung, 100dB …",
-    "category": "Tech",
-    "price": 25.49,
-    "checkedAt": "2026-11-20T14:56:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FD9V92VL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:04:09.824Z"
-  },
-  {
-    "id": "auto-b01ielhh6g",
-    "asin": "B01IELHH6G",
-    "title": "Buff Lightweight Merino Wool Hat Wollmütze",
-    "subtitle": "🔥 359° bei mydealz",
-    "category": "Tech",
-    "price": 14.35,
-    "checkedAt": "2026-11-20T14:58:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01IELHH6G.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 359,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T15:04:04.619Z"
   }
 ]
