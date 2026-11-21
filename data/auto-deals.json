@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b096y59z7r",
+    "asin": "B096Y59Z7R",
+    "title": "Gaming Laptop MSI Cyborg, RTX5060, 1TB SSD, Intel Core 7, 144hz",
+    "category": "Computer",
+    "price": 1079,
+    "checkedAt": "2026-11-21T12:27:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B096Y59Z7R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T12:35:37.543Z"
+  },
+  {
+    "id": "auto-b0csknxs2d",
+    "asin": "B0CSKNXS2D",
+    "title": "Wiha Essential Feinmechaniker Schraubendreher Set 7-tlg. In Tasche …",
+    "category": "Tech",
+    "price": 9.99,
+    "checkedAt": "2026-11-21T12:30:00.000Z",
+    "image": "https://static.mydealz.de/threads/raw/4PokH/2877927_1/re/768x768/qt/55/2877927_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T12:35:32.149Z"
+  },
+  {
+    "id": "auto-b0h9ymqgss",
+    "asin": "B0H9YMQGSS",
+    "title": "Weihnachtsbaum künstlich 180 cm – Dichter Tannenbaum aus 100% PVC, …",
+    "category": "Tech",
+    "price": 69.95,
+    "checkedAt": "2026-11-21T12:32:43.000Z",
+    "image": "https://static.mydealz.de/threads/raw/UHVA1/2877882_1/re/768x768/qt/55/2877882_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T12:35:25.085Z"
+  },
+  {
     "id": "auto-b0ddl4s6xc",
     "asin": "B0DDL4S6XC",
     "title": "ThinkFun Rush Hour Deluxe - Logikspiel ab 8 Jahre, Denkspiel",
@@ -2496,19 +2529,6 @@
     "telegramPostedAt": "2026-11-20T12:50:34.669Z"
   },
   {
-    "id": "auto-b0cjn1589l",
-    "asin": "B0CJN1589L",
-    "title": "FC Bayern München Flachmann-Set (Silber) – Edelstahl, 2 Schnapsbecher …",
-    "subtitle": "🔥 100° bei mydealz",
-    "category": "Tech",
-    "price": 15.96,
-    "checkedAt": "2026-11-20T12:26:33.000Z",
-    "image": "https://static.mydealz.de/threads/raw/pSRxR/2876200_1/re/768x768/qt/55/2876200_1.jpg",
-    "temperature": 100,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T12:50:29.539Z"
-  },
-  {
     "id": "auto-b0c7hdkqf5",
     "asin": "B0C7HDKQF5",
     "title": "JACK & JONES Herren Kapuzenpullover – versch. Farben",
@@ -2520,51 +2540,5 @@
     "temperature": 119,
     "source": "auto",
     "telegramPostedAt": "2026-11-20T12:50:23.083Z"
-  },
-  {
-    "id": "auto-b0cw3k81zn",
-    "asin": "B0CW3K81ZN",
-    "title": "Disney Epic Mickey: Rebrushed - Nintendo Switch Upgrade Switch 2 …",
-    "subtitle": "🔥 145° bei mydealz",
-    "category": "Gaming",
-    "price": 19.31,
-    "checkedAt": "2026-11-20T12:24:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CW3K81ZN.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 145,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T12:50:17.943Z"
-  },
-  {
-    "id": "auto-b09n9sjqz9",
-    "asin": "B09N9SJQZ9",
-    "title": "Gorenje OptiBake BSA 6747 A04BG Einbau-Backofen, 77 L, Heißluft, …",
-    "category": "Küche",
-    "price": 349,
-    "checkedAt": "2026-11-20T12:28:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09N9SJQZ9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T12:35:37.020Z"
-  },
-  {
-    "id": "auto-b00zzv9t60",
-    "asin": "B00ZZV9T60",
-    "title": "Zippo Handwärmer – 12 Stunden Wärme – Nachfüllbar mit Feuerzeugbenzin …",
-    "category": "Tech",
-    "price": 22.63,
-    "checkedAt": "2026-11-20T12:31:20.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00ZZV9T60.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T12:35:31.928Z"
-  },
-  {
-    "id": "auto-b07sq2fztk",
-    "asin": "B07SQ2FZTK",
-    "title": "Philips Hue Go V2 tragbare Akzentleuchte weiß",
-    "category": "Smart Home",
-    "price": 53.21,
-    "checkedAt": "2026-11-20T12:33:20.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07SQ2FZTK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T12:35:26.862Z"
   }
 ]
