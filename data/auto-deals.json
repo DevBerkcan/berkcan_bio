@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0746qvbr8",
+    "asin": "B0746QVBR8",
+    "title": "Bosch PRO Akku-Bauleuchte GLI 18V-300",
+    "category": "Tech",
+    "price": 33.99,
+    "checkedAt": "2026-11-21T20:43:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0746QVBR8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T20:58:22.535Z"
+  },
+  {
+    "id": "auto-b0dklvwzpf",
+    "asin": "B0DKLVWZPF",
+    "title": "AMAZON ECHO DOT MaX. - 54,99€ BESTPREIS",
+    "category": "Amazon-Geräte",
+    "price": 54.99,
+    "checkedAt": "2026-11-21T20:44:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DKLVWZPF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T20:58:16.803Z"
+  },
+  {
+    "id": "auto-b0dtqf1mqt",
+    "asin": "B0DTQF1MQT",
+    "title": "Amazon Echo Show",
+    "category": "Amazon-Geräte",
+    "price": 109,
+    "checkedAt": "2026-11-21T20:44:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DTQF1MQT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T20:58:07.160Z"
+  },
+  {
     "id": "auto-b0g595w6dd",
     "asin": "B0G595W6DD",
     "title": "Seagate 8TB Expansion Desktop-Festplatte",
@@ -1541,17 +1574,6 @@
     "telegramPostedAt": "2026-11-20T23:21:24.067Z"
   },
   {
-    "id": "auto-b0cpghxgmc",
-    "asin": "B0CPGHXGMC",
-    "title": "Fisher-Price - mein erster RC-Fernlenkwagen / RC Car/ Ferngesteuertes …",
-    "category": "Spielzeug & LEGO",
-    "price": 22.53,
-    "checkedAt": "2026-11-20T20:53:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CPGHXGMC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T23:06:39.787Z"
-  },
-  {
     "id": "auto-b0fpxgsyz1",
     "asin": "B0FPXGSYZ1",
     "title": "LEGO City 60503 Hubschrauber der Küstenwache",
@@ -1609,28 +1631,6 @@
     "image": "https://m.media-amazon.com/images/P/B0GGSK4J2N.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T22:22:27.261Z"
-  },
-  {
-    "id": "auto-b0ck2hc8zh",
-    "asin": "B0CK2HC8ZH",
-    "title": "Playmobil Asterix Römischer Streitwagen mit Senator Brutus, Soldat & 2 …",
-    "category": "Spielzeug & LEGO",
-    "price": 17.12,
-    "checkedAt": "2026-11-20T20:43:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CK2HC8ZH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T22:07:30.866Z"
-  },
-  {
-    "id": "auto-b0dvzxsy7t",
-    "asin": "B0DVZXSY7T",
-    "title": "PLAYMOBIL 71862 –Western Promo Pack: Postkutschenüberfall im Wilden …",
-    "category": "Spielzeug & LEGO",
-    "price": 17.09,
-    "checkedAt": "2026-11-20T20:47:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DVZXSY7T.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T22:07:24.789Z"
   },
   {
     "id": "auto-b07ymzqnvk",
@@ -1712,27 +1712,5 @@
     "image": "https://static.mydealz.de/threads/raw/rXtn7/2877576_1/re/768x768/qt/55/2877576_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T21:22:32.116Z"
-  },
-  {
-    "id": "auto-b0h7k5ryf4",
-    "asin": "B0H7K5RYF4",
-    "title": "Dyson Airwrap nachtblau / kupfer",
-    "category": "Beauty & Pflege",
-    "price": 274,
-    "checkedAt": "2026-11-20T20:57:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H7K5RYF4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T21:07:48.953Z"
-  },
-  {
-    "id": "auto-b079j5cwsy",
-    "asin": "B079J5CWSY",
-    "title": "Soehnle Küchenwaage Page Compact 300, Haushaltswaage bis 5 kg …",
-    "category": "Tech",
-    "price": 12.99,
-    "checkedAt": "2026-11-20T20:47:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B079J5CWSY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T20:52:42.920Z"
   }
 ]
