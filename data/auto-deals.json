@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0f94gkjky",
+    "asin": "B0F94GKJKY",
+    "title": "Osram Taschenlampen im Angebot z.B. die OSRAM LEDinspect TORCH 350 …",
+    "category": "Tech",
+    "price": 10.92,
+    "checkedAt": "2026-11-21T18:10:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F94GKJKY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T18:15:37.251Z"
+  },
+  {
     "id": "auto-b000jwemvm",
     "asin": "B000JWEMVM",
     "title": "Roba Kasperlefigurenset 6 Handpuppen Figuren aus Stoff für …",
@@ -30,17 +41,6 @@
     "checkedAt": "2026-11-21T17:43:16.000Z",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T17:46:21.635Z"
-  },
-  {
-    "id": "auto-b0drz2hdc2",
-    "asin": "B0DRZ2HDC2",
-    "title": "Bosch Wasserpumpenzange 250mm",
-    "category": "Werkzeug",
-    "price": 12.37,
-    "checkedAt": "2026-11-20T18:04:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DRZ2HDC2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T17:31:38.087Z"
   },
   {
     "id": "auto-b0fpxftq9s",
@@ -1730,39 +1730,6 @@
     "telegramPostedAt": "2026-11-20T18:37:14.383Z"
   },
   {
-    "id": "auto-b0f5sgk5q7",
-    "asin": "B0F5SGK5Q7",
-    "title": "NZXT Kraken Plus 240 AIO-CPU-Wasserkühlung, 1,54\" LCD, Turbine-Pumpe, …",
-    "category": "Tech",
-    "price": 62.9,
-    "checkedAt": "2026-11-20T18:05:20.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F5SGK5Q7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T18:22:31.286Z"
-  },
-  {
-    "id": "auto-b07ftxbnvl",
-    "asin": "B07FTXBNVL",
-    "title": "PRIME Real Techniques Pinsel- & Schwammset für",
-    "category": "Tech",
-    "price": 10.99,
-    "checkedAt": "2026-11-20T18:08:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07FTXBNVL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T18:22:26.230Z"
-  },
-  {
-    "id": "auto-b0fdwz5zk3",
-    "asin": "B0FDWZ5ZK3",
-    "title": "Gabbys Dollhouse: Bereit für die Party - PS5",
-    "category": "Gaming",
-    "price": 13.99,
-    "checkedAt": "2026-11-20T18:09:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FDWZ5ZK3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T18:22:21.114Z"
-  },
-  {
     "id": "auto-b00nabot8u",
     "asin": "B00NABOT8U",
     "title": "Beurer FC 45 elektrische Gesichtsreinigungsbürste, 2-stufige Rotation",
@@ -1772,29 +1739,5 @@
     "image": "https://m.media-amazon.com/images/P/B00NABOT8U.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T18:22:15.923Z"
-  },
-  {
-    "id": "auto-b0g7m28vb3",
-    "asin": "B0G7M28VB3",
-    "title": "PLAYMOBIL 71956 – WWE RAW Ring Collector’s Set",
-    "category": "Spielzeug & LEGO",
-    "price": 37.09,
-    "checkedAt": "2026-11-20T18:05:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G7M28VB3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T18:07:29.825Z"
-  },
-  {
-    "id": "auto-b0fxwxnz9h",
-    "asin": "B0FXWXNZ9H",
-    "title": "Inateck Hülle mit Tastatur für iPad Air 13 mit flachem Scharnier und …",
-    "category": "Computer",
-    "price": 90.99,
-    "oldPrice": 120.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T18:00:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/H1wmy/2877449_1/re/768x768/qt/55/2877449_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T18:07:24.466Z"
   }
 ]
