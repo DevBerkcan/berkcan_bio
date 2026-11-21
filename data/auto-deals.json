@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0fjktgf68",
+    "asin": "B0FJKTGF68",
+    "title": "WORKPRO Klappbare Japansäge, SK5 Stahl Handsäge, 14 cm …",
+    "category": "Tech",
+    "price": 9.99,
+    "oldPrice": 12.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-21T11:40:30.000Z",
+    "image": "https://static.mydealz.de/threads/raw/tDMHD/2877901_1/re/768x768/qt/55/2877901_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T11:51:03.850Z"
+  },
+  {
     "id": "auto-b0c6k7546x",
     "asin": "B0C6K7546X",
     "title": "Comfee Gefrierschrank 160L mit 5 Schubladen [Energieklasse E]",
@@ -1506,39 +1519,6 @@
     "telegramPostedAt": "2026-11-20T17:05:13.194Z"
   },
   {
-    "id": "auto-b094xz8h5h",
-    "asin": "B094XZ8H5H",
-    "title": "SwitchBot Türsensor mit Licht und Bewegungssensor",
-    "category": "Smart Home",
-    "price": 14.44,
-    "checkedAt": "2026-11-20T11:39:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B094XZ8H5H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:22:00.358Z"
-  },
-  {
-    "id": "auto-b07jlfjkpq",
-    "asin": "B07JLFJKPQ",
-    "title": "PLAYMOBIL | Family Fun | Familien-Wohnmobil | mit abnehmbaren Dach | …",
-    "category": "Spielzeug & LEGO",
-    "price": 30.59,
-    "checkedAt": "2026-11-20T11:49:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07JLFJKPQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:21:51.532Z"
-  },
-  {
-    "id": "auto-b0g3q82pqf",
-    "asin": "B0G3Q82PQF",
-    "title": "Amazon Prime: Hot Wheels Brick Shop Lamborghini Miura P400 SV",
-    "category": "Spielzeug & LEGO",
-    "price": 97.19,
-    "checkedAt": "2026-11-20T11:50:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G3Q82PQF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T17:21:47.153Z"
-  },
-  {
     "id": "auto-b07t54wg14",
     "asin": "B07T54WG14",
     "title": "Hasbro Kroko Doc –Amazon Prime Black Friday Angebot",
@@ -2619,38 +2599,5 @@
     "temperature": 223,
     "source": "auto",
     "telegramPostedAt": "2026-11-20T12:05:41.566Z"
-  },
-  {
-    "id": "auto-b0d318qdgn",
-    "asin": "B0D318QDGN",
-    "title": "Bessey BEYCEPS Einhand-Montagewerkzeug",
-    "category": "Werkzeug",
-    "price": 63.74,
-    "checkedAt": "2026-11-20T11:44:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D318QDGN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:50:50.642Z"
-  },
-  {
-    "id": "auto-b0ftz9kv79",
-    "asin": "B0FTZ9KV79",
-    "title": "LG Fit&Max Kühl-/Gefrierkombination, 375 L, No Frost, FRESHConverter+, …",
-    "category": "Tech",
-    "price": 544,
-    "checkedAt": "2026-11-20T11:47:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FTZ9KV79.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:50:45.490Z"
-  },
-  {
-    "id": "auto-b0gwn4vbxj",
-    "asin": "B0GWN4VBXJ",
-    "title": "Vitabay Kollagen Pulver 1 kg – Typ I, II, III, V, X – Hyaluron & …",
-    "category": "Lebensmittel & Drinks",
-    "price": 20.71,
-    "checkedAt": "2026-11-20T11:49:26.000Z",
-    "image": "https://static.mydealz.de/threads/raw/wSrDY/2877100_1/re/768x768/qt/55/2877100_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:50:40.492Z"
   }
 ]
