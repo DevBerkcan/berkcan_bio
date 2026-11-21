@@ -3097,18 +3097,6 @@
     "telegramPostedAt": "2026-11-20T09:19:16.102Z"
   },
   {
-    "id": "queue-b0brsr8gnq",
-    "asin": "B0BRSR8GNQ",
-    "title": "UGREEN HDMI 2.1 Switch 3-in-1 8K@60Hz",
-    "subtitle": "Drei Quellen an einem Display, mit Knopf und Fernbedienung.",
-    "category": "Tech",
-    "price": 29.66,
-    "checkedAt": "2026-11-20T07:31:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BRSR8GNQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T09:18:41.750Z"
-  },
-  {
     "id": "auto-b0dwnd2t6f",
     "asin": "B0DWND2T6F",
     "title": "Weber Spirit E-210 Gasgrill mit 2 Brennern, 51 × 46 cm Grillfläche & …",
@@ -3160,18 +3148,6 @@
     "telegramPostedAt": "2026-11-20T08:34:13.000Z"
   },
   {
-    "id": "queue-b0dfmgyfn9",
-    "asin": "B0DFMGYFN9",
-    "title": "Siemens iQ300 Unterbau-Geschirrspüler SN43ES06VE",
-    "subtitle": "Smarter 60-cm-Geschirrspüler inkl. Lieferung und Aufbau.",
-    "category": "Küche",
-    "price": 519.99,
-    "checkedAt": "2026-11-20T07:38:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DFMGYFN9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T08:33:50.306Z"
-  },
-  {
     "id": "auto-b0h38v38mj",
     "asin": "B0H38V38MJ",
     "title": "Thermosocken für Damen und Herren, 2 Paar extra dicke Warme Socken",
@@ -3183,18 +3159,6 @@
     "image": "https://static.mydealz.de/threads/raw/FKvgz/2876800_1/re/768x768/qt/55/2876800_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T08:19:11.005Z"
-  },
-  {
-    "id": "queue-b0glm67pwd",
-    "asin": "B0GLM67PWD",
-    "title": "UGREEN 10-in-1 Steckdosenleiste mit 65W USB-C",
-    "subtitle": "Mehrfachsteckdose mit 65W USB-C – lädt sogar ein MacBook Air.",
-    "category": "Smart Home",
-    "price": 31.34,
-    "checkedAt": "2026-11-20T07:35:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/EpMrO/2876757_1/re/768x768/qt/55/2876757_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T08:18:51.904Z"
   },
   {
     "id": "auto-b0bb7kg7lz",
@@ -3220,18 +3184,5 @@
     "image": "https://static.mydealz.de/threads/raw/ncqFl/2876778_1/re/768x768/qt/55/2876778_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T08:03:49.112Z"
-  },
-  {
-    "id": "auto-b0f5b9sygt",
-    "asin": "B0F5B9SYGT",
-    "title": "6 Paar adidas Unisex Cushioned Crew Socks Gr 31/33 bis 49/51 Socken",
-    "subtitle": "🔥 1268° bei mydealz",
-    "category": "Tech",
-    "price": 14.38,
-    "checkedAt": "2026-11-20T07:33:13.000Z",
-    "image": "https://static.mydealz.de/threads/raw/eLQnZ/2858367_1/re/768x768/qt/55/2858367_1.jpg",
-    "temperature": 1268,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T07:34:33.606Z"
   }
 ]
