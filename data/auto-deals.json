@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0fm88wvrh",
+    "asin": "B0FM88WVRH",
+    "title": "UGREEN 20Gbps NVMe SSD-Dockingstation, Dual-Bay M.2 SSD Gehäuse mit …",
+    "category": "Computer",
+    "price": 51.17,
+    "checkedAt": "2026-11-21T15:54:07.000Z",
+    "image": "https://static.mydealz.de/threads/raw/ofz5z/2878073_1/re/768x768/qt/55/2878073_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T16:03:35.099Z"
+  },
+  {
     "id": "auto-b0986bdrsd",
     "asin": "B0986BDRSD",
     "title": "Emerson, Lake & Palmer - Out of This World : Live (1970-1997) 10LPs …",
@@ -2157,19 +2168,6 @@
     "telegramPostedAt": "2026-11-20T16:35:11.746Z"
   },
   {
-    "id": "auto-b0b2bdhlh1",
-    "asin": "B0B2BDHLH1",
-    "title": "Mattel Disney Princess Cinderella Puppe im klassischen Look",
-    "category": "Spielzeug & LEGO",
-    "price": 6.81,
-    "oldPrice": 14.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T15:53:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B2BDHLH1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:35:04.329Z"
-  },
-  {
     "id": "auto-b0d38bll4y",
     "asin": "B0D38BLL4Y",
     "title": "Glorious Model D 2 Wireless – ergonomische Gaming-Maus mit 66 g, …",
@@ -2216,62 +2214,5 @@
     "image": "https://static.mydealz.de/threads/raw/9GRTA/2877344_1/re/768x768/qt/55/2877344_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T16:19:59.682Z"
-  },
-  {
-    "id": "auto-b08kdscc6s",
-    "asin": "B08KDSCC6S",
-    "title": "Midea MIH741F238K0 Induktionskochfeld, 4 Kochzonen, 7400W",
-    "category": "Tech",
-    "price": 109.99,
-    "checkedAt": "2026-11-20T15:52:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08KDSCC6S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:05:15.612Z"
-  },
-  {
-    "id": "auto-b0h6vwx4yx",
-    "asin": "B0H6VWX4YX",
-    "title": "Pixel 11 Pixelsnap Case (Google)",
-    "category": "Smartphone & Tablet",
-    "price": 31.39,
-    "checkedAt": "2026-11-20T15:53:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H6VWX4YX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:05:10.478Z"
-  },
-  {
-    "id": "auto-b001ibmo7c",
-    "asin": "B001IBMO7C",
-    "title": "Bosch Accessories Bosch 15tlg. Mini-X-Line Spiralbohrer Mixed-Set",
-    "category": "Werkzeug",
-    "price": 6.47,
-    "checkedAt": "2026-11-20T15:57:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B001IBMO7C.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:05:04.628Z"
-  },
-  {
-    "id": "auto-b0cgmt8rpj",
-    "asin": "B0CGMT8RPJ",
-    "title": "Gorenje RF414EPS4 Kühl-/Gefrierkombination, Gefrierteil oben, 206 L, …",
-    "category": "Tech",
-    "price": 229,
-    "checkedAt": "2026-11-20T16:01:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CGMT8RPJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:04:58.961Z"
-  },
-  {
-    "id": "auto-b07sd1721y",
-    "asin": "B07SD1721Y",
-    "title": "ONLY NOS Damen ONLPOWER MID Push UP SK REA2981K NOOS Skinny Jeans",
-    "category": "Mode & Reise",
-    "price": 11.99,
-    "oldPrice": 39.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-20T15:56:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07SD1721Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T16:04:50.027Z"
   }
 ]
