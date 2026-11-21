@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b01hf1z4zc",
+    "asin": "B01HF1Z4ZC",
+    "title": "Prime: Depeche Mode Songs of Faith and Devotion [Vinyl LP]",
+    "category": "Tech",
+    "price": 20.99,
+    "checkedAt": "2026-11-21T10:49:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01HF1Z4ZC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T11:06:31.024Z"
+  },
+  {
+    "id": "auto-b09dmxzj54",
+    "asin": "B09DMXZJ54",
+    "title": "The Weeknd The Highlights (2LP) [Vinyl LP]",
+    "category": "Tech",
+    "price": 31.99,
+    "checkedAt": "2026-11-21T11:00:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09DMXZJ54.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T11:06:25.864Z"
+  },
+  {
+    "id": "auto-b0f941vny8",
+    "asin": "B0F941VNY8",
+    "title": "Braun Series 5 52-B7200cc Elektrorasierer mit …",
+    "category": "Beauty & Pflege",
+    "price": 89.99,
+    "checkedAt": "2026-11-21T11:02:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F941VNY8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T11:06:20.725Z"
+  },
+  {
+    "id": "auto-b0dxf66swr",
+    "asin": "B0DXF66SWR",
+    "title": "UGREEN KVM Switch 2 PC 2 Monitore",
+    "subtitle": "🔥 104° bei mydealz",
+    "category": "Computer",
+    "price": 65.55,
+    "checkedAt": "2026-11-21T11:02:48.000Z",
+    "image": "https://static.mydealz.de/threads/raw/MyJ3h/2872813_1/re/768x768/qt/55/2872813_1.jpg",
+    "temperature": 104,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-21T11:06:15.420Z"
+  },
+  {
     "id": "auto-b082td4r4l",
     "asin": "B082TD4R4L",
     "title": "Einhell Original Starter Kit PXC 2,5 Ah 18 Volt Akku + Ladegerät",
@@ -1318,26 +1364,6 @@
     "telegramPostedAt": "2026-11-20T17:21:11.372Z"
   },
   {
-    "id": "auto-b0c7rk5mzw",
-    "asin": "B0C7RK5MZW",
-    "title": "Die weiße Burg Brettspiel Kennerspiel",
-    "category": "Spielzeug & LEGO",
-    "price": 20.89,
-    "checkedAt": "2026-11-20T10:55:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C7RK5MZW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gtz12cnz",
-    "asin": "B0GTZ12CNZ",
-    "title": "PANTASY Vintage Kaffeemühle Klemmbausteine Set Kaffeemühle mit …",
-    "category": "Spielzeug & LEGO",
-    "price": 28.49,
-    "checkedAt": "2026-11-20T11:05:03.000Z",
-    "image": "https://static.mydealz.de/threads/raw/74LnC/2877041_1/re/768x768/qt/55/2877041_1.jpg",
-    "source": "auto"
-  },
-  {
     "id": "auto-b0f8hnjrkn",
     "asin": "B0F8HNJRKN",
     "title": "Final Destination: Bloodlines (4K Blu-ray + Blu-ray)",
@@ -2595,17 +2621,6 @@
     "telegramPostedAt": "2026-11-20T11:35:43.860Z"
   },
   {
-    "id": "auto-b0gvq4zwsf",
-    "asin": "B0GVQ4ZWSF",
-    "title": "Olivia Rodrigo - You Seem Pretty Sad For A Girl So In Love (Black …",
-    "category": "Tech",
-    "price": 22.85,
-    "checkedAt": "2026-11-20T11:03:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GVQ4ZWSF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:20:38.083Z"
-  },
-  {
     "id": "auto-b0dqwksqgr",
     "asin": "B0DQWKSQGR",
     "title": "[Prime) MONSGEEK FUN60 Pro HE Tastatur 60% Rapid Trigger …",
@@ -2652,16 +2667,5 @@
     "image": "https://m.media-amazon.com/images/P/B00280MUVM.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-20T11:20:15.867Z"
-  },
-  {
-    "id": "auto-b0gsgwwkhy",
-    "asin": "B0GSGWWKHY",
-    "title": "LG 65NU8E0B3LA Nano 4K UHD TV, 65 Zoll",
-    "category": "TV & Heimkino",
-    "price": 469,
-    "checkedAt": "2026-11-20T11:00:36.000Z",
-    "image": "https://static.mydealz.de/threads/raw/zxN7g/2877035_1/re/768x768/qt/55/2877035_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-20T11:04:03.441Z"
   }
 ]
