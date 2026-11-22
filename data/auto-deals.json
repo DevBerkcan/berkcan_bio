@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0cqtg2d1z",
+    "asin": "B0CQTG2D1Z",
+    "title": "KARAT Getränkekistenregal für 6 Kisten",
+    "category": "Tech",
+    "price": 19.8,
+    "checkedAt": "2026-11-22T11:12:42.000Z",
+    "image": "https://static.mydealz.de/threads/raw/cLuiC/2878591_1/re/768x768/qt/55/2878591_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T11:27:19.894Z"
+  },
+  {
     "id": "auto-b079c8249w",
     "asin": "B079C8249W",
     "title": "JACK&JONES Essentials JJEBASIC Poloshirt SS NOOS Slim Fit in Schwarz …",
@@ -1926,17 +1937,6 @@
     "telegramPostedAt": "2026-11-21T11:51:03.850Z"
   },
   {
-    "id": "auto-b0c6k7546x",
-    "asin": "B0C6K7546X",
-    "title": "Comfee Gefrierschrank 160L mit 5 Schubladen [Energieklasse E]",
-    "category": "Tech",
-    "price": 263.9,
-    "checkedAt": "2026-11-21T11:22:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C6K7546X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T11:36:26.230Z"
-  },
-  {
     "id": "auto-b0b4khsnmd",
     "asin": "B0B4KHSNMD",
     "title": "LEXIVON Stecknuss-Adapter-Set inkl. magnetischem Bithalter – 4-teilig, …",
@@ -1959,27 +1959,5 @@
     "temperature": 124,
     "source": "auto",
     "telegramPostedAt": "2026-11-21T11:36:11.914Z"
-  },
-  {
-    "id": "auto-b08lhr971d",
-    "asin": "B08LHR971D",
-    "title": "Zurück in die Vergangenheit (1989-93) - Komplette Serie - Blu-ray - …",
-    "category": "Bücher & Filme",
-    "price": 69.52,
-    "checkedAt": "2026-11-21T11:13:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08LHR971D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T11:21:25.546Z"
-  },
-  {
-    "id": "auto-b0cyhk2xr1",
-    "asin": "B0CYHK2XR1",
-    "title": "Darts K-Flex Target Schaftsystem No.2 Kurz, Mittelstufe & Mittel",
-    "category": "Tech",
-    "price": 7.95,
-    "checkedAt": "2026-11-21T11:14:39.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Qor56/2877885_1/re/768x768/qt/55/2877885_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T11:21:20.002Z"
   }
 ]
