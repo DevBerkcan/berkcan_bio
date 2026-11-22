@@ -1810,17 +1810,6 @@
     "telegramPostedAt": "2026-11-21T15:19:22.409Z"
   },
   {
-    "id": "auto-b0dw4f4f4t",
-    "asin": "B0DW4F4F4T",
-    "title": "Jack & Jones 2er-Pack",
-    "category": "Tech",
-    "price": 28.79,
-    "checkedAt": "2026-11-21T14:48:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DW4F4F4T.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T15:04:45.570Z"
-  },
-  {
     "id": "auto-b0d76chn58",
     "asin": "B0D76CHN58",
     "title": "QINCAO Baumwollsocken Herren & Damen",
@@ -1832,31 +1821,5 @@
     "temperature": 107,
     "source": "auto",
     "telegramPostedAt": "2026-11-21T15:04:35.591Z"
-  },
-  {
-    "id": "auto-b0gxvqlsgq",
-    "asin": "B0GXVQLSGQ",
-    "title": "Corsair NIGHTSWORD v2 Wireless SD Stream Deck – kabellose Gaming-Maus",
-    "category": "Computer",
-    "price": 84.99,
-    "oldPrice": 104.89,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-21T14:47:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GXVQLSGQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T14:49:44.797Z"
-  },
-  {
-    "id": "auto-b0dmtn57c1",
-    "asin": "B0DMTN57C1",
-    "title": "CORSAIR RM1000e (2025) 1000W ATX-Netzteil Amazon",
-    "category": "Zubehör & Laden",
-    "price": 107.99,
-    "oldPrice": 144.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-21T14:41:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DMTN57C1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T14:49:35.829Z"
   }
 ]
