@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0fn4mpcdg",
+    "asin": "B0FN4MPCDG",
+    "title": "One Piece Baggy der Clown – Cable Guys Halterung für Smartphone und …",
+    "subtitle": "🔥 117° bei mydealz",
+    "category": "Smartphone & Tablet",
+    "price": 5.69,
+    "checkedAt": "2026-11-22T12:05:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FN4MPCDG.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 117,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T12:12:51.074Z"
+  },
+  {
     "id": "auto-b08zysndlx",
     "asin": "B08ZYSNDLX",
     "title": "wolfcraft Fußleistenset - Schmiege & Schneidlade, MG 200 …",
@@ -2065,28 +2078,6 @@
     "telegramPostedAt": "2026-11-21T12:35:25.085Z"
   },
   {
-    "id": "auto-b06xff5ss7",
-    "asin": "B06XFF5SS7",
-    "title": "Levi's Herren New Duncan Gürtel in größe 105, braun für",
-    "category": "Tech",
-    "price": 10.65,
-    "checkedAt": "2026-11-21T12:11:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06XFF5SS7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T12:20:38.387Z"
-  },
-  {
-    "id": "auto-b0dgl8bgcm",
-    "asin": "B0DGL8BGCM",
-    "title": "MEDION HD2 Ionen-Haartrockner",
-    "category": "Haushalt",
-    "price": 18.9,
-    "checkedAt": "2026-11-21T12:11:39.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Rmtpq/2877916_1/re/768x768/qt/55/2877916_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T12:20:33.269Z"
-  },
-  {
     "id": "auto-b0g5phwxtk",
     "asin": "B0G5PHWXTK",
     "title": "XIAOMI Watch 5 Smartwatch 47 mm Jupiter Green",
@@ -2098,16 +2089,5 @@
     "image": "https://m.media-amazon.com/images/P/B0G5PHWXTK.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T12:20:26.624Z"
-  },
-  {
-    "id": "auto-b0dbhvsrz8",
-    "asin": "B0DBHVSRZ8",
-    "title": "Amazon Prime: Thermalright Phantom Spirit 120 CPU-Luftkühler",
-    "category": "Tech",
-    "price": 28.43,
-    "checkedAt": "2026-11-21T12:01:16.000Z",
-    "image": "https://static.mydealz.de/threads/raw/P8N5M/2877909_1/re/768x768/qt/55/2877909_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T12:05:48.297Z"
   }
 ]
