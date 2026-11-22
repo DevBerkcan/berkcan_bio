@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0c6n1xw8b",
+    "asin": "B0C6N1XW8B",
+    "title": "PERFECT FIT Katze Indoor 1+ Huhn 5x1,4kg",
+    "category": "Tech",
+    "price": 19.07,
+    "checkedAt": "2026-11-22T21:48:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C6N1XW8B.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T22:01:40.302Z"
+  },
+  {
+    "id": "auto-b000ar79x4",
+    "asin": "B000AR79X4",
+    "title": "Victorinox Schweizer Taschenmesser, Climber, Multitool, Swiss Army …",
+    "category": "Küche",
+    "price": 25.42,
+    "checkedAt": "2026-11-22T21:59:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000AR79X4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T22:01:34.109Z"
+  },
+  {
     "id": "auto-b0cp18hr2h",
     "asin": "B0CP18HR2H",
     "title": "Paladone XBOX LED-Neonlicht, Freistehend oder Wandmontierbar …",
@@ -1705,17 +1727,6 @@
     "telegramPostedAt": "2026-11-21T23:40:40.473Z"
   },
   {
-    "id": "auto-b0hcn45117",
-    "asin": "B0HCN45117",
-    "title": "Pantasy Schneiderei 85061 /",
-    "category": "Spielzeug & LEGO",
-    "price": 98.59,
-    "checkedAt": "2026-11-21T21:50:12.000Z",
-    "image": "https://static.mydealz.de/threads/raw/DTjnq/2878254_1/re/768x768/qt/55/2878254_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T23:26:06.574Z"
-  },
-  {
     "id": "auto-b0fl64c51h",
     "asin": "B0FL64C51H",
     "title": "Halloween Trilogy 4K-UHD Blu-Ray - 3 Filme mit Jamie Lee Curtis",
@@ -1819,27 +1830,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DYF8VLTQ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T22:12:21.591Z"
-  },
-  {
-    "id": "auto-b08f2ctvr3",
-    "asin": "B08F2CTVR3",
-    "title": "Brennenstuhl Kabeltrommel IP44 40m H07RNF 3G1,5",
-    "category": "Tech",
-    "price": 49.99,
-    "checkedAt": "2026-11-21T21:46:48.000Z",
-    "image": "https://static.mydealz.de/threads/raw/oMvc4/2878255_1/re/768x768/qt/55/2878255_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T21:57:25.510Z"
-  },
-  {
-    "id": "auto-b0fxblnl7v",
-    "asin": "B0FXBLNL7V",
-    "title": "Bosch Powerlight+ Twin LED-Lampe Hauptscheinwerfer",
-    "category": "Licht & Garten",
-    "price": 62.23,
-    "checkedAt": "2026-11-21T21:52:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FXBLNL7V.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T21:57:17.762Z"
   }
 ]
