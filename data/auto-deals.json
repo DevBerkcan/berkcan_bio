@@ -1850,19 +1850,6 @@
     "telegramPostedAt": "2026-11-21T23:11:14.409Z"
   },
   {
-    "id": "auto-b0dzqmz7dc",
-    "asin": "B0DZQMZ7DC",
-    "title": "Pepsi Zero Zucker Mango 24 x 0,33 l",
-    "subtitle": "🔥 102° bei mydealz",
-    "category": "Tech",
-    "price": 14.99,
-    "checkedAt": "2026-11-21T22:58:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DZQMZ7DC.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 102,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T23:11:09.269Z"
-  },
-  {
     "id": "auto-b0dhrwt38p",
     "asin": "B0DHRWT38P",
     "title": "Burnhard RAGNAR Küchenmesser Grillmesser Pakkaholzgriff 20cm",
@@ -1874,16 +1861,5 @@
     "temperature": 105,
     "source": "auto",
     "telegramPostedAt": "2026-11-21T23:11:03.769Z"
-  },
-  {
-    "id": "auto-b07k35jgcf",
-    "asin": "B07K35JGCF",
-    "title": "adidas Unisex Adilette Aqua SlidesRUTSCHEN",
-    "category": "Tech",
-    "price": 13.65,
-    "checkedAt": "2026-11-21T22:48:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07K35JGCF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T22:56:22.549Z"
   }
 ]
