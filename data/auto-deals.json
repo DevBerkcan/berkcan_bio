@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b0hb9n14l4",
+    "asin": "B0HB9N14L4",
+    "title": "Wie ein wilder Stier - Limitiertes Mediabook – Cover A",
+    "category": "Tech",
+    "price": 23.66,
+    "checkedAt": "2026-11-22T00:01:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HB9N14L4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h7ckj5t2",
+    "asin": "B0H7CKJ5T2",
+    "title": "Barbarian 4K + Blu-Ray Steelbook",
+    "category": "Bücher & Filme",
+    "price": 20.87,
+    "checkedAt": "2026-11-22T00:01:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H7CKJ5T2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0gwdsksz1",
     "asin": "B0GWDSKSZ1",
     "title": "Avatar -Fire and Ash UHD-BluRay [Prime]",
@@ -1767,29 +1787,5 @@
     "image": "https://m.media-amazon.com/images/P/B075NLMCB2.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T06:10:03.494Z"
-  },
-  {
-    "id": "auto-b0gxlj9n66",
-    "asin": "B0GXLJ9N66",
-    "title": "Meta Glasses, Adventurer AI Glasses Standard, Schwarz, Gläser: …",
-    "category": "Tech",
-    "price": 215,
-    "checkedAt": "2026-11-21T00:01:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GXLJ9N66.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T06:25:07.649Z"
-  },
-  {
-    "id": "auto-b0bfb8dj9q",
-    "asin": "B0BFB8DJ9Q",
-    "title": "Oclean Elektrische Zahnbürste Flow TravelGo Set, Schallzahnbürste mit …",
-    "subtitle": "🔥 1220° bei mydealz",
-    "category": "Beauty & Pflege",
-    "price": 37.05,
-    "checkedAt": "2026-11-20T23:56:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BFB8DJ9Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 1220,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T06:25:12.198Z"
   }
 ]
