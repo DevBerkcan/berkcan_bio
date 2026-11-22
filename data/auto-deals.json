@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b00uwhrr8e",
+    "asin": "B00UWHRR8E",
+    "title": "Dänische Delikatessen ~7,99€ / Flickerung Lights / Adams Äpfel je …",
+    "category": "Tech",
+    "price": 7.99,
+    "checkedAt": "2026-11-22T15:44:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00UWHRR8E.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T15:53:58.015Z"
+  },
+  {
+    "id": "auto-b07bf3v9b7",
+    "asin": "B07BF3V9B7",
+    "title": "Ready Player One (2018) - 4K Blu-ray + Blu - IMDB 7,4",
+    "category": "Bücher & Filme",
+    "price": 16.34,
+    "checkedAt": "2026-11-22T15:46:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07BF3V9B7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T15:53:52.837Z"
+  },
+  {
     "id": "auto-b00008k5yp",
     "asin": "B00008K5YP",
     "title": "Cloer 181 Waffeleisen für eine Herzwaffel",
@@ -1867,16 +1889,5 @@
     "image": "https://static.mydealz.de/threads/raw/ofz5z/2878073_1/re/768x768/qt/55/2878073_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T16:03:35.099Z"
-  },
-  {
-    "id": "auto-b0986bdrsd",
-    "asin": "B0986BDRSD",
-    "title": "Emerson, Lake & Palmer - Out of This World : Live (1970-1997) 10LPs …",
-    "category": "Tech",
-    "price": 64.99,
-    "checkedAt": "2026-11-21T15:39:08.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0986BDRSD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T15:48:53.476Z"
   }
 ]
