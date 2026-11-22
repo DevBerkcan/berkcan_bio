@@ -1,5 +1,41 @@
 [
   {
+    "id": "queue-b0dl6ksw78",
+    "asin": "B0DL6KSW78",
+    "title": "Apple Maus, weiß",
+    "subtitle": "Originale Apple Maus in Weiß – passt optisch perfekt zum Mac-Setup.",
+    "category": "Computer",
+    "price": 34.9,
+    "checkedAt": "2026-11-22T14:04:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DL6KSW78.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T20:17:58.875Z"
+  },
+  {
+    "id": "queue-b0gttzytpy",
+    "asin": "B0GTTZYTPY",
+    "title": "EasySMX S10 Controller für Switch 2 mit TMR-Sticks",
+    "subtitle": "Pro-Controller-Alternative mit HD Rumble, NFC, Gyro und Wake-up-Funktion.",
+    "category": "Gaming",
+    "price": 29.06,
+    "checkedAt": "2026-11-22T19:45:44.000Z",
+    "image": "https://static.mydealz.de/threads/raw/oszTJ/2878895_1/re/768x768/qt/55/2878895_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T20:17:54.364Z"
+  },
+  {
+    "id": "queue-b0fbxcsd35",
+    "asin": "B0FBXCSD35",
+    "title": "Fujifilm X-E5 Kit mit 23-mm-Objektiv, schwarz",
+    "subtitle": "Kompakte Systemkamera direkt im Kit mit 23-mm-Objektiv.",
+    "category": "Foto & Video",
+    "price": 1529,
+    "checkedAt": "2026-11-22T20:00:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FBXCSD35.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T20:17:48.742Z"
+  },
+  {
     "id": "auto-b008zcaiwa",
     "asin": "B008ZCAIWA",
     "title": "EISL DX25 nachrüstbare Waschbeckenbrause, Handbrause, ideal zum …",
@@ -1831,17 +1867,6 @@
     "telegramPostedAt": "2026-11-21T20:43:26.556Z"
   },
   {
-    "id": "auto-b0gwqjrynm",
-    "asin": "B0GWQJRYNM",
-    "title": "Matratzen-Topper 80x200cm, 90x200cm - 7cm Dicke, Härte H2/H3 - mit …",
-    "category": "Tech",
-    "price": 64.59,
-    "checkedAt": "2026-11-21T20:17:36.000Z",
-    "image": "https://static.mydealz.de/threads/raw/dsLKx/2878201_1/re/768x768/qt/55/2878201_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T20:28:48.258Z"
-  },
-  {
     "id": "auto-b0czy23dyb",
     "asin": "B0CZY23DYB",
     "title": "Ninja Double Stack XL Heißluftfritteuse, 9,5 L, 6-in-1, Schwarz/Kupfer",
@@ -1881,18 +1906,5 @@
     "temperature": 107,
     "source": "auto",
     "telegramPostedAt": "2026-11-21T20:28:30.612Z"
-  },
-  {
-    "id": "auto-b0cz43567w",
-    "asin": "B0CZ43567W",
-    "title": "Anker Nano 240 W USB C Cable Flexible Coloured Braided [1.8 m]",
-    "subtitle": "🔥 107° bei mydealz",
-    "category": "Tech",
-    "price": 11.3,
-    "checkedAt": "2026-11-21T20:03:43.000Z",
-    "image": "https://static.mydealz.de/threads/raw/n0TYZ/2873616_1/re/768x768/qt/55/2873616_1.jpg",
-    "temperature": 107,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T20:13:44.130Z"
   }
 ]
