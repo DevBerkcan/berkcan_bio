@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0hjbhcshy",
+    "asin": "B0HJBHCSHY",
+    "title": "Apple iPhone 18 Pro Max Funktionsgewebe Case mit MagSafe – Schwarz und …",
+    "category": "Smartphone & Tablet",
+    "price": 46.9,
+    "checkedAt": "2026-11-22T20:18:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HJBHCSHY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T20:33:00.439Z"
+  },
+  {
+    "id": "auto-b0f5b969pw",
+    "asin": "B0F5B969PW",
+    "title": "adidas Unisex 3stripes Cushioned Sportswear Crew Socks 3er Pack Socken …",
+    "subtitle": "🔥 247° bei mydealz",
+    "category": "Tech",
+    "price": 9.02,
+    "checkedAt": "2026-11-22T20:30:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F5B969PW.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 247,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T20:32:55.087Z"
+  },
+  {
     "id": "queue-b0dl6ksw78",
     "asin": "B0DL6KSW78",
     "title": "Apple Maus, weiß",
@@ -1865,46 +1889,5 @@
     "image": "https://m.media-amazon.com/images/P/B001GTFDX8.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T20:43:26.556Z"
-  },
-  {
-    "id": "auto-b0czy23dyb",
-    "asin": "B0CZY23DYB",
-    "title": "Ninja Double Stack XL Heißluftfritteuse, 9,5 L, 6-in-1, Schwarz/Kupfer",
-    "subtitle": "🔥 102° bei mydealz",
-    "category": "Küche",
-    "price": 159.99,
-    "checkedAt": "2026-11-21T20:25:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CZY23DYB.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 102,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T20:28:41.073Z"
-  },
-  {
-    "id": "auto-b01n2vxpgo",
-    "asin": "B01N2VXPGO",
-    "title": "Reebok Herren Club C 85 Sneaker 36, 36.5, 37.5, 39, 40, 42, 45.5, 46, …",
-    "subtitle": "🔥 103° bei mydealz",
-    "category": "Mode & Reise",
-    "price": 41.93,
-    "checkedAt": "2026-11-21T20:20:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01N2VXPGO.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 103,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T20:28:35.351Z"
-  },
-  {
-    "id": "auto-b0fdvz3tqw",
-    "asin": "B0FDVZ3TQW",
-    "title": "Anker Nano 70W USB C Ladegerät",
-    "subtitle": "🔥 107° bei mydealz",
-    "category": "Zubehör & Laden",
-    "price": 28.45,
-    "oldPrice": 35.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-21T20:19:47.000Z",
-    "image": "https://static.mydealz.de/threads/raw/OsY5O/2867790_1/re/768x768/qt/55/2867790_1.jpg",
-    "temperature": 107,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T20:28:30.612Z"
   }
 ]
