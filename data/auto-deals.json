@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b002oebgrg",
+    "asin": "B002OEBGRG",
+    "title": "Amazon Prime: Die Kleine Raupe Nimmersatt Bettwäsche (135x200cm) + …",
+    "category": "Tech",
+    "price": 24.99,
+    "checkedAt": "2026-11-22T09:45:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B002OEBGRG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T09:58:24.573Z"
+  },
+  {
+    "id": "auto-b0gqcv2g55",
+    "asin": "B0GQCV2G55",
+    "title": "Helles Pülleken 0,0% alkoholfrei 18 x 0.33l Dose",
+    "category": "Tech",
+    "price": 10.73,
+    "checkedAt": "2026-11-22T09:47:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GQCV2G55.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T09:58:15.561Z"
+  },
+  {
+    "id": "auto-b07mc4t3h9",
+    "asin": "B07MC4T3H9",
+    "title": "FISKARS Universal-Klappmesser/Cuttermesser CarbonMax 17 cm Black …",
+    "category": "Küche",
+    "price": 16.99,
+    "checkedAt": "2026-11-22T09:51:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07MC4T3H9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T09:58:10.368Z"
+  },
+  {
+    "id": "auto-b0d4njsw65",
+    "asin": "B0D4NJSW65",
+    "title": "THE NORTH FACE Base Camp Voyager Travel Pack – 35-Liter-Reiserucksack",
+    "category": "Sport & Outdoor",
+    "price": 73.95,
+    "oldPrice": 108.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-22T09:47:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D4NJSW65.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T09:58:05.203Z"
+  },
+  {
     "id": "auto-b0hj9shrwx",
     "asin": "B0HJ9SHRWX",
     "title": "Apple iPhone 18 Pro Funktionsgewebe Case – Burgunder Mit MagSafe",
@@ -1893,27 +1939,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BBW4P1PF.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T10:21:35.396Z"
-  },
-  {
-    "id": "auto-b0bbkqtzm9",
-    "asin": "B0BBKQTZM9",
-    "title": "Yaheetech Badezimmerschrank Unterschrank mit Schubladen & Tür, Weiß …",
-    "category": "Tech",
-    "price": 64.59,
-    "checkedAt": "2026-11-21T09:52:12.000Z",
-    "image": "https://static.mydealz.de/threads/raw/zZ51e/2877817_1/re/768x768/qt/55/2877817_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T10:06:56.039Z"
-  },
-  {
-    "id": "auto-b00abxe8nq",
-    "asin": "B00ABXE8NQ",
-    "title": "NRG-5 Emergency Food Ration",
-    "category": "Tech",
-    "price": 5.73,
-    "checkedAt": "2026-11-21T09:57:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00ABXE8NQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T10:06:49.262Z"
   }
 ]
