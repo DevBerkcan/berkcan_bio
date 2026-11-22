@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b084d97dh4",
+    "asin": "B084D97DH4",
+    "title": "50mm Gusseisen 5kg 10kg",
+    "category": "Tech",
+    "price": 19.95,
+    "checkedAt": "2026-11-22T12:14:16.000Z",
+    "image": "https://static.mydealz.de/threads/raw/T1KpP/2878631_1/re/768x768/qt/55/2878631_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T12:27:45.288Z"
+  },
+  {
+    "id": "auto-b000tszpw6",
+    "asin": "B000TSZPW6",
+    "title": "de Buyer - Bratpfanne CARBONE PLUS aus Eisenstahl - 28 cm",
+    "category": "Küche",
+    "price": 36.41,
+    "checkedAt": "2026-11-22T12:17:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000TSZPW6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T12:27:39.643Z"
+  },
+  {
+    "id": "auto-b074tp48wy",
+    "asin": "B074TP48WY",
+    "title": "Philips Lichtwecker und Leselampe, weiß",
+    "category": "Tech",
+    "price": 149.99,
+    "checkedAt": "2026-11-22T12:23:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B074TP48WY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T12:27:34.561Z"
+  },
+  {
+    "id": "auto-b0fqwpp19t",
+    "asin": "B0FQWPP19T",
+    "title": "Metroid Prime 4 für Nintendo Switch 2",
+    "category": "Gaming",
+    "price": 36.43,
+    "checkedAt": "2026-11-22T12:26:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FQWPP19T.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T12:27:28.328Z"
+  },
+  {
     "id": "auto-b0fn4mpcdg",
     "asin": "B0FN4MPCDG",
     "title": "One Piece Baggy der Clown – Cable Guys Halterung für Smartphone und …",
@@ -1899,28 +1943,6 @@
     "telegramPostedAt": "2026-11-21T13:20:34.882Z"
   },
   {
-    "id": "auto-b0fzlcx56k",
-    "asin": "B0FZLCX56K",
-    "title": "Arkham Horror Kartenspiel LGC / Kapitel 2 2026 Version",
-    "category": "Spielzeug & LEGO",
-    "price": 53.99,
-    "checkedAt": "2026-11-21T12:24:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FZLCX56K.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T13:05:57.597Z"
-  },
-  {
-    "id": "auto-b0ggr4zg5z",
-    "asin": "B0GGR4ZG5Z",
-    "title": "Pokémon PKW4224 - Select Entwicklungs Multipacks - offizielles …",
-    "category": "Spielzeug & LEGO",
-    "price": 25.39,
-    "checkedAt": "2026-11-21T12:25:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GGR4ZG5Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T13:05:52.029Z"
-  },
-  {
     "id": "auto-b0gy5dtfqw",
     "asin": "B0GY5DTFQW",
     "title": "NATURAL ELEMENTS - SoProtein Whey Complex Coffee Protein Pulver",
@@ -2076,18 +2098,5 @@
     "image": "https://static.mydealz.de/threads/raw/UHVA1/2877882_1/re/768x768/qt/55/2877882_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T12:35:25.085Z"
-  },
-  {
-    "id": "auto-b0g5phwxtk",
-    "asin": "B0G5PHWXTK",
-    "title": "XIAOMI Watch 5 Smartwatch 47 mm Jupiter Green",
-    "category": "Smartphone & Tablet",
-    "price": 199,
-    "oldPrice": 236.89,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-21T12:19:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G5PHWXTK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T12:20:26.624Z"
   }
 ]
