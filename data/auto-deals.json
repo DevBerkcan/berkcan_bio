@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0166fsjo6",
+    "asin": "B0166FSJO6",
+    "title": "Bosch Professional 20-tlg. Säbelsägeblatt-Set ToughBox",
+    "category": "Werkzeug",
+    "price": 21.99,
+    "checkedAt": "2026-11-22T18:23:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0166FSJO6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T18:35:24.464Z"
+  },
+  {
     "id": "auto-b0cl7dzxb2",
     "asin": "B0CL7DZXB2",
     "title": "Apple Pencil (USB-C)",
@@ -1893,17 +1904,6 @@
     "telegramPostedAt": "2026-11-21T19:14:28.360Z"
   },
   {
-    "id": "auto-b0fn84hf2b",
-    "asin": "B0FN84HF2B",
-    "title": "AEG Serie 7000 Waschtrockner, Waschen 8 kg, Trocknen 5 kg",
-    "category": "Haushalt",
-    "price": 597,
-    "checkedAt": "2026-11-21T18:32:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FN84HF2B.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T18:45:06.150Z"
-  },
-  {
     "id": "auto-b09jfp9ngn",
     "asin": "B09JFP9NGN",
     "title": "BEDSURE Bettwäsche 135x200 4teilig Mikrofaser - Anthrazit, 80x80 …",
@@ -1928,16 +1928,5 @@
     "temperature": 102,
     "source": "auto",
     "telegramPostedAt": "2026-11-21T18:44:54.148Z"
-  },
-  {
-    "id": "auto-b0dydn44hc",
-    "asin": "B0DYDN44HC",
-    "title": "Leichen pflastern seinen Weg",
-    "category": "Tech",
-    "price": 12.79,
-    "checkedAt": "2026-11-21T18:24:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DYDN44HC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T18:30:16.080Z"
   }
 ]
