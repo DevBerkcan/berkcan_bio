@@ -1,5 +1,64 @@
 [
   {
+    "id": "auto-b09411bwrv",
+    "asin": "B09411BWRV",
+    "title": "Wiha zai Hause Micro Bit Set mit ESD Feinmechanik Schraubendreher, …",
+    "category": "Tech",
+    "price": 19.99,
+    "checkedAt": "2026-11-22T15:18:12.000Z",
+    "image": "https://static.mydealz.de/threads/raw/nhzoM/2878736_1/re/768x768/qt/55/2878736_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T15:24:34.289Z"
+  },
+  {
+    "id": "auto-b0hd1174dg",
+    "asin": "B0HD1174DG",
+    "title": "The Walking Dead: Streets of Survival [Blu-ray]",
+    "category": "Bücher & Filme",
+    "price": 24.99,
+    "checkedAt": "2026-11-22T15:21:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HD1174DG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T15:24:27.632Z"
+  },
+  {
+    "id": "auto-b000k2pf4y",
+    "asin": "B000K2PF4Y",
+    "title": "Mannesmann Steckschlüssel-Satz 215-tlg. M98430",
+    "category": "Werkzeug",
+    "price": 84.99,
+    "checkedAt": "2026-11-22T15:23:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000K2PF4Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T15:24:22.190Z"
+  },
+  {
+    "id": "auto-b07w864798",
+    "asin": "B07W864798",
+    "title": "BaByliss Super Smooth Glätteisen",
+    "category": "Beauty & Pflege",
+    "price": 34.09,
+    "oldPrice": 69.9,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-22T15:14:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07W864798.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T15:24:13.098Z"
+  },
+  {
+    "id": "auto-b09yvn1rh5",
+    "asin": "B09YVN1RH5",
+    "title": "PUMA Damen Cool Cat 20 Wns Badelatschen, Black-Rose Gold, 39 EU",
+    "category": "Tech",
+    "price": 13.49,
+    "oldPrice": 27.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-22T15:16:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09YVN1RH5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T15:24:07.166Z"
+  },
+  {
     "id": "auto-b07rnm2y4z",
     "asin": "B07RNM2Y4Z",
     "title": "DONBOLSO Slim Herren-Geldbörse / Portemonnaie aus echtem Leder mit …",
@@ -1806,16 +1865,5 @@
     "image": "https://m.media-amazon.com/images/P/B0986BDRSD.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T15:48:53.476Z"
-  },
-  {
-    "id": "auto-b0dwn571hf",
-    "asin": "B0DWN571HF",
-    "title": "3 CD Helloween - March of Time The Best of 40 Years",
-    "category": "Tech",
-    "price": 13.99,
-    "checkedAt": "2026-11-21T15:10:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWN571HF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T15:19:27.960Z"
   }
 ]
