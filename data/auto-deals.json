@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b094rlnc83",
+    "asin": "B094RLNC83",
+    "title": "Amazon Prime: Glorious Model D Wireless Gaming-Maus",
+    "category": "Computer",
+    "price": 20.99,
+    "oldPrice": 33,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-22T07:45:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B094RLNC83.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T07:58:54.675Z"
+  },
+  {
     "id": "auto-b0cvxqgfzk",
     "asin": "B0CVXQGFZK",
     "title": "SKS GERMANY MUDROCKER Schutzblech-Set für Mountainbikes",
@@ -1790,16 +1803,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BWFWKCD8.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T08:38:02.081Z"
-  },
-  {
-    "id": "auto-b002vpupma",
-    "asin": "B002VPUPMA",
-    "title": "Cointreau Orangenlikör 1x 0,7l mit 40% Vol.",
-    "category": "Tech",
-    "price": 13.95,
-    "checkedAt": "2026-11-21T07:50:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B002VPUPMA.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T07:53:54.962Z"
   }
 ]
