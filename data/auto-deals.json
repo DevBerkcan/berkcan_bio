@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0ddtcmj3l",
+    "asin": "B0DDTCMJ3L",
+    "title": "Dremel 2000 VersaTip Lötkolben - Brennkolben u. Löt-Set",
+    "category": "Werkzeug",
+    "price": 29.97,
+    "checkedAt": "2026-11-22T07:12:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DDTCMJ3L.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T07:29:07.643Z"
+  },
+  {
+    "id": "auto-b084w8sy9d",
+    "asin": "B084W8SY9D",
+    "title": "LE CREUSET 4er-Set Mini Cocottes aus Steinzeug, je 200 ml, 10 x 5 cm, …",
+    "category": "Tech",
+    "price": 54,
+    "checkedAt": "2026-11-22T07:21:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B084W8SY9D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T07:29:02.443Z"
+  },
+  {
+    "id": "auto-b08v287d3p",
+    "asin": "B08V287D3P",
+    "title": "8x Alpro Hafermilch ohne Zucker (1,87€/L)",
+    "category": "Tech",
+    "price": 14.99,
+    "checkedAt": "2026-11-22T07:22:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08V287D3P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T07:28:56.030Z"
+  },
+  {
     "id": "auto-b0gdfsr9sn",
     "asin": "B0GDFSR9SN",
     "title": "SwitchBot KI Art Frame 13.3'', Kabellos, Ink-Bilderrahmen, Extrem …",
@@ -1722,16 +1755,5 @@
     "image": "https://m.media-amazon.com/images/P/B002VPUPMA.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T07:53:54.962Z"
-  },
-  {
-    "id": "auto-b0cglpcgxf",
-    "asin": "B0CGLPCGXF",
-    "title": "Inateck Hülle mit Tastatur für iPad 11(A16)/10. Gen, Ultraleicht 427g",
-    "category": "Computer",
-    "price": 25.89,
-    "checkedAt": "2026-11-21T07:17:29.000Z",
-    "image": "https://static.mydealz.de/threads/raw/YLZtY/2877727_1/re/768x768/qt/55/2877727_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T07:24:49.247Z"
   }
 ]
