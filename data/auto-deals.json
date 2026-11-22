@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b08ldt6818",
+    "asin": "B08LDT6818",
+    "title": "Mattel Games UNO Extreme Kartenspiel mit Werfer, ab 7 Jahren, 2-10 …",
+    "category": "Spielzeug & LEGO",
+    "price": 17.99,
+    "checkedAt": "2026-11-22T22:10:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08LDT6818.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T23:29:41.515Z"
+  },
+  {
+    "id": "auto-b0g6sqp1cb",
+    "asin": "B0G6SQP1CB",
+    "title": "LEGO Batman: Das Vermächtnis des Dunklen Ritters Nintendo Switch 2 USK …",
+    "category": "Gaming",
+    "price": 52.49,
+    "checkedAt": "2026-11-22T23:08:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G6SQP1CB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T23:29:36.802Z"
+  },
+  {
+    "id": "auto-b0d254pztg",
+    "asin": "B0D254PZTG",
+    "title": "Kingdom Come: Deliverance II ~ 26,99€",
+    "category": "Tech",
+    "price": 26.99,
+    "checkedAt": "2026-11-22T23:26:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D254PZTG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T23:29:31.998Z"
+  },
+  {
+    "id": "auto-b0hc7bj4gd",
+    "asin": "B0HC7BJ4GD",
+    "title": "Diablo IV: Age of Hatred Collection – Nintendo Switch 2 [Code in …",
+    "category": "Gaming",
+    "price": 48.99,
+    "checkedAt": "2026-11-22T23:28:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HC7BJ4GD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T23:29:27.317Z"
+  },
+  {
     "id": "auto-b0h37mk6vz",
     "asin": "B0H37MK6VZ",
     "title": "Call of Duty: Modern Warfare 4 - PlayStation 5 XBOX Series X",
@@ -1815,38 +1859,5 @@
     "image": "https://m.media-amazon.com/images/P/B09HZB27Z3.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T23:40:40.473Z"
-  },
-  {
-    "id": "auto-b0fl64c51h",
-    "asin": "B0FL64C51H",
-    "title": "Halloween Trilogy 4K-UHD Blu-Ray - 3 Filme mit Jamie Lee Curtis",
-    "category": "Bücher & Filme",
-    "price": 26.7,
-    "checkedAt": "2026-11-21T23:16:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FL64C51H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T23:26:00.496Z"
-  },
-  {
-    "id": "auto-b0hggl1rj1",
-    "asin": "B0HGGL1RJ1",
-    "title": "Apple Mac mini mit Apple M6 Chip 16GB RAM / 256 GB SSD",
-    "category": "Computer",
-    "price": 835,
-    "checkedAt": "2026-11-21T23:16:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HGGL1RJ1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T23:25:55.282Z"
-  },
-  {
-    "id": "auto-b084zqvsrm",
-    "asin": "B084ZQVSRM",
-    "title": "Star Wars 1-9 - Die Skywalker Saga 4K Ultra-HD Blu-ray",
-    "category": "Bücher & Filme",
-    "price": 122.08,
-    "checkedAt": "2026-11-21T23:25:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B084ZQVSRM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T23:25:49.972Z"
   }
 ]
