@@ -1,5 +1,73 @@
 [
   {
+    "id": "auto-b0ctxfrz25",
+    "asin": "B0CTXFRZ25",
+    "title": "Solarway All In One Envertech Mikro-Wechselrichter 2000W Set inkl. 5M …",
+    "category": "Tech",
+    "price": 169.99,
+    "checkedAt": "2026-11-22T10:13:12.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Xjx9P/2878540_1/re/768x768/qt/55/2878540_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T10:28:13.976Z"
+  },
+  {
+    "id": "auto-b00c81jus2",
+    "asin": "B00C81JUS2",
+    "title": "SKLZ Core Wheels Dynamic Strength & Ab Trainer, Gelb",
+    "category": "Tech",
+    "price": 28.95,
+    "checkedAt": "2026-11-22T10:14:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00C81JUS2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T10:28:06.957Z"
+  },
+  {
+    "id": "auto-b0dwfv3hg1",
+    "asin": "B0DWFV3HG1",
+    "title": "Beko BM3T39230W Wärmepumpentrockner – 9 kg, Energieklasse D - Prime …",
+    "category": "Haushalt",
+    "price": 279.99,
+    "checkedAt": "2026-11-22T10:15:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DWFV3HG1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T10:28:01.684Z"
+  },
+  {
+    "id": "auto-b0gx1qkc33",
+    "asin": "B0GX1QKC33",
+    "title": "SteelSeries Arctis Nova Pro Wireless Gaming-Headset",
+    "category": "Gaming",
+    "price": 199.99,
+    "checkedAt": "2026-11-22T10:19:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GX1QKC33.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T10:27:56.533Z"
+  },
+  {
+    "id": "auto-b0872dqw46",
+    "asin": "B0872DQW46",
+    "title": "Beurer EM 59 Heat Reizstromgerät mit Wärmefunktion, 4 Elektroden",
+    "category": "Tech",
+    "price": 54.99,
+    "checkedAt": "2026-11-22T10:21:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0872DQW46.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T10:27:51.487Z"
+  },
+  {
+    "id": "auto-b0h2fpg8ny",
+    "asin": "B0H2FPG8NY",
+    "title": "DREAME L10s Ultra Gen 3 Kit Saug-Wisch-Roboter, Saugkraft 25.000 Pa, …",
+    "subtitle": "🔥 305° bei mydealz",
+    "category": "Tech",
+    "price": 329,
+    "checkedAt": "2026-11-22T10:24:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H2FPG8NY.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 305,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T10:27:46.273Z"
+  },
+  {
     "id": "auto-b00id7ecm4",
     "asin": "B00ID7ECM4",
     "title": "KNIPEX Elektrikerscheren mit Mehrkomponenten-Hüllen, 95 05 155 SB",
@@ -1930,16 +1998,5 @@
     "temperature": 102,
     "source": "auto",
     "telegramPostedAt": "2026-11-21T10:36:35.929Z"
-  },
-  {
-    "id": "auto-b0bbw4p1pf",
-    "asin": "B0BBW4P1PF",
-    "title": "The Illusionist Dry Gin Magnum Opus",
-    "category": "Lebensmittel & Drinks",
-    "price": 168.27,
-    "checkedAt": "2026-11-21T10:14:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BBW4P1PF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T10:21:35.396Z"
   }
 ]
