@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b07rnm2y4z",
+    "asin": "B07RNM2Y4Z",
+    "title": "DONBOLSO Slim Herren-Geldbörse / Portemonnaie aus echtem Leder mit …",
+    "category": "Mode & Reise",
+    "price": 16.93,
+    "checkedAt": "2026-11-22T14:55:26.000Z",
+    "image": "https://static.mydealz.de/threads/raw/3X4P3/2878722_1/re/768x768/qt/55/2878722_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T15:09:26.337Z"
+  },
+  {
+    "id": "auto-b0fb3yqkvj",
+    "asin": "B0FB3YQKVJ",
+    "title": "3-in-1 Tintendrucker mit Patronen Brother DCP-J1360DW 30€ Cashback",
+    "category": "Computer",
+    "price": 54.48,
+    "checkedAt": "2026-11-22T15:01:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FB3YQKVJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T15:09:19.799Z"
+  },
+  {
     "id": "auto-b000crbej2",
     "asin": "B000CRBEJ2",
     "title": "EASTPAK Padded Pak’r Rucksack 24L, Wasserabweisend, Schulrucksack",
@@ -1795,31 +1817,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DWN571HF.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T15:19:27.960Z"
-  },
-  {
-    "id": "auto-b0d6bf6gcn",
-    "asin": "B0D6BF6GCN",
-    "title": "6 Stück X-Sense Smarter Rauchmelder WLAN mit Sprachausgabe und 17 …",
-    "category": "Tech",
-    "price": 117.79,
-    "oldPrice": 159.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-21T15:07:08.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D6BF6GCN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T15:19:22.409Z"
-  },
-  {
-    "id": "auto-b0d76chn58",
-    "asin": "B0D76CHN58",
-    "title": "QINCAO Baumwollsocken Herren & Damen",
-    "subtitle": "🔥 107° bei mydealz",
-    "category": "Tech",
-    "price": 11.99,
-    "checkedAt": "2026-11-21T14:58:33.000Z",
-    "image": "https://static.mydealz.de/threads/raw/hn5ec/2875257_1/re/768x768/qt/55/2875257_1.jpg",
-    "temperature": 107,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T15:04:35.591Z"
   }
 ]
