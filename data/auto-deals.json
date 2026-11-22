@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0hj9shrwx",
+    "asin": "B0HJ9SHRWX",
+    "title": "Apple iPhone 18 Pro Funktionsgewebe Case – Burgunder Mit MagSafe",
+    "category": "Smartphone & Tablet",
+    "price": 46.9,
+    "checkedAt": "2026-11-22T09:30:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HJ9SHRWX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T09:43:27.457Z"
+  },
+  {
+    "id": "auto-b08khtsm7p",
+    "asin": "B08KHTSM7P",
+    "title": "The Blues Brothers Extended Version (4K UHD Blu-ray) Uncut",
+    "category": "Bücher & Filme",
+    "price": 15.87,
+    "checkedAt": "2026-11-22T09:38:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08KHTSM7P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T09:43:22.024Z"
+  },
+  {
     "id": "auto-b00cuhwx5g",
     "asin": "B00CUHWX5G",
     "title": "P eg Perego – John Deere Baggerlader, OR0068, Gelb/Grün",
@@ -1816,17 +1838,6 @@
     "telegramPostedAt": "2026-11-21T10:51:23.598Z"
   },
   {
-    "id": "auto-b000futqn2",
-    "asin": "B000FUTQN2",
-    "title": "BRIO World Goldene Batterielok mit Licht und Sound - Spielzeug ab 3 …",
-    "category": "Spielzeug & LEGO",
-    "price": 19.99,
-    "checkedAt": "2026-11-21T09:32:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000FUTQN2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T10:36:45.763Z"
-  },
-  {
     "id": "auto-b073zg6yj4",
     "asin": "B073ZG6YJ4",
     "title": "REMINGTON Hygiene Clipper NE3850 Nano Series",
@@ -1904,38 +1915,5 @@
     "image": "https://m.media-amazon.com/images/P/B00ABXE8NQ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T10:06:49.262Z"
-  },
-  {
-    "id": "auto-b07plygr43",
-    "asin": "B07PLYGR43",
-    "title": "Rexona Men Anti Transpirant Spray Sport Defence Deospray 6x 150 ml",
-    "category": "Tech",
-    "price": 11.23,
-    "checkedAt": "2026-11-21T09:38:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07PLYGR43.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T09:52:09.238Z"
-  },
-  {
-    "id": "auto-b0g38ry4m6",
-    "asin": "B0G38RY4M6",
-    "title": "Eurotronic Comet Zero Matter, Heizkörperthermostat, Matter Over Thread …",
-    "category": "Smart Home",
-    "price": 24.49,
-    "checkedAt": "2026-11-21T09:32:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G38RY4M6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T09:37:30.469Z"
-  },
-  {
-    "id": "auto-b002f9ntf2",
-    "asin": "B002F9NTF2",
-    "title": "Römertopf Bräter Rustico 5 L Schmortopf",
-    "category": "Tech",
-    "price": 47.5,
-    "checkedAt": "2026-11-21T09:35:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B002F9NTF2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T09:37:25.195Z"
   }
 ]
