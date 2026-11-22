@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b00id7ecm4",
+    "asin": "B00ID7ECM4",
+    "title": "KNIPEX Elektrikerscheren mit Mehrkomponenten-Hüllen, 95 05 155 SB",
+    "category": "Werkzeug",
+    "price": 16.42,
+    "checkedAt": "2026-11-22T10:05:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00ID7ECM4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T10:13:13.536Z"
+  },
+  {
+    "id": "auto-b088372qqm",
+    "asin": "B088372QQM",
+    "title": "Cihuatán Indigo El Salvador 8YO Rum (1 x 700 ml)",
+    "category": "Tech",
+    "price": 23.14,
+    "checkedAt": "2026-11-22T10:05:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B088372QQM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T10:13:08.421Z"
+  },
+  {
+    "id": "auto-b08l65h412",
+    "asin": "B08L65H412",
+    "title": "VAUDE Puck Kinderrucksack in versch. Farben",
+    "category": "Sport & Outdoor",
+    "price": 29.83,
+    "oldPrice": 52,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-22T10:02:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08L65H412.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T10:13:02.358Z"
+  },
+  {
     "id": "auto-b002oebgrg",
     "asin": "B002OEBGRG",
     "title": "Amazon Prime: Die Kleine Raupe Nimmersatt Bettwäsche (135x200cm) + …",
@@ -1895,39 +1930,6 @@
     "temperature": 102,
     "source": "auto",
     "telegramPostedAt": "2026-11-21T10:36:35.929Z"
-  },
-  {
-    "id": "auto-b0h2lntr7m",
-    "asin": "B0H2LNTR7M",
-    "title": "Nanoleaf Smart Led Deckenleuchte 2600lm Flach Rund Ø32cm Dimmable …",
-    "category": "Licht & Garten",
-    "price": 67.49,
-    "checkedAt": "2026-11-21T10:07:14.000Z",
-    "image": "https://static.mydealz.de/threads/raw/pamSN/2877829_1/re/768x768/qt/55/2877829_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T10:21:56.626Z"
-  },
-  {
-    "id": "auto-b0828wpnj9",
-    "asin": "B0828WPNJ9",
-    "title": "ROCKBROS Kinderfahrradhelm mit abnehmbarem Kinnschutz",
-    "category": "Sport & Outdoor",
-    "price": 57.59,
-    "checkedAt": "2026-11-21T10:10:42.000Z",
-    "image": "https://static.mydealz.de/threads/raw/3Qred/2877832_1/re/768x768/qt/55/2877832_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T10:21:50.416Z"
-  },
-  {
-    "id": "auto-b09hgzhxjt",
-    "asin": "B09HGZHXJT",
-    "title": "WOLFANG GA100 Action Cam 4K 20MP Unterwasserkamera WiFi 40M …",
-    "category": "Foto & Video",
-    "price": 27.99,
-    "checkedAt": "2026-11-21T10:11:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09HGZHXJT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T10:21:44.426Z"
   },
   {
     "id": "auto-b0bbw4p1pf",
