@@ -84,7 +84,8 @@
     "price": 74.13,
     "checkedAt": "2026-11-22T00:39:01.000Z",
     "image": "https://m.media-amazon.com/images/P/B0D1J8BVQS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T06:44:03.891Z"
   },
   {
     "id": "auto-b0hb9n14l4",
@@ -94,7 +95,8 @@
     "price": 23.66,
     "checkedAt": "2026-11-22T00:01:34.000Z",
     "image": "https://m.media-amazon.com/images/P/B0HB9N14L4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T06:44:12.576Z"
   },
   {
     "id": "auto-b0h7ckj5t2",
@@ -104,7 +106,8 @@
     "price": 20.87,
     "checkedAt": "2026-11-22T00:01:34.000Z",
     "image": "https://m.media-amazon.com/images/P/B0H7CKJ5T2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T06:44:08.153Z"
   },
   {
     "id": "auto-b0gwdsksz1",
@@ -1762,38 +1765,5 @@
     "image": "https://static.mydealz.de/threads/raw/wYF3D/2877722_1/re/768x768/qt/55/2877722_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T07:09:32.669Z"
-  },
-  {
-    "id": "auto-b0bwflzwdf",
-    "asin": "B0BWFLZWDF",
-    "title": "L'Oréal Men Expert für Männer, Geschenkset mit XXL Duschgel Barber …",
-    "category": "Beauty & Pflege",
-    "price": 6.13,
-    "checkedAt": "2026-11-21T06:40:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BWFLZWDF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T06:54:49.628Z"
-  },
-  {
-    "id": "auto-b08thg8f8x",
-    "asin": "B08THG8F8X",
-    "title": "Philips Senseo Select Kaffeepadmaschine, Schwarz, 3 Spezialitäten",
-    "category": "Tech",
-    "price": 64.99,
-    "checkedAt": "2026-11-21T06:42:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08THG8F8X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T06:54:44.352Z"
-  },
-  {
-    "id": "auto-b07fsrb4l4",
-    "asin": "B07FSRB4L4",
-    "title": "System of a Dawn - Mezmerize Vinyl",
-    "category": "Tech",
-    "price": 20.39,
-    "checkedAt": "2026-11-21T06:28:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07FSRB4L4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T06:39:57.392Z"
   }
 ]
