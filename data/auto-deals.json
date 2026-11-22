@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b0bshb3tgz",
+    "asin": "B0BSHB3TGZ",
+    "title": "Better Call Saul - Die komplette Serie 19 Blu-rays",
+    "category": "Bücher & Filme",
+    "price": 79.87,
+    "checkedAt": "2026-11-22T21:33:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BSHB3TGZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T22:16:31.479Z"
+  },
+  {
+    "id": "auto-b0dcjt1tpg",
+    "asin": "B0DCJT1TPG",
+    "title": "INIU 45W Powerbank 10.000mAh",
+    "category": "Zubehör & Laden",
+    "price": 18.91,
+    "checkedAt": "2026-11-22T22:05:21.000Z",
+    "image": "https://static.mydealz.de/threads/raw/H39xS/2878969_1/re/768x768/qt/55/2878969_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T22:16:26.532Z"
+  },
+  {
+    "id": "auto-b0cvxsy5d7",
+    "asin": "B0CVXSY5D7",
+    "title": "Wera 05051065001 Kraftform Kompakt 838 RA S Imperial Set 1, 14-teilig",
+    "category": "Werkzeug",
+    "price": 34.21,
+    "checkedAt": "2026-11-22T22:13:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CVXSY5D7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T22:16:20.702Z"
+  },
+  {
+    "id": "auto-b0001d9iya",
+    "asin": "B0001D9IYA",
+    "title": "KNIPEX Universal-Gripzange verzinkt 250 mm",
+    "category": "Werkzeug",
+    "price": 17.21,
+    "oldPrice": 27.61,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-22T22:06:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0001D9IYA.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T22:16:15.494Z"
+  },
+  {
     "id": "auto-b0c6n1xw8b",
     "asin": "B0C6N1XW8B",
     "title": "PERFECT FIT Katze Indoor 1+ Huhn 5x1,4kg",
@@ -1806,29 +1852,5 @@
     "image": "https://m.media-amazon.com/images/P/B07K35JGCF.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T22:56:22.549Z"
-  },
-  {
-    "id": "auto-b09b2s8wkd",
-    "asin": "B09B2S8WKD",
-    "title": "Echo Show 5",
-    "category": "Amazon-Geräte",
-    "price": 64.99,
-    "checkedAt": "2026-11-21T22:15:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09B2S8WKD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T22:27:07.188Z"
-  },
-  {
-    "id": "auto-b0dyf8vltq",
-    "asin": "B0DYF8VLTQ",
-    "title": "Bacardí Coca-Cola 12 × 0,33 l Dosen (10 % Vol.)",
-    "category": "Tech",
-    "price": 20.24,
-    "oldPrice": 35.88,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-21T22:06:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DYF8VLTQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T22:12:21.591Z"
   }
 ]
