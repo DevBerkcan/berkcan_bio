@@ -1,5 +1,98 @@
 [
   {
+    "id": "auto-b00idwf0x4",
+    "asin": "B00IDWF0X4",
+    "title": "Prime: AC/DC - Stiff Upper Lip [Vinyl LP] Limited Edition, Standard …",
+    "category": "Tech",
+    "price": 17.99,
+    "checkedAt": "2026-11-22T11:33:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00IDWF0X4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T11:42:39.430Z"
+  },
+  {
+    "id": "auto-b0055zdwnw",
+    "asin": "B0055ZDWNW",
+    "title": "Brüder Mannesmann Bitsatz, 100-teilig, Schraubendreher-Bit-Set, M29892 …",
+    "category": "Werkzeug",
+    "price": 8.29,
+    "checkedAt": "2026-11-22T11:36:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0055ZDWNW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T11:42:34.053Z"
+  },
+  {
+    "id": "auto-b0h63514cg",
+    "asin": "B0H63514CG",
+    "title": "Google Pixel Watch 5 (45 mm) Obsidian LTE, Retourenkauf",
+    "category": "Tech",
+    "price": 413.09,
+    "checkedAt": "2026-11-22T11:36:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H63514CG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T11:42:28.720Z"
+  },
+  {
+    "id": "auto-b0g3xxp9zy",
+    "asin": "B0G3XXP9ZY",
+    "title": "Reusch Sport Handschuhe - Laufen, Jogging / Running - Fußball - …",
+    "category": "Mode & Reise",
+    "price": 15.99,
+    "checkedAt": "2026-11-22T11:41:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G3XXP9ZY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T11:42:23.446Z"
+  },
+  {
+    "id": "auto-b0cx9hwzm4",
+    "asin": "B0CX9HWZM4",
+    "title": "VTech Kidisecrets Traumtresor – Kindersafe mit Zahlencode und 6 …",
+    "category": "Spielzeug & LEGO",
+    "price": 28.49,
+    "oldPrice": 42.49,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-22T10:51:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CX9HWZM4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T11:42:14.378Z"
+  },
+  {
+    "id": "queue-b07kjwwsgs",
+    "asin": "B07KJWWSGS",
+    "title": "Comfee MDDP-50DEN7 Luftentfeuchter 50 l/Tag",
+    "subtitle": "Bis 50 Liter pro Tag, für Räume bis ca. 100 m², mit natürlichem Kältemittel R290.",
+    "category": "Haushalt",
+    "price": 189.99,
+    "checkedAt": "2026-11-22T01:10:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07KJWWSGS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T11:41:55.571Z"
+  },
+  {
+    "id": "queue-b07w6h7py2",
+    "asin": "B07W6H7PY2",
+    "title": "Logitech G PRO X 2 Lightspeed Wireless Gaming-Headset",
+    "subtitle": "Kabelloses PC-Gaming-Headset, gemeinsam mit Profi-Gamern auf Basis des PRO X entwickelt.",
+    "category": "Gaming",
+    "price": 139.99,
+    "checkedAt": "2026-11-22T01:23:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07W6H7PY2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T11:41:50.982Z"
+  },
+  {
+    "id": "queue-b0hj9qj3v1",
+    "asin": "B0HJ9QJ3V1",
+    "title": "Apple Watch Ultra 4 GPS + Cellular 49 mm Titan Schwarz",
+    "subtitle": "Titangehäuse, 49 mm, GPS + Cellular – mit Alpine Loop Armband.",
+    "category": "Smartphone & Tablet",
+    "price": 799,
+    "checkedAt": "2026-11-21T19:09:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HJ9QJ3V1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T11:41:46.563Z"
+  },
+  {
     "id": "auto-b0cqtg2d1z",
     "asin": "B0CQTG2D1Z",
     "title": "KARAT Getränkekistenregal für 6 Kisten",
@@ -1922,42 +2015,5 @@
     "image": "https://static.mydealz.de/threads/raw/P8N5M/2877909_1/re/768x768/qt/55/2877909_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T12:05:48.297Z"
-  },
-  {
-    "id": "auto-b0fjktgf68",
-    "asin": "B0FJKTGF68",
-    "title": "WORKPRO Klappbare Japansäge, SK5 Stahl Handsäge, 14 cm …",
-    "category": "Tech",
-    "price": 9.99,
-    "oldPrice": 12.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-21T11:40:30.000Z",
-    "image": "https://static.mydealz.de/threads/raw/tDMHD/2877901_1/re/768x768/qt/55/2877901_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T11:51:03.850Z"
-  },
-  {
-    "id": "auto-b0b4khsnmd",
-    "asin": "B0B4KHSNMD",
-    "title": "LEXIVON Stecknuss-Adapter-Set inkl. magnetischem Bithalter – 4-teilig, …",
-    "category": "Tech",
-    "price": 7.27,
-    "checkedAt": "2026-11-21T11:33:55.000Z",
-    "image": "https://static.mydealz.de/threads/raw/GeBTh/2877898_1/re/768x768/qt/55/2877898_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T11:36:20.938Z"
-  },
-  {
-    "id": "auto-b09kn658yg",
-    "asin": "B09KN658YG",
-    "title": "Sancho und Pancho (1969-72) - Die komplette Zeichentrick-Serie - DVD - …",
-    "subtitle": "🔥 124° bei mydealz",
-    "category": "Bücher & Filme",
-    "price": 10,
-    "checkedAt": "2026-11-21T11:33:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09KN658YG.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 124,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T11:36:11.914Z"
   }
 ]
