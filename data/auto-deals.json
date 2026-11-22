@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0cp18hr2h",
+    "asin": "B0CP18HR2H",
+    "title": "Paladone XBOX LED-Neonlicht, Freistehend oder Wandmontierbar …",
+    "category": "Gaming",
+    "price": 19.87,
+    "checkedAt": "2026-11-22T21:35:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CP18HR2H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T21:46:46.060Z"
+  },
+  {
+    "id": "auto-b0dj395wqr",
+    "asin": "B0DJ395WQR",
+    "title": "RAYE My 21st Century Symphony Live at the Royal Albert Hall CD+DVD",
+    "category": "Bücher & Filme",
+    "price": 14.38,
+    "checkedAt": "2026-11-22T21:39:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJ395WQR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T21:46:41.006Z"
+  },
+  {
     "id": "auto-b0c7xhy6ys",
     "asin": "B0C7XHY6YS",
     "title": "Amazon Echo Show 15",
@@ -1786,19 +1808,6 @@
     "telegramPostedAt": "2026-11-21T22:27:07.188Z"
   },
   {
-    "id": "auto-b0bg5gg6mp",
-    "asin": "B0BG5GG6MP",
-    "title": "Gant Herren 2008006-093 Logo Sweatjacke MIT REIßVERSCHLUSS (1er Pack) …",
-    "subtitle": "🔥 102° bei mydealz",
-    "category": "Mode & Reise",
-    "price": 53.35,
-    "checkedAt": "2026-11-21T21:36:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BG5GG6MP.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 102,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T22:12:27.138Z"
-  },
-  {
     "id": "auto-b0dyf8vltq",
     "asin": "B0DYF8VLTQ",
     "title": "Bacardí Coca-Cola 12 × 0,33 l Dosen (10 % Vol.)",
@@ -1832,29 +1841,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FXBLNL7V.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T21:57:17.762Z"
-  },
-  {
-    "id": "auto-b077xq5qm7",
-    "asin": "B077XQ5QM7",
-    "title": "Under Armour Shorts blau Tech Graphic Laufshort",
-    "category": "Tech",
-    "price": 12.53,
-    "checkedAt": "2026-11-21T21:34:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B077XQ5QM7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T21:42:17.933Z"
-  },
-  {
-    "id": "auto-b000burk3y",
-    "asin": "B000BURK3Y",
-    "title": "CHERRY G80-11900, Kompakte Mechanische Tastatur, Deutsch QWERTZ, …",
-    "subtitle": "🔥 101° bei mydealz",
-    "category": "Computer",
-    "price": 109.99,
-    "checkedAt": "2026-11-21T21:34:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000BURK3Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 101,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T21:42:12.461Z"
   }
 ]
