@@ -1,5 +1,60 @@
 [
   {
+    "id": "auto-b00cuhwx5g",
+    "asin": "B00CUHWX5G",
+    "title": "P eg Perego – John Deere Baggerlader, OR0068, Gelb/Grün",
+    "category": "Spielzeug & LEGO",
+    "price": 261.86,
+    "checkedAt": "2026-11-22T08:43:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00CUHWX5G.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T09:28:37.291Z"
+  },
+  {
+    "id": "auto-b01cfwdnf4",
+    "asin": "B01CFWDNF4",
+    "title": "Coca-Cola Classic Erfrischungsgetränk, 24 x 330 ml Dosen",
+    "category": "Tech",
+    "price": 12.59,
+    "checkedAt": "2026-11-22T09:13:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01CFWDNF4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T09:28:31.955Z"
+  },
+  {
+    "id": "auto-b06xh3q75s",
+    "asin": "B06XH3Q75S",
+    "title": "Helly Hansen Dubliner Insulated Herrenjacke",
+    "category": "Mode & Reise",
+    "price": 98.4,
+    "checkedAt": "2026-11-22T09:14:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B06XH3Q75S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T09:28:25.944Z"
+  },
+  {
+    "id": "auto-b0bl3nxg2x",
+    "asin": "B0BL3NXG2X",
+    "title": "COSTWAY LED-Rentier mit Schlitten, Rentier Weihnachtsfigur, Warmweiß …",
+    "category": "Tech",
+    "price": 84.99,
+    "checkedAt": "2026-11-22T09:17:20.000Z",
+    "image": "https://static.mydealz.de/threads/raw/3LvcQ/2878487_1/re/768x768/qt/55/2878487_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T09:28:16.814Z"
+  },
+  {
+    "id": "auto-b0fkt4v1bz",
+    "asin": "B0FKT4V1BZ",
+    "title": "Cecotec Cafelizzia ColdBrew Latte, 1,2L Wassertank und 1000 Ml Milch",
+    "category": "Tech",
+    "price": 77.96,
+    "checkedAt": "2026-11-22T09:22:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FKT4V1BZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T09:28:10.109Z"
+  },
+  {
     "id": "auto-b0h62xcfx7",
     "asin": "B0H62XCFX7",
     "title": "Google Pixel Watch 5 / 45 mm / Silver",
@@ -1882,16 +1937,5 @@
     "image": "https://m.media-amazon.com/images/P/B002F9NTF2.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T09:37:25.195Z"
-  },
-  {
-    "id": "auto-b000e625hq",
-    "asin": "B000E625HQ",
-    "title": "WMF Gourmet Vierkantreibe Edelstahl",
-    "category": "Tech",
-    "price": 15.19,
-    "checkedAt": "2026-11-21T09:16:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000E625HQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T09:22:35.513Z"
   }
 ]
