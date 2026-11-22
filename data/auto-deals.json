@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0bwfs6r27",
+    "asin": "B0BWFS6R27",
+    "title": "Funko POP! Movies: Mad Max: The Road Warrior - Humungous - Lord …",
+    "category": "Spielzeug & LEGO",
+    "price": 8.74,
+    "checkedAt": "2026-11-22T15:18:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BWFS6R27.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T16:08:44.547Z"
+  },
+  {
+    "id": "auto-b0fmckc5dl",
+    "asin": "B0FMCKC5DL",
+    "title": "Amazon bugatti Herren Low-Top Sneaker in Schwarz",
+    "category": "Mode & Reise",
+    "price": 33.92,
+    "checkedAt": "2026-11-22T15:59:03.000Z",
+    "image": "https://static.mydealz.de/threads/raw/yAq5O/2878762_1/re/768x768/qt/55/2878762_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T16:08:39.063Z"
+  },
+  {
     "id": "auto-b00uwhrr8e",
     "asin": "B00UWHRR8E",
     "title": "Dänische Delikatessen ~7,99€ / Flickerung Lights / Adams Äpfel je …",
@@ -1812,17 +1834,6 @@
     "telegramPostedAt": "2026-11-21T17:46:21.635Z"
   },
   {
-    "id": "auto-b0fpxftq9s",
-    "asin": "B0FPXFTQ9S",
-    "title": "LEGO Star Wars Razor Crest 75447 - Spare 14,01€ an der Kasse, 4-Fach …",
-    "category": "Spielzeug & LEGO",
-    "price": 94.99,
-    "checkedAt": "2026-11-21T15:58:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXFTQ9S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T17:31:32.971Z"
-  },
-  {
     "id": "auto-b0f5s84x8p",
     "asin": "B0F5S84X8P",
     "title": "NZXT Kraken Plus 240 RGB AIO Wasserkühlung",
@@ -1878,16 +1889,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DJ3SK7JS.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T17:02:01.282Z"
-  },
-  {
-    "id": "auto-b0fm88wvrh",
-    "asin": "B0FM88WVRH",
-    "title": "UGREEN 20Gbps NVMe SSD-Dockingstation, Dual-Bay M.2 SSD Gehäuse mit …",
-    "category": "Computer",
-    "price": 51.17,
-    "checkedAt": "2026-11-21T15:54:07.000Z",
-    "image": "https://static.mydealz.de/threads/raw/ofz5z/2878073_1/re/768x768/qt/55/2878073_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T16:03:35.099Z"
   }
 ]
