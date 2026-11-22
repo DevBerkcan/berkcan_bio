@@ -1,5 +1,62 @@
 [
   {
+    "id": "auto-b0cl7dzxb2",
+    "asin": "B0CL7DZXB2",
+    "title": "Apple Pencil (USB-C)",
+    "category": "Tech",
+    "price": 69,
+    "checkedAt": "2026-11-22T18:10:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CL7DZXB2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T18:20:48.352Z"
+  },
+  {
+    "id": "auto-1506754902",
+    "asin": "1506754902",
+    "title": "Rosalina's Storybook",
+    "category": "Tech",
+    "price": 16.99,
+    "checkedAt": "2026-11-22T18:10:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/1506754902.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T18:20:42.974Z"
+  },
+  {
+    "id": "auto-b0clhdxbwm",
+    "asin": "B0CLHDXBWM",
+    "title": "Scotch & Soda Herren Hose Stuart Chino ACHTUNG versch. Grössen u. …",
+    "category": "Tech",
+    "price": 45.75,
+    "checkedAt": "2026-11-22T18:16:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CLHDXBWM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T18:20:37.673Z"
+  },
+  {
+    "id": "auto-b00j5mooxi",
+    "asin": "B00J5MOOXI",
+    "title": "WMF Touch Küchenschere 21 cm, Haushaltsschere mit Sägeschliff, …",
+    "category": "Tech",
+    "price": 6.39,
+    "checkedAt": "2026-11-22T18:16:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00J5MOOXI.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T18:20:32.489Z"
+  },
+  {
+    "id": "auto-b0cslnnrsk",
+    "asin": "B0CSLNNRSK",
+    "title": "Squier by Fender Debut Stratocaster E-Gitarre, Dakota Red, SSS, 3 …",
+    "subtitle": "🔥 102° bei mydealz",
+    "category": "Tech",
+    "price": 129.98,
+    "checkedAt": "2026-11-22T18:07:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CSLNNRSK.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 102,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T18:20:26.945Z"
+  },
+  {
     "id": "auto-b0b3jbyxg8",
     "asin": "B0B3JBYXG8",
     "title": "Braun Rasierer Herren Elektrisch Series 5",
@@ -1882,16 +1939,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DYDN44HC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T18:30:16.080Z"
-  },
-  {
-    "id": "auto-b0f94gkjky",
-    "asin": "B0F94GKJKY",
-    "title": "Osram Taschenlampen im Angebot z.B. die OSRAM LEDinspect TORCH 350 …",
-    "category": "Tech",
-    "price": 10.92,
-    "checkedAt": "2026-11-21T18:10:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F94GKJKY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T18:15:37.251Z"
   }
 ]
