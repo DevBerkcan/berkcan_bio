@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0dq16ls96",
+    "asin": "B0DQ16LS96",
+    "title": "MSI Claw 8 AI+ A2VM-015 Gaming Handheld 8 Zoll FHD+ 120 Hz Display, …",
+    "category": "Gaming",
+    "price": 695.38,
+    "checkedAt": "2026-11-22T18:44:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQ16LS96.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T18:50:07.779Z"
+  },
+  {
+    "id": "auto-0241436494",
+    "asin": "0241436494",
+    "title": "Nesti | Nineteen Eighty-Four: The Graphic Novel | Englisch | Buch | …",
+    "category": "Bücher & Filme",
+    "price": 18.85,
+    "checkedAt": "2026-11-22T18:45:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/0241436494.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T18:50:02.595Z"
+  },
+  {
     "id": "auto-b0166fsjo6",
     "asin": "B0166FSJO6",
     "title": "Bosch Professional 20-tlg. Säbelsägeblatt-Set ToughBox",
@@ -1902,31 +1924,5 @@
     "image": "https://m.media-amazon.com/images/P/B0D3J62XFJ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T19:14:28.360Z"
-  },
-  {
-    "id": "auto-b09jfp9ngn",
-    "asin": "B09JFP9NGN",
-    "title": "BEDSURE Bettwäsche 135x200 4teilig Mikrofaser - Anthrazit, 80x80 …",
-    "subtitle": "🔥 101° bei mydealz",
-    "category": "Tech",
-    "price": 9.45,
-    "checkedAt": "2026-11-21T18:41:27.000Z",
-    "image": "https://static.mydealz.de/threads/raw/K4kOW/2877068_1/re/768x768/qt/55/2877068_1.jpg",
-    "temperature": 101,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T18:45:00.674Z"
-  },
-  {
-    "id": "auto-b0gr3wvdwm",
-    "asin": "B0GR3WVDWM",
-    "title": "Meross Smart Rauchmelder Matter kompatibel 6x mit Hub MSH450",
-    "subtitle": "🔥 102° bei mydealz",
-    "category": "Tech",
-    "price": 119.99,
-    "checkedAt": "2026-11-21T18:41:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GR3WVDWM.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 102,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T18:44:54.148Z"
   }
 ]
