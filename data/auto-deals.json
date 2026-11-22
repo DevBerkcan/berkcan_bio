@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b087rhp38r",
+    "asin": "B087RHP38R",
+    "title": "Anker 12W Mini Duales Ladegerät 2 Pack, Extrem kompaktes USB …",
+    "subtitle": "🔥 179° bei mydealz",
+    "category": "Zubehör & Laden",
+    "price": 13.27,
+    "checkedAt": "2026-11-22T06:18:40.000Z",
+    "image": "https://static.mydealz.de/threads/raw/riYdu/2845847_1/re/768x768/qt/55/2845847_1.jpg",
+    "temperature": 179,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T06:29:12.872Z"
+  },
+  {
     "id": "auto-b0cp31t5m6",
     "asin": "B0CP31T5M6",
     "title": "Amazon Kindle 16 GB (Version 2024) - Zustand \"sehr gut\"",
@@ -18,7 +31,8 @@
     "price": 19.99,
     "checkedAt": "2026-11-22T04:52:04.000Z",
     "image": "https://m.media-amazon.com/images/P/B0047T6WZM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T06:29:17.252Z"
   },
   {
     "id": "auto-b0gss4m55k",
@@ -28,7 +42,8 @@
     "price": 396.58,
     "checkedAt": "2026-11-22T03:58:06.000Z",
     "image": "https://static.mydealz.de/threads/raw/3Wkag/2878349_1/re/768x768/qt/55/2878349_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T06:29:22.115Z"
   },
   {
     "id": "auto-b0fsy2l1m9",
@@ -58,7 +73,8 @@
     "price": 331.49,
     "checkedAt": "2026-11-22T01:02:29.000Z",
     "image": "https://static.mydealz.de/threads/raw/6rOqt/2878325_1/re/768x768/qt/55/2878325_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T06:29:26.824Z"
   },
   {
     "id": "auto-b0d1j8bvqs",
@@ -1770,17 +1786,6 @@
     "telegramPostedAt": "2026-11-21T06:54:44.352Z"
   },
   {
-    "id": "auto-b0b5hpchrq",
-    "asin": "B0B5HPCHRQ",
-    "title": "FALKE Mens Happy Socks 6 paar - Anthrazit Größe 39-42 - Socken",
-    "category": "Tech",
-    "price": 13,
-    "checkedAt": "2026-11-21T06:26:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B5HPCHRQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T06:40:02.756Z"
-  },
-  {
     "id": "auto-b07fsrb4l4",
     "asin": "B07FSRB4L4",
     "title": "System of a Dawn - Mezmerize Vinyl",
@@ -1790,16 +1795,5 @@
     "image": "https://m.media-amazon.com/images/P/B07FSRB4L4.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T06:39:57.392Z"
-  },
-  {
-    "id": "auto-b00p8i4r4e",
-    "asin": "B00P8I4R4E",
-    "title": "Der kleine Vampir (1986) Komplette Serie [2x DVD]",
-    "category": "Bücher & Filme",
-    "price": 11.99,
-    "checkedAt": "2026-11-21T06:21:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00P8I4R4E.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T06:24:58.014Z"
   }
 ]
