@@ -473,18 +473,6 @@
     "telegramPostedAt": "2026-11-22T11:57:28.860Z"
   },
   {
-    "id": "queue-b00403m7ou",
-    "asin": "B00403M7OU",
-    "title": "Bosch Schrauberbit-Set 32-tlg., 1/4 Zoll",
-    "subtitle": "32 Bits mit 1/4\"-Sechskantschaft, Box mit Klarsichtdeckel und Gürtelclip.",
-    "category": "Werkzeug",
-    "price": 8.27,
-    "checkedAt": "2026-11-21T17:43:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00403M7OU.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T11:57:06.292Z"
-  },
-  {
     "id": "queue-b005expt4a",
     "asin": "B005EXPT4A",
     "title": "KNIPEX 98 52 VDE-Kabelmesser, gerade Klinge 50 mm",
@@ -1916,15 +1904,5 @@
     "image": "https://m.media-amazon.com/images/P/B0B9RXDPPN.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T18:00:54.886Z"
-  },
-  {
-    "id": "auto-b0brjx56bl",
-    "asin": "B0BRJX56BL",
-    "title": "Arbeitshandschuhe 10x Paar EN388 Herren Gr 8-9 (S-M) Modell TK34004554",
-    "category": "Mode & Reise",
-    "price": 8.49,
-    "checkedAt": "2026-11-21T17:43:16.000Z",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T17:46:21.635Z"
   }
 ]
