@@ -656,18 +656,6 @@
     "telegramPostedAt": "2026-11-22T11:41:50.982Z"
   },
   {
-    "id": "queue-b0hj9qj3v1",
-    "asin": "B0HJ9QJ3V1",
-    "title": "Apple Watch Ultra 4 GPS + Cellular 49 mm Titan Schwarz",
-    "subtitle": "Titangehäuse, 49 mm, GPS + Cellular – mit Alpine Loop Armband.",
-    "category": "Smartphone & Tablet",
-    "price": 799,
-    "checkedAt": "2026-11-21T19:09:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HJ9QJ3V1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T11:41:46.563Z"
-  },
-  {
     "id": "auto-b0cqtg2d1z",
     "asin": "B0CQTG2D1Z",
     "title": "KARAT Getränkekistenregal für 6 Kisten",
@@ -1860,17 +1848,6 @@
     "telegramPostedAt": "2026-11-21T19:58:52.173Z"
   },
   {
-    "id": "auto-b0785wwvm9",
-    "asin": "B0785WWVM9",
-    "title": "Under Armour Herren UA Tech ½ Zip Long Sleeve Shirt / Sweatshirt – …",
-    "category": "Mode & Reise",
-    "price": 22.5,
-    "checkedAt": "2026-11-21T19:14:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0785WWVM9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T19:29:42.609Z"
-  },
-  {
     "id": "auto-b07ztj4pfj",
     "asin": "B07ZTJ4PFJ",
     "title": "Stanley FAT MAX Trockenbauschleifer",
@@ -1880,38 +1857,5 @@
     "image": "https://m.media-amazon.com/images/P/B07ZTJ4PFJ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T19:29:37.151Z"
-  },
-  {
-    "id": "auto-b0fdfcsmjr",
-    "asin": "B0FDFCSMJR",
-    "title": "Mini-Saugroboter SwitchBot K11+",
-    "category": "Haushalt",
-    "price": 133.87,
-    "checkedAt": "2026-11-21T19:10:54.000Z",
-    "image": "https://static.mydealz.de/threads/raw/gbewr/2878171_1/re/768x768/qt/55/2878171_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T19:14:41.075Z"
-  },
-  {
-    "id": "auto-b00bce30rs",
-    "asin": "B00BCE30RS",
-    "title": "Logitech kabelloses Set / Tastatur & Maus",
-    "category": "Computer",
-    "price": 17.09,
-    "checkedAt": "2026-11-21T19:11:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00BCE30RS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T19:14:33.922Z"
-  },
-  {
-    "id": "auto-b0d3j62xfj",
-    "asin": "B0D3J62XFJ",
-    "title": "Apple iPad pro Magic Keyboard 13“ M4 M5 Bestpreis",
-    "category": "Computer",
-    "price": 332,
-    "checkedAt": "2026-11-21T19:12:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D3J62XFJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T19:14:28.360Z"
   }
 ]
