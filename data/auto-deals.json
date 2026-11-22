@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0fjd6zscg",
+    "asin": "B0FJD6ZSCG",
+    "title": "Lexar EQ790 HS 1 TB M.2 NVMe SSD mit Kühlkörper",
+    "category": "Computer",
+    "price": 199.49,
+    "checkedAt": "2026-11-22T10:30:31.000Z",
+    "image": "https://static.mydealz.de/threads/raw/shdVN/2878555_1/re/768x768/qt/55/2878555_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T10:43:02.377Z"
+  },
+  {
+    "id": "auto-b0fd32lwgl",
+    "asin": "B0FD32LWGL",
+    "title": "Monty Python's - Die Ritter der Kokosnuss - 4K Ultra HD Blu-ray + …",
+    "category": "Bücher & Filme",
+    "price": 27.99,
+    "checkedAt": "2026-11-22T10:39:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FD32LWGL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T10:42:56.351Z"
+  },
+  {
     "id": "auto-b0ctxfrz25",
     "asin": "B0CTXFRZ25",
     "title": "Solarway All In One Envertech Mikro-Wechselrichter 2000W Set inkl. 5M …",
@@ -1974,29 +1996,5 @@
     "temperature": 104,
     "source": "auto",
     "telegramPostedAt": "2026-11-21T11:06:15.420Z"
-  },
-  {
-    "id": "auto-b082td4r4l",
-    "asin": "B082TD4R4L",
-    "title": "Einhell Original Starter Kit PXC 2,5 Ah 18 Volt Akku + Ladegerät",
-    "category": "Werkzeug",
-    "price": 14.99,
-    "checkedAt": "2026-11-21T10:36:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B082TD4R4L.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T10:51:23.598Z"
-  },
-  {
-    "id": "auto-b073zg6yj4",
-    "asin": "B073ZG6YJ4",
-    "title": "REMINGTON Hygiene Clipper NE3850 Nano Series",
-    "subtitle": "🔥 102° bei mydealz",
-    "category": "Tech",
-    "price": 7.99,
-    "checkedAt": "2026-11-21T10:29:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B073ZG6YJ4.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 102,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T10:36:35.929Z"
   }
 ]
