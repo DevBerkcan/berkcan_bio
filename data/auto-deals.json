@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0h1lcn244",
+    "asin": "B0H1LCN244",
+    "title": "Billie Eilish HIT ME HARD and SOFT: the Tour Blu Ray",
+    "category": "Tech",
+    "price": 14.26,
+    "checkedAt": "2026-11-22T20:36:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H1LCN244.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T20:47:54.365Z"
+  },
+  {
+    "id": "auto-b0hjrz67cl",
+    "asin": "B0HJRZ67CL",
+    "title": "Gutscheingold Fashion-Geschenkkarte – 15% Rabatt",
+    "category": "Tech",
+    "price": 102,
+    "checkedAt": "2026-11-22T20:39:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HJRZ67CL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T20:47:49.166Z"
+  },
+  {
     "id": "auto-b0hjbhcshy",
     "asin": "B0HJBHCSHY",
     "title": "Apple iPhone 18 Pro Max Funktionsgewebe Case mit MagSafe – Schwarz und …",
@@ -1768,17 +1790,6 @@
     "telegramPostedAt": "2026-11-21T21:57:17.762Z"
   },
   {
-    "id": "auto-b0bsp1g341",
-    "asin": "B0BSP1G341",
-    "title": "Schleich Horse Club Pferdetransporter 42619",
-    "category": "Spielzeug & LEGO",
-    "price": 86.99,
-    "checkedAt": "2026-11-21T20:32:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BSP1G341.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T21:42:35.332Z"
-  },
-  {
     "id": "auto-b0bn1xfqn2",
     "asin": "B0BN1XFQN2",
     "title": "VIVIL Kräuter-Mint Hustenbonbons 15 × 120 g (1,8 kg)",
@@ -1834,60 +1845,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DYD7THP7.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T21:27:34.530Z"
-  },
-  {
-    "id": "auto-b0746qvbr8",
-    "asin": "B0746QVBR8",
-    "title": "Bosch PRO Akku-Bauleuchte GLI 18V-300",
-    "category": "Tech",
-    "price": 33.99,
-    "checkedAt": "2026-11-21T20:43:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0746QVBR8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T20:58:22.535Z"
-  },
-  {
-    "id": "auto-b0dklvwzpf",
-    "asin": "B0DKLVWZPF",
-    "title": "AMAZON ECHO DOT MaX. - 54,99€ BESTPREIS",
-    "category": "Amazon-Geräte",
-    "price": 54.99,
-    "checkedAt": "2026-11-21T20:44:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DKLVWZPF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T20:58:16.803Z"
-  },
-  {
-    "id": "auto-b0dtqf1mqt",
-    "asin": "B0DTQF1MQT",
-    "title": "Amazon Echo Show",
-    "category": "Amazon-Geräte",
-    "price": 109,
-    "checkedAt": "2026-11-21T20:44:57.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DTQF1MQT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T20:58:07.160Z"
-  },
-  {
-    "id": "auto-b0g595w6dd",
-    "asin": "B0G595W6DD",
-    "title": "Seagate 8TB Expansion Desktop-Festplatte",
-    "category": "Computer",
-    "price": 233.99,
-    "checkedAt": "2026-11-21T20:38:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G595W6DD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T20:43:35.378Z"
-  },
-  {
-    "id": "auto-b001gtfdx8",
-    "asin": "B001GTFDX8",
-    "title": "Camel Active Vegas Herren Geldbörse Portemonnaie Schwarz Leder",
-    "category": "Mode & Reise",
-    "price": 17.43,
-    "checkedAt": "2026-11-21T20:40:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B001GTFDX8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T20:43:26.556Z"
   }
 ]
