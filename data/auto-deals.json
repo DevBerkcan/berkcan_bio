@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0c7xhy6ys",
+    "asin": "B0C7XHY6YS",
+    "title": "Amazon Echo Show 15",
+    "category": "Amazon-Geräte",
+    "price": 219.99,
+    "checkedAt": "2026-11-22T21:05:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C7XHY6YS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T21:17:32.036Z"
+  },
+  {
+    "id": "auto-b0chz6b2vc",
+    "asin": "B0CHZ6B2VC",
+    "title": "Target Nathan Aspinall Tungsten Dart 22g",
+    "category": "Tech",
+    "price": 32.95,
+    "checkedAt": "2026-11-22T21:06:47.000Z",
+    "image": "https://static.mydealz.de/threads/raw/uaOsf/2878941_1/re/768x768/qt/55/2878941_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T21:17:26.417Z"
+  },
+  {
     "id": "auto-b0f4wlglhb",
     "asin": "B0F4WLGLHB",
     "title": "Peppa Pig Grunz und Kuschel Evie interaktive Babypuppe",
@@ -1867,16 +1889,5 @@
     "temperature": 101,
     "source": "auto",
     "telegramPostedAt": "2026-11-21T21:42:12.461Z"
-  },
-  {
-    "id": "auto-b0dyd7thp7",
-    "asin": "B0DYD7THP7",
-    "title": "Im Westen nichts Neues (4K UHD) (Dolby Atmos, HDR10)",
-    "category": "Bücher & Filme",
-    "price": 12.79,
-    "checkedAt": "2026-11-21T21:14:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DYD7THP7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T21:27:34.530Z"
   }
 ]
