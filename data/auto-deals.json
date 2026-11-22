@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b09qm9hnfk",
+    "asin": "B09QM9HNFK",
+    "title": "BOSS 3er Pack Herren Trunks Power Boxer Boxershorts Unterhosen Cotton …",
+    "category": "Tech",
+    "price": 24.08,
+    "checkedAt": "2026-11-22T19:24:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09QM9HNFK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T19:33:51.892Z"
+  },
+  {
+    "id": "auto-b0dwf6vkyb",
+    "asin": "B0DWF6VKYB",
+    "title": "LEGO 10348 Japanischer Roter Ahorn – Bonsai-Baum",
+    "category": "Spielzeug & LEGO",
+    "price": 29.16,
+    "oldPrice": 59.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-22T18:17:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DWF6VKYB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T19:33:46.362Z"
+  },
+  {
     "id": "auto-b0dq16ls96",
     "asin": "B0DQ16LS96",
     "title": "MSI Claw 8 AI+ A2VM-015 Gaming Handheld 8 Zoll FHD+ 120 Hz Display, …",
@@ -1846,16 +1870,5 @@
     "image": "https://static.mydealz.de/threads/raw/DbedL/2878194_1/re/768x768/qt/55/2878194_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T19:58:52.173Z"
-  },
-  {
-    "id": "auto-b07ztj4pfj",
-    "asin": "B07ZTJ4PFJ",
-    "title": "Stanley FAT MAX Trockenbauschleifer",
-    "category": "Tech",
-    "price": 122.55,
-    "checkedAt": "2026-11-21T19:19:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07ZTJ4PFJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T19:29:37.151Z"
   }
 ]
