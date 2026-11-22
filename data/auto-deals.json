@@ -1,5 +1,66 @@
 [
   {
+    "id": "auto-b0dtv3w9d6",
+    "asin": "B0DTV3W9D6",
+    "title": "CASO PizzaChef 430° elektrischer Pizzaofen",
+    "category": "Tech",
+    "price": 113.06,
+    "checkedAt": "2026-11-22T16:55:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DTV3W9D6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T17:07:23.201Z"
+  },
+  {
+    "id": "auto-b0hd7wvs2n",
+    "asin": "B0HD7WVS2N",
+    "title": "Motorola Smartwatch Ultra Polar E-SIM",
+    "category": "Smartphone & Tablet",
+    "price": 299,
+    "checkedAt": "2026-11-22T16:56:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HD7WVS2N.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T17:07:17.969Z"
+  },
+  {
+    "id": "auto-b0cwndd7v3",
+    "asin": "B0CWNDD7V3",
+    "title": "ProFuel CREAPROOF Creatin Monohydrat",
+    "subtitle": "🔥 104° bei mydealz",
+    "category": "Tech",
+    "price": 10.17,
+    "checkedAt": "2026-11-22T17:00:53.000Z",
+    "image": "https://static.mydealz.de/threads/raw/oWmeV/2874650_1/re/768x768/qt/55/2874650_1.jpg",
+    "temperature": 104,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T17:07:12.729Z"
+  },
+  {
+    "id": "auto-b08yvs6yv7",
+    "asin": "B08YVS6YV7",
+    "title": "Haier HTR3620CNMG Kühl-Gefrierkombination, 414 Liter, 205 cm Höhe, EEK …",
+    "subtitle": "🔥 108° bei mydealz",
+    "category": "Tech",
+    "price": 584.99,
+    "checkedAt": "2026-11-22T17:01:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08YVS6YV7.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 108,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T17:07:07.028Z"
+  },
+  {
+    "id": "auto-b0bpzp852w",
+    "asin": "B0BPZP852W",
+    "title": "Cecotec Cecofry FireDome 6000 Heißluftfritteuse & Indoor-Grill – 6 L, …",
+    "category": "Küche",
+    "price": 35.88,
+    "oldPrice": 81.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-22T16:59:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BPZP852W.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-22T17:07:01.678Z"
+  },
+  {
     "id": "auto-b07nj9nzdx",
     "asin": "B07NJ9NZDX",
     "title": "Prime: Jack & Jones -Diverse Pullover, Jeans, Chinos, Jacken im Sale. …",
@@ -1845,17 +1906,6 @@
     "telegramPostedAt": "2026-11-21T17:31:27.211Z"
   },
   {
-    "id": "auto-b0937cdlmr",
-    "asin": "B0937CDLMR",
-    "title": "Jever Fun alkoholfrei 24×0,5l Dosen 11,86€ (0,99€/l) + 6€ Pfand – 32 …",
-    "category": "Tech",
-    "price": 11.86,
-    "checkedAt": "2026-11-21T17:05:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0937CDLMR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T17:16:51.629Z"
-  },
-  {
     "id": "auto-b0c9d4kl9d",
     "asin": "B0C9D4KL9D",
     "title": "Dreo Atom 316 Gold (DR-HSH006)",
@@ -1867,27 +1917,5 @@
     "temperature": 100,
     "source": "auto",
     "telegramPostedAt": "2026-11-21T17:16:46.000Z"
-  },
-  {
-    "id": "auto-b0gkwrk6fm",
-    "asin": "B0GKWRK6FM",
-    "title": "NORDMUT Campingsofa faltbar für 2 Personen – stabile Camping Couch 320 …",
-    "category": "Sport & Outdoor",
-    "price": 83.77,
-    "checkedAt": "2026-11-21T16:53:14.000Z",
-    "image": "https://static.mydealz.de/threads/raw/0h8NM/2878097_1/re/768x768/qt/55/2878097_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T17:02:08.521Z"
-  },
-  {
-    "id": "auto-b0dj3sk7js",
-    "asin": "B0DJ3SK7JS",
-    "title": "SKECHERS Sneaker Hotshot - Pyke, viele Größen",
-    "category": "Mode & Reise",
-    "price": 28.74,
-    "checkedAt": "2026-11-21T17:00:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJ3SK7JS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T17:02:01.282Z"
   }
 ]
