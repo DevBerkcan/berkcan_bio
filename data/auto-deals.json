@@ -1991,17 +1991,6 @@
     "telegramPostedAt": "2026-11-21T13:05:24.460Z"
   },
   {
-    "id": "auto-b000xg4w5k",
-    "asin": "B000XG4W5K",
-    "title": "WMF Kochtopf 6,5l Induktion Fleischtopf",
-    "category": "Küche",
-    "price": 38.49,
-    "checkedAt": "2026-11-21T12:41:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000XG4W5K.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T12:50:43.620Z"
-  },
-  {
     "id": "auto-b0gmrlt6yg",
     "asin": "B0GMRLT6YG",
     "title": "Samsung microSD T7, 128 GB, MB-MB128T/WW",
@@ -2022,19 +2011,6 @@
     "image": "https://m.media-amazon.com/images/P/B0BQMG1T6P.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T12:50:33.497Z"
-  },
-  {
-    "id": "auto-b0c5jwwwp3",
-    "asin": "B0C5JWWWP3",
-    "title": "Home Pilot RolloTron Classic Minigurt: Elektrischer Gurtwickler für …",
-    "category": "Tech",
-    "price": 68.84,
-    "oldPrice": 98.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-21T12:37:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C5JWWWP3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T12:50:28.443Z"
   },
   {
     "id": "auto-b0f9vwsrtz",
@@ -2063,40 +2039,5 @@
     "image": "https://m.media-amazon.com/images/P/B099X4PH62.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-21T12:50:18.368Z"
-  },
-  {
-    "id": "queue-b0csknxs2d",
-    "asin": "B0CSKNXS2D",
-    "title": "Wiha Essential Feinmechaniker-Schraubendreher-Set 7-tlg.",
-    "subtitle": "Präzisionsschraubendreher mit ergonomischer Drehkappe, inklusive Tasche.",
-    "category": "Werkzeug",
-    "price": 9.99,
-    "checkedAt": "2026-11-21T12:30:00.000Z",
-    "image": "https://static.mydealz.de/threads/raw/4PokH/2877927_1/re/768x768/qt/55/2877927_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T12:50:03.323Z"
-  },
-  {
-    "id": "queue-b096y59z7r",
-    "asin": "B096Y59Z7R",
-    "title": "MSI Cyborg 15 Gaming-Laptop, RTX 5060, 1 TB SSD, 144 Hz",
-    "subtitle": "Intel Core 7 240H mit 10 Kernen, RTX 5060 und 144-Hz-Display fürs Gaming.",
-    "category": "Computer",
-    "price": 1079,
-    "checkedAt": "2026-11-21T12:27:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B096Y59Z7R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T12:49:58.198Z"
-  },
-  {
-    "id": "auto-b0h9ymqgss",
-    "asin": "B0H9YMQGSS",
-    "title": "Weihnachtsbaum künstlich 180 cm – Dichter Tannenbaum aus 100% PVC, …",
-    "category": "Tech",
-    "price": 69.95,
-    "checkedAt": "2026-11-21T12:32:43.000Z",
-    "image": "https://static.mydealz.de/threads/raw/UHVA1/2877882_1/re/768x768/qt/55/2877882_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-21T12:35:25.085Z"
   }
 ]
