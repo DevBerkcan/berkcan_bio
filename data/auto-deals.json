@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b00ccicoys",
+    "asin": "B00CCICOYS",
+    "title": "Carrera 30367 Digital 124/132 Schienen Ausbauset",
+    "category": "Spielzeug & LEGO",
+    "price": 82.79,
+    "checkedAt": "2026-11-23T20:00:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00CCICOYS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T21:14:05.250Z"
+  },
+  {
+    "id": "auto-b0cfvzg5tr",
+    "asin": "B0CFVZG5TR",
+    "title": "LEGO Disney Stitch",
+    "category": "Spielzeug & LEGO",
+    "price": 39.99,
+    "checkedAt": "2026-11-23T20:01:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CFVZG5TR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T21:13:59.878Z"
+  },
+  {
     "id": "auto-b085sr7qhc",
     "asin": "B085SR7QHC",
     "title": "JACK & JONES Male Einreihiger Blazer und Hose JPRFRANCO Super Slim Fit …",
@@ -3184,27 +3206,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DJ395WQR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T21:46:41.006Z"
-  },
-  {
-    "id": "auto-b0c7xhy6ys",
-    "asin": "B0C7XHY6YS",
-    "title": "Amazon Echo Show 15",
-    "category": "Amazon-Geräte",
-    "price": 219.99,
-    "checkedAt": "2026-11-22T21:05:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C7XHY6YS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T21:17:32.036Z"
-  },
-  {
-    "id": "auto-b0chz6b2vc",
-    "asin": "B0CHZ6B2VC",
-    "title": "Target Nathan Aspinall Tungsten Dart 22g",
-    "category": "Tech",
-    "price": 32.95,
-    "checkedAt": "2026-11-22T21:06:47.000Z",
-    "image": "https://static.mydealz.de/threads/raw/uaOsf/2878941_1/re/768x768/qt/55/2878941_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T21:17:26.417Z"
   }
 ]
