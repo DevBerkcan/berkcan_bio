@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b0fpxvhd1y",
+    "asin": "B0FPXVHD1Y",
+    "title": "LEGO Star Wars SMART Play: Darth Vaders TIE Fighter 75421 SMART Brick …",
+    "category": "Spielzeug & LEGO",
+    "price": 39.89,
+    "checkedAt": "2026-11-23T05:55:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXVHD1Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0c3vmbcy5",
+    "asin": "B0C3VMBCY5",
+    "title": "Bosch Professional 18V System Akku-Stichsäge GST 18V-125 S",
+    "category": "Werkzeug",
+    "price": 149.99,
+    "checkedAt": "2026-11-23T05:57:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C3VMBCY5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0b5vplxrb",
     "asin": "B0B5VPLXRB",
     "title": "Tefal Ingenio Emotion 20-tlg. Topf- und Pfannenset Induktion",
@@ -63,7 +83,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-23T05:07:34.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GVSMZR1J.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T06:03:02.195Z"
   },
   {
     "id": "auto-b07bmztm5f",
