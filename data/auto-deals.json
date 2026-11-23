@@ -1,5 +1,80 @@
 [
   {
+    "id": "auto-b0dhsfg8f3",
+    "asin": "B0DHSFG8F3",
+    "title": "LEGO Technic Tiefseeforscher U-Boot 42201",
+    "category": "Spielzeug & LEGO",
+    "price": 19.99,
+    "checkedAt": "2026-11-23T15:25:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DHSFG8F3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b006auor1w",
+    "asin": "B006AUOR1W",
+    "title": "Thetford Porta Potti 365 Campingtoilette (92820, Weiß)",
+    "category": "Sport & Outdoor",
+    "price": 69.28,
+    "checkedAt": "2026-11-23T16:02:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B006AUOR1W.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00dhivh6s",
+    "asin": "B00DHIVH6S",
+    "title": "Feine Sahne Fischfilet – Wut im Bauch, Trauer im Herzen (Vinyl) …",
+    "category": "Tech",
+    "price": 15.99,
+    "checkedAt": "2026-11-23T16:03:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00DHIVH6S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T16:16:53.891Z"
+  },
+  {
+    "id": "auto-b0dzt5vwf2",
+    "asin": "B0DZT5VWF2",
+    "title": "Mickey 17 [Blu-ray]",
+    "category": "Bücher & Filme",
+    "price": 8.49,
+    "checkedAt": "2026-11-23T16:03:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DZT5VWF2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T16:16:44.531Z"
+  },
+  {
+    "id": "auto-b077mg7265",
+    "asin": "B077MG7265",
+    "title": "Puma Smash V2 L Sneaker in Weiß",
+    "category": "Mode & Reise",
+    "price": 22.49,
+    "checkedAt": "2026-11-23T16:05:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B077MG7265.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T16:16:39.265Z"
+  },
+  {
+    "id": "auto-b00cj5fp04",
+    "asin": "B00CJ5FP04",
+    "title": "Logitech F310 kabelgebundenes Gamepad für PC, XInput/DirectInput, …",
+    "category": "Tech",
+    "price": 19.99,
+    "checkedAt": "2026-11-23T16:09:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00CJ5FP04.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T16:16:33.185Z"
+  },
+  {
+    "id": "auto-b07pmsfrg6",
+    "asin": "B07PMSFRG6",
+    "title": "Sigg Brotzeitdose - Alu",
+    "category": "Tech",
+    "price": 24.6,
+    "checkedAt": "2026-11-23T16:14:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07PMSFRG6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T16:16:27.742Z"
+  },
+  {
     "id": "auto-b0fpxgxpwd",
     "asin": "B0FPXGXPWD",
     "title": "LEGO Ninjago Wyldfyres Drachenmech 71868",
@@ -2923,16 +2998,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BPZP852W.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T17:07:01.678Z"
-  },
-  {
-    "id": "auto-b07nj9nzdx",
-    "asin": "B07NJ9NZDX",
-    "title": "Prime: Jack & Jones -Diverse Pullover, Jeans, Chinos, Jacken im Sale. …",
-    "category": "Mode & Reise",
-    "price": 18.95,
-    "checkedAt": "2026-11-22T16:05:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07NJ9NZDX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T16:23:24.429Z"
   }
 ]
