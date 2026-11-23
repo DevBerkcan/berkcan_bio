@@ -1,5 +1,42 @@
 [
   {
+    "id": "auto-b0bckn1xw8",
+    "asin": "B0BCKN1XW8",
+    "title": "AEG CLEAN 6000 Bodenstaubsauger mit Beutel, 850 W, 12 m Aktionsradius, …",
+    "category": "Haushalt",
+    "price": 129.99,
+    "checkedAt": "2026-11-23T16:33:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BCKN1XW8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T16:46:54.419Z"
+  },
+  {
+    "id": "auto-b0dpxkn5rh",
+    "asin": "B0DPXKN5RH",
+    "title": "Mepal Flip Sport Trinkflasche 600 ml in Ceramic White",
+    "subtitle": "🔥 119° bei mydealz",
+    "category": "Haushalt",
+    "price": 6.99,
+    "checkedAt": "2026-11-23T16:41:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DPXKN5RH.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 119,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T16:46:43.651Z"
+  },
+  {
+    "id": "auto-b0d44wprpb",
+    "asin": "B0D44WPRPB",
+    "title": "CHERRY XTRFY M64 Wireless Gaming-Maus, kabellos, 2,4 GHz, 53 g, Pixart …",
+    "subtitle": "🔥 401° bei mydealz",
+    "category": "Computer",
+    "price": 16.99,
+    "checkedAt": "2026-11-23T16:36:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D44WPRPB.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 401,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T16:46:38.436Z"
+  },
+  {
     "id": "auto-b0fj8k3yvt",
     "asin": "B0FJ8K3YVT",
     "title": "Hisense HS1000 2.0 Soundbar, 120 W, Dolby Audio, DTS Virtual:X, Voice …",
