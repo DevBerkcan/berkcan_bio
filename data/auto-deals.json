@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0gq36xqk6",
+    "asin": "B0GQ36XQK6",
+    "title": "Xiaomi Smart Band 10 Pro Ceramic Edition Pearl White (NFC) 1,74 …",
+    "subtitle": "🔥 432° bei mydealz",
+    "category": "Tech",
+    "price": 67.99,
+    "checkedAt": "2026-11-23T07:07:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GQ36XQK6.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 432,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:17:05.080Z"
+  },
+  {
     "id": "auto-b0bt89k8tv",
     "asin": "B0BT89K8TV",
     "title": "PLAYMOBIL City Life Große Schule mit beweglicher Tafel & Zubehör",
@@ -31,7 +44,8 @@
     "price": 44.99,
     "checkedAt": "2026-11-23T05:59:17.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CFW274ZS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:17:08.549Z"
   },
   {
     "id": "auto-b0fjm9562p",
@@ -140,7 +154,8 @@
     "price": 39.89,
     "checkedAt": "2026-11-23T05:55:58.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FPXVHD1Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:17:12.006Z"
   },
   {
     "id": "auto-b0c3vmbcy5",
@@ -194,7 +209,8 @@
     "price": 1495,
     "checkedAt": "2026-11-23T05:31:05.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F2S8WS6P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:17:15.481Z"
   },
   {
     "id": "auto-b0fpxdcqcv",
@@ -311,7 +327,8 @@
     "price": 5.41,
     "checkedAt": "2026-11-23T00:26:28.000Z",
     "image": "https://m.media-amazon.com/images/P/B001ILCNQO.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:16:59.423Z"
   },
   {
     "id": "auto-b0dwm6nm4y",
@@ -1950,17 +1967,6 @@
     "telegramPostedAt": "2026-11-22T07:43:51.493Z"
   },
   {
-    "id": "auto-b0ddtcmj3l",
-    "asin": "B0DDTCMJ3L",
-    "title": "Dremel 2000 VersaTip Lötkolben - Brennkolben u. Löt-Set",
-    "category": "Werkzeug",
-    "price": 29.97,
-    "checkedAt": "2026-11-22T07:12:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DDTCMJ3L.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T07:29:07.643Z"
-  },
-  {
     "id": "auto-b084w8sy9d",
     "asin": "B084W8SY9D",
     "title": "LE CREUSET 4er-Set Mini Cocottes aus Steinzeug, je 200 ml, 10 x 5 cm, …",
@@ -1981,38 +1987,5 @@
     "image": "https://m.media-amazon.com/images/P/B08V287D3P.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T07:28:56.030Z"
-  },
-  {
-    "id": "auto-b0gdfsr9sn",
-    "asin": "B0GDFSR9SN",
-    "title": "SwitchBot KI Art Frame 13.3'', Kabellos, Ink-Bilderrahmen, Extrem …",
-    "category": "Tech",
-    "price": 239.99,
-    "checkedAt": "2026-11-22T07:02:04.000Z",
-    "image": "https://static.mydealz.de/threads/raw/OgRlu/2878382_1/re/768x768/qt/55/2878382_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T07:14:05.334Z"
-  },
-  {
-    "id": "auto-b0765q9v95",
-    "asin": "B0765Q9V95",
-    "title": "Swarovski Una Angelic Schmuckset Weiß",
-    "category": "Tech",
-    "price": 239.29,
-    "checkedAt": "2026-11-22T07:02:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0765Q9V95.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T07:13:58.701Z"
-  },
-  {
-    "id": "auto-b0fh22rb4s",
-    "asin": "B0FH22RB4S",
-    "title": "Insta360 GO Ultra 4K-Vlogging-Kamera mit 53 g und magnetischer …",
-    "category": "Foto & Video",
-    "price": 339,
-    "checkedAt": "2026-11-22T07:07:51.000Z",
-    "image": "https://static.mydealz.de/threads/raw/YzPcT/2878386_1/re/768x768/qt/55/2878386_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T07:13:52.945Z"
   }
 ]
