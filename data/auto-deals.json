@@ -1,5 +1,50 @@
 [
   {
+    "id": "auto-b0dwdltkxh",
+    "asin": "B0DWDLTKXH",
+    "title": "LEGO Creator 3in1 Retro-Telefon 31174",
+    "category": "Spielzeug & LEGO",
+    "price": 12.99,
+    "checkedAt": "2026-11-23T13:32:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DWDLTKXH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gsn784g1",
+    "asin": "B0GSN784G1",
+    "title": "Ariel Pulverwaschmittel Universal+ 100 Wäschen",
+    "category": "Tech",
+    "price": 19.99,
+    "checkedAt": "2026-11-23T14:03:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GSN784G1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T14:16:24.208Z"
+  },
+  {
+    "id": "auto-b0ftlzx22w",
+    "asin": "B0FTLZX22W",
+    "title": "Bosch Professional Laser-Entfernungsmesser GLM 40-31, Messbereich bis …",
+    "category": "Küche",
+    "price": 63.69,
+    "checkedAt": "2026-11-23T14:12:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FTLZX22W.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T14:16:18.189Z"
+  },
+  {
+    "id": "auto-b098y186gh",
+    "asin": "B098Y186GH",
+    "title": "WORX WX092.9 Akku-Kompressor 20V, max. 10 bar, mit Digitalanzeige, …",
+    "category": "Werkzeug",
+    "price": 41.94,
+    "oldPrice": 49.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T14:00:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B098Y186GH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T14:16:12.755Z"
+  },
+  {
     "id": "auto-b0dkt7xmrs",
     "asin": "B0DKT7XMRS",
     "title": "Reolink 4K Wi-Fi 6 PTZ Überwachungskamera Aussen WLAN, …",
@@ -7,7 +52,8 @@
     "price": 149.99,
     "checkedAt": "2026-11-23T13:53:49.000Z",
     "image": "https://static.mydealz.de/threads/raw/swW4P/2879628_1/re/768x768/qt/55/2879628_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T14:16:30.073Z"
   },
   {
     "id": "auto-b083zw86h1",
@@ -84,7 +130,8 @@
     "price": 9.32,
     "checkedAt": "2026-11-23T13:35:21.000Z",
     "image": "https://m.media-amazon.com/images/P/B000Y8XYE2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T14:16:34.618Z"
   },
   {
     "id": "auto-b00apg6rc4",
@@ -2243,18 +2290,6 @@
     "telegramPostedAt": "2026-11-22T20:32:55.087Z"
   },
   {
-    "id": "queue-b0dl6ksw78",
-    "asin": "B0DL6KSW78",
-    "title": "Apple Maus, weiß",
-    "subtitle": "Originale Apple Maus in Weiß – passt optisch perfekt zum Mac-Setup.",
-    "category": "Computer",
-    "price": 34.9,
-    "checkedAt": "2026-11-22T14:04:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DL6KSW78.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T20:17:58.875Z"
-  },
-  {
     "id": "queue-b0gttzytpy",
     "asin": "B0GTTZYTPY",
     "title": "EasySMX S10 Controller für Switch 2 mit TMR-Sticks",
@@ -2704,16 +2739,5 @@
     "image": "https://m.media-amazon.com/images/P/B000CRBEJ2.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T14:39:58.853Z"
-  },
-  {
-    "id": "auto-b0fzm45927",
-    "asin": "B0FZM45927",
-    "title": "Kinder Smartwatch Xplora X6 Play (2. Gen) eSIM – BVB-Edition",
-    "category": "Smartphone & Tablet",
-    "price": 99,
-    "checkedAt": "2026-11-22T14:08:39.000Z",
-    "image": "https://static.mydealz.de/threads/raw/4u1WZ/2878699_1/re/768x768/qt/55/2878699_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T14:10:25.539Z"
   }
 ]
