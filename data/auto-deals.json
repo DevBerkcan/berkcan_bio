@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0bt89k8tv",
+    "asin": "B0BT89K8TV",
+    "title": "PLAYMOBIL City Life Große Schule mit beweglicher Tafel & Zubehör",
+    "category": "Spielzeug & LEGO",
+    "price": 61.69,
+    "checkedAt": "2026-11-23T06:03:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BT89K8TV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:02:19.835Z"
+  },
+  {
+    "id": "auto-b0hd6ndjc8",
+    "asin": "B0HD6NDJC8",
+    "title": "UGREEN MagFlow Air Ultra Slim Powerbank mit Magsafe",
+    "subtitle": "🔥 421° bei mydealz",
+    "category": "Zubehör & Laden",
+    "price": 59.99,
+    "checkedAt": "2026-11-23T06:51:03.000Z",
+    "image": "https://static.mydealz.de/threads/raw/GPC41/2854120_1/re/768x768/qt/55/2854120_1.jpg",
+    "temperature": 421,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:02:07.501Z"
+  },
+  {
     "id": "auto-b0cfw274zs",
     "asin": "B0CFW274ZS",
     "title": "LEGO Icons McLaren MP4/4 & Ayrton Senna 10330 Bausatz für Erwachsene, …",
@@ -39,7 +63,8 @@
     "price": 54.07,
     "checkedAt": "2026-11-23T06:18:09.000Z",
     "image": "https://m.media-amazon.com/images/P/B00JVILO8E.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:02:11.127Z"
   },
   {
     "id": "auto-b0gtrd1mm6",
@@ -93,7 +118,8 @@
     "price": 599,
     "checkedAt": "2026-11-23T06:06:23.000Z",
     "image": "https://static.mydealz.de/threads/raw/D10sg/2879093_1/re/768x768/qt/55/2879093_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:02:14.690Z"
   },
   {
     "id": "auto-b092dz1vk5",
@@ -1988,42 +2014,5 @@
     "image": "https://static.mydealz.de/threads/raw/YzPcT/2878386_1/re/768x768/qt/55/2878386_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T07:13:52.945Z"
-  },
-  {
-    "id": "auto-b07w7yzjqh",
-    "asin": "B07W7YZJQH",
-    "title": "Brother JX17FE Nähmaschine für Anfänger mit 17 Nähprogrammen, Freiarm",
-    "category": "Tech",
-    "price": 111.75,
-    "checkedAt": "2026-11-22T06:56:15.000Z",
-    "image": "https://static.mydealz.de/threads/raw/5NilS/2878379_1/re/768x768/qt/55/2878379_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T06:59:01.025Z"
-  },
-  {
-    "id": "auto-b0d9s9y16y",
-    "asin": "B0D9S9Y16Y",
-    "title": "Philips Airfryer 3000 Serie Heißluftfritteuse, Schwarz, 6,2L,",
-    "subtitle": "🔥 188° bei mydealz",
-    "category": "Küche",
-    "price": 69.99,
-    "checkedAt": "2026-11-22T06:56:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D9S9Y16Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 188,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T06:58:53.447Z"
-  },
-  {
-    "id": "auto-b07n27nq83",
-    "asin": "B07N27NQ83",
-    "title": "WD-40 Specialist Fahrrad Pflegeset 3-teilig – Komplettes Set mit …",
-    "subtitle": "🔥 361° bei mydealz",
-    "category": "Sport & Outdoor",
-    "price": 19.99,
-    "checkedAt": "2026-11-22T06:48:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07N27NQ83.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 361,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T06:58:47.975Z"
   }
 ]
