@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0fj8k3yvt",
+    "asin": "B0FJ8K3YVT",
+    "title": "Hisense HS1000 2.0 Soundbar, 120 W, Dolby Audio, DTS Virtual:X, Voice …",
+    "category": "TV & Heimkino",
+    "price": 54.9,
+    "checkedAt": "2026-11-23T16:18:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FJ8K3YVT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T16:31:43.400Z"
+  },
+  {
+    "id": "auto-b07bcpngdj",
+    "asin": "B07BCPNGDJ",
+    "title": "Tefal Ice Force Kochmesser (20cm)",
+    "category": "Küche",
+    "price": 14.43,
+    "oldPrice": 18.77,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T16:19:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07BCPNGDJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T16:31:38.039Z"
+  },
+  {
     "id": "auto-b0dhsfg8f3",
     "asin": "B0DHSFG8F3",
     "title": "LEGO Technic Tiefseeforscher U-Boot 42201",
@@ -7,7 +31,8 @@
     "price": 19.99,
     "checkedAt": "2026-11-23T15:25:27.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DHSFG8F3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T16:31:55.876Z"
   },
   {
     "id": "auto-b006auor1w",
@@ -17,7 +42,8 @@
     "price": 69.28,
     "checkedAt": "2026-11-23T16:02:00.000Z",
     "image": "https://m.media-amazon.com/images/P/B006AUOR1W.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T16:31:51.655Z"
   },
   {
     "id": "auto-b00dhivh6s",
