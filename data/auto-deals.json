@@ -1,5 +1,53 @@
 [
   {
+    "id": "auto-b0gwhmlv1w",
+    "asin": "B0GWHMLV1W",
+    "title": "JOREST 145 in 1 Feinmechaniker Bit Set inkl. Schraubendreher, Tasche …",
+    "category": "Tech",
+    "price": 22.78,
+    "checkedAt": "2026-11-23T15:19:03.000Z",
+    "image": "https://static.mydealz.de/threads/raw/6WR7s/2879705_1/re/768x768/qt/55/2879705_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:31:34.116Z"
+  },
+  {
+    "id": "auto-b073k3tc1p",
+    "asin": "B073K3TC1P",
+    "title": "WAGNER Control Pro 350 R Airless Farbsprühsystem, 110 bar, 15 m …",
+    "category": "Tech",
+    "price": 399.98,
+    "checkedAt": "2026-11-23T15:24:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B073K3TC1P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:31:26.558Z"
+  },
+  {
+    "id": "auto-b0fpxgpt4j",
+    "asin": "B0FPXGPT4J",
+    "title": "LEGO Harry Potter Wichtel, Kornwaliser Kobold (76461)",
+    "subtitle": "🔥 106° bei mydealz",
+    "category": "Spielzeug & LEGO",
+    "price": 16.99,
+    "checkedAt": "2026-11-23T15:21:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXGPT4J.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 106,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:31:21.182Z"
+  },
+  {
+    "id": "auto-b0gqlml7xk",
+    "asin": "B0GQLML7XK",
+    "title": "Fallout - Staffel 1 auf 3 Blu-rays",
+    "category": "Bücher & Filme",
+    "price": 27.66,
+    "oldPrice": 39.09,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T15:27:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GQLML7XK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:31:16.648Z"
+  },
+  {
     "id": "auto-b0h1jc29d3",
     "asin": "B0H1JC29D3",
     "title": "dreame Matrix10 Pro Saugroboter mit Wischfunktion, 30.000 Pa, …",
@@ -7,7 +55,8 @@
     "price": 569,
     "checkedAt": "2026-11-23T15:10:45.000Z",
     "image": "https://m.media-amazon.com/images/P/B0H1JC29D3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:31:38.591Z"
   },
   {
     "id": "auto-b0dhh6yjcd",
@@ -2779,17 +2828,6 @@
     "telegramPostedAt": "2026-11-22T16:23:24.429Z"
   },
   {
-    "id": "auto-b0bwfs6r27",
-    "asin": "B0BWFS6R27",
-    "title": "Funko POP! Movies: Mad Max: The Road Warrior - Humungous - Lord …",
-    "category": "Spielzeug & LEGO",
-    "price": 8.74,
-    "checkedAt": "2026-11-22T15:18:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BWFS6R27.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T16:08:44.547Z"
-  },
-  {
     "id": "auto-b0fmckc5dl",
     "asin": "B0FMCKC5DL",
     "title": "Amazon bugatti Herren Low-Top Sneaker in Schwarz",
@@ -2834,51 +2872,5 @@
     "image": "https://m.media-amazon.com/images/P/B00008K5YP.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T15:39:16.034Z"
-  },
-  {
-    "id": "auto-b09411bwrv",
-    "asin": "B09411BWRV",
-    "title": "Wiha zai Hause Micro Bit Set mit ESD Feinmechanik Schraubendreher, …",
-    "category": "Tech",
-    "price": 19.99,
-    "checkedAt": "2026-11-22T15:18:12.000Z",
-    "image": "https://static.mydealz.de/threads/raw/nhzoM/2878736_1/re/768x768/qt/55/2878736_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T15:24:34.289Z"
-  },
-  {
-    "id": "auto-b0hd1174dg",
-    "asin": "B0HD1174DG",
-    "title": "The Walking Dead: Streets of Survival [Blu-ray]",
-    "category": "Bücher & Filme",
-    "price": 24.99,
-    "checkedAt": "2026-11-22T15:21:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HD1174DG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T15:24:27.632Z"
-  },
-  {
-    "id": "auto-b000k2pf4y",
-    "asin": "B000K2PF4Y",
-    "title": "Mannesmann Steckschlüssel-Satz 215-tlg. M98430",
-    "category": "Werkzeug",
-    "price": 84.99,
-    "checkedAt": "2026-11-22T15:23:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000K2PF4Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T15:24:22.190Z"
-  },
-  {
-    "id": "auto-b09yvn1rh5",
-    "asin": "B09YVN1RH5",
-    "title": "PUMA Damen Cool Cat 20 Wns Badelatschen, Black-Rose Gold, 39 EU",
-    "category": "Tech",
-    "price": 13.49,
-    "oldPrice": 27.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-22T15:16:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09YVN1RH5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T15:24:07.166Z"
   }
 ]
