@@ -1,5 +1,64 @@
 [
   {
+    "id": "auto-b0cvyly7tg",
+    "asin": "B0CVYLY7TG",
+    "title": "Canon EOS R100 Systemkamera + RF-S 18-45mm IS STM + Tasche + 64GB SD, …",
+    "category": "Foto & Video",
+    "price": 449,
+    "checkedAt": "2026-11-23T15:34:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CVYLY7TG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:46:38.269Z"
+  },
+  {
+    "id": "auto-b0d2hgjfl2",
+    "asin": "B0D2HGJFL2",
+    "title": "JOREST 152 in 1 Feinmechaniker Bit Set inkl. Schraubendreher, Box und …",
+    "category": "Tech",
+    "price": 21.65,
+    "checkedAt": "2026-11-23T15:40:55.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Ya9Wy/2879729_1/re/768x768/qt/55/2879729_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:46:33.108Z"
+  },
+  {
+    "id": "auto-b07587y6d6",
+    "asin": "B07587Y6D6",
+    "title": "Bosch Professional GAS 18V-1 Akku-Handstaubsauger (solo), 18 V, 0,7 l …",
+    "category": "Haushalt",
+    "price": 57.99,
+    "checkedAt": "2026-11-23T15:45:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07587Y6D6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:46:26.791Z"
+  },
+  {
+    "id": "auto-b0g3qfsypx",
+    "asin": "B0G3QFSYPX",
+    "title": "Corsair Void v2 Wireless (Dual Tone) Gaming Headset – Dolby Atmos - 70 …",
+    "subtitle": "🔥 169° bei mydealz",
+    "category": "Gaming",
+    "price": 69.99,
+    "checkedAt": "2026-11-23T15:37:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G3QFSYPX.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 169,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:46:21.611Z"
+  },
+  {
+    "id": "auto-b0fftq6b37",
+    "asin": "B0FFTQ6B37",
+    "title": "Turtle Beach Rematch Donkey Kong",
+    "subtitle": "🔥 260° bei mydealz",
+    "category": "Tech",
+    "price": 35,
+    "checkedAt": "2026-11-23T15:37:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FFTQ6B37.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 260,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:46:16.410Z"
+  },
+  {
     "id": "auto-b0gwhmlv1w",
     "asin": "B0GWHMLV1W",
     "title": "JOREST 145 in 1 Feinmechaniker Bit Set inkl. Schraubendreher, Tasche …",
@@ -2839,17 +2898,6 @@
     "telegramPostedAt": "2026-11-22T16:08:39.063Z"
   },
   {
-    "id": "auto-b00uwhrr8e",
-    "asin": "B00UWHRR8E",
-    "title": "Dänische Delikatessen ~7,99€ / Flickerung Lights / Adams Äpfel je …",
-    "category": "Tech",
-    "price": 7.99,
-    "checkedAt": "2026-11-22T15:44:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00UWHRR8E.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T15:53:58.015Z"
-  },
-  {
     "id": "auto-b07bf3v9b7",
     "asin": "B07BF3V9B7",
     "title": "Ready Player One (2018) - 4K Blu-ray + Blu - IMDB 7,4",
@@ -2859,18 +2907,5 @@
     "image": "https://m.media-amazon.com/images/P/B07BF3V9B7.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T15:53:52.837Z"
-  },
-  {
-    "id": "auto-b00008k5yp",
-    "asin": "B00008K5YP",
-    "title": "Cloer 181 Waffeleisen für eine Herzwaffel",
-    "category": "Küche",
-    "price": 43.47,
-    "oldPrice": 89.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-22T15:33:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00008K5YP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T15:39:16.034Z"
   }
 ]
