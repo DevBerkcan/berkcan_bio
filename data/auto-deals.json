@@ -1,5 +1,90 @@
 [
   {
+    "id": "auto-b0h8t3f66p",
+    "asin": "B0H8T3F66P",
+    "title": "Pokémon-Sammelkartenspiel: Top-Trainer-Box 30 Jahre",
+    "category": "Spielzeug & LEGO",
+    "price": 52.99,
+    "checkedAt": "2026-11-23T10:57:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H8T3F66P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T11:16:28.260Z"
+  },
+  {
+    "id": "auto-b007ci5tmw",
+    "asin": "B007CI5TMW",
+    "title": "Haribo Roulette 50 Rollen, 1,25 kg ~ 0,20 € / Rolle PRIME SPARABO",
+    "category": "Lebensmittel & Drinks",
+    "price": 9.89,
+    "checkedAt": "2026-11-23T11:10:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B007CI5TMW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T11:16:23.002Z"
+  },
+  {
+    "id": "auto-b07cqqg66f",
+    "asin": "B07CQQG66F",
+    "title": "Tefal K13204 Ingenio 5-Sekunden-Zerkleinerer (900 ml)",
+    "category": "Tech",
+    "price": 14.05,
+    "checkedAt": "2026-11-23T11:14:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07CQQG66F.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T11:16:17.877Z"
+  },
+  {
+    "id": "auto-b007cst74s",
+    "asin": "B007CST74S",
+    "title": "Prime - Remington Haartrockner [extrem klein & klappbar] On The Go",
+    "subtitle": "🔥 182° bei mydealz",
+    "category": "Haushalt",
+    "price": 11.8,
+    "checkedAt": "2026-11-23T11:03:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B007CST74S.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 182,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T11:16:12.400Z"
+  },
+  {
+    "id": "auto-b0d8tn4dqk",
+    "asin": "B0D8TN4DQK",
+    "title": "Planteray Isle of Fiji Rum 0,7l 40%",
+    "subtitle": "🔥 213° bei mydealz",
+    "category": "Tech",
+    "price": 19.11,
+    "checkedAt": "2026-11-23T11:03:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D8TN4DQK.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 213,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T11:16:07.175Z"
+  },
+  {
+    "id": "auto-b0dhsc8hym",
+    "asin": "B0DHSC8HYM",
+    "title": "LEGO Star Wars Rebel U-Wing Starfighter (75399)",
+    "category": "Spielzeug & LEGO",
+    "price": 34.99,
+    "oldPrice": 69.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T08:46:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DHSC8HYM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T11:16:01.621Z"
+  },
+  {
+    "id": "queue-b00deid79g",
+    "asin": "B00DEID79G",
+    "title": "CTEK MXS 5.0 12V Batterieladegerät für Auto & Motorrad",
+    "subtitle": "AGM-tauglich mit Recond-Modus, Erhaltungsladung und IP65-Schutz.",
+    "category": "Zubehör & Laden",
+    "price": 65.99,
+    "checkedAt": "2026-11-23T10:58:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00DEID79G.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 102,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T11:15:44.154Z"
+  },
+  {
     "id": "auto-b00j8m6v0y",
     "asin": "B00J8M6V0Y",
     "title": "Nintendo Super Mario Figur (50 cm) -Offizieller Nintendo Store",
@@ -2135,19 +2220,6 @@
     "telegramPostedAt": "2026-11-22T11:57:35.515Z"
   },
   {
-    "id": "auto-b0dr3qk63t",
-    "asin": "B0DR3QK63T",
-    "title": "Hot Wheels Monster Trucks Mega-Wrex",
-    "category": "Spielzeug & LEGO",
-    "price": 16.99,
-    "oldPrice": 23.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-22T11:00:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DR3QK63T.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T11:57:28.860Z"
-  },
-  {
     "id": "auto-b00idwf0x4",
     "asin": "B00IDWF0X4",
     "title": "Prime: AC/DC - Stiff Upper Lip [Vinyl LP] Limited Edition, Standard …",
@@ -2190,49 +2262,5 @@
     "image": "https://m.media-amazon.com/images/P/B0G3XXP9ZY.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T11:42:23.446Z"
-  },
-  {
-    "id": "auto-b0cqtg2d1z",
-    "asin": "B0CQTG2D1Z",
-    "title": "KARAT Getränkekistenregal für 6 Kisten",
-    "category": "Tech",
-    "price": 19.8,
-    "checkedAt": "2026-11-22T11:12:42.000Z",
-    "image": "https://static.mydealz.de/threads/raw/cLuiC/2878591_1/re/768x768/qt/55/2878591_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T11:27:19.894Z"
-  },
-  {
-    "id": "auto-b078k5dbqf",
-    "asin": "B078K5DBQF",
-    "title": "AEG VH Comfort Wandheizlüfter 2000 W",
-    "category": "Haushalt",
-    "price": 158.59,
-    "checkedAt": "2026-11-22T11:08:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B078K5DBQF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T11:12:35.058Z"
-  },
-  {
-    "id": "auto-b0h14y2tm7",
-    "asin": "B0H14Y2TM7",
-    "title": "GoveeLife Smart WLAN-Wassermelder Boden, 5 Wassersensoren mit Hub",
-    "category": "Tech",
-    "price": 39.99,
-    "checkedAt": "2026-11-22T11:10:21.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Ekk4c/2878588_1/re/768x768/qt/55/2878588_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T11:12:29.601Z"
-  },
-  {
-    "id": "auto-b0dg9g8lxg",
-    "asin": "B0DG9G8LXG",
-    "title": "Mould King Weihnachtszug als ferngesteuerter Dampflok-Bausatz",
-    "category": "Spielzeug & LEGO",
-    "price": 92.65,
-    "checkedAt": "2026-11-22T11:11:45.000Z",
-    "image": "https://static.mydealz.de/threads/raw/fzXy3/2878590_1/re/768x768/qt/55/2878590_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T11:12:23.225Z"
   }
 ]
