@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b083kkf8f8",
+    "asin": "B083KKF8F8",
+    "title": "6er Pack Utopia Towels - Handtücher Set aus 100% Baumwolle - 41x71cm",
+    "category": "Tech",
+    "price": 13.59,
+    "checkedAt": "2026-11-23T09:50:23.000Z",
+    "image": "https://static.mydealz.de/threads/raw/N5so1/2879326_1/re/768x768/qt/55/2879326_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T10:01:01.010Z"
+  },
+  {
+    "id": "auto-b0clnkhv2d",
+    "asin": "B0CLNKHV2D",
+    "title": "Titanic - 4K Remastered (4K Ultra HD) (+ Blu-ray) [3 Discs]",
+    "category": "Bücher & Filme",
+    "price": 27.99,
+    "checkedAt": "2026-11-23T09:50:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CLNKHV2D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T10:00:54.726Z"
+  },
+  {
+    "id": "auto-b08f7sps7j",
+    "asin": "B08F7SPS7J",
+    "title": "Braun Series 9 PRO+ 9665cce Elektrorasierer Herren, Graphit, 5+1 …",
+    "category": "Beauty & Pflege",
+    "price": 269.99,
+    "checkedAt": "2026-11-23T09:52:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08F7SPS7J.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T10:00:49.581Z"
+  },
+  {
     "id": "auto-b0ccj4zgpn",
     "asin": "B0CCJ4ZGPN",
     "title": "Bessey Einhand-Tischzwinge für Führungsschienen EZR15SET inkl Adapter",
@@ -92,7 +125,8 @@
     "price": 10.14,
     "checkedAt": "2026-11-23T09:24:12.000Z",
     "image": "https://m.media-amazon.com/images/P/B002SKFKZU.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T10:01:08.242Z"
   },
   {
     "id": "auto-b0fr7qk66s",
@@ -102,7 +136,8 @@
     "price": 8.32,
     "checkedAt": "2026-11-23T09:26:42.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FR7QK66S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T10:01:04.668Z"
   },
   {
     "id": "auto-b0ddqf57mq",
@@ -2151,40 +2186,5 @@
     "image": "https://m.media-amazon.com/images/P/B08L65H412.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T10:13:02.358Z"
-  },
-  {
-    "id": "auto-b0gqcv2g55",
-    "asin": "B0GQCV2G55",
-    "title": "Helles Pülleken 0,0% alkoholfrei 18 x 0.33l Dose",
-    "category": "Tech",
-    "price": 10.73,
-    "checkedAt": "2026-11-22T09:47:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GQCV2G55.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T09:58:15.561Z"
-  },
-  {
-    "id": "auto-b07mc4t3h9",
-    "asin": "B07MC4T3H9",
-    "title": "FISKARS Universal-Klappmesser/Cuttermesser CarbonMax 17 cm Black …",
-    "category": "Küche",
-    "price": 16.99,
-    "checkedAt": "2026-11-22T09:51:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07MC4T3H9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T09:58:10.368Z"
-  },
-  {
-    "id": "auto-b0d4njsw65",
-    "asin": "B0D4NJSW65",
-    "title": "THE NORTH FACE Base Camp Voyager Travel Pack – 35-Liter-Reiserucksack",
-    "category": "Sport & Outdoor",
-    "price": 73.95,
-    "oldPrice": 108.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-22T09:47:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D4NJSW65.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T09:58:05.203Z"
   }
 ]
