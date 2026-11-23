@@ -1,5 +1,53 @@
 [
   {
+    "id": "auto-b0154lpr20",
+    "asin": "B0154LPR20",
+    "title": "Prime - Yankee Candle - Duftkerze im Glas - Red Apple Wreath 411g …",
+    "category": "Tech",
+    "price": 7.99,
+    "checkedAt": "2026-11-23T08:36:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0154LPR20.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T08:46:25.911Z"
+  },
+  {
+    "id": "auto-b074m9dz4m",
+    "asin": "B074M9DZ4M",
+    "title": "2er-Pack | Philips AquaClean Wasserfilter für Kaffeevollautomaten, …",
+    "category": "Küche",
+    "price": 14.99,
+    "checkedAt": "2026-11-23T08:40:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B074M9DZ4M.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T08:46:20.519Z"
+  },
+  {
+    "id": "auto-b0df7wq3k3",
+    "asin": "B0DF7WQ3K3",
+    "title": "Sid Meier's Civilization VII – PS5 / PlayStation 5",
+    "subtitle": "🔥 285° bei mydealz",
+    "category": "Gaming",
+    "price": 16.24,
+    "checkedAt": "2026-11-23T08:44:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DF7WQ3K3.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 285,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T08:46:15.192Z"
+  },
+  {
+    "id": "auto-b0blc23tkd",
+    "asin": "B0BLC23TKD",
+    "title": "Reloop RT-1 BT Plattenspieler für DJ- & HiFi-Anwendungen",
+    "category": "Audio",
+    "price": 155.22,
+    "oldPrice": 195.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T08:36:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BLC23TKD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T08:46:09.979Z"
+  },
+  {
     "id": "auto-b0dv11cbmz",
     "asin": "B0DV11CBMZ",
     "title": "Diesel Only The Brave (Eau de Parfum) 50 ml",
@@ -1889,17 +1937,6 @@
     "telegramPostedAt": "2026-11-22T09:43:22.024Z"
   },
   {
-    "id": "auto-b00cuhwx5g",
-    "asin": "B00CUHWX5G",
-    "title": "P eg Perego – John Deere Baggerlader, OR0068, Gelb/Grün",
-    "category": "Spielzeug & LEGO",
-    "price": 261.86,
-    "checkedAt": "2026-11-22T08:43:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00CUHWX5G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T09:28:37.291Z"
-  },
-  {
     "id": "auto-b01cfwdnf4",
     "asin": "B01CFWDNF4",
     "title": "Coca-Cola Classic Erfrischungsgetränk, 24 x 330 ml Dosen",
@@ -1999,38 +2036,5 @@
     "image": "https://static.mydealz.de/threads/raw/9S46a/2878463_1/re/768x768/qt/55/2878463_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T08:58:25.989Z"
-  },
-  {
-    "id": "auto-b0hj2yk493",
-    "asin": "B0HJ2YK493",
-    "title": "Oral-B Pro-Expert Professioneller Schutz Zahnpasta, 6 X 75ml",
-    "category": "Beauty & Pflege",
-    "price": 15.98,
-    "checkedAt": "2026-11-22T08:33:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HJ2YK493.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T08:43:32.310Z"
-  },
-  {
-    "id": "auto-b0fm6szkr8",
-    "asin": "B0FM6SZKR8",
-    "title": "ULTIMEA Skywave X70 7.1.4 Professionelles Kabelloses Surround Sound …",
-    "category": "Tech",
-    "price": 599.99,
-    "checkedAt": "2026-11-22T08:34:00.000Z",
-    "image": "https://static.mydealz.de/threads/raw/1VScK/2878446_1/re/768x768/qt/55/2878446_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T08:43:27.125Z"
-  },
-  {
-    "id": "auto-b07bswn9zt",
-    "asin": "B07BSWN9ZT",
-    "title": "Der Soldat James Ryan",
-    "category": "Tech",
-    "price": 15.73,
-    "checkedAt": "2026-11-22T08:35:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07BSWN9ZT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T08:43:17.609Z"
   }
 ]
