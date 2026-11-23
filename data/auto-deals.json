@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0bxpy1197",
+    "asin": "B0BXPY1197",
+    "title": "Pokémon-Sammelkartenspiel: Display-Box Karmesin & Purpur …",
+    "category": "Spielzeug & LEGO",
+    "price": 179.64,
+    "checkedAt": "2026-11-23T09:35:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BXPY1197.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T10:15:57.258Z"
+  },
+  {
+    "id": "auto-b09zld62cz",
+    "asin": "B09ZLD62CZ",
+    "title": "Panasonic eneloop AA/Mignon Ni-MH Akkus",
+    "category": "Tech",
+    "price": 18.69,
+    "checkedAt": "2026-11-23T10:00:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09ZLD62CZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T10:15:52.334Z"
+  },
+  {
+    "id": "auto-b07nj2yqj1",
+    "asin": "B07NJ2YQJ1",
+    "title": "JACK & JONES Herren Glenn Original Jeans in Blau verschied. Größen & …",
+    "category": "Mode & Reise",
+    "price": 18.14,
+    "checkedAt": "2026-11-23T10:08:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07NJ2YQJ1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T10:15:47.236Z"
+  },
+  {
+    "id": "auto-b00lh3dmuo",
+    "asin": "B00LH3DMUO",
+    "title": "36 Stück Amazon Basics AAA Alkali-Batterien – 5,96 € mit Spar-Abo",
+    "category": "Tech",
+    "price": 6.62,
+    "checkedAt": "2026-11-23T10:13:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00LH3DMUO.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T10:15:42.355Z"
+  },
+  {
     "id": "auto-b083kkf8f8",
     "asin": "B083KKF8F8",
     "title": "6er Pack Utopia Towels - Handtücher Set aus 100% Baumwolle - 41x71cm",
@@ -115,7 +159,8 @@
     "price": 10.99,
     "checkedAt": "2026-11-23T09:16:10.000Z",
     "image": "https://m.media-amazon.com/images/P/B0HCPVPZNT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T10:16:00.709Z"
   },
   {
     "id": "auto-b002skfkzu",
@@ -1917,18 +1962,6 @@
     "telegramPostedAt": "2026-11-22T11:57:28.860Z"
   },
   {
-    "id": "queue-b005expt4a",
-    "asin": "B005EXPT4A",
-    "title": "KNIPEX 98 52 VDE-Kabelmesser, gerade Klinge 50 mm",
-    "subtitle": "VDE-isoliert, ergonomischer 2K-Griff mit Abgleitschutz und Daumenmulde.",
-    "category": "Küche",
-    "price": 11.26,
-    "checkedAt": "2026-11-22T10:11:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B005EXPT4A.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T11:57:01.491Z"
-  },
-  {
     "id": "auto-b00idwf0x4",
     "asin": "B00IDWF0X4",
     "title": "Prime: AC/DC - Stiff Upper Lip [Vinyl LP] Limited Edition, Standard …",
@@ -2085,28 +2118,6 @@
     "telegramPostedAt": "2026-11-22T10:42:56.351Z"
   },
   {
-    "id": "auto-b0ctxfrz25",
-    "asin": "B0CTXFRZ25",
-    "title": "Solarway All In One Envertech Mikro-Wechselrichter 2000W Set inkl. 5M …",
-    "category": "Tech",
-    "price": 169.99,
-    "checkedAt": "2026-11-22T10:13:12.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Xjx9P/2878540_1/re/768x768/qt/55/2878540_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T10:28:13.976Z"
-  },
-  {
-    "id": "auto-b00c81jus2",
-    "asin": "B00C81JUS2",
-    "title": "SKLZ Core Wheels Dynamic Strength & Ab Trainer, Gelb",
-    "category": "Tech",
-    "price": 28.95,
-    "checkedAt": "2026-11-22T10:14:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00C81JUS2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T10:28:06.957Z"
-  },
-  {
     "id": "auto-b0dwfv3hg1",
     "asin": "B0DWFV3HG1",
     "title": "Beko BM3T39230W Wärmepumpentrockner – 9 kg, Energieklasse D - Prime …",
@@ -2151,40 +2162,5 @@
     "temperature": 305,
     "source": "auto",
     "telegramPostedAt": "2026-11-22T10:27:46.273Z"
-  },
-  {
-    "id": "auto-b00id7ecm4",
-    "asin": "B00ID7ECM4",
-    "title": "KNIPEX Elektrikerscheren mit Mehrkomponenten-Hüllen, 95 05 155 SB",
-    "category": "Werkzeug",
-    "price": 16.42,
-    "checkedAt": "2026-11-22T10:05:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00ID7ECM4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T10:13:13.536Z"
-  },
-  {
-    "id": "auto-b088372qqm",
-    "asin": "B088372QQM",
-    "title": "Cihuatán Indigo El Salvador 8YO Rum (1 x 700 ml)",
-    "category": "Tech",
-    "price": 23.14,
-    "checkedAt": "2026-11-22T10:05:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B088372QQM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T10:13:08.421Z"
-  },
-  {
-    "id": "auto-b08l65h412",
-    "asin": "B08L65H412",
-    "title": "VAUDE Puck Kinderrucksack in versch. Farben",
-    "category": "Sport & Outdoor",
-    "price": 29.83,
-    "oldPrice": 52,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-22T10:02:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08L65H412.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T10:13:02.358Z"
   }
 ]
