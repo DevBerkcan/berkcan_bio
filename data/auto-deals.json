@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b0h1jc29d3",
+    "asin": "B0H1JC29D3",
+    "title": "dreame Matrix10 Pro Saugroboter mit Wischfunktion, 30.000 Pa, …",
+    "category": "Haushalt",
+    "price": 569,
+    "checkedAt": "2026-11-23T15:10:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H1JC29D3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0dhh6yjcd",
     "asin": "B0DHH6YJCD",
     "title": "Melitta BellaCrema Crema Dolce, Kaffeebohnen, 1 kg",
@@ -100,7 +110,8 @@
     "price": 51.99,
     "checkedAt": "2026-11-23T14:19:56.000Z",
     "image": "https://m.media-amazon.com/images/P/B07JYY3KMV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:16:18.802Z"
   },
   {
     "id": "auto-b0g4chtd53",
@@ -365,7 +376,8 @@
     "price": 13.99,
     "checkedAt": "2026-11-23T12:57:40.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DK7RPR8Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:16:31.731Z"
   },
   {
     "id": "auto-b09z65jt5n",
@@ -395,7 +407,8 @@
     "price": 6.94,
     "checkedAt": "2026-11-23T13:20:15.000Z",
     "image": "https://m.media-amazon.com/images/P/B09F9MZ4PH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:16:27.335Z"
   },
   {
     "id": "auto-b09x3ftl7f",
@@ -506,7 +519,8 @@
     "price": 239,
     "checkedAt": "2026-11-23T12:46:32.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DW9792RH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:16:36.114Z"
   },
   {
     "id": "auto-b0ggclbwtj",
@@ -2855,19 +2869,6 @@
     "telegramPostedAt": "2026-11-22T15:24:22.190Z"
   },
   {
-    "id": "auto-b07w864798",
-    "asin": "B07W864798",
-    "title": "BaByliss Super Smooth Glätteisen",
-    "category": "Beauty & Pflege",
-    "price": 34.09,
-    "oldPrice": 69.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-22T15:14:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07W864798.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T15:24:13.098Z"
-  },
-  {
     "id": "auto-b09yvn1rh5",
     "asin": "B09YVN1RH5",
     "title": "PUMA Damen Cool Cat 20 Wns Badelatschen, Black-Rose Gold, 39 EU",
@@ -2879,16 +2880,5 @@
     "image": "https://m.media-amazon.com/images/P/B09YVN1RH5.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T15:24:07.166Z"
-  },
-  {
-    "id": "auto-b0fb3yqkvj",
-    "asin": "B0FB3YQKVJ",
-    "title": "3-in-1 Tintendrucker mit Patronen Brother DCP-J1360DW 30€ Cashback",
-    "category": "Computer",
-    "price": 54.48,
-    "checkedAt": "2026-11-22T15:01:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FB3YQKVJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T15:09:19.799Z"
   }
 ]
