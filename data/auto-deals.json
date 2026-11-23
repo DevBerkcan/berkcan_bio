@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0dhh6yjcd",
+    "asin": "B0DHH6YJCD",
+    "title": "Melitta BellaCrema Crema Dolce, Kaffeebohnen, 1 kg",
+    "category": "Lebensmittel & Drinks",
+    "price": 10.79,
+    "checkedAt": "2026-11-23T14:52:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DHH6YJCD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:01:20.724Z"
+  },
+  {
+    "id": "auto-b0fpxd6xw2",
+    "asin": "B0FPXD6XW2",
+    "title": "Lego Ford Model T",
+    "category": "Spielzeug & LEGO",
+    "price": 84.99,
+    "checkedAt": "2026-11-23T14:59:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXD6XW2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:01:15.522Z"
+  },
+  {
+    "id": "auto-b0dbrc97nn",
+    "asin": "B0DBRC97NN",
+    "title": "SodaStream ENSO Wassersprudler aus Edelstahl",
+    "category": "Tech",
+    "price": 119.99,
+    "oldPrice": 139.98,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T14:54:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DBRC97NN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:01:10.078Z"
+  },
+  {
     "id": "auto-b0d6nlk4rz",
     "asin": "B0D6NLK4RZ",
     "title": "Philips Hue White Ambiance GU10-Spot, 3er-Pack, 400 lm, 4,2 W, …",
@@ -75,7 +110,8 @@
     "price": 45.11,
     "checkedAt": "2026-11-23T14:20:08.000Z",
     "image": "https://static.mydealz.de/threads/raw/b0nzj/2879665_1/re/768x768/qt/55/2879665_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:01:30.154Z"
   },
   {
     "id": "auto-b08npgn9f9",
@@ -85,7 +121,8 @@
     "price": 29.99,
     "checkedAt": "2026-11-23T14:20:34.000Z",
     "image": "https://m.media-amazon.com/images/P/B08NPGN9F9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T15:01:25.176Z"
   },
   {
     "id": "auto-b0chjg3zsf",
@@ -2842,17 +2879,6 @@
     "image": "https://m.media-amazon.com/images/P/B09YVN1RH5.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T15:24:07.166Z"
-  },
-  {
-    "id": "auto-b07rnm2y4z",
-    "asin": "B07RNM2Y4Z",
-    "title": "DONBOLSO Slim Herren-Geldbörse / Portemonnaie aus echtem Leder mit …",
-    "category": "Mode & Reise",
-    "price": 16.93,
-    "checkedAt": "2026-11-22T14:55:26.000Z",
-    "image": "https://static.mydealz.de/threads/raw/3X4P3/2878722_1/re/768x768/qt/55/2878722_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T15:09:26.337Z"
   },
   {
     "id": "auto-b0fb3yqkvj",
