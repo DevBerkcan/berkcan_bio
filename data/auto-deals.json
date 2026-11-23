@@ -1,5 +1,97 @@
 [
   {
+    "id": "auto-b0fpxhb8yz",
+    "asin": "B0FPXHB8YZ",
+    "title": "LEGO Friends - Der Reitstall und die Reitschule (42688) 735 Teile",
+    "category": "Spielzeug & LEGO",
+    "price": 44.2,
+    "checkedAt": "2026-11-23T07:11:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXHB8YZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0crrwmnxv",
+    "asin": "B0CRRWMNXV",
+    "title": "Pantene Pro-V Lift & Volume Haarverdickendes Shampoo 1000ml …",
+    "category": "Beauty & Pflege",
+    "price": 9.49,
+    "checkedAt": "2026-11-23T07:40:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CRRWMNXV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0grh6kvh1",
+    "asin": "B0GRH6KVH1",
+    "title": "Novilla Matratze 140x200 cm, Härtegrad H3 und H4, 30 cm Höhe …",
+    "category": "Tech",
+    "price": 180.99,
+    "checkedAt": "2026-11-23T07:42:49.000Z",
+    "image": "https://static.mydealz.de/threads/raw/XrB70/2879171_1/re/768x768/qt/55/2879171_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:46:52.965Z"
+  },
+  {
+    "id": "auto-b0c9qrzbyz",
+    "asin": "B0C9QRZBYZ",
+    "title": "Joseph Joseph Elevate Messerset 5-teilig mit Bambus-Schubladenblock",
+    "category": "Küche",
+    "price": 93,
+    "checkedAt": "2026-11-23T07:44:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C9QRZBYZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:46:48.130Z"
+  },
+  {
+    "id": "auto-b07xtw88sm",
+    "asin": "B07XTW88SM",
+    "title": "KS Tools 897.7215 - Werkstattwagen",
+    "category": "Tech",
+    "price": 542.15,
+    "oldPrice": 682.67,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T07:39:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07XTW88SM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:46:43.487Z"
+  },
+  {
+    "id": "queue-b0dsvfmkfn",
+    "asin": "B0DSVFMKFN",
+    "title": "UGREEN MagSafe-Autohalterung für Tesla Model 3/Y",
+    "subtitle": "360° drehbar, 12 N52-Magnete und werkzeuglose Montage am Display.",
+    "category": "Zubehör & Laden",
+    "price": 17.76,
+    "checkedAt": "2026-11-23T06:32:52.000Z",
+    "image": "https://static.mydealz.de/threads/raw/xKfGe/2878792_1/re/768x768/qt/55/2878792_1.jpg",
+    "temperature": 109,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:46:27.793Z"
+  },
+  {
+    "id": "queue-b0bgpk4482",
+    "asin": "B0BGPK4482",
+    "title": "Dead Space Remake (PS5, Disc)",
+    "subtitle": "Das Survival-Horror-Remake als physische Disc für die PS5.",
+    "category": "Gaming",
+    "price": 19.99,
+    "checkedAt": "2026-11-23T00:25:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BGPK4482.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:46:23.712Z"
+  },
+  {
+    "id": "queue-b0f2s8ws6p",
+    "asin": "B0F2S8WS6P",
+    "title": "OM System OM-5 Mark II + M.Zuiko 12-40mm F2.8 PRO II",
+    "subtitle": "20 MP, Bildstabilisator im Gehäuse und IP53 – samt lichtstarkem Profi-Zoom.",
+    "category": "Foto & Video",
+    "price": 1495,
+    "checkedAt": "2026-11-23T05:31:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F2S8WS6P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:46:20.108Z"
+  },
+  {
     "id": "auto-b0dnhrw9cr",
     "asin": "B0DNHRW9CR",
     "title": "Amazon Basics Neopren Hanteln Gewichte, Hantelset, 2er-Set, 1–3kg, …",
@@ -237,17 +329,6 @@
     "telegramPostedAt": "2026-11-23T06:47:17.896Z"
   },
   {
-    "id": "auto-b0f2s8ws6p",
-    "asin": "B0F2S8WS6P",
-    "title": "OM System OM-5 Mark II + M.Zuiko 12-40mm F2.8 PRO II Kit",
-    "category": "Tech",
-    "price": 1495,
-    "checkedAt": "2026-11-23T05:31:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F2S8WS6P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:17:15.481Z"
-  },
-  {
     "id": "auto-b0fpxdcqcv",
     "asin": "B0FPXDCQCV",
     "title": "LEGO Ideas Schwimmende Otter 21366",
@@ -324,16 +405,6 @@
     "price": 74.99,
     "checkedAt": "2026-11-23T00:12:40.000Z",
     "image": "https://m.media-amazon.com/images/P/B0D2PBJ7CY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0bgpk4482",
-    "asin": "B0BGPK4482",
-    "title": "Dead Space",
-    "category": "Tech",
-    "price": 19.99,
-    "checkedAt": "2026-11-23T00:25:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BGPK4482.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   },
   {
@@ -1912,40 +1983,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GV53XV7J.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T08:13:47.479Z"
-  },
-  {
-    "id": "auto-b094rlnc83",
-    "asin": "B094RLNC83",
-    "title": "Amazon Prime: Glorious Model D Wireless Gaming-Maus",
-    "category": "Computer",
-    "price": 20.99,
-    "oldPrice": 33,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-22T07:45:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B094RLNC83.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T07:58:54.675Z"
-  },
-  {
-    "id": "auto-b0f8c65w8r",
-    "asin": "B0F8C65W8R",
-    "title": "Panasonic LUMIX S 24-60mm Objektiv, L-Mount, durchgehend Blende F2.8",
-    "category": "Foto & Video",
-    "price": 799,
-    "checkedAt": "2026-11-22T07:31:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F8C65W8R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T07:44:04.830Z"
-  },
-  {
-    "id": "auto-b00m42i540",
-    "asin": "B00M42I540",
-    "title": "tectake Schraubstock drehbar, Amboss, Tischschraubstock massiv, …",
-    "category": "Tech",
-    "price": 41.22,
-    "checkedAt": "2026-11-22T07:33:42.000Z",
-    "image": "https://static.mydealz.de/threads/raw/qPKAf/2878406_1/re/768x768/qt/55/2878406_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T07:43:58.566Z"
   }
 ]
