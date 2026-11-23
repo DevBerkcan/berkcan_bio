@@ -1,5 +1,62 @@
 [
   {
+    "id": "auto-b0h4v2t69z",
+    "asin": "B0H4V2T69Z",
+    "title": "Kneipp Adventskalender 2026 - Hochwertiger Adventskalender mit 24 …",
+    "category": "Tech",
+    "price": 37.99,
+    "checkedAt": "2026-11-23T18:17:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H4V2T69Z.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T18:30:48.976Z"
+  },
+  {
+    "id": "auto-b073mbq1jj",
+    "asin": "B073MBQ1JJ",
+    "title": "Prime - Unisex Kinder Hose Sweat Pant (2-Pack) in div. Farben",
+    "category": "Tech",
+    "price": 14.88,
+    "checkedAt": "2026-11-23T18:22:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B073MBQ1JJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T18:30:43.576Z"
+  },
+  {
+    "id": "auto-b08fjc8tcp",
+    "asin": "B08FJC8TCP",
+    "title": "Prime - bugatti Herren Halbschuhe in guten Größen",
+    "category": "Mode & Reise",
+    "price": 37.96,
+    "checkedAt": "2026-11-23T18:26:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08FJC8TCP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T18:30:38.507Z"
+  },
+  {
+    "id": "auto-b08r7v5kyy",
+    "asin": "B08R7V5KYY",
+    "title": "Parker IM Kugelschreiber aus Edelstahl",
+    "category": "Tech",
+    "price": 10.99,
+    "checkedAt": "2026-11-23T18:27:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08R7V5KYY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T18:30:32.615Z"
+  },
+  {
+    "id": "auto-b07j24m6wx",
+    "asin": "B07J24M6WX",
+    "title": "Bosch Professional Ringmaul-Ratschenschlüssel-Set, 10-teilig, 8–19 mm …",
+    "subtitle": "🔥 309° bei mydealz",
+    "category": "Werkzeug",
+    "price": 64.99,
+    "checkedAt": "2026-11-23T18:25:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07J24M6WX.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 309,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T18:30:26.744Z"
+  },
+  {
     "id": "auto-b0gy4hykyq",
     "asin": "B0GY4HYKYQ",
     "title": "NICI Theodor & Friends Plüsch-Schlüsselanhänger - Hai",
@@ -3013,19 +3070,6 @@
     "telegramPostedAt": "2026-11-22T19:33:51.892Z"
   },
   {
-    "id": "auto-b0dwf6vkyb",
-    "asin": "B0DWF6VKYB",
-    "title": "LEGO 10348 Japanischer Roter Ahorn – Bonsai-Baum",
-    "category": "Spielzeug & LEGO",
-    "price": 29.16,
-    "oldPrice": 59.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-22T18:17:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWF6VKYB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T19:33:46.362Z"
-  },
-  {
     "id": "auto-b0dq16ls96",
     "asin": "B0DQ16LS96",
     "title": "MSI Claw 8 AI+ A2VM-015 Gaming Handheld 8 Zoll FHD+ 120 Hz Display, …",
@@ -3046,38 +3090,5 @@
     "image": "https://m.media-amazon.com/images/P/0241436494.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T18:50:02.595Z"
-  },
-  {
-    "id": "auto-b0166fsjo6",
-    "asin": "B0166FSJO6",
-    "title": "Bosch Professional 20-tlg. Säbelsägeblatt-Set ToughBox",
-    "category": "Werkzeug",
-    "price": 21.99,
-    "checkedAt": "2026-11-22T18:23:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0166FSJO6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T18:35:24.464Z"
-  },
-  {
-    "id": "auto-b0clhdxbwm",
-    "asin": "B0CLHDXBWM",
-    "title": "Scotch & Soda Herren Hose Stuart Chino ACHTUNG versch. Grössen u. …",
-    "category": "Tech",
-    "price": 45.75,
-    "checkedAt": "2026-11-22T18:16:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CLHDXBWM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T18:20:37.673Z"
-  },
-  {
-    "id": "auto-b00j5mooxi",
-    "asin": "B00J5MOOXI",
-    "title": "WMF Touch Küchenschere 21 cm, Haushaltsschere mit Sägeschliff, …",
-    "category": "Tech",
-    "price": 6.39,
-    "checkedAt": "2026-11-22T18:16:57.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00J5MOOXI.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T18:20:32.489Z"
   }
 ]
