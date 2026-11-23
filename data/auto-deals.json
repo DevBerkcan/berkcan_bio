@@ -1,5 +1,26 @@
 [
   {
+    "id": "auto-b0h419wwbz",
+    "asin": "B0H419WWBZ",
+    "title": "Roborock Saros 20 Neo Saug- & Wischroboter mit …",
+    "category": "Haushalt",
+    "price": 599,
+    "checkedAt": "2026-11-23T06:06:23.000Z",
+    "image": "https://static.mydealz.de/threads/raw/D10sg/2879093_1/re/768x768/qt/55/2879093_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b092dz1vk5",
+    "asin": "B092DZ1VK5",
+    "title": "Victorinox Schweizer Taschenmesser, Klein, Classic SD, Multitool, …",
+    "category": "Küche",
+    "price": 17.96,
+    "checkedAt": "2026-11-23T06:15:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B092DZ1VK5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T06:17:50.081Z"
+  },
+  {
     "id": "auto-b0fpxvhd1y",
     "asin": "B0FPXVHD1Y",
     "title": "LEGO Star Wars SMART Play: Darth Vaders TIE Fighter 75421 SMART Brick …",
@@ -39,7 +60,8 @@
     "checkedAt": "2026-11-23T05:34:49.000Z",
     "image": "https://m.media-amazon.com/images/P/B01M8G4JVD.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 170,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T06:17:45.052Z"
   },
   {
     "id": "auto-b07hblystx",
@@ -1926,16 +1948,5 @@
     "temperature": 179,
     "source": "auto",
     "telegramPostedAt": "2026-11-22T06:29:12.872Z"
-  },
-  {
-    "id": "auto-b0cp31t5m6",
-    "asin": "B0CP31T5M6",
-    "title": "Amazon Kindle 16 GB (Version 2024) - Zustand \"sehr gut\"",
-    "category": "Amazon-Geräte",
-    "price": 84.47,
-    "checkedAt": "2026-11-22T06:10:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CP31T5M6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T06:14:23.700Z"
   }
 ]
