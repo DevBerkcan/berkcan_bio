@@ -1,5 +1,62 @@
 [
   {
+    "id": "auto-b08xlrm91z",
+    "asin": "B08XLRM91Z",
+    "title": "Ravensburger Spiele-Klassiker Max Mäuseschreck Kinderspiel ab 4 Jahren",
+    "category": "Spielzeug & LEGO",
+    "price": 15.29,
+    "checkedAt": "2026-11-23T18:20:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08XLRM91Z.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T19:00:35.855Z"
+  },
+  {
+    "id": "auto-b0cnq91mjw",
+    "asin": "B0CNQ91MJW",
+    "title": "Einhell Präzisionsbit Bitset inkl. Werkzeugbox, 114-tlg., 54 x 4mm S2 …",
+    "category": "Werkzeug",
+    "price": 40.59,
+    "checkedAt": "2026-11-23T18:47:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CNQ91MJW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T19:00:30.617Z"
+  },
+  {
+    "id": "auto-b0g3nzfqjs",
+    "asin": "B0G3NZFQJS",
+    "title": "SONGMICS Wäschekorb, 80 L, faltbar, 2 Stück Wäschesammler, …",
+    "category": "Tech",
+    "price": 11.99,
+    "checkedAt": "2026-11-23T18:55:52.000Z",
+    "image": "https://static.mydealz.de/threads/raw/bp1we/2879915_1/re/768x768/qt/55/2879915_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T19:00:25.507Z"
+  },
+  {
+    "id": "auto-b0c36ppgk7",
+    "asin": "B0C36PPGK7",
+    "title": "Jack & Jones Regular Fit Sweat Shorts",
+    "category": "Tech",
+    "price": 9.34,
+    "checkedAt": "2026-11-23T18:57:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C36PPGK7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T19:00:18.993Z"
+  },
+  {
+    "id": "auto-b09kxtcmsc",
+    "asin": "B09KXTCMSC",
+    "title": "SONOFF Zigbee 3.0 USB Dongle Plus – Amazon Black Friday",
+    "category": "Smart Home",
+    "price": 21.17,
+    "oldPrice": 34.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T18:49:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09KXTCMSC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T19:00:13.639Z"
+  },
+  {
     "id": "auto-b005gib208",
     "asin": "B005GIB208",
     "title": "Kagemusha - Der Schatten des Kriegers, 1 Blu-ray: Japan",
@@ -3101,16 +3158,5 @@
     "image": "https://m.media-amazon.com/images/P/B09QM9HNFK.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T19:33:51.892Z"
-  },
-  {
-    "id": "auto-0241436494",
-    "asin": "0241436494",
-    "title": "Nesti | Nineteen Eighty-Four: The Graphic Novel | Englisch | Buch | …",
-    "category": "Bücher & Filme",
-    "price": 18.85,
-    "checkedAt": "2026-11-22T18:45:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/0241436494.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T18:50:02.595Z"
   }
 ]
