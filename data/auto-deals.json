@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0dwdqwl46",
+    "asin": "B0DWDQWL46",
+    "title": "LEGO Friends Segelabenteuer 42664",
+    "category": "Spielzeug & LEGO",
+    "price": 32.99,
+    "checkedAt": "2026-11-23T19:07:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DWDQWL46.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T20:00:23.775Z"
+  },
+  {
     "id": "auto-b08jvfyb18",
     "asin": "B08JVFYB18",
     "title": "Warme Einlegesohlen aus Lammwolle",
@@ -3219,18 +3230,6 @@
     "telegramPostedAt": "2026-11-22T20:32:55.087Z"
   },
   {
-    "id": "queue-b0gttzytpy",
-    "asin": "B0GTTZYTPY",
-    "title": "EasySMX S10 Controller für Switch 2 mit TMR-Sticks",
-    "subtitle": "Pro-Controller-Alternative mit HD Rumble, NFC, Gyro und Wake-up-Funktion.",
-    "category": "Gaming",
-    "price": 29.06,
-    "checkedAt": "2026-11-22T19:45:44.000Z",
-    "image": "https://static.mydealz.de/threads/raw/oszTJ/2878895_1/re/768x768/qt/55/2878895_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T20:17:54.364Z"
-  },
-  {
     "id": "queue-b0fbxcsd35",
     "asin": "B0FBXCSD35",
     "title": "Fujifilm X-E5 Kit mit 23-mm-Objektiv, schwarz",
@@ -3241,38 +3240,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FBXCSD35.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T20:17:48.742Z"
-  },
-  {
-    "id": "auto-b008zcaiwa",
-    "asin": "B008ZCAIWA",
-    "title": "EISL DX25 nachrüstbare Waschbeckenbrause, Handbrause, ideal zum …",
-    "category": "Tech",
-    "price": 8.39,
-    "checkedAt": "2026-11-22T19:48:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B008ZCAIWA.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T20:03:21.471Z"
-  },
-  {
-    "id": "auto-b0d3j2v3fw",
-    "asin": "B0D3J2V3FW",
-    "title": "Apple iPad Magic Keyboard Case für das 11'' iPad Pro (M4) *WHD*",
-    "category": "Computer",
-    "price": 203.46,
-    "checkedAt": "2026-11-22T19:55:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D3J2V3FW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T20:03:15.497Z"
-  },
-  {
-    "id": "auto-b003asaf7m",
-    "asin": "B003ASAF7M",
-    "title": "Bosch Stichsäge PST 700 E",
-    "category": "Werkzeug",
-    "price": 49.99,
-    "checkedAt": "2026-11-22T19:45:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B003ASAF7M.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T19:48:26.610Z"
   }
 ]
