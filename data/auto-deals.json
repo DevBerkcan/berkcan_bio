@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b085sr7qhc",
+    "asin": "B085SR7QHC",
+    "title": "JACK & JONES Male Einreihiger Blazer und Hose JPRFRANCO Super Slim Fit …",
+    "category": "Tech",
+    "price": 54.99,
+    "checkedAt": "2026-11-23T20:44:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B085SR7QHC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T20:59:20.525Z"
+  },
+  {
+    "id": "auto-b077czwzcl",
+    "asin": "B077CZWZCL",
+    "title": "Puma Sneaker Smash V2",
+    "category": "Mode & Reise",
+    "price": 22.99,
+    "checkedAt": "2026-11-23T20:57:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B077CZWZCL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T20:59:15.189Z"
+  },
+  {
+    "id": "auto-b09v8jngd4",
+    "asin": "B09V8JNGD4",
+    "title": "Mixa Urea Cica Repair+ Creme für trockene und raue Haut, 400 ml",
+    "subtitle": "🔥 112° bei mydealz",
+    "category": "Beauty & Pflege",
+    "price": 5.07,
+    "checkedAt": "2026-11-23T20:47:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09V8JNGD4.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 112,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T20:59:05.636Z"
+  },
+  {
     "id": "auto-b0c37r3q5k",
     "asin": "B0C37R3Q5K",
     "title": "Sony TA-AN1000 8K 7.2-Kanal-AV-Verstärker mit 360 Spatial Sound …",
@@ -3171,27 +3206,5 @@
     "image": "https://static.mydealz.de/threads/raw/uaOsf/2878941_1/re/768x768/qt/55/2878941_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T21:17:26.417Z"
-  },
-  {
-    "id": "auto-b0ghpnj4ml",
-    "asin": "B0GHPNJ4ML",
-    "title": "RAYE This Music May Contain Hope Farbiges Vinyl DoLp",
-    "category": "Tech",
-    "price": 23.99,
-    "checkedAt": "2026-11-22T20:54:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GHPNJ4ML.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T21:02:40.077Z"
-  },
-  {
-    "id": "auto-b07zk1cry4",
-    "asin": "B07ZK1CRY4",
-    "title": "Tommy Hilfiger Runner Sneaker verschied. Größen 42",
-    "category": "Mode & Reise",
-    "price": 56.47,
-    "checkedAt": "2026-11-22T20:56:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07ZK1CRY4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T21:02:34.532Z"
   }
 ]
