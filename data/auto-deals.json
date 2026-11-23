@@ -1,5 +1,60 @@
 [
   {
+    "id": "auto-b0ccj4zgpn",
+    "asin": "B0CCJ4ZGPN",
+    "title": "Bessey Einhand-Tischzwinge für Führungsschienen EZR15SET inkl Adapter",
+    "category": "Tech",
+    "price": 32.12,
+    "checkedAt": "2026-11-23T09:30:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CCJ4ZGPN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T09:46:15.505Z"
+  },
+  {
+    "id": "auto-b07cvmr486",
+    "asin": "B07CVMR486",
+    "title": "Only & Sons Herren Jeans",
+    "category": "Mode & Reise",
+    "price": 19.52,
+    "checkedAt": "2026-11-23T09:30:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07CVMR486.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T09:46:10.887Z"
+  },
+  {
+    "id": "auto-b01b8r6v2e",
+    "asin": "B01B8R6V2E",
+    "title": "Amazon Basics AAA-Alkali-Hochleistungsbatterien, 1,5 V, 10 Jahre …",
+    "category": "Tech",
+    "price": 15.72,
+    "checkedAt": "2026-11-23T09:33:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01B8R6V2E.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T09:46:05.735Z"
+  },
+  {
+    "id": "auto-b0gvgq9p5x",
+    "asin": "B0GVGQ9P5X",
+    "title": "Dell 15 Laptop - AMD Ryzen 5 130, 8GB DDR5, 512GB SSD",
+    "category": "Computer",
+    "price": 449,
+    "checkedAt": "2026-11-23T09:42:01.000Z",
+    "image": "https://static.mydealz.de/threads/raw/dK352/2879312_1/re/768x768/qt/55/2879312_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T09:46:01.124Z"
+  },
+  {
+    "id": "auto-b00ln803k0",
+    "asin": "B00LN803K0",
+    "title": "40 Stk. VARTA AAA-Batterien Industrial Pro",
+    "category": "Tech",
+    "price": 12.4,
+    "checkedAt": "2026-11-23T09:42:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00LN803K0.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T09:45:56.465Z"
+  },
+  {
     "id": "auto-b0csz3htb7",
     "asin": "B0CSZ3HTB7",
     "title": "Ravensburger Scotland Yard (27515) Brettspielklassiker mit 12 …",
@@ -2098,17 +2153,6 @@
     "telegramPostedAt": "2026-11-22T10:13:02.358Z"
   },
   {
-    "id": "auto-b002oebgrg",
-    "asin": "B002OEBGRG",
-    "title": "Amazon Prime: Die Kleine Raupe Nimmersatt Bettwäsche (135x200cm) + …",
-    "category": "Tech",
-    "price": 24.99,
-    "checkedAt": "2026-11-22T09:45:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B002OEBGRG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T09:58:24.573Z"
-  },
-  {
     "id": "auto-b0gqcv2g55",
     "asin": "B0GQCV2G55",
     "title": "Helles Pülleken 0,0% alkoholfrei 18 x 0.33l Dose",
@@ -2142,16 +2186,5 @@
     "image": "https://m.media-amazon.com/images/P/B0D4NJSW65.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T09:58:05.203Z"
-  },
-  {
-    "id": "auto-b08khtsm7p",
-    "asin": "B08KHTSM7P",
-    "title": "The Blues Brothers Extended Version (4K UHD Blu-ray) Uncut",
-    "category": "Bücher & Filme",
-    "price": 15.87,
-    "checkedAt": "2026-11-22T09:38:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08KHTSM7P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T09:43:22.024Z"
   }
 ]
