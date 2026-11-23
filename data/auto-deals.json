@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b0bbtnhtby",
+    "asin": "B0BBTNHTBY",
+    "title": "Hogwarts Legacy - PS5",
+    "category": "Gaming",
+    "price": 16.99,
+    "checkedAt": "2026-11-23T01:08:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BBTNHTBY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0gq39rjpq",
     "asin": "B0GQ39RJPQ",
     "title": "Shokz OpenDots Air Open-Ear Clip-On-Kopfhörer",
@@ -1113,18 +1123,6 @@
     "telegramPostedAt": "2026-11-22T11:42:14.378Z"
   },
   {
-    "id": "queue-b07kjwwsgs",
-    "asin": "B07KJWWSGS",
-    "title": "Comfee MDDP-50DEN7 Luftentfeuchter 50 l/Tag",
-    "subtitle": "Bis 50 Liter pro Tag, für Räume bis ca. 100 m², mit natürlichem Kältemittel R290.",
-    "category": "Haushalt",
-    "price": 189.99,
-    "checkedAt": "2026-11-22T01:10:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07KJWWSGS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T11:41:55.571Z"
-  },
-  {
     "id": "queue-b07w6h7py2",
     "asin": "B07W6H7PY2",
     "title": "Logitech G PRO X 2 Lightspeed Wireless Gaming-Headset",
@@ -1867,16 +1865,5 @@
     "image": "https://m.media-amazon.com/images/P/B00DH9PMHC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T07:13:40.151Z"
-  },
-  {
-    "id": "auto-b0c5rcq8n5",
-    "asin": "B0C5RCQ8N5",
-    "title": "GL.iNet GL-X3000 Spitz AX 5G Router Mobilfunk-Gateway Wi-Fi 6 Dual-SIM",
-    "category": "Computer",
-    "price": 331.49,
-    "checkedAt": "2026-11-22T01:02:29.000Z",
-    "image": "https://static.mydealz.de/threads/raw/6rOqt/2878325_1/re/768x768/qt/55/2878325_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T06:29:26.824Z"
   }
 ]
