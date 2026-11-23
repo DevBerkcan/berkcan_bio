@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b09rqzpq1t",
+    "asin": "B09RQZPQ1T",
+    "title": "Garmin inReach Mini 2, Satelliten-Kommunikationsgeräts, Schwarz",
+    "category": "Tech",
+    "price": 219,
+    "checkedAt": "2026-11-23T17:03:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09RQZPQ1T.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T17:16:42.970Z"
+  },
+  {
+    "id": "auto-b092b622lz",
+    "asin": "B092B622LZ",
+    "title": "Kalte Finger? > Odlo Active Warm Unterzieh-Handschuhe Unisex – Ski & …",
+    "category": "Mode & Reise",
+    "price": 15.83,
+    "checkedAt": "2026-11-23T17:12:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B092B622LZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T17:16:37.640Z"
+  },
+  {
+    "id": "auto-b0frzyqm1k",
+    "asin": "B0FRZYQM1K",
+    "title": "X-Sense Mini Standalone Rauchmelder, 10-Jahres-Batterie, XS01, 6 Stück",
+    "category": "Tech",
+    "price": 48.25,
+    "checkedAt": "2026-11-23T17:15:41.000Z",
+    "image": "https://static.mydealz.de/threads/raw/A7ifF/2879817_1/re/768x768/qt/55/2879817_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T17:16:32.443Z"
+  },
+  {
+    "id": "auto-b0hgs524ql",
+    "asin": "B0HGS524QL",
+    "title": "BRITA Glas-Wasserkanne + Silikonfuß + 4 Filter",
+    "category": "Tech",
+    "price": 59.99,
+    "oldPrice": 74.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T17:10:39.000Z",
+    "image": "https://static.mydealz.de/threads/raw/yqZIL/2879808_1/re/768x768/qt/55/2879808_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T17:16:26.153Z"
+  },
+  {
     "id": "auto-b00oyvkfq0",
     "asin": "B00OYVKFQ0",
     "title": "Stanley FatMax Pro-Stack Werkzeugbox",
@@ -2853,19 +2899,6 @@
     "telegramPostedAt": "2026-11-22T20:03:15.497Z"
   },
   {
-    "id": "auto-b0dhsfqwfc",
-    "asin": "B0DHSFQWFC",
-    "title": "LEGO City - Offroad Geländewagen (60447)",
-    "category": "Spielzeug & LEGO",
-    "price": 12.39,
-    "oldPrice": 19.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-22T17:12:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHSFQWFC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T20:03:09.272Z"
-  },
-  {
     "id": "auto-b08q7x91zq",
     "asin": "B08Q7X91ZQ",
     "title": "SIKA Bau- & Montagekleber",
@@ -3011,27 +3044,5 @@
     "image": "https://m.media-amazon.com/images/P/B0B3JBYXG8.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T17:36:50.275Z"
-  },
-  {
-    "id": "auto-b0dkfgdsy9",
-    "asin": "B0DKFGDSY9",
-    "title": "INIU 30W USB C Ladegerät, Dual-Port GaN Schnellladegerät mit 1,5m 60W …",
-    "category": "Zubehör & Laden",
-    "price": 5.6,
-    "checkedAt": "2026-11-22T17:07:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DKFGDSY9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T17:22:09.122Z"
-  },
-  {
-    "id": "auto-b0965frsxn",
-    "asin": "B0965FRSXN",
-    "title": "EASTPAK Padded Pak’r Rucksack 24L, Wasserabweisend, Schulrucksack …",
-    "category": "Sport & Outdoor",
-    "price": 25,
-    "checkedAt": "2026-11-22T17:12:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0965FRSXN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T17:22:03.544Z"
   }
 ]
