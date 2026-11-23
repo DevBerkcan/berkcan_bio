@@ -1,5 +1,60 @@
 [
   {
+    "id": "auto-b00j8m6v0y",
+    "asin": "B00J8M6V0Y",
+    "title": "Nintendo Super Mario Figur (50 cm) -Offizieller Nintendo Store",
+    "category": "Gaming",
+    "price": 30.43,
+    "checkedAt": "2026-11-23T10:08:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00J8M6V0Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T11:01:14.282Z"
+  },
+  {
+    "id": "auto-b0gwf31p6p",
+    "asin": "B0GWF31P6P",
+    "title": "Microsoft Surface Pro, 13 inch",
+    "category": "Tech",
+    "price": 1349,
+    "checkedAt": "2026-11-23T10:53:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GWF31P6P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T11:01:08.872Z"
+  },
+  {
+    "id": "auto-b009rumt76",
+    "asin": "B009RUMT76",
+    "title": "Pampero Añejo Especial Premium- Rum aus Venezuela 1 Liter 40% Vol.",
+    "category": "Tech",
+    "price": 14.65,
+    "checkedAt": "2026-11-23T10:53:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B009RUMT76.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T11:01:03.465Z"
+  },
+  {
+    "id": "auto-b0h8sblnw3",
+    "asin": "B0H8SBLNW3",
+    "title": "Panasonic W80C 50 Zoll – 4K-QLED-Fernseher mit Fire TV, Dolby Vision …",
+    "category": "Amazon-Geräte",
+    "price": 399,
+    "checkedAt": "2026-11-23T10:55:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H8SBLNW3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T11:00:58.246Z"
+  },
+  {
+    "id": "auto-b0dg8xhxpd",
+    "asin": "B0DG8XHXPD",
+    "title": "Corsair Virtuoso Max - für Gamer und Sound Enthusiasten - 2 Farben …",
+    "category": "Gaming",
+    "price": 159,
+    "checkedAt": "2026-11-23T11:00:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DG8XHXPD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T11:00:52.421Z"
+  },
+  {
     "id": "auto-b00q8qheae",
     "asin": "B00Q8QHEAE",
     "title": "Finish Classic Phosphatfrei Reiniger-Pulver 3 x 3 kg (15,27€ möglich) …",
@@ -269,7 +324,8 @@
     "price": 17.99,
     "checkedAt": "2026-11-23T08:53:12.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CSZ3HTB7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T11:01:18.744Z"
   },
   {
     "id": "auto-b08hv8bsh6",
@@ -2136,19 +2192,6 @@
     "telegramPostedAt": "2026-11-22T11:42:23.446Z"
   },
   {
-    "id": "auto-b0cx9hwzm4",
-    "asin": "B0CX9HWZM4",
-    "title": "VTech Kidisecrets Traumtresor – Kindersafe mit Zahlencode und 6 …",
-    "category": "Spielzeug & LEGO",
-    "price": 28.49,
-    "oldPrice": 42.49,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-22T10:51:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CX9HWZM4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T11:42:14.378Z"
-  },
-  {
     "id": "auto-b0cqtg2d1z",
     "asin": "B0CQTG2D1Z",
     "title": "KARAT Getränkekistenregal für 6 Kisten",
@@ -2158,17 +2201,6 @@
     "image": "https://static.mydealz.de/threads/raw/cLuiC/2878591_1/re/768x768/qt/55/2878591_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T11:27:19.894Z"
-  },
-  {
-    "id": "auto-b079c8249w",
-    "asin": "B079C8249W",
-    "title": "JACK&JONES Essentials JJEBASIC Poloshirt SS NOOS Slim Fit in Schwarz …",
-    "category": "Tech",
-    "price": 11.34,
-    "checkedAt": "2026-11-22T10:57:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B079C8249W.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T11:12:40.305Z"
   },
   {
     "id": "auto-b078k5dbqf",
@@ -2202,27 +2234,5 @@
     "image": "https://static.mydealz.de/threads/raw/fzXy3/2878590_1/re/768x768/qt/55/2878590_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T11:12:23.225Z"
-  },
-  {
-    "id": "auto-b0dpq6g71q",
-    "asin": "B0DPQ6G71Q",
-    "title": "Cosori Airfryer, Turbo Tower Pro, 10,8L Dual Blaze Tech PFAS-freie …",
-    "category": "Küche",
-    "price": 208.97,
-    "checkedAt": "2026-11-22T10:46:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DPQ6G71Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T10:57:44.142Z"
-  },
-  {
-    "id": "auto-b0gy5v7tz3",
-    "asin": "B0GY5V7TZ3",
-    "title": "Obi Smartmeter Energie Tracker",
-    "category": "Tech",
-    "price": 14.99,
-    "checkedAt": "2026-11-22T10:51:02.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Roywe/2878568_1/re/768x768/qt/55/2878568_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T10:57:38.943Z"
   }
 ]
