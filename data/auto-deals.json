@@ -3069,19 +3069,6 @@
     "telegramPostedAt": "2026-11-23T07:16:59.423Z"
   },
   {
-    "id": "auto-b0dwm6nm4y",
-    "asin": "B0DWM6NM4Y",
-    "title": "LEGO Mario Kart – Mario & Standard-Kart 72037 Nintendo Figur und …",
-    "category": "Gaming",
-    "price": 104.49,
-    "oldPrice": 169.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-22T23:16:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWM6NM4Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T06:47:14.329Z"
-  },
-  {
     "id": "auto-b0f9wmvp3p",
     "asin": "B0F9WMVP3P",
     "title": "AXA Fold Lite 80 – Faltschloss Fahrrad – Länge 80 cm – …",
@@ -3115,17 +3102,6 @@
     "telegramPostedAt": "2026-11-22T23:44:15.308Z"
   },
   {
-    "id": "auto-b0d254pztg",
-    "asin": "B0D254PZTG",
-    "title": "Kingdom Come: Deliverance II ~ 26,99€",
-    "category": "Tech",
-    "price": 26.99,
-    "checkedAt": "2026-11-22T23:26:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D254PZTG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T23:29:31.998Z"
-  },
-  {
     "id": "auto-b0hc7bj4gd",
     "asin": "B0HC7BJ4GD",
     "title": "Diablo IV: Age of Hatred Collection – Nintendo Switch 2 [Code in …",
@@ -3135,16 +3111,5 @@
     "image": "https://m.media-amazon.com/images/P/B0HC7BJ4GD.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T23:29:27.317Z"
-  },
-  {
-    "id": "auto-b0h37mk6vz",
-    "asin": "B0H37MK6VZ",
-    "title": "Call of Duty: Modern Warfare 4 - PlayStation 5 XBOX Series X",
-    "category": "Gaming",
-    "price": 59.99,
-    "checkedAt": "2026-11-22T23:13:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H37MK6VZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T23:14:54.457Z"
   }
 ]
