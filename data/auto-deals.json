@@ -1,5 +1,53 @@
 [
   {
+    "id": "auto-b0d6nlk4rz",
+    "asin": "B0D6NLK4RZ",
+    "title": "Philips Hue White Ambiance GU10-Spot, 3er-Pack, 400 lm, 4,2 W, …",
+    "category": "Smart Home",
+    "price": 39.99,
+    "checkedAt": "2026-11-23T14:32:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D6NLK4RZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T14:46:33.737Z"
+  },
+  {
+    "id": "auto-b09dkqwknq",
+    "asin": "B09DKQWKNQ",
+    "title": "Tefal OptiGrill+ XL Backschale",
+    "category": "Licht & Garten",
+    "price": 44.99,
+    "checkedAt": "2026-11-23T14:38:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09DKQWKNQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T14:46:28.492Z"
+  },
+  {
+    "id": "auto-b0fcyv7vgq",
+    "asin": "B0FCYV7VGQ",
+    "title": "Star Wars The Mandalorian Maske",
+    "category": "Spielzeug & LEGO",
+    "price": 19.09,
+    "oldPrice": 26.94,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T14:00:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FCYV7VGQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T14:46:18.826Z"
+  },
+  {
+    "id": "auto-b0chs6slwk",
+    "asin": "B0CHS6SLWK",
+    "title": "24-teiliges Ibiza Steingut Geschirrset 6 Personen- Schüssel- und …",
+    "subtitle": "🔥 1668° bei mydealz",
+    "category": "Küche",
+    "price": 99.95,
+    "checkedAt": "2026-11-23T14:37:08.000Z",
+    "image": "https://static.mydealz.de/threads/raw/8sOEb/2871928_1/re/768x768/qt/55/2871928_1.jpg",
+    "temperature": 1668,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T14:46:13.518Z"
+  },
+  {
     "id": "auto-b019eeuq2o",
     "asin": "B019EEUQ2O",
     "title": "Amazon Basics Geschirrset 18-teilig für 6 Personen",
@@ -377,7 +425,8 @@
     "price": 17.59,
     "checkedAt": "2026-11-23T13:04:14.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CBNCMK8L.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T14:46:23.408Z"
   },
   {
     "id": "auto-b09tkx83dp",
@@ -2815,18 +2864,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FB3YQKVJ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T15:09:19.799Z"
-  },
-  {
-    "id": "auto-b000crbej2",
-    "asin": "B000CRBEJ2",
-    "title": "EASTPAK Padded Pak’r Rucksack 24L, Wasserabweisend, Schulrucksack",
-    "category": "Sport & Outdoor",
-    "price": 28,
-    "oldPrice": 55,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-22T14:36:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000CRBEJ2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T14:39:58.853Z"
   }
 ]
