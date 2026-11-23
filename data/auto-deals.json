@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b09ctwnfvw",
+    "asin": "B09CTWNFVW",
+    "title": "Sagrotan WC-Reiniger Ozeanfrische – 2in1 Reinigungsmittel mit …",
+    "category": "Tech",
+    "price": 7.55,
+    "checkedAt": "2026-11-23T23:29:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09CTWNFVW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T23:41:37.845Z"
+  },
+  {
     "id": "auto-b0f9w4946b",
     "asin": "B0F9W4946B",
     "title": "Preisfehler? 2x SwitchBot WLAN Steckdose Matter (4er-Pack) – [3,25 …",
@@ -3089,27 +3100,5 @@
     "image": "https://m.media-amazon.com/images/P/B0992G7ZR4.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T23:59:00.715Z"
-  },
-  {
-    "id": "auto-b002ulfoee",
-    "asin": "B002ULFOEE",
-    "title": "Leifheit Feinreibe Micro Cut, Messerscharfe Küchenreibe mit …",
-    "category": "Küche",
-    "price": 9.4,
-    "checkedAt": "2026-11-22T23:32:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B002ULFOEE.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T23:44:15.308Z"
-  },
-  {
-    "id": "auto-b0hc7bj4gd",
-    "asin": "B0HC7BJ4GD",
-    "title": "Diablo IV: Age of Hatred Collection – Nintendo Switch 2 [Code in …",
-    "category": "Gaming",
-    "price": 48.99,
-    "checkedAt": "2026-11-22T23:28:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HC7BJ4GD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T23:29:27.317Z"
   }
 ]
