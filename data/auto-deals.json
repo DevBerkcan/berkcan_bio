@@ -1,5 +1,74 @@
 [
   {
+    "id": "auto-b0dw9792rh",
+    "asin": "B0DW9792RH",
+    "title": "TCL 50T6C 50 Zoll QLED Fernseher, 4K UHD, Fire TV, HDR10+, Dolby …",
+    "category": "Amazon-Geräte",
+    "price": 239,
+    "checkedAt": "2026-11-23T12:46:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DW9792RH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ggclbwtj",
+    "asin": "B0GGCLBWTJ",
+    "title": "GAUDER Kabelbinder schwarz UV-beständig",
+    "category": "Tech",
+    "price": 12.1,
+    "checkedAt": "2026-11-23T12:52:21.000Z",
+    "image": "https://static.mydealz.de/threads/raw/iuszI/2879562_1/re/768x768/qt/55/2879562_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00313i9e2",
+    "asin": "B00313I9E2",
+    "title": "Schmidt Spiele Bibi Blocksberg Hexenkugel, Aktionsspiel mit Licht und …",
+    "category": "Spielzeug & LEGO",
+    "price": 13.94,
+    "oldPrice": 15.94,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T12:24:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00313I9E2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09877wfm6",
+    "asin": "B09877WFM6",
+    "title": "Bosch UniversalImpact 18V Akku-Schlagbohrschrauber mit 2,0-Ah-Akku, …",
+    "category": "Werkzeug",
+    "price": 78.69,
+    "oldPrice": 98.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T12:56:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09877WFM6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09z2rlyql",
+    "asin": "B09Z2RLYQL",
+    "title": "VTech Tut Tut Baby Flitzer Parkgarage",
+    "category": "Spielzeug & LEGO",
+    "price": 32.99,
+    "oldPrice": 45.64,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T12:26:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09Z2RLYQL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0018721bk",
+    "asin": "B0018721BK",
+    "title": "ABUS Stangenset 118 cm für Fenster-Stangenschloss FOS550/A, FOS650/A …",
+    "category": "Tech",
+    "price": 19.99,
+    "oldPrice": 37.11,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-23T12:44:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0018721BK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T13:01:05.456Z"
+  },
+  {
     "id": "auto-b09zlg5qgv",
     "asin": "B09ZLG5QGV",
     "title": "Homeworld 3 - Collector's Edition (PC)",
@@ -2423,16 +2492,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BLYXQY25.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T13:26:13.274Z"
-  },
-  {
-    "id": "auto-b07ngl3p5g",
-    "asin": "B07NGL3P5G",
-    "title": "Rascave Hepar Katze, 90 Tabletten für Katzen mit Leberproblemen.",
-    "category": "Smartphone & Tablet",
-    "price": 15.6,
-    "checkedAt": "2026-11-22T12:54:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07NGL3P5G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T12:57:00.968Z"
   }
 ]
