@@ -1,16 +1,51 @@
 [
   {
-    "id": "auto-b0gq36xqk6",
+    "id": "auto-b0dnhrw9cr",
+    "asin": "B0DNHRW9CR",
+    "title": "Amazon Basics Neopren Hanteln Gewichte, Hantelset, 2er-Set, 1–3kg, …",
+    "category": "Sport & Outdoor",
+    "price": 20.99,
+    "checkedAt": "2026-11-23T07:21:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DNHRW9CR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:31:59.152Z"
+  },
+  {
+    "id": "queue-b0gq39rjpq",
+    "asin": "B0GQ39RJPQ",
+    "title": "Shokz OpenDots Air Open-Ear Clip-On-Kopfhörer",
+    "subtitle": "Nur 6,3 g pro Earbud, sicherer Halt beim Sport, Ohren bleiben frei.",
+    "category": "Audio",
+    "price": 99,
+    "checkedAt": "2026-11-23T00:40:08.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Ga0ET/2879038_1/re/768x768/qt/55/2879038_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:31:39.422Z"
+  },
+  {
+    "id": "queue-b0bbtnhtby",
+    "asin": "B0BBTNHTBY",
+    "title": "Hogwarts Legacy (PS5)",
+    "subtitle": "Open-World-Abenteuer im Harry-Potter-Universum für die PS5.",
+    "category": "Gaming",
+    "price": 16.99,
+    "checkedAt": "2026-11-23T01:08:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BBTNHTBY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:31:35.326Z"
+  },
+  {
+    "id": "queue-b0gq36xqk6",
     "asin": "B0GQ36XQK6",
-    "title": "Xiaomi Smart Band 10 Pro Ceramic Edition Pearl White (NFC) 1,74 …",
-    "subtitle": "🔥 432° bei mydealz",
+    "title": "Xiaomi Smart Band 10 Pro Ceramic Edition mit NFC",
+    "subtitle": "1,74\" AMOLED-Display, bis zu 21 Tage Akku und 5ATM wasserdicht.",
     "category": "Tech",
     "price": 67.99,
     "checkedAt": "2026-11-23T07:07:56.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GQ36XQK6.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 432,
+    "temperature": 433,
     "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:17:05.080Z"
+    "telegramPostedAt": "2026-11-23T07:31:31.816Z"
   },
   {
     "id": "auto-b0bt89k8tv",
@@ -257,7 +292,8 @@
     "price": 55,
     "checkedAt": "2026-11-23T04:24:09.000Z",
     "image": "https://m.media-amazon.com/images/P/B09ZC9P7GB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:31:54.452Z"
   },
   {
     "id": "auto-b0dhs9y433",
@@ -277,27 +313,8 @@
     "price": 59.99,
     "checkedAt": "2026-11-23T01:50:28.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DQWC5399.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0bbtnhtby",
-    "asin": "B0BBTNHTBY",
-    "title": "Hogwarts Legacy - PS5",
-    "category": "Gaming",
-    "price": 16.99,
-    "checkedAt": "2026-11-23T01:08:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BBTNHTBY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b0gq39rjpq",
-    "asin": "B0GQ39RJPQ",
-    "title": "Shokz OpenDots Air Open-Ear Clip-On-Kopfhörer",
-    "category": "Audio",
-    "price": 99,
-    "checkedAt": "2026-11-23T00:40:08.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Ga0ET/2879038_1/re/768x768/qt/55/2879038_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T07:32:02.565Z"
   },
   {
     "id": "auto-b0d2pbj7cy",
@@ -1910,28 +1927,6 @@
     "telegramPostedAt": "2026-11-22T07:58:54.675Z"
   },
   {
-    "id": "auto-b0cvxqgfzk",
-    "asin": "B0CVXQGFZK",
-    "title": "SKS GERMANY MUDROCKER Schutzblech-Set für Mountainbikes",
-    "category": "Tech",
-    "price": 37.36,
-    "checkedAt": "2026-11-22T07:30:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CVXQGFZK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T07:44:15.688Z"
-  },
-  {
-    "id": "auto-b0dpktq7qz",
-    "asin": "B0DPKTQ7QZ",
-    "title": "Prime: Reebok Unisex Sneaker, diverse Größen u. Farben",
-    "category": "Mode & Reise",
-    "price": 38.99,
-    "checkedAt": "2026-11-22T07:30:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DPKTQ7QZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T07:44:09.999Z"
-  },
-  {
     "id": "auto-b0f8c65w8r",
     "asin": "B0F8C65W8R",
     "title": "Panasonic LUMIX S 24-60mm Objektiv, L-Mount, durchgehend Blende F2.8",
@@ -1952,40 +1947,5 @@
     "image": "https://static.mydealz.de/threads/raw/qPKAf/2878406_1/re/768x768/qt/55/2878406_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T07:43:58.566Z"
-  },
-  {
-    "id": "auto-b091brjsrn",
-    "asin": "B091BRJSRN",
-    "title": "UGREEN Nexode 65W USB C Ladegerät, 3-Port, GaN Netzteil, PPS Charger …",
-    "subtitle": "🔥 1231° bei mydealz",
-    "category": "Zubehör & Laden",
-    "price": 18.99,
-    "checkedAt": "2026-11-22T07:29:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B091BRJSRN.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 1231,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T07:43:51.493Z"
-  },
-  {
-    "id": "auto-b084w8sy9d",
-    "asin": "B084W8SY9D",
-    "title": "LE CREUSET 4er-Set Mini Cocottes aus Steinzeug, je 200 ml, 10 x 5 cm, …",
-    "category": "Tech",
-    "price": 54,
-    "checkedAt": "2026-11-22T07:21:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B084W8SY9D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T07:29:02.443Z"
-  },
-  {
-    "id": "auto-b08v287d3p",
-    "asin": "B08V287D3P",
-    "title": "8x Alpro Hafermilch ohne Zucker (1,87€/L)",
-    "category": "Tech",
-    "price": 14.99,
-    "checkedAt": "2026-11-22T07:22:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08V287D3P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T07:28:56.030Z"
   }
 ]
