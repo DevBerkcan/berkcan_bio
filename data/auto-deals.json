@@ -1,5 +1,99 @@
 [
   {
+    "id": "auto-b0fpxfkl1d",
+    "asin": "B0FPXFKL1D",
+    "title": "Lego Harry Potter 76473 Schloss Hogwarts Ostflügel",
+    "category": "Spielzeug & LEGO",
+    "price": 156.99,
+    "checkedAt": "2026-11-23T08:21:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXFKL1D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0b722ctnl",
+    "asin": "B0B722CTNL",
+    "title": "Philips Sonicare DiamondClean 9000 Schallzahnbürste, Doppelpack mit 4 …",
+    "category": "Beauty & Pflege",
+    "price": 169.99,
+    "checkedAt": "2026-11-23T08:50:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B722CTNL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0cbnfprd8",
+    "asin": "B0CBNFPRD8",
+    "title": "Jack & Jones - Chinohosen",
+    "category": "Tech",
+    "price": 14.87,
+    "checkedAt": "2026-11-23T08:50:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CBNFPRD8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T09:01:32.651Z"
+  },
+  {
+    "id": "auto-b0c3j4s3fn",
+    "asin": "B0C3J4S3FN",
+    "title": "6 x 500 ml LISTERINE Cool Mint Intensiv Mundspülung (2,22€/Stck.) …",
+    "category": "Tech",
+    "price": 13.34,
+    "checkedAt": "2026-11-23T08:56:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C3J4S3FN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T09:01:27.607Z"
+  },
+  {
+    "id": "auto-b0dt4ct26h",
+    "asin": "B0DT4CT26H",
+    "title": "roborock Q7 M5 Set Saugroboter mit Wischfunktion & Zubehör-Set",
+    "subtitle": "🔥 101° bei mydealz",
+    "category": "Haushalt",
+    "price": 132.99,
+    "checkedAt": "2026-11-23T08:47:53.000Z",
+    "image": "https://static.mydealz.de/threads/raw/nMIYm/2868949_1/re/768x768/qt/55/2868949_1.jpg",
+    "temperature": 101,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T09:01:22.675Z"
+  },
+  {
+    "id": "auto-b091f5bddn",
+    "asin": "B091F5BDDN",
+    "title": "effect Energy Drink Black Acai (24 x 0,33 L Tray)",
+    "subtitle": "🔥 103° bei mydealz",
+    "category": "Lebensmittel & Drinks",
+    "price": 15.46,
+    "checkedAt": "2026-11-23T08:47:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B091F5BDDN.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 103,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T09:01:17.331Z"
+  },
+  {
+    "id": "auto-b0dx283q1x",
+    "asin": "B0DX283Q1X",
+    "title": "Tefal Quickchef+ Stabmixer Set",
+    "subtitle": "🔥 104° bei mydealz",
+    "category": "Küche",
+    "price": 39.9,
+    "checkedAt": "2026-11-23T08:47:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DX283Q1X.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 104,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T09:01:12.316Z"
+  },
+  {
+    "id": "auto-b0h1j192f3",
+    "asin": "B0H1J192F3",
+    "title": "SwitchBot RGBICWW LED Deckenlampe",
+    "subtitle": "🔥 299° bei mydealz",
+    "category": "Tech",
+    "price": 24.99,
+    "checkedAt": "2026-11-23T08:46:49.000Z",
+    "image": "https://static.mydealz.de/threads/raw/pJTzz/2868622_1/re/768x768/qt/55/2868622_1.jpg",
+    "temperature": 299,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T09:01:07.261Z"
+  },
+  {
     "id": "auto-b0154lpr20",
     "asin": "B0154LPR20",
     "title": "Prime - Yankee Candle - Duftkerze im Glas - Red Apple Wreath 411g …",
@@ -2012,29 +2106,5 @@
     "image": "https://static.mydealz.de/threads/raw/pLap9/2878479_1/re/768x768/qt/55/2878479_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T09:13:12.647Z"
-  },
-  {
-    "id": "auto-b001riyras",
-    "asin": "B001RIYRAS",
-    "title": "Tatonka FIRST AID SCHOOL Erste Hilfe Set für Kinder 8,68€ / …",
-    "subtitle": "🔥 108° bei mydealz",
-    "category": "Tech",
-    "price": 8.68,
-    "checkedAt": "2026-11-22T08:58:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B001RIYRAS.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 108,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T09:13:05.081Z"
-  },
-  {
-    "id": "auto-b0d91n3z84",
-    "asin": "B0D91N3Z84",
-    "title": "K&F CONCEPT 82mm Variabler ND2-32 & Polfilter (CPL) 2-IN-1 Filter",
-    "category": "Tech",
-    "price": 28.49,
-    "checkedAt": "2026-11-22T08:49:55.000Z",
-    "image": "https://static.mydealz.de/threads/raw/9S46a/2878463_1/re/768x768/qt/55/2878463_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T08:58:25.989Z"
   }
 ]
