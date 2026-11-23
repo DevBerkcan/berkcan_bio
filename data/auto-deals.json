@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0c37r3q5k",
+    "asin": "B0C37R3Q5K",
+    "title": "Sony TA-AN1000 8K 7.2-Kanal-AV-Verstärker mit 360 Spatial Sound …",
+    "category": "Tech",
+    "price": 699,
+    "checkedAt": "2026-11-23T20:17:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C37R3Q5K.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T20:44:24.719Z"
+  },
+  {
     "id": "auto-b0dwdqwl46",
     "asin": "B0DWDQWL46",
     "title": "LEGO Friends Segelabenteuer 42664",
@@ -3182,40 +3193,5 @@
     "image": "https://m.media-amazon.com/images/P/B07ZK1CRY4.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T21:02:34.532Z"
-  },
-  {
-    "id": "auto-b0h1lcn244",
-    "asin": "B0H1LCN244",
-    "title": "Billie Eilish HIT ME HARD and SOFT: the Tour Blu Ray",
-    "category": "Tech",
-    "price": 14.26,
-    "checkedAt": "2026-11-22T20:36:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H1LCN244.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T20:47:54.365Z"
-  },
-  {
-    "id": "auto-b0hjrz67cl",
-    "asin": "B0HJRZ67CL",
-    "title": "Gutscheingold Fashion-Geschenkkarte – 15% Rabatt",
-    "category": "Tech",
-    "price": 102,
-    "checkedAt": "2026-11-22T20:39:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HJRZ67CL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T20:47:49.166Z"
-  },
-  {
-    "id": "auto-b0f5b969pw",
-    "asin": "B0F5B969PW",
-    "title": "adidas Unisex 3stripes Cushioned Sportswear Crew Socks 3er Pack Socken …",
-    "subtitle": "🔥 247° bei mydealz",
-    "category": "Tech",
-    "price": 9.02,
-    "checkedAt": "2026-11-22T20:30:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F5B969PW.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 247,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T20:32:55.087Z"
   }
 ]
