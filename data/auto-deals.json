@@ -1,5 +1,64 @@
 [
   {
+    "id": "auto-b08jvfyb18",
+    "asin": "B08JVFYB18",
+    "title": "Warme Einlegesohlen aus Lammwolle",
+    "category": "Tech",
+    "price": 7.64,
+    "checkedAt": "2026-11-23T19:18:50.000Z",
+    "image": "https://static.mydealz.de/threads/raw/dwBdS/2879945_1/re/768x768/qt/55/2879945_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T19:31:09.203Z"
+  },
+  {
+    "id": "auto-b019ow0nqu",
+    "asin": "B019OW0NQU",
+    "title": "Pattex Made at Home Heißklebepistole, Set mit 6 Klebesticks, 11mm",
+    "category": "Tech",
+    "price": 8.99,
+    "checkedAt": "2026-11-23T19:23:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B019OW0NQU.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T19:31:02.574Z"
+  },
+  {
+    "id": "auto-b0g6z25yqj",
+    "asin": "B0G6Z25YQJ",
+    "title": "SONGMICS Hartschalenkoffer schwarz Gr. M",
+    "category": "Mode & Reise",
+    "price": 26.62,
+    "checkedAt": "2026-11-23T19:24:01.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G6Z25YQJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T19:30:57.034Z"
+  },
+  {
+    "id": "auto-b0dt4k3km6",
+    "asin": "B0DT4K3KM6",
+    "title": "Lenor Wäscheparfüm Aprilfrisch, 735g",
+    "subtitle": "🔥 103° bei mydealz",
+    "category": "Beauty & Pflege",
+    "price": 11.95,
+    "checkedAt": "2026-11-23T19:19:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DT4K3KM6.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 103,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T19:30:51.628Z"
+  },
+  {
+    "id": "auto-b0djgcx6q2",
+    "asin": "B0DJGCX6Q2",
+    "title": "Amazon Fire TV Stick HD",
+    "subtitle": "🔥 111° bei mydealz",
+    "category": "Amazon-Geräte",
+    "price": 21.99,
+    "checkedAt": "2026-11-23T19:19:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJGCX6Q2.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 111,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T19:30:45.151Z"
+  },
+  {
     "id": "auto-b0dlh5mg5j",
     "asin": "B0DLH5MG5J",
     "title": "Monopoly Pokémon Edition Brettspiel",
@@ -3237,16 +3296,5 @@
     "image": "https://m.media-amazon.com/images/P/B003ASAF7M.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T19:48:26.610Z"
-  },
-  {
-    "id": "auto-b09qm9hnfk",
-    "asin": "B09QM9HNFK",
-    "title": "BOSS 3er Pack Herren Trunks Power Boxer Boxershorts Unterhosen Cotton …",
-    "category": "Tech",
-    "price": 24.08,
-    "checkedAt": "2026-11-22T19:24:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09QM9HNFK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T19:33:51.892Z"
   }
 ]
