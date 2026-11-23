@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b00oyvkfq0",
+    "asin": "B00OYVKFQ0",
+    "title": "Stanley FatMax Pro-Stack Werkzeugbox",
+    "category": "Werkzeug",
+    "price": 38.19,
+    "checkedAt": "2026-11-23T16:48:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00OYVKFQ0.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T17:01:43.885Z"
+  },
+  {
+    "id": "auto-b0cl7qzqs9",
+    "asin": "B0CL7QZQS9",
+    "title": "JACK & JONES Jeans Regulär Blue Denim (alle Größen) Men's Hose Jean …",
+    "category": "Mode & Reise",
+    "price": 14.34,
+    "checkedAt": "2026-11-23T16:53:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CL7QZQS9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T17:01:38.477Z"
+  },
+  {
+    "id": "auto-b0dmwl2xdy",
+    "asin": "B0DMWL2XDY",
+    "title": "Hasbro Furby Minis Adventskalender mit 24 Überraschungen, Mini …",
+    "category": "Spielzeug & LEGO",
+    "price": 9.99,
+    "checkedAt": "2026-11-23T17:00:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DMWL2XDY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-23T17:01:33.448Z"
+  },
+  {
     "id": "auto-b0bckn1xw8",
     "asin": "B0BCKN1XW8",
     "title": "AEG CLEAN 6000 Bodenstaubsauger mit Beutel, 850 W, 12 m Aktionsradius, …",
@@ -3000,66 +3033,5 @@
     "image": "https://m.media-amazon.com/images/P/B0965FRSXN.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-22T17:22:03.544Z"
-  },
-  {
-    "id": "auto-b0dtv3w9d6",
-    "asin": "B0DTV3W9D6",
-    "title": "CASO PizzaChef 430° elektrischer Pizzaofen",
-    "category": "Tech",
-    "price": 113.06,
-    "checkedAt": "2026-11-22T16:55:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DTV3W9D6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T17:07:23.201Z"
-  },
-  {
-    "id": "auto-b0hd7wvs2n",
-    "asin": "B0HD7WVS2N",
-    "title": "Motorola Smartwatch Ultra Polar E-SIM",
-    "category": "Smartphone & Tablet",
-    "price": 299,
-    "checkedAt": "2026-11-22T16:56:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HD7WVS2N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T17:07:17.969Z"
-  },
-  {
-    "id": "auto-b0cwndd7v3",
-    "asin": "B0CWNDD7V3",
-    "title": "ProFuel CREAPROOF Creatin Monohydrat",
-    "subtitle": "🔥 104° bei mydealz",
-    "category": "Tech",
-    "price": 10.17,
-    "checkedAt": "2026-11-22T17:00:53.000Z",
-    "image": "https://static.mydealz.de/threads/raw/oWmeV/2874650_1/re/768x768/qt/55/2874650_1.jpg",
-    "temperature": 104,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T17:07:12.729Z"
-  },
-  {
-    "id": "auto-b08yvs6yv7",
-    "asin": "B08YVS6YV7",
-    "title": "Haier HTR3620CNMG Kühl-Gefrierkombination, 414 Liter, 205 cm Höhe, EEK …",
-    "subtitle": "🔥 108° bei mydealz",
-    "category": "Tech",
-    "price": 584.99,
-    "checkedAt": "2026-11-22T17:01:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08YVS6YV7.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 108,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T17:07:07.028Z"
-  },
-  {
-    "id": "auto-b0bpzp852w",
-    "asin": "B0BPZP852W",
-    "title": "Cecotec Cecofry FireDome 6000 Heißluftfritteuse & Indoor-Grill – 6 L, …",
-    "category": "Küche",
-    "price": 35.88,
-    "oldPrice": 81.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-22T16:59:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BPZP852W.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-22T17:07:01.678Z"
   }
 ]
