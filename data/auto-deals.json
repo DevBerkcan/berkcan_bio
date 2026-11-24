@@ -1,5 +1,64 @@
 [
   {
+    "id": "auto-b08hp47q98",
+    "asin": "B08HP47Q98",
+    "title": "BESSEY Einhandzwinge EZM15-6",
+    "category": "Tech",
+    "price": 11.47,
+    "checkedAt": "2026-11-24T14:32:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08HP47Q98.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T14:46:23.196Z"
+  },
+  {
+    "id": "auto-b0gk1d3q6t",
+    "asin": "B0GK1D3Q6T",
+    "title": "Samsung Galaxy Book6 – 14\", Core Ultra 5, 16 GB RAM, 256 GB",
+    "category": "Tech",
+    "price": 689,
+    "checkedAt": "2026-11-24T14:38:38.000Z",
+    "image": "https://static.mydealz.de/threads/raw/cMRDp/2880674_1/re/768x768/qt/55/2880674_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T14:46:17.914Z"
+  },
+  {
+    "id": "auto-b000rzejpu",
+    "asin": "B000RZEJPU",
+    "title": "Katadyn Pocket Outdoor-Wasserfilter",
+    "category": "Sport & Outdoor",
+    "price": 181.24,
+    "checkedAt": "2026-11-24T14:45:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000RZEJPU.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T14:46:12.729Z"
+  },
+  {
+    "id": "auto-b01d1j5q28",
+    "asin": "B01D1J5Q28",
+    "title": "afri cola mit Zucker oder ohne Zucker - 24x330 ml Dosen",
+    "subtitle": "🔥 196° bei mydealz",
+    "category": "Tech",
+    "price": 13.76,
+    "checkedAt": "2026-11-24T14:41:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01D1J5Q28.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 196,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T14:46:06.865Z"
+  },
+  {
+    "id": "auto-b0hd11m1sm",
+    "asin": "B0HD11M1SM",
+    "title": "Warrior Cats: Clans of the Forest (PS5",
+    "category": "Gaming",
+    "price": 24.99,
+    "oldPrice": 40.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T14:35:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HD11M1SM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T14:46:01.397Z"
+  },
+  {
     "id": "auto-b0fw7dbvvw",
     "asin": "B0FW7DBVVW",
     "title": "Disney Stitch Double Trouble – interaktives Plüschtier mit 50+ Sounds …",
@@ -2625,40 +2684,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DBRC97NN.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T15:01:10.078Z"
-  },
-  {
-    "id": "auto-b0d6nlk4rz",
-    "asin": "B0D6NLK4RZ",
-    "title": "Philips Hue White Ambiance GU10-Spot, 3er-Pack, 400 lm, 4,2 W, …",
-    "category": "Smart Home",
-    "price": 39.99,
-    "checkedAt": "2026-11-23T14:32:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D6NLK4RZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T14:46:33.737Z"
-  },
-  {
-    "id": "auto-b09dkqwknq",
-    "asin": "B09DKQWKNQ",
-    "title": "Tefal OptiGrill+ XL Backschale",
-    "category": "Licht & Garten",
-    "price": 44.99,
-    "checkedAt": "2026-11-23T14:38:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09DKQWKNQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T14:46:28.492Z"
-  },
-  {
-    "id": "auto-b0chs6slwk",
-    "asin": "B0CHS6SLWK",
-    "title": "24-teiliges Ibiza Steingut Geschirrset 6 Personen- Schüssel- und …",
-    "subtitle": "🔥 1668° bei mydealz",
-    "category": "Küche",
-    "price": 99.95,
-    "checkedAt": "2026-11-23T14:37:08.000Z",
-    "image": "https://static.mydealz.de/threads/raw/8sOEb/2871928_1/re/768x768/qt/55/2871928_1.jpg",
-    "temperature": 1668,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T14:46:13.518Z"
   }
 ]
