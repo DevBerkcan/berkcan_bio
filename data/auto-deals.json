@@ -1,5 +1,77 @@
 [
   {
+    "id": "auto-b0gwdkrzc8",
+    "asin": "B0GWDKRZC8",
+    "title": "Corsair 2800X RS-R ARGB Micro-ATX PC-Gehäuse, 3 Reverse-Rotor-Lüfter, …",
+    "category": "Tech",
+    "price": 54.9,
+    "checkedAt": "2026-11-24T15:49:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GWDKRZC8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:01:16.520Z"
+  },
+  {
+    "id": "auto-b0gpr98w61",
+    "asin": "B0GPR98W61",
+    "title": "Corsair Vanguard AIR 99 Wireless Gaming-Tastatur, QWERTZ, Low-Profile …",
+    "category": "Computer",
+    "price": 209.99,
+    "checkedAt": "2026-11-24T15:56:10.000Z",
+    "image": "https://static.mydealz.de/threads/raw/nJVSw/2880749_1/re/768x768/qt/55/2880749_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:01:11.177Z"
+  },
+  {
+    "id": "auto-b0hf4t91j8",
+    "asin": "B0HF4T91J8",
+    "title": "Oral-B iO Series 2 Elektrische Zahnbürste, Doppelpack, Schwarz/Schwarz …",
+    "category": "Beauty & Pflege",
+    "price": 59.99,
+    "checkedAt": "2026-11-24T15:57:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HF4T91J8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:01:05.808Z"
+  },
+  {
+    "id": "auto-b0fpghcd96",
+    "asin": "B0FPGHCD96",
+    "title": "Kärcher SE 2 Spot Care – kompakter Waschsauger",
+    "category": "Haushalt",
+    "price": 94.32,
+    "oldPrice": 107.09,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T15:53:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPGHCD96.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:01:00.459Z"
+  },
+  {
+    "id": "auto-b0d3vdv73j",
+    "asin": "B0D3VDV73J",
+    "title": "Philips Series 900 Smart Luftreiniger mit Air+ App",
+    "category": "Haushalt",
+    "price": 122.99,
+    "oldPrice": 158,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T15:50:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D3VDV73J.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:00:50.966Z"
+  },
+  {
+    "id": "auto-b0gyfncr2d",
+    "asin": "B0GYFNCR2D",
+    "title": "CORSAIR CLIPPER PRO MINI 60 SOCD – kompakte …",
+    "category": "Tech",
+    "price": 69.99,
+    "oldPrice": 100.54,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T15:44:38.000Z",
+    "image": "https://static.mydealz.de/threads/raw/3LGyp/2880741_1/re/768x768/qt/55/2880741_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:00:44.767Z"
+  },
+  {
     "id": "auto-b0dg94wwzs",
     "asin": "B0DG94WWZS",
     "title": "3 für 2 Aktion: 3x400ml Kneipp Aroma-Pflegeschaumbad Rücken & Schulter …",
@@ -1763,19 +1835,6 @@
     "telegramPostedAt": "2026-11-24T07:15:32.769Z"
   },
   {
-    "id": "queue-b0gpxxt4yl",
-    "asin": "B0GPXXT4YL",
-    "title": "Ring Akku-Videotürklingel 2K + Chime (3. Gen.)",
-    "subtitle": "Neueste Akku-Türklingel mit 2K-Video, inklusive Chime als Türgong.",
-    "category": "Smart Home",
-    "price": 59.99,
-    "oldPrice": 134.98,
-    "checkedAt": "2026-11-23T15:57:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GPXXT4YL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T07:14:56.334Z"
-  },
-  {
     "id": "queue-b0bsh3jkqb",
     "asin": "B0BSH3JKQB",
     "title": "ASUS ROG Strix XG32UCWMG 32\" 4K QD-OLED Gaming-Monitor",
@@ -2667,18 +2726,5 @@
     "image": "https://m.media-amazon.com/images/P/B07PMSFRG6.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T16:16:27.742Z"
-  },
-  {
-    "id": "auto-b09nymk23r",
-    "asin": "B09NYMK23R",
-    "title": "Jack & Jones Jungen Jacbasic Trunks 7 Pack Noos Jnr Trunks",
-    "category": "Tech",
-    "price": 19.53,
-    "oldPrice": 44.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T15:47:44.000Z",
-    "image": "https://static.mydealz.de/threads/raw/wQ1Xk/2879732_1/re/768x768/qt/55/2879732_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T16:01:16.434Z"
   }
 ]
