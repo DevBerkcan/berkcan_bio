@@ -1,14 +1,62 @@
 [
   {
-    "id": "auto-b08x19vzn8",
+    "id": "auto-b00ebigsbw",
+    "asin": "B00EBIGSBW",
+    "title": "LEGO City Betonmischer 60478",
+    "category": "Spielzeug & LEGO",
+    "price": 24.69,
+    "checkedAt": "2026-11-24T12:09:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00EBIGSBW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:46:46.588Z"
+  },
+  {
+    "id": "auto-b0h18pqws5",
+    "asin": "B0H18PQWS5",
+    "title": "MAMMOTION YUKA mini 2 500 mit Mini Garage",
+    "category": "Tech",
+    "price": 649,
+    "checkedAt": "2026-11-24T12:37:33.000Z",
+    "image": "https://static.mydealz.de/threads/raw/AkD0I/2880575_1/re/768x768/qt/55/2880575_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:46:40.959Z"
+  },
+  {
+    "id": "auto-b0gqv8w7rz",
+    "asin": "B0GQV8W7RZ",
+    "title": "VTech Kidi Guitar Superstar – Kinder-E-Gitarre mit Bluetooth, LEDs & 6 …",
+    "category": "Spielzeug & LEGO",
+    "price": 39.99,
+    "oldPrice": 52.08,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T12:06:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GQV8W7RZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:46:31.304Z"
+  },
+  {
+    "id": "queue-b0cvhfkk4c",
+    "asin": "B0CVHFKK4C",
+    "title": "Bosch Tassimo finesse TAS167P Kapselmaschine",
+    "subtitle": "Platzsparende Kapselmaschine für 70 Getränke mit Abschaltautomatik.",
+    "category": "Haushalt",
+    "price": 28.99,
+    "checkedAt": "2026-11-24T12:22:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CVHFKK4C.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:46:12.943Z"
+  },
+  {
+    "id": "queue-b08x19vzn8",
     "asin": "B08X19VZN8",
-    "title": "TP-Link RE330 WLAN Verstärker Repeater",
+    "title": "TP-Link RE330 WLAN-Repeater Dual-Band, EasyMesh",
+    "subtitle": "Dual-Band Wi-Fi 5 mit LAN-Port, EasyMesh-fähig und FRITZ!Box-kompatibel.",
     "category": "Tech",
     "price": 23.32,
     "checkedAt": "2026-11-24T12:18:14.000Z",
     "image": "https://m.media-amazon.com/images/P/B08X19VZN8.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
-    "telegramPostedAt": "2026-11-24T12:31:45.100Z"
+    "telegramPostedAt": "2026-11-24T12:46:08.556Z"
   },
   {
     "id": "auto-b0fdkr293g",
@@ -20,17 +68,6 @@
     "image": "https://m.media-amazon.com/images/P/B0FDKR293G.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T12:31:39.634Z"
-  },
-  {
-    "id": "auto-b0cvhfkk4c",
-    "asin": "B0CVHFKK4C",
-    "title": "BOSCH - Tassimo finesse Kapselmaschine TAS167P",
-    "category": "Tech",
-    "price": 28.99,
-    "checkedAt": "2026-11-24T12:22:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CVHFKK4C.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T12:31:33.185Z"
   },
   {
     "id": "auto-b0dkflpw4d",
@@ -2798,18 +2835,5 @@
     "checkedAt": "2026-11-23T12:52:21.000Z",
     "image": "https://static.mydealz.de/threads/raw/iuszI/2879562_1/re/768x768/qt/55/2879562_1.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0018721bk",
-    "asin": "B0018721BK",
-    "title": "ABUS Stangenset 118 cm für Fenster-Stangenschloss FOS550/A, FOS650/A …",
-    "category": "Tech",
-    "price": 19.99,
-    "oldPrice": 37.11,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T12:44:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0018721BK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T13:01:05.456Z"
   }
 ]
