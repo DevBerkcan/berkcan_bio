@@ -1,5 +1,100 @@
 [
   {
+    "id": "auto-b0bsvbz4qx",
+    "asin": "B0BSVBZ4QX",
+    "title": "Ben's Original Express Reis Mexikanisch 6 x 220g, Mexikanisch scharf, …",
+    "category": "Tech",
+    "price": 6.45,
+    "checkedAt": "2026-11-24T16:17:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BSVBZ4QX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:31:39.175Z"
+  },
+  {
+    "id": "auto-b0hjb51kw5",
+    "asin": "B0HJB51KW5",
+    "title": "Apple Watch SE 3 GPS",
+    "category": "Smartphone & Tablet",
+    "price": 219,
+    "checkedAt": "2026-11-24T16:17:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HJB51KW5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:31:33.742Z"
+  },
+  {
+    "id": "auto-b0gk9whmkp",
+    "asin": "B0GK9WHMKP",
+    "title": "Sonos Era 100 SL",
+    "category": "Audio",
+    "price": 149,
+    "checkedAt": "2026-11-24T16:27:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GK9WHMKP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:31:28.179Z"
+  },
+  {
+    "id": "auto-b0gr9gfmcd",
+    "asin": "B0GR9GFMCD",
+    "title": "TCL 75T8D 75 Zoll QD-Mini-LED 4K Smart-TV (2026), 144 Hz, HDMI 2.1, …",
+    "category": "TV & Heimkino",
+    "price": 799,
+    "checkedAt": "2026-11-24T16:29:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GR9GFMCD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:31:22.049Z"
+  },
+  {
+    "id": "auto-b0dxlbzf4q",
+    "asin": "B0DXLBZF4Q",
+    "title": "PHILIPS OneBlade 360 Face & Body mit 3x Klingen, 3x Trimmaufsätze, 2x …",
+    "subtitle": "🔥 109° bei mydealz",
+    "category": "Tech",
+    "price": 34.99,
+    "checkedAt": "2026-11-24T16:21:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DXLBZF4Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 109,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:31:16.826Z"
+  },
+  {
+    "id": "auto-b0bkh4fx9y",
+    "asin": "B0BKH4FX9Y",
+    "title": "Jabra Evolve2 Buds (20797-999-999) True Wireless In-Ear Bluetooth ANC …",
+    "subtitle": "🔥 116° bei mydealz",
+    "category": "Audio",
+    "price": 109,
+    "checkedAt": "2026-11-24T16:14:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BKH4FX9Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 116,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:31:11.258Z"
+  },
+  {
+    "id": "queue-b0g2bl58ss",
+    "asin": "B0G2BL58SS",
+    "title": "Anker Nano 100W USB-C Ladegerät inkl. 1,8 m Kabel",
+    "subtitle": "Kompaktes 100-W-Netzteil für MacBook, iPad, iPhone und Galaxy – Kabel inklusive.",
+    "category": "Zubehör & Laden",
+    "price": 28.48,
+    "checkedAt": "2026-11-24T16:03:00.000Z",
+    "image": "https://static.mydealz.de/threads/raw/DeXvP/2880757_1/re/768x768/qt/55/2880757_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:30:52.937Z"
+  },
+  {
+    "id": "queue-b0chmygbv4",
+    "asin": "B0CHMYGBV4",
+    "title": "LEBENLANG Akku-Handstaubsauger 17000 Pa, Dual-Filter",
+    "subtitle": "Beutellos mit 17000 Pa, 135 W und zwei Saugstufen – laut Titel Testsieger bei Chip.",
+    "category": "Haushalt",
+    "price": 99,
+    "oldPrice": 119,
+    "checkedAt": "2026-11-24T16:00:12.000Z",
+    "image": "https://static.mydealz.de/threads/raw/3SqE1/2880752_1/re/768x768/qt/55/2880752_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:30:46.970Z"
+  },
+  {
     "id": "auto-b0bw8rgzsg",
     "asin": "B0BW8RGZSG",
     "title": "Emsa Travel Mug 500 ml Wave Thermobecher, neuer …",
@@ -9,30 +104,6 @@
     "image": "https://m.media-amazon.com/images/P/B0BW8RGZSG.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T16:16:19.716Z"
-  },
-  {
-    "id": "auto-b0g2bl58ss",
-    "asin": "B0G2BL58SS",
-    "title": "Anker Nano 100W USB C Ladegerät, Laptop Netzteil Inkl. 1,8m USB-C …",
-    "category": "Computer",
-    "price": 28.48,
-    "checkedAt": "2026-11-24T16:03:00.000Z",
-    "image": "https://static.mydealz.de/threads/raw/DeXvP/2880757_1/re/768x768/qt/55/2880757_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T16:16:14.404Z"
-  },
-  {
-    "id": "auto-b0chmygbv4",
-    "asin": "B0CHMYGBV4",
-    "title": "LEBENLANG Handstaubsauger Akku - Dual-Filter & Li-Ion & 17000PA",
-    "category": "Haushalt",
-    "price": 99,
-    "oldPrice": 119,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T16:00:12.000Z",
-    "image": "https://static.mydealz.de/threads/raw/3SqE1/2880752_1/re/768x768/qt/55/2880752_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T16:16:07.591Z"
   },
   {
     "id": "auto-b00x0w9o0w",
@@ -2697,29 +2768,5 @@
     "temperature": 401,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T16:46:38.436Z"
-  },
-  {
-    "id": "auto-b0fj8k3yvt",
-    "asin": "B0FJ8K3YVT",
-    "title": "Hisense HS1000 2.0 Soundbar, 120 W, Dolby Audio, DTS Virtual:X, Voice …",
-    "category": "TV & Heimkino",
-    "price": 54.9,
-    "checkedAt": "2026-11-23T16:18:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJ8K3YVT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T16:31:43.400Z"
-  },
-  {
-    "id": "auto-b07bcpngdj",
-    "asin": "B07BCPNGDJ",
-    "title": "Tefal Ice Force Kochmesser (20cm)",
-    "category": "Küche",
-    "price": 14.43,
-    "oldPrice": 18.77,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T16:19:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07BCPNGDJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T16:31:38.039Z"
   }
 ]
