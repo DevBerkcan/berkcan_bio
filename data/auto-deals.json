@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b0dg94wwzs",
+    "asin": "B0DG94WWZS",
+    "title": "3 für 2 Aktion: 3x400ml Kneipp Aroma-Pflegeschaumbad Rücken & Schulter …",
+    "category": "Tech",
+    "price": 6.64,
+    "checkedAt": "2026-11-24T15:35:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DG94WWZS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T15:46:03.943Z"
+  },
+  {
+    "id": "auto-b0d793b2wv",
+    "asin": "B0D793B2WV",
+    "title": "dreame H12 Pro Ultra Nass- und Trockensauger, 16.000 Pa, 60 °C …",
+    "category": "Haushalt",
+    "price": 159,
+    "checkedAt": "2026-11-24T15:41:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D793B2WV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T15:45:58.962Z"
+  },
+  {
+    "id": "auto-b0d1xydkrq",
+    "asin": "B0D1XYDKRQ",
+    "title": "PLAYMOBIL MyLife 71608 Küche mit Essplatz",
+    "category": "Spielzeug & LEGO",
+    "price": 14.69,
+    "checkedAt": "2026-11-24T15:44:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D1XYDKRQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T15:45:53.904Z"
+  },
+  {
+    "id": "auto-b0czv23l1f",
+    "asin": "B0CZV23L1F",
+    "title": "Amazon Sammeldeal",
+    "category": "Spielzeug & LEGO",
+    "price": 18.98,
+    "oldPrice": 28.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T15:02:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CZV23L1F.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T15:45:48.618Z"
+  },
+  {
     "id": "auto-b08ghn366k",
     "asin": "B08GHN366K",
     "title": "EMSA Clip & Close Frischhaltedosen-Set (5 x 0,8 L)",
@@ -1608,18 +1654,6 @@
     "telegramPostedAt": "2026-11-24T08:00:18.826Z"
   },
   {
-    "id": "queue-b0cvyly7tg",
-    "asin": "B0CVYLY7TG",
-    "title": "Canon EOS R100 + RF-S 18-45mm Kit mit Tasche & SD",
-    "subtitle": "24,1 MP APS-C, 4K-Video, WLAN – inkl. Tasche und 64-GB-SD-Karte.",
-    "category": "Foto & Video",
-    "price": 449,
-    "checkedAt": "2026-11-23T15:34:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CVYLY7TG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T07:59:59.277Z"
-  },
-  {
     "id": "auto-b09wmvbvhg",
     "asin": "B09WMVBVHG",
     "title": "SKROSS Reiseadapter Pro",
@@ -1655,19 +1689,6 @@
     "image": "https://m.media-amazon.com/images/P/B0FS25DTXM.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T07:45:19.601Z"
-  },
-  {
-    "id": "queue-b0fftq6b37",
-    "asin": "B0FFTQ6B37",
-    "title": "Turtle Beach Rematch Wireless Controller Donkey Kong",
-    "subtitle": "Kabelloser Controller für Switch 2 und Switch mit bis zu 40 Std. Akku.",
-    "category": "Gaming",
-    "price": 35,
-    "oldPrice": 41.18,
-    "checkedAt": "2026-11-23T15:37:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FFTQ6B37.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T07:45:01.767Z"
   },
   {
     "id": "queue-b09kxtcmsc",
@@ -2648,17 +2669,6 @@
     "telegramPostedAt": "2026-11-23T16:16:27.742Z"
   },
   {
-    "id": "auto-b0d3lnt8xd",
-    "asin": "B0D3LNT8XD",
-    "title": "Waterdrop PT-72W 𝐆𝐥𝐚𝐬 Wasserfilterkanne, 2,5L, 2-Month …",
-    "category": "Tech",
-    "price": 33.99,
-    "checkedAt": "2026-11-23T15:44:45.000Z",
-    "image": "https://static.mydealz.de/threads/raw/7d5pC/2879731_1/re/768x768/qt/55/2879731_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T16:01:28.086Z"
-  },
-  {
     "id": "auto-b09nymk23r",
     "asin": "B09NYMK23R",
     "title": "Jack & Jones Jungen Jacbasic Trunks 7 Pack Noos Jnr Trunks",
@@ -2670,40 +2680,5 @@
     "image": "https://static.mydealz.de/threads/raw/wQ1Xk/2879732_1/re/768x768/qt/55/2879732_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T16:01:16.434Z"
-  },
-  {
-    "id": "auto-b0d2hgjfl2",
-    "asin": "B0D2HGJFL2",
-    "title": "JOREST 152 in 1 Feinmechaniker Bit Set inkl. Schraubendreher, Box und …",
-    "category": "Tech",
-    "price": 21.65,
-    "checkedAt": "2026-11-23T15:40:55.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Ya9Wy/2879729_1/re/768x768/qt/55/2879729_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T15:46:33.108Z"
-  },
-  {
-    "id": "auto-b07587y6d6",
-    "asin": "B07587Y6D6",
-    "title": "Bosch Professional GAS 18V-1 Akku-Handstaubsauger (solo), 18 V, 0,7 l …",
-    "category": "Haushalt",
-    "price": 57.99,
-    "checkedAt": "2026-11-23T15:45:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07587Y6D6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T15:46:26.791Z"
-  },
-  {
-    "id": "auto-b0g3qfsypx",
-    "asin": "B0G3QFSYPX",
-    "title": "Corsair Void v2 Wireless (Dual Tone) Gaming Headset – Dolby Atmos - 70 …",
-    "subtitle": "🔥 169° bei mydealz",
-    "category": "Gaming",
-    "price": 69.99,
-    "checkedAt": "2026-11-23T15:37:57.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G3QFSYPX.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 169,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T15:46:21.611Z"
   }
 ]
