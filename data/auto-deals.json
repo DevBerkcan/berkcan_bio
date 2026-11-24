@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b000cnme22",
+    "asin": "B000CNME22",
+    "title": "Davidoff Zino Eau de Toilette",
+    "category": "Beauty & Pflege",
+    "price": 14.25,
+    "oldPrice": 18.83,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T12:57:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000CNME22.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T13:01:28.288Z"
+  },
+  {
     "id": "auto-b00ebigsbw",
     "asin": "B00EBIGSBW",
     "title": "LEGO City Betonmischer 60478",
@@ -989,18 +1002,6 @@
     "telegramPostedAt": "2026-11-24T08:30:11.291Z"
   },
   {
-    "id": "queue-b0dw9792rh",
-    "asin": "B0DW9792RH",
-    "title": "TCL 50T6C 50\" 4K QLED Fire TV",
-    "subtitle": "QLED mit HDR10+, Dolby Vision & Atmos, Fire TV und Alexa.",
-    "category": "Amazon-Geräte",
-    "price": 239,
-    "checkedAt": "2026-11-23T12:46:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DW9792RH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:30:05.754Z"
-  },
-  {
     "id": "auto-b0fpxd7pqv",
     "asin": "B0FPXD7PQV",
     "title": "LEGO Technic 42220 Monster Jam Sparkle Smash mit Rückziehmotor",
@@ -1283,19 +1284,6 @@
     "image": "https://m.media-amazon.com/images/P/B0883LV8CN.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T07:30:02.437Z"
-  },
-  {
-    "id": "queue-b09877wfm6",
-    "asin": "B09877WFM6",
-    "title": "Bosch UniversalImpact 18V Schlagbohrschrauber-Set",
-    "subtitle": "Komplett-Set mit 2,0-Ah-Akku, Ladegerät, Bohrern und Bits im Koffer.",
-    "category": "Werkzeug",
-    "price": 78.69,
-    "oldPrice": 98.99,
-    "checkedAt": "2026-11-23T12:56:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09877WFM6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T07:29:58.091Z"
   },
   {
     "id": "queue-b0h1jc29d3",
@@ -2695,17 +2683,6 @@
     "telegramPostedAt": "2026-11-23T13:46:19.822Z"
   },
   {
-    "id": "auto-b0dk7rpr8y",
-    "asin": "B0DK7RPR8Y",
-    "title": "Peppa Pig Peppas großes Familienauto Spielset, Rot [Prime]",
-    "category": "Spielzeug & LEGO",
-    "price": 13.99,
-    "checkedAt": "2026-11-23T12:57:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DK7RPR8Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T15:16:31.731Z"
-  },
-  {
     "id": "auto-b09z65jt5n",
     "asin": "B09Z65JT5N",
     "title": "BEDSURE Sherpa Kuscheldecke Strickdecke 220x240",
@@ -2770,19 +2747,6 @@
     "telegramPostedAt": "2026-11-23T13:31:20.547Z"
   },
   {
-    "id": "auto-b0dy847t2n",
-    "asin": "B0DY847T2N",
-    "title": "VTech Tut Tut Baby Flitzer Blueys Familienhaus",
-    "category": "Spielzeug & LEGO",
-    "price": 29.75,
-    "oldPrice": 38.94,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T12:53:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DY847T2N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T13:31:14.264Z"
-  },
-  {
     "id": "auto-b0cbncmk8l",
     "asin": "B0CBNCMK8L",
     "title": "Jack & Jones Blue Denim Jeans ALLE GRÖẞEN Glenn Original Sq 330 Noos",
@@ -2825,15 +2789,5 @@
     "image": "https://static.mydealz.de/threads/raw/ecIgD/2879584_1/re/768x768/qt/55/2879584_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T13:16:23.285Z"
-  },
-  {
-    "id": "auto-b0ggclbwtj",
-    "asin": "B0GGCLBWTJ",
-    "title": "GAUDER Kabelbinder schwarz UV-beständig",
-    "category": "Tech",
-    "price": 12.1,
-    "checkedAt": "2026-11-23T12:52:21.000Z",
-    "image": "https://static.mydealz.de/threads/raw/iuszI/2879562_1/re/768x768/qt/55/2879562_1.jpg",
-    "source": "auto"
   }
 ]
