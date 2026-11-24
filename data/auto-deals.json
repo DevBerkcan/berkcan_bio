@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0hmxgfk2v",
+    "asin": "B0HMXGFK2V",
+    "title": "CSL Gaming PC - AMD 8400F, RX 9060 XT, 16 GB RAM, 500 GB SSD, Windows …",
+    "category": "Computer",
+    "price": 1299,
+    "checkedAt": "2026-11-24T20:54:04.000Z",
+    "image": "https://static.mydealz.de/threads/raw/l2SYX/2880979_1/re/768x768/qt/55/2880979_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T20:57:35.135Z"
+  },
+  {
     "id": "auto-b000z2fzr6",
     "asin": "B000Z2FZR6",
     "title": "de Buyer Affinity 28 cm Edelstahlpfanne",
@@ -2551,17 +2562,6 @@
     "telegramPostedAt": "2026-11-23T21:28:52.624Z"
   },
   {
-    "id": "auto-b085sr7qhc",
-    "asin": "B085SR7QHC",
-    "title": "JACK & JONES Male Einreihiger Blazer und Hose JPRFRANCO Super Slim Fit …",
-    "category": "Tech",
-    "price": 54.99,
-    "checkedAt": "2026-11-23T20:44:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B085SR7QHC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T20:59:20.525Z"
-  },
-  {
     "id": "auto-b077czwzcl",
     "asin": "B077CZWZCL",
     "title": "Puma Sneaker Smash V2",
@@ -2571,18 +2571,5 @@
     "image": "https://m.media-amazon.com/images/P/B077CZWZCL.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T20:59:15.189Z"
-  },
-  {
-    "id": "auto-b09v8jngd4",
-    "asin": "B09V8JNGD4",
-    "title": "Mixa Urea Cica Repair+ Creme für trockene und raue Haut, 400 ml",
-    "subtitle": "🔥 112° bei mydealz",
-    "category": "Beauty & Pflege",
-    "price": 5.07,
-    "checkedAt": "2026-11-23T20:47:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09V8JNGD4.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 112,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T20:59:05.636Z"
   }
 ]
