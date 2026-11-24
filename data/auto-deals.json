@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b08vjd3vnm",
+    "asin": "B08VJD3VNM",
+    "title": "Gerüstbauer-Knarre 4-in-1",
+    "category": "Tech",
+    "price": 9.98,
+    "checkedAt": "2026-11-24T21:27:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08VJD3VNM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T21:41:47.840Z"
+  },
+  {
+    "id": "auto-b07b646yrr",
+    "asin": "B07B646YRR",
+    "title": "JACK & JONES Male Kapuzenpullover Logo Prime Kapuzenpullover",
+    "category": "Tech",
+    "price": 16.79,
+    "checkedAt": "2026-11-24T21:30:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07B646YRR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T21:41:42.855Z"
+  },
+  {
+    "id": "auto-b0c7hfb7qd",
+    "asin": "B0C7HFB7QD",
+    "title": "JACK & JONES Hoodie Bradley Sweat Hood Noos Kapuzenpullover Hoddy Kapu",
+    "category": "Mode & Reise",
+    "price": 15.99,
+    "checkedAt": "2026-11-24T21:34:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C7HFB7QD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T21:41:37.720Z"
+  },
+  {
     "id": "auto-b0ccypdlcq",
     "asin": "B0CCYPDLCQ",
     "title": "ghd gold Glätteisen: Haarglätter & Multistyler, Sleek & Anti Frizz …",
@@ -2558,18 +2591,5 @@
     "image": "https://m.media-amazon.com/images/P/B074J495G3.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T22:42:04.645Z"
-  },
-  {
-    "id": "auto-b00nvmio02",
-    "asin": "B00NVMIO02",
-    "title": "Amazon / Black Friday] Braun ThermoScan 7 Ohrthermometer IRT6520",
-    "category": "Tech",
-    "price": 34.49,
-    "oldPrice": 42.46,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T21:32:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00NVMIO02.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T21:43:35.097Z"
   }
 ]
