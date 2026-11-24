@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b0bbhst8bz",
+    "asin": "B0BBHST8BZ",
+    "title": "Duravit wassersparende Universal Handbrause, Duschbrause mit 3 …",
+    "category": "Tech",
+    "price": 15.99,
+    "checkedAt": "2026-11-24T05:31:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BBHST8BZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b09pz1jmz5",
+    "asin": "B09PZ1JMZ5",
+    "title": "SIGG - Tritan Trinkflasche - Total Color Clear ONE Green 0.75 L …",
+    "category": "Haushalt",
+    "price": 10.39,
+    "checkedAt": "2026-11-24T05:40:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09PZ1JMZ5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0bbhg7dy9",
     "asin": "B0BBHG7DY9",
     "title": "Duravit Universal Duschkopf, 14 Liter pro Minute",
@@ -2969,41 +2989,5 @@
     "checkedAt": "2026-11-23T05:57:27.000Z",
     "image": "https://m.media-amazon.com/images/P/B0C3VMBCY5.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0b5vplxrb",
-    "asin": "B0B5VPLXRB",
-    "title": "Tefal Ingenio Emotion 20-tlg. Topf- und Pfannenset Induktion",
-    "category": "Küche",
-    "price": 139.99,
-    "checkedAt": "2026-11-23T05:38:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B5VPLXRB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b01m8g4jvd",
-    "asin": "B01M8G4JVD",
-    "title": "Brüder Mannesmann Werkzeugkoffer, 87-teilig - Werkzeugset mit Werkzeug …",
-    "subtitle": "🔥 170° bei mydealz",
-    "category": "Werkzeug",
-    "price": 39.99,
-    "checkedAt": "2026-11-23T05:34:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01M8G4JVD.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 170,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T06:17:45.052Z"
-  },
-  {
-    "id": "auto-b0fpxdcqcv",
-    "asin": "B0FPXDCQCV",
-    "title": "LEGO Ideas Schwimmende Otter 21366",
-    "category": "Spielzeug & LEGO",
-    "price": 66.99,
-    "oldPrice": 109.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T05:32:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXDCQCV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T06:32:22.940Z"
   }
 ]
