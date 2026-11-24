@@ -1,5 +1,80 @@
 [
   {
+    "id": "auto-b09wmvbvhg",
+    "asin": "B09WMVBVHG",
+    "title": "SKROSS Reiseadapter Pro",
+    "category": "Tech",
+    "price": 15.99,
+    "checkedAt": "2026-11-24T07:26:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09WMVBVHG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:45:30.545Z"
+  },
+  {
+    "id": "auto-b0dhs9y192",
+    "asin": "B0DHS9Y192",
+    "title": "LEGO Speed Champions McLaren F1 Team MCL38 (77251)",
+    "category": "Spielzeug & LEGO",
+    "price": 15,
+    "oldPrice": 19.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T06:45:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DHS9Y192.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:45:25.294Z"
+  },
+  {
+    "id": "auto-b0fs25dtxm",
+    "asin": "B0FS25DTXM",
+    "title": "Turtle Beach Afterglow Wave kabelloser RGB-Controller, Nintendo Switch …",
+    "category": "Gaming",
+    "price": 34.99,
+    "oldPrice": 57.98,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T07:44:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FS25DTXM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:45:19.601Z"
+  },
+  {
+    "id": "queue-b0fftq6b37",
+    "asin": "B0FFTQ6B37",
+    "title": "Turtle Beach Rematch Wireless Controller Donkey Kong",
+    "subtitle": "Kabelloser Controller für Switch 2 und Switch mit bis zu 40 Std. Akku.",
+    "category": "Gaming",
+    "price": 35,
+    "oldPrice": 41.18,
+    "checkedAt": "2026-11-23T15:37:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FFTQ6B37.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:45:01.767Z"
+  },
+  {
+    "id": "queue-b09kxtcmsc",
+    "asin": "B09KXTCMSC",
+    "title": "SONOFF Zigbee 3.0 USB Dongle Plus (ZBDongle-P)",
+    "subtitle": "Zigbee-Stick mit TI CC2652P – ideal für Home Assistant und Zigbee2MQTT.",
+    "category": "Smart Home",
+    "price": 21.17,
+    "oldPrice": 34.99,
+    "checkedAt": "2026-11-23T18:49:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09KXTCMSC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:44:53.585Z"
+  },
+  {
+    "id": "queue-b07ftpx71f",
+    "asin": "B07FTPX71F",
+    "title": "DJI Neo Minidrohne mit 4K-Kamera",
+    "subtitle": "Nur 135 g, 4K UHD, KI-Motivverfolgung und Start aus der Handfläche.",
+    "category": "Foto & Video",
+    "price": 118,
+    "checkedAt": "2026-11-24T01:39:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07FTPX71F.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:44:49.165Z"
+  },
+  {
     "id": "auto-b094138m2g",
     "asin": "B094138M2G",
     "title": "Jack & Jones 2er-Pack",
@@ -277,19 +352,6 @@
     "image": "https://m.media-amazon.com/images/P/B0CKVD62NX.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T06:16:06.350Z"
-  },
-  {
-    "id": "auto-b07ftpx71f",
-    "asin": "B07FTPX71F",
-    "title": "DJI Neo Minidrohne",
-    "category": "Foto & Video",
-    "price": 118,
-    "oldPrice": 133,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T01:39:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07FTPX71F.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T06:16:10.678Z"
   },
   {
     "id": "auto-b0bn6b1y84",
@@ -658,19 +720,6 @@
     "image": "https://m.media-amazon.com/images/P/B0C36PPGK7.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T19:00:18.993Z"
-  },
-  {
-    "id": "auto-b09kxtcmsc",
-    "asin": "B09KXTCMSC",
-    "title": "SONOFF Zigbee 3.0 USB Dongle Plus – Amazon Black Friday",
-    "category": "Smart Home",
-    "price": 21.17,
-    "oldPrice": 34.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T18:49:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09KXTCMSC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T19:00:13.639Z"
   },
   {
     "id": "auto-b005gib208",
@@ -1140,19 +1189,6 @@
     "temperature": 169,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T15:46:21.611Z"
-  },
-  {
-    "id": "auto-b0fftq6b37",
-    "asin": "B0FFTQ6B37",
-    "title": "Turtle Beach Rematch Donkey Kong",
-    "subtitle": "🔥 260° bei mydealz",
-    "category": "Tech",
-    "price": 35,
-    "checkedAt": "2026-11-23T15:37:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FFTQ6B37.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 260,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T15:46:16.410Z"
   },
   {
     "id": "auto-b0gwhmlv1w",
@@ -2846,17 +2882,6 @@
     "telegramPostedAt": "2026-11-23T08:16:22.223Z"
   },
   {
-    "id": "auto-b0dwdqyb87",
-    "asin": "B0DWDQYB87",
-    "title": "LEGO ONE PIECE Das Piratenschiff Flying Lamb 75639",
-    "category": "Spielzeug & LEGO",
-    "price": 82.99,
-    "checkedAt": "2026-11-23T07:32:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWDQYB87.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:16:35.465Z"
-  },
-  {
     "id": "auto-b0090i3yss",
     "asin": "B0090I3YSS",
     "title": "Diplomático Reserva Exclusiva Rum 0,7 Liter 40 % Vol.",
@@ -2899,51 +2924,5 @@
     "image": "https://static.mydealz.de/threads/raw/RFr1E/2879194_1/re/768x768/qt/55/2879194_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T08:01:30.499Z"
-  },
-  {
-    "id": "auto-b0crrwmnxv",
-    "asin": "B0CRRWMNXV",
-    "title": "Pantene Pro-V Lift & Volume Haarverdickendes Shampoo 1000ml …",
-    "category": "Beauty & Pflege",
-    "price": 9.49,
-    "checkedAt": "2026-11-23T07:40:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CRRWMNXV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:01:49.423Z"
-  },
-  {
-    "id": "auto-b0grh6kvh1",
-    "asin": "B0GRH6KVH1",
-    "title": "Novilla Matratze 140x200 cm, Härtegrad H3 und H4, 30 cm Höhe …",
-    "category": "Tech",
-    "price": 180.99,
-    "checkedAt": "2026-11-23T07:42:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/XrB70/2879171_1/re/768x768/qt/55/2879171_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:46:52.965Z"
-  },
-  {
-    "id": "auto-b0c9qrzbyz",
-    "asin": "B0C9QRZBYZ",
-    "title": "Joseph Joseph Elevate Messerset 5-teilig mit Bambus-Schubladenblock",
-    "category": "Küche",
-    "price": 93,
-    "checkedAt": "2026-11-23T07:44:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C9QRZBYZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:46:48.130Z"
-  },
-  {
-    "id": "auto-b07xtw88sm",
-    "asin": "B07XTW88SM",
-    "title": "KS Tools 897.7215 - Werkstattwagen",
-    "category": "Tech",
-    "price": 542.15,
-    "oldPrice": 682.67,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T07:39:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07XTW88SM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:46:43.487Z"
   }
 ]

@@ -1,34 +1,5 @@
 [
   {
-    "asin": "B07FTPX71F",
-    "title": "DJI Neo Minidrohne mit 4K-Kamera",
-    "price": 118,
-    "note": "Nur 135 g, 4K UHD, KI-Motivverfolgung und Start aus der Handfläche.",
-    "category": "Foto",
-    "image": "https://static.mydealz.de/threads/raw/BF9LM/2880112_1/re/768x768/qt/55/2880112_1.jpg",
-    "addedAt": "2026-11-24T01:39:28.000Z"
-  },
-  {
-    "asin": "B09KXTCMSC",
-    "title": "SONOFF Zigbee 3.0 USB Dongle Plus (ZBDongle-P)",
-    "price": 21.17,
-    "oldPrice": 34.99,
-    "note": "Zigbee-Stick mit TI CC2652P – ideal für Home Assistant und Zigbee2MQTT.",
-    "category": "Smart Home",
-    "image": "https://static.mydealz.de/threads/raw/JqnoS/2879905_1/re/768x768/qt/55/2879905_1.jpg",
-    "addedAt": "2026-11-23T18:49:09.000Z"
-  },
-  {
-    "asin": "B0FFTQ6B37",
-    "title": "Turtle Beach Rematch Wireless Controller Donkey Kong",
-    "price": 35,
-    "oldPrice": 41.18,
-    "note": "Kabelloser Controller für Switch 2 und Switch mit bis zu 40 Std. Akku.",
-    "category": "Gaming",
-    "image": "https://static.mydealz.de/threads/raw/GgXyE/2866456_1/re/768x768/qt/55/2866456_1.jpg",
-    "addedAt": "2026-11-23T15:37:51.000Z"
-  },
-  {
     "asin": "B0G4NMRQ63",
     "title": "UGREEN ClipBuds Pro 2 Open-Ear Kopfhörer",
     "price": 53.99,
