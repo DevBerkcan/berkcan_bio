@@ -1,5 +1,86 @@
 [
   {
+    "id": "auto-b00k3lhvv2",
+    "asin": "B00K3LHVV2",
+    "title": "VICTORINOX Evolution 18",
+    "category": "Tech",
+    "price": 30.49,
+    "checkedAt": "2026-11-24T08:18:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00K3LHVV2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:30:52.000Z"
+  },
+  {
+    "id": "auto-b0ctcwvc9m",
+    "asin": "B0CTCWVC9M",
+    "title": "Corsair K65 Plus Wireless",
+    "category": "Tech",
+    "price": 89,
+    "checkedAt": "2026-11-24T08:19:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CTCWVC9M.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:30:46.814Z"
+  },
+  {
+    "id": "auto-b00f9suke4",
+    "asin": "B00F9SUKE4",
+    "title": "Russell Hobbs Steamglide Pro Dampfbügeleisen |",
+    "category": "Haushalt",
+    "price": 25.49,
+    "checkedAt": "2026-11-24T08:28:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00F9SUKE4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:30:41.554Z"
+  },
+  {
+    "id": "auto-b0ggqm4v1g",
+    "asin": "B0GGQM4V1G",
+    "title": "UGREEN Magnetische Kabelhalter, 6 Stück, selbstklebend, 360° drehbar, …",
+    "category": "Tech",
+    "price": 6.65,
+    "checkedAt": "2026-11-24T08:28:51.000Z",
+    "image": "https://static.mydealz.de/threads/raw/570t5/2880261_1/re/768x768/qt/55/2880261_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:30:35.870Z"
+  },
+  {
+    "id": "auto-b005hvz65q",
+    "asin": "B005HVZ65Q",
+    "title": "Knipex 98 62 01 isolierende Kunststoff Greifzange",
+    "category": "Werkzeug",
+    "price": 14.21,
+    "oldPrice": 22.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T08:25:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B005HVZ65Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:30:28.864Z"
+  },
+  {
+    "id": "queue-b0089ewlr4",
+    "asin": "B0089EWLR4",
+    "title": "ESMART MIMOTO Motorleinwand 221×125 cm, 16:9",
+    "subtitle": "Elektrische Beamer-Leinwand im 16:9-Format inklusive Fernbedienung.",
+    "category": "TV & Heimkino",
+    "price": 180.18,
+    "checkedAt": "2026-11-24T07:07:23.000Z",
+    "image": "https://static.mydealz.de/threads/raw/F1EN5/2880191_1/re/768x768/qt/55/2880191_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:30:11.291Z"
+  },
+  {
+    "id": "queue-b0dw9792rh",
+    "asin": "B0DW9792RH",
+    "title": "TCL 50T6C 50\" 4K QLED Fire TV",
+    "subtitle": "QLED mit HDR10+, Dolby Vision & Atmos, Fire TV und Alexa.",
+    "category": "Amazon-Geräte",
+    "price": 239,
+    "checkedAt": "2026-11-23T12:46:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DW9792RH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:30:05.754Z"
+  },
+  {
     "id": "auto-b0fpxd7pqv",
     "asin": "B0FPXD7PQV",
     "title": "LEGO Technic 42220 Monster Jam Sparkle Smash mit Rückziehmotor",
@@ -318,17 +399,6 @@
     "image": "https://m.media-amazon.com/images/P/B00IWVDGBE.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T07:15:32.769Z"
-  },
-  {
-    "id": "auto-b0089ewlr4",
-    "asin": "B0089EWLR4",
-    "title": "ESMART Professional MIMOTO Motorleinwand – Amazon Black Friday",
-    "category": "Tech",
-    "price": 180.18,
-    "checkedAt": "2026-11-24T07:07:23.000Z",
-    "image": "https://static.mydealz.de/threads/raw/F1EN5/2880191_1/re/768x768/qt/55/2880191_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T07:15:22.239Z"
   },
   {
     "id": "queue-b0dfnt93ny",
@@ -1850,17 +1920,6 @@
     "telegramPostedAt": "2026-11-23T13:16:23.285Z"
   },
   {
-    "id": "auto-b0dw9792rh",
-    "asin": "B0DW9792RH",
-    "title": "TCL 50T6C 50 Zoll QLED Fernseher, 4K UHD, Fire TV, HDR10+, Dolby …",
-    "category": "Amazon-Geräte",
-    "price": 239,
-    "checkedAt": "2026-11-23T12:46:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DW9792RH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T15:16:36.114Z"
-  },
-  {
     "id": "auto-b0ggclbwtj",
     "asin": "B0GGCLBWTJ",
     "title": "GAUDER Kabelbinder schwarz UV-beständig",
@@ -2777,17 +2836,6 @@
     "telegramPostedAt": "2026-11-23T09:16:05.854Z"
   },
   {
-    "id": "auto-b0fpxfkl1d",
-    "asin": "B0FPXFKL1D",
-    "title": "Lego Harry Potter 76473 Schloss Hogwarts Ostflügel",
-    "category": "Spielzeug & LEGO",
-    "price": 156.99,
-    "checkedAt": "2026-11-23T08:21:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXFKL1D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T09:16:17.323Z"
-  },
-  {
     "id": "auto-b0b722ctnl",
     "asin": "B0B722CTNL",
     "title": "Philips Sonicare DiamondClean 9000 Schallzahnbürste, Doppelpack mit 4 …",
@@ -2919,38 +2967,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BLC23TKD.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T08:46:09.979Z"
-  },
-  {
-    "id": "auto-b0dv11cbmz",
-    "asin": "B0DV11CBMZ",
-    "title": "Diesel Only The Brave (Eau de Parfum) 50 ml",
-    "category": "Beauty & Pflege",
-    "price": 33.95,
-    "checkedAt": "2026-11-23T08:21:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DV11CBMZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:31:21.424Z"
-  },
-  {
-    "id": "auto-b0gjttrzzj",
-    "asin": "B0GJTTRZZJ",
-    "title": "GAUDER Juteschnur 100% Naturfaser (100 m x 2 mm)",
-    "category": "Tech",
-    "price": 6.45,
-    "checkedAt": "2026-11-23T08:22:18.000Z",
-    "image": "https://static.mydealz.de/threads/raw/kToTC/2879226_1/re/768x768/qt/55/2879226_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:31:16.560Z"
-  },
-  {
-    "id": "auto-b07813h28s",
-    "asin": "B07813H28S",
-    "title": "Under Armour Tech 2.0 T-Shirt Herren BlACK/Black M-XXL",
-    "category": "Mode & Reise",
-    "price": 15,
-    "checkedAt": "2026-11-23T08:27:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07813H28S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:31:10.942Z"
   }
 ]
