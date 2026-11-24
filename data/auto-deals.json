@@ -1,5 +1,98 @@
 [
   {
+    "id": "auto-b0fpxd7pqv",
+    "asin": "B0FPXD7PQV",
+    "title": "LEGO Technic 42220 Monster Jam Sparkle Smash mit Rückziehmotor",
+    "category": "Spielzeug & LEGO",
+    "price": 13.99,
+    "checkedAt": "2026-11-24T06:02:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXD7PQV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:15:42.920Z"
+  },
+  {
+    "id": "auto-b0d62z6c4r",
+    "asin": "B0D62Z6C4R",
+    "title": "Volvic Active Vitamin+ Pfirsich Erfrischungsgetränk 6 x 0,75 L",
+    "category": "Tech",
+    "price": 5.82,
+    "checkedAt": "2026-11-24T08:08:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D62Z6C4R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:15:24.474Z"
+  },
+  {
+    "id": "auto-b081f24hxf",
+    "asin": "B081F24HXF",
+    "title": "1kg Nature Diet Flohsamenschalen (83% Ballaststoffe)",
+    "category": "Tech",
+    "price": 14.62,
+    "checkedAt": "2026-11-24T08:10:35.000Z",
+    "image": "https://static.mydealz.de/threads/raw/lwL3i/2880237_1/re/768x768/qt/55/2880237_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:15:19.482Z"
+  },
+  {
+    "id": "auto-b0c6dzw8ym",
+    "asin": "B0C6DZW8YM",
+    "title": "Razer BlackWidow V4 - Mechanische Gaming-Tastatur Chroma RGB",
+    "category": "Computer",
+    "price": 94.05,
+    "checkedAt": "2026-11-24T08:14:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C6DZW8YM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:15:13.624Z"
+  },
+  {
+    "id": "auto-b0fpxf65ph",
+    "asin": "B0FPXF65PH",
+    "title": "LEGO Speed Champions 77260 Toyota Supra MK4",
+    "category": "Spielzeug & LEGO",
+    "price": 16.15,
+    "oldPrice": 27.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T06:34:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXF65PH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:15:08.229Z"
+  },
+  {
+    "id": "queue-b0glpqcr51",
+    "asin": "B0GLPQCR51",
+    "title": "DJI Osmo Mobile 8 Smartphone-Gimbal Combo",
+    "subtitle": "Gimbal-Stabilisator für ruckelfreie Smartphone-Videos.",
+    "category": "Smartphone & Tablet",
+    "price": 83,
+    "checkedAt": "2026-11-24T07:07:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GLPQCR51.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:14:51.377Z"
+  },
+  {
+    "id": "queue-b0dkt7xmrs",
+    "asin": "B0DKT7XMRS",
+    "title": "Reolink 4K Wi-Fi 6 PTZ Außenkamera",
+    "subtitle": "4K-Überwachungskamera mit Wi-Fi 6, Schwenk/Neige-Funktion und Auto-Tracking-Zoom.",
+    "category": "Smart Home",
+    "price": 149.99,
+    "checkedAt": "2026-11-23T13:53:49.000Z",
+    "image": "https://static.mydealz.de/threads/raw/swW4P/2879628_1/re/768x768/qt/55/2879628_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:14:46.960Z"
+  },
+  {
+    "id": "queue-b0dsg9vcrh",
+    "asin": "B0DSG9VCRH",
+    "title": "Garmin Instinct 3 Solar 45 mm Smartwatch",
+    "subtitle": "Robuste Outdoor-Smartwatch mit Solar-Laden im schlichten Schwarz.",
+    "category": "Smartphone & Tablet",
+    "price": 235,
+    "checkedAt": "2026-11-24T06:22:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DSG9VCRH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:14:41.904Z"
+  },
+  {
     "id": "auto-b07v47nglc",
     "asin": "B07V47NGLC",
     "title": "Medisana BBS Luftsprudelbad",
@@ -7,7 +100,8 @@
     "price": 84.49,
     "checkedAt": "2026-11-24T07:47:34.000Z",
     "image": "https://m.media-amazon.com/images/P/B07V47NGLC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:15:37.722Z"
   },
   {
     "id": "auto-b08682vq92",
@@ -17,7 +111,8 @@
     "price": 23.74,
     "checkedAt": "2026-11-24T07:53:35.000Z",
     "image": "https://m.media-amazon.com/images/P/B08682VQ92.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:15:33.361Z"
   },
   {
     "id": "auto-b0d87ct5s7",
@@ -27,7 +122,8 @@
     "price": 8.99,
     "checkedAt": "2026-11-24T07:54:06.000Z",
     "image": "https://m.media-amazon.com/images/P/B0D87CT5S7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:15:29.066Z"
   },
   {
     "id": "auto-b08j3qzlrk",
@@ -224,17 +320,6 @@
     "telegramPostedAt": "2026-11-24T07:15:32.769Z"
   },
   {
-    "id": "auto-b0glpqcr51",
-    "asin": "B0GLPQCR51",
-    "title": "DJI Osmo Mobile 8 Standard-Combo, Gimbal-Stabilisator für Smartphones",
-    "category": "Smartphone & Tablet",
-    "price": 83,
-    "checkedAt": "2026-11-24T07:07:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GLPQCR51.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T07:15:27.479Z"
-  },
-  {
     "id": "auto-b0089ewlr4",
     "asin": "B0089EWLR4",
     "title": "ESMART Professional MIMOTO Motorleinwand – Amazon Black Friday",
@@ -350,17 +435,6 @@
     "image": "https://m.media-amazon.com/images/P/B00D6H4Y92.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T06:30:52.383Z"
-  },
-  {
-    "id": "auto-b0dsg9vcrh",
-    "asin": "B0DSG9VCRH",
-    "title": "Instinct 3 Solar 45mm Schwarz",
-    "category": "Tech",
-    "price": 235,
-    "checkedAt": "2026-11-24T06:22:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DSG9VCRH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T06:30:47.179Z"
   },
   {
     "id": "auto-b07cfhhd8p",
@@ -1513,17 +1587,6 @@
     "image": "https://m.media-amazon.com/images/P/B098Y186GH.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T14:16:12.755Z"
-  },
-  {
-    "id": "auto-b0dkt7xmrs",
-    "asin": "B0DKT7XMRS",
-    "title": "Reolink 4K Wi-Fi 6 PTZ Überwachungskamera Aussen WLAN, …",
-    "category": "Smart Home",
-    "price": 149.99,
-    "checkedAt": "2026-11-23T13:53:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/swW4P/2879628_1/re/768x768/qt/55/2879628_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T14:16:30.073Z"
   },
   {
     "id": "auto-b083zw86h1",
@@ -2889,51 +2952,5 @@
     "image": "https://m.media-amazon.com/images/P/B07813H28S.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T08:31:10.942Z"
-  },
-  {
-    "id": "auto-b07w71l2gz",
-    "asin": "B07W71L2GZ",
-    "title": "ONLY & SONS Chinohose verschied. Größen & Farben reduziert Mark Skinny …",
-    "category": "Tech",
-    "price": 15.29,
-    "checkedAt": "2026-11-23T08:03:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07W71L2GZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:16:31.987Z"
-  },
-  {
-    "id": "auto-b0dt7c96ds",
-    "asin": "B0DT7C96DS",
-    "title": "Shark Dampfreiniger S8201EUCP 3 Dampfstufen",
-    "category": "Haushalt",
-    "price": 99.99,
-    "checkedAt": "2026-11-23T08:07:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DT7C96DS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:16:27.075Z"
-  },
-  {
-    "id": "auto-b00csrz7ec",
-    "asin": "B00CSRZ7EC",
-    "title": "Adobe Creative Cloud Pro (Einzelanwendung)",
-    "subtitle": "🔥 112° bei mydealz",
-    "category": "Tech",
-    "price": 252.74,
-    "checkedAt": "2026-11-23T08:05:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00CSRZ7EC.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 112,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:16:22.223Z"
-  },
-  {
-    "id": "auto-b0gdwyqm8j",
-    "asin": "B0GDWYQM8J",
-    "title": "UGREEN Nexode Air 100W AVS USB C Ladegerät für iPhone 18 Pro/Pro Max",
-    "category": "Smartphone & Tablet",
-    "price": 25.49,
-    "checkedAt": "2026-11-23T08:00:57.000Z",
-    "image": "https://static.mydealz.de/threads/raw/RFr1E/2879194_1/re/768x768/qt/55/2879194_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:01:30.499Z"
   }
 ]
