@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0fpxgbhmz",
+    "asin": "B0FPXGBHMZ",
+    "title": "LEGO Super Mario: Mario Kart – Luigi & Turboflitzer 72050",
+    "category": "Spielzeug & LEGO",
+    "price": 114.98,
+    "checkedAt": "2026-11-24T17:04:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXGBHMZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T18:00:48.782Z"
+  },
+  {
+    "id": "auto-b0h2d1r1by",
+    "asin": "B0H2D1R1BY",
+    "title": "Keychron K10 Ultra 8K kabellose Gaming-Tastatur, ISO-DE-Layout, 8000 …",
+    "category": "Computer",
+    "price": 116.99,
+    "checkedAt": "2026-11-24T17:48:33.000Z",
+    "image": "https://static.mydealz.de/threads/raw/1xsuo/2880834_1/re/768x768/qt/55/2880834_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T18:00:43.557Z"
+  },
+  {
+    "id": "auto-b06xcpgfp3",
+    "asin": "B06XCPGFP3",
+    "title": "Kryptonite Evolution LS Bügelschloss, extra lang, Sicherheitslevel …",
+    "category": "Tech",
+    "price": 48.59,
+    "checkedAt": "2026-11-24T17:54:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B06XCPGFP3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T18:00:37.112Z"
+  },
+  {
+    "id": "auto-b0gz1cc38v",
+    "asin": "B0GZ1CC38V",
+    "title": "Faithless - Insomnia",
+    "category": "Tech",
+    "price": 19.99,
+    "checkedAt": "2026-11-24T17:55:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GZ1CC38V.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T18:00:31.646Z"
+  },
+  {
     "id": "auto-b0dwf1s7nt",
     "asin": "B0DWF1S7NT",
     "title": "LEGO Speed Champions Porsche 911 GT3 RS Supersportwagen 77239 |",
@@ -2479,17 +2523,6 @@
     "telegramPostedAt": "2026-11-23T19:30:45.151Z"
   },
   {
-    "id": "auto-b0dlh5mg5j",
-    "asin": "B0DLH5MG5J",
-    "title": "Monopoly Pokémon Edition Brettspiel",
-    "category": "Spielzeug & LEGO",
-    "price": 18.99,
-    "checkedAt": "2026-11-23T17:50:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DLH5MG5J.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T19:16:00.647Z"
-  },
-  {
     "id": "auto-b0g3xs7b7s",
     "asin": "B0G3XS7B7S",
     "title": "Prime - Mattel DC Premier Series Heat Vision Superman Actionfigur 16,5 …",
@@ -2701,53 +2734,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GY4HYKYQ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T18:15:51.226Z"
-  },
-  {
-    "id": "auto-b000f4avpa",
-    "asin": "B000F4AVPA",
-    "title": "Hundeball Hundespielzeug Chuckit! Ultra Ball Medium (2 Bälle) …",
-    "subtitle": "🔥 109° bei mydealz",
-    "category": "Spielzeug & LEGO",
-    "price": 5.79,
-    "checkedAt": "2026-11-23T17:47:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000F4AVPA.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 109,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T18:15:45.914Z"
-  },
-  {
-    "id": "auto-b06xcdznd2",
-    "asin": "B06XCDZND2",
-    "title": "Kryptonite Fahrradschloss Evolution Mini-9 Bügelschloss - …",
-    "category": "Sport & Outdoor",
-    "price": 36.49,
-    "checkedAt": "2026-11-23T17:55:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06XCDZND2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T18:00:49.969Z"
-  },
-  {
-    "id": "auto-b0cwp9v73c",
-    "asin": "B0CWP9V73C",
-    "title": "Endless Ocean Luminous",
-    "category": "Tech",
-    "price": 18.4,
-    "checkedAt": "2026-11-23T17:55:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CWP9V73C.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T18:00:44.460Z"
-  },
-  {
-    "id": "auto-b0bpstk5xz",
-    "asin": "B0BPSTK5XZ",
-    "title": "3 Paar adidas Unisex Thin & Light Linear Ankle Socks Gr 37/40 bis …",
-    "subtitle": "🔥 307° bei mydealz",
-    "category": "Audio",
-    "price": 5.99,
-    "checkedAt": "2026-11-23T17:49:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BPSTK5XZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 307,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T18:00:38.571Z"
   }
 ]
