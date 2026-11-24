@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0dvzrntf9",
+    "asin": "B0DVZRNTF9",
+    "title": "Cecotec Scoba 2100 Station Akkustaubsauger 20 kPa",
+    "category": "Haushalt",
+    "price": 72.99,
+    "checkedAt": "2026-11-24T10:55:48.000Z",
+    "image": "https://static.mydealz.de/threads/raw/PPWKA/2880439_1/re/768x768/qt/55/2880439_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:00:49.541Z"
+  },
+  {
+    "id": "auto-b09b836ttq",
+    "asin": "B09B836TTQ",
+    "title": "Corsair HS80 RGB Wireless Gaming-Headset, Slipstream Wireless, Dolby …",
+    "category": "Gaming",
+    "price": 79.99,
+    "checkedAt": "2026-11-24T10:56:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09B836TTQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:00:43.351Z"
+  },
+  {
     "id": "auto-b0bx49fqf8",
     "asin": "B0BX49FQF8",
     "title": "Philips Luftreiniger Mini 600 Serie AC0650/10, für Räume bis 44 m², …",
@@ -2703,17 +2725,6 @@
     "telegramPostedAt": "2026-11-23T11:46:23.143Z"
   },
   {
-    "id": "auto-b0cf1wxkfs",
-    "asin": "B0CF1WXKFS",
-    "title": "Zug um Zug Legacy: Legenden des Westens – deutsches Brettspiel mit …",
-    "category": "Spielzeug & LEGO",
-    "price": 67.89,
-    "checkedAt": "2026-11-23T10:59:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CF1WXKFS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:31:44.308Z"
-  },
-  {
     "id": "auto-b0hnwnq9hk",
     "asin": "B0HNWNQ9HK",
     "title": "NoBrainer: Gaming Keyboard mit RGB",
@@ -2775,17 +2786,6 @@
     "telegramPostedAt": "2026-11-23T11:31:10.003Z"
   },
   {
-    "id": "auto-b0h8t3f66p",
-    "asin": "B0H8T3F66P",
-    "title": "Pokémon-Sammelkartenspiel: Top-Trainer-Box 30 Jahre",
-    "category": "Spielzeug & LEGO",
-    "price": 52.99,
-    "checkedAt": "2026-11-23T10:57:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H8T3F66P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:16:28.260Z"
-  },
-  {
     "id": "auto-b007ci5tmw",
     "asin": "B007CI5TMW",
     "title": "Haribo Roulette 50 Rollen, 1,25 kg ~ 0,20 € / Rolle PRIME SPARABO",
@@ -2832,62 +2832,5 @@
     "temperature": 213,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T11:16:07.175Z"
-  },
-  {
-    "id": "queue-b00deid79g",
-    "asin": "B00DEID79G",
-    "title": "CTEK MXS 5.0 12V Batterieladegerät für Auto & Motorrad",
-    "subtitle": "AGM-tauglich mit Recond-Modus, Erhaltungsladung und IP65-Schutz.",
-    "category": "Zubehör & Laden",
-    "price": 65.99,
-    "checkedAt": "2026-11-23T10:58:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00DEID79G.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 102,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:15:44.154Z"
-  },
-  {
-    "id": "auto-b0gwf31p6p",
-    "asin": "B0GWF31P6P",
-    "title": "Microsoft Surface Pro, 13 inch",
-    "category": "Tech",
-    "price": 1349,
-    "checkedAt": "2026-11-23T10:53:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GWF31P6P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:01:08.872Z"
-  },
-  {
-    "id": "auto-b009rumt76",
-    "asin": "B009RUMT76",
-    "title": "Pampero Añejo Especial Premium- Rum aus Venezuela 1 Liter 40% Vol.",
-    "category": "Tech",
-    "price": 14.65,
-    "checkedAt": "2026-11-23T10:53:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B009RUMT76.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:01:03.465Z"
-  },
-  {
-    "id": "auto-b0h8sblnw3",
-    "asin": "B0H8SBLNW3",
-    "title": "Panasonic W80C 50 Zoll – 4K-QLED-Fernseher mit Fire TV, Dolby Vision …",
-    "category": "Amazon-Geräte",
-    "price": 399,
-    "checkedAt": "2026-11-23T10:55:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H8SBLNW3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:00:58.246Z"
-  },
-  {
-    "id": "auto-b0dg8xhxpd",
-    "asin": "B0DG8XHXPD",
-    "title": "Corsair Virtuoso Max - für Gamer und Sound Enthusiasten - 2 Farben …",
-    "category": "Gaming",
-    "price": 159,
-    "checkedAt": "2026-11-23T11:00:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DG8XHXPD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:00:52.421Z"
   }
 ]
