@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0fpxh49ff",
+    "asin": "B0FPXH49FF",
+    "title": "LEGO Marvel S.H.I.E.L.D.-Helicarrier 76354 Bausatz für Erwachsene, 6 …",
+    "category": "Spielzeug & LEGO",
+    "price": 229.99,
+    "checkedAt": "2026-11-24T18:11:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXH49FF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T19:14:30.627Z"
+  },
+  {
+    "id": "auto-b0bfjnh3q1",
+    "asin": "B0BFJNH3Q1",
+    "title": "JACK & JONES Male Baggy Fit Jeans lässiger Schnitt Black Denim Alex …",
+    "category": "Mode & Reise",
+    "price": 19.95,
+    "checkedAt": "2026-11-24T18:58:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BFJNH3Q1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T19:14:25.155Z"
+  },
+  {
     "id": "auto-b00hv9tb4o",
     "asin": "B00HV9TB4O",
     "title": "Sony SEL55210 – 55–210 mm F4.5–6.3 OSS Telezoom-Objektiv",
@@ -2173,18 +2195,6 @@
     "telegramPostedAt": "2026-11-24T07:30:19.216Z"
   },
   {
-    "id": "queue-b0883lv8cn",
-    "asin": "B0883LV8CN",
-    "title": "Sonos Five Smart-Speaker",
-    "subtitle": "Großer Sonos-Lautsprecher für kräftigen Raumklang, in Schwarz oder Weiß.",
-    "category": "Audio",
-    "price": 437,
-    "checkedAt": "2026-11-23T19:04:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0883LV8CN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T07:30:02.437Z"
-  },
-  {
     "id": "auto-b00iwvdgbe",
     "asin": "B00IWVDGBE",
     "title": "Teeling Single Grain Irish Whiskey",
@@ -2506,17 +2516,6 @@
     "telegramPostedAt": "2026-11-23T20:44:24.719Z"
   },
   {
-    "id": "auto-b0dwdqwl46",
-    "asin": "B0DWDQWL46",
-    "title": "LEGO Friends Segelabenteuer 42664",
-    "category": "Spielzeug & LEGO",
-    "price": 32.99,
-    "checkedAt": "2026-11-23T19:07:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWDQWL46.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T20:00:23.775Z"
-  },
-  {
     "id": "auto-b08jvfyb18",
     "asin": "B08JVFYB18",
     "title": "Warme Einlegesohlen aus Lammwolle",
@@ -2574,40 +2573,5 @@
     "temperature": 111,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T19:30:45.151Z"
-  },
-  {
-    "id": "auto-b0gq9p7l61",
-    "asin": "B0GQ9P7L61",
-    "title": "Citizen Tsuyosa Shore Kollektion",
-    "category": "Tech",
-    "price": 234.24,
-    "checkedAt": "2026-11-23T19:02:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GQ9P7L61.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T19:15:38.534Z"
-  },
-  {
-    "id": "auto-b07ytnxs5l",
-    "asin": "B07YTNXS5L",
-    "title": "Prime: Trelock U4 Plus Bügel-Fahrradschloss",
-    "category": "Sport & Outdoor",
-    "price": 29.19,
-    "checkedAt": "2026-11-23T19:06:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07YTNXS5L.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T19:15:27.362Z"
-  },
-  {
-    "id": "auto-b077vjqv5f",
-    "asin": "B077VJQV5F",
-    "title": "Mammut Smart Wallet Ultralight Portemonnaie",
-    "subtitle": "🔥 115° bei mydealz",
-    "category": "Mode & Reise",
-    "price": 14.3,
-    "checkedAt": "2026-11-23T19:07:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B077VJQV5F.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 115,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T19:15:21.762Z"
   }
 ]
