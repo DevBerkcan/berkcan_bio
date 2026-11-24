@@ -1,5 +1,60 @@
 [
   {
+    "id": "auto-b099zyxv8h",
+    "asin": "B099ZYXV8H",
+    "title": "Play-Doh Kitchen Creations Pizzabäckerei, 4 x 57g Dosen und 2 x 28g …",
+    "category": "Küche",
+    "price": 9.99,
+    "checkedAt": "2026-11-24T15:38:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B099ZYXV8H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:46:43.886Z"
+  },
+  {
+    "id": "auto-b0ckjcvqtn",
+    "asin": "B0CKJCVQTN",
+    "title": "PUMA Unisex Runner Sneaker - Besteller Nr. 1 in Herren Sneaker - Black …",
+    "category": "Mode & Reise",
+    "price": 26.95,
+    "checkedAt": "2026-11-24T16:32:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CKJCVQTN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:46:38.619Z"
+  },
+  {
+    "id": "auto-b0dwslj7hq",
+    "asin": "B0DWSLJ7HQ",
+    "title": "Russell Hobbs Heißluftfritteuse XXL - 8,3 L",
+    "category": "Küche",
+    "price": 52.79,
+    "checkedAt": "2026-11-24T16:33:26.000Z",
+    "image": "https://static.mydealz.de/threads/raw/pkv3c/2880780_1/re/768x768/qt/55/2880780_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:46:33.455Z"
+  },
+  {
+    "id": "auto-b0d87qr2bn",
+    "asin": "B0D87QR2BN",
+    "title": "Nick Jr. Party Adventure [PS5]",
+    "category": "Gaming",
+    "price": 9.99,
+    "checkedAt": "2026-11-24T16:33:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D87QR2BN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:46:26.724Z"
+  },
+  {
+    "id": "auto-b000s6cjms",
+    "asin": "B000S6CJMS",
+    "title": "Ponal Express Holzleim günstig wie fast nie. Mit Spar-Abo nochmal bis …",
+    "category": "Tech",
+    "price": 6.59,
+    "checkedAt": "2026-11-24T16:39:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000S6CJMS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T16:46:21.439Z"
+  },
+  {
     "id": "auto-b0bsvbz4qx",
     "asin": "B0BSVBZ4QX",
     "title": "Ben's Original Express Reis Mexikanisch 6 x 220g, Mexikanisch scharf, …",
@@ -2174,19 +2229,6 @@
     "telegramPostedAt": "2026-11-23T22:56:54.169Z"
   },
   {
-    "id": "auto-b0dw96cfkl",
-    "asin": "B0DW96CFKL",
-    "title": "TCL 65T6C 65\" QLED 4K Fire TV + z.B. Aufbau, TV-Einrichtung, …",
-    "category": "Amazon-Geräte",
-    "price": 349,
-    "oldPrice": 526.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T16:35:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DW96CFKL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T22:56:48.389Z"
-  },
-  {
     "id": "auto-b074j495g3",
     "asin": "B074J495G3",
     "title": "Amazon - SONGMICS 3 Ebenen Metall-Schuhregal",
@@ -2731,42 +2773,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DMWL2XDY.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T17:01:33.448Z"
-  },
-  {
-    "id": "auto-b0bckn1xw8",
-    "asin": "B0BCKN1XW8",
-    "title": "AEG CLEAN 6000 Bodenstaubsauger mit Beutel, 850 W, 12 m Aktionsradius, …",
-    "category": "Haushalt",
-    "price": 129.99,
-    "checkedAt": "2026-11-23T16:33:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BCKN1XW8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T16:46:54.419Z"
-  },
-  {
-    "id": "auto-b0dpxkn5rh",
-    "asin": "B0DPXKN5RH",
-    "title": "Mepal Flip Sport Trinkflasche 600 ml in Ceramic White",
-    "subtitle": "🔥 119° bei mydealz",
-    "category": "Haushalt",
-    "price": 6.99,
-    "checkedAt": "2026-11-23T16:41:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DPXKN5RH.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 119,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T16:46:43.651Z"
-  },
-  {
-    "id": "auto-b0d44wprpb",
-    "asin": "B0D44WPRPB",
-    "title": "CHERRY XTRFY M64 Wireless Gaming-Maus, kabellos, 2,4 GHz, 53 g, Pixart …",
-    "subtitle": "🔥 401° bei mydealz",
-    "category": "Computer",
-    "price": 16.99,
-    "checkedAt": "2026-11-23T16:36:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D44WPRPB.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 401,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T16:46:38.436Z"
   }
 ]
