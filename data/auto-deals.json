@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b00w2uehws",
+    "asin": "B00W2UEHWS",
+    "title": "Breaking Bad - Die komplette Serie (15 Blu-rays)",
+    "category": "Bücher & Filme",
+    "price": 39.99,
+    "checkedAt": "2026-11-24T06:50:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00W2UEHWS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:00:28.378Z"
+  },
+  {
+    "id": "auto-b0f5fkqrdt",
+    "asin": "B0F5FKQRDT",
+    "title": "Amazon kids tablet 11 neueste Generation 11 zoll",
+    "category": "Smartphone & Tablet",
+    "price": 229.99,
+    "checkedAt": "2026-11-24T06:54:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F5FKQRDT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:00:23.281Z"
+  },
+  {
     "id": "auto-b0gl3bhmtd",
     "asin": "B0GL3BHMTD",
     "title": "Toshiba MW3-AC26SFI(BK) Mikrowelle 6-in-1 mit Grill, Heißluft, …",
@@ -2898,29 +2920,5 @@
     "temperature": 433,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T07:31:31.816Z"
-  },
-  {
-    "id": "auto-b0hd6ndjc8",
-    "asin": "B0HD6NDJC8",
-    "title": "UGREEN MagFlow Air Ultra Slim Powerbank mit Magsafe",
-    "subtitle": "🔥 421° bei mydealz",
-    "category": "Zubehör & Laden",
-    "price": 59.99,
-    "checkedAt": "2026-11-23T06:51:03.000Z",
-    "image": "https://static.mydealz.de/threads/raw/GPC41/2854120_1/re/768x768/qt/55/2854120_1.jpg",
-    "temperature": 421,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:02:07.501Z"
-  },
-  {
-    "id": "auto-b0ddkw58fg",
-    "asin": "B0DDKW58FG",
-    "title": "RYOBI Akkubohrhammer 18 V",
-    "category": "Werkzeug",
-    "price": 158.49,
-    "checkedAt": "2026-11-23T06:45:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DDKW58FG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T06:47:22.881Z"
   }
 ]
