@@ -2580,29 +2580,5 @@
     "temperature": 121,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T23:12:06.080Z"
-  },
-  {
-    "id": "auto-b0czwkhx4s",
-    "asin": "B0CZWKHX4S",
-    "title": "BILLIE EILISH HIT ME HARD AND SOFT (Black LP)",
-    "category": "Tech",
-    "price": 19.99,
-    "checkedAt": "2026-11-23T22:50:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CZWKHX4S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T22:57:03.733Z"
-  },
-  {
-    "id": "auto-b09lcjpz1p",
-    "asin": "B09LCJPZ1P",
-    "title": "2x Anker USB-C Kabel (100W)",
-    "subtitle": "🔥 106° bei mydealz",
-    "category": "Tech",
-    "price": 8.5,
-    "checkedAt": "2026-11-23T22:44:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09LCJPZ1P.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 106,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T22:56:54.169Z"
   }
 ]
