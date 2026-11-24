@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0h83fnr6x",
+    "asin": "B0H83FNR6X",
+    "title": "BlueBrixx Stargate auf Planet, 675 Klemmbausteine, SG-1 Team via …",
+    "category": "Spielzeug & LEGO",
+    "price": 37.95,
+    "checkedAt": "2026-11-24T17:38:19.000Z",
+    "image": "https://static.mydealz.de/threads/raw/FWMU8/2880831_1/re/768x768/qt/55/2880831_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T18:30:20.617Z"
+  },
+  {
     "id": "auto-b01mz9fw54",
     "asin": "B01MZ9FW54",
     "title": "LEGO Icons Bürgermeistervilla 11383, Teile: 1420, 18+",
@@ -2613,17 +2624,6 @@
     "telegramPostedAt": "2026-11-23T19:15:21.762Z"
   },
   {
-    "id": "auto-b08xlrm91z",
-    "asin": "B08XLRM91Z",
-    "title": "Ravensburger Spiele-Klassiker Max Mäuseschreck Kinderspiel ab 4 Jahren",
-    "category": "Spielzeug & LEGO",
-    "price": 15.29,
-    "checkedAt": "2026-11-23T18:20:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08XLRM91Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T19:00:35.855Z"
-  },
-  {
     "id": "auto-b0cnq91mjw",
     "asin": "B0CNQ91MJW",
     "title": "Einhell Präzisionsbit Bitset inkl. Werkzeugbox, 114-tlg., 54 x 4mm S2 …",
@@ -2688,62 +2688,5 @@
     "image": "https://static.mydealz.de/threads/raw/WAmw3/2879899_1/re/768x768/qt/55/2879899_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T18:45:26.279Z"
-  },
-  {
-    "id": "auto-b0h4v2t69z",
-    "asin": "B0H4V2T69Z",
-    "title": "Kneipp Adventskalender 2026 - Hochwertiger Adventskalender mit 24 …",
-    "category": "Tech",
-    "price": 37.99,
-    "checkedAt": "2026-11-23T18:17:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H4V2T69Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T18:30:48.976Z"
-  },
-  {
-    "id": "auto-b073mbq1jj",
-    "asin": "B073MBQ1JJ",
-    "title": "Prime - Unisex Kinder Hose Sweat Pant (2-Pack) in div. Farben",
-    "category": "Tech",
-    "price": 14.88,
-    "checkedAt": "2026-11-23T18:22:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B073MBQ1JJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T18:30:43.576Z"
-  },
-  {
-    "id": "auto-b08fjc8tcp",
-    "asin": "B08FJC8TCP",
-    "title": "Prime - bugatti Herren Halbschuhe in guten Größen",
-    "category": "Mode & Reise",
-    "price": 37.96,
-    "checkedAt": "2026-11-23T18:26:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08FJC8TCP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T18:30:38.507Z"
-  },
-  {
-    "id": "auto-b08r7v5kyy",
-    "asin": "B08R7V5KYY",
-    "title": "Parker IM Kugelschreiber aus Edelstahl",
-    "category": "Tech",
-    "price": 10.99,
-    "checkedAt": "2026-11-23T18:27:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08R7V5KYY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T18:30:32.615Z"
-  },
-  {
-    "id": "auto-b07j24m6wx",
-    "asin": "B07J24M6WX",
-    "title": "Bosch Professional Ringmaul-Ratschenschlüssel-Set, 10-teilig, 8–19 mm …",
-    "subtitle": "🔥 309° bei mydealz",
-    "category": "Werkzeug",
-    "price": 64.99,
-    "checkedAt": "2026-11-23T18:25:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07J24M6WX.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 309,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T18:30:26.744Z"
   }
 ]
