@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b08ghn366k",
+    "asin": "B08GHN366K",
+    "title": "EMSA Clip & Close Frischhaltedosen-Set (5 x 0,8 L)",
+    "category": "Tech",
+    "price": 17.43,
+    "checkedAt": "2026-11-24T15:22:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08GHN366K.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T15:31:11.206Z"
+  },
+  {
+    "id": "auto-b0cp7nv936",
+    "asin": "B0CP7NV936",
+    "title": "Anker 30W Zigarettenanzünder USB-C",
+    "category": "Tech",
+    "price": 8.54,
+    "checkedAt": "2026-11-24T15:23:02.000Z",
+    "image": "https://static.mydealz.de/threads/raw/EWjA3/2880712_1/re/768x768/qt/55/2880712_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T15:31:05.668Z"
+  },
+  {
+    "id": "auto-b0d9jpdvn1",
+    "asin": "B0D9JPDVN1",
+    "title": "Shelly i4 Gen3 Schaltermodul",
+    "category": "Tech",
+    "price": 10.33,
+    "checkedAt": "2026-11-24T15:25:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D9JPDVN1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T15:30:59.375Z"
+  },
+  {
+    "id": "auto-b0c3b896r9",
+    "asin": "B0C3B896R9",
+    "title": "GoveeLife Bluetooth Digitales Thermometer Hygrometer Innen Govee",
+    "subtitle": "🔥 489° bei mydealz",
+    "category": "Tech",
+    "price": 10.99,
+    "checkedAt": "2026-11-24T15:24:22.000Z",
+    "image": "https://static.mydealz.de/threads/raw/qeJUe/2841217_1/re/768x768/qt/55/2841217_1.jpg",
+    "temperature": 489,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T15:30:49.975Z"
+  },
+  {
     "id": "auto-b0c3xjqlk7",
     "asin": "B0C3XJQLK7",
     "title": "CLEMENTONI - Galileo Lab Entdecke die Welt der fleischfressenden …",
@@ -2536,17 +2582,6 @@
     "telegramPostedAt": "2026-11-23T16:31:38.039Z"
   },
   {
-    "id": "auto-b0dhsfg8f3",
-    "asin": "B0DHSFG8F3",
-    "title": "LEGO Technic Tiefseeforscher U-Boot 42201",
-    "category": "Spielzeug & LEGO",
-    "price": 19.99,
-    "checkedAt": "2026-11-23T15:25:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHSFG8F3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T16:31:55.876Z"
-  },
-  {
     "id": "auto-b006auor1w",
     "asin": "B006AUOR1W",
     "title": "Thetford Porta Potti 365 Campingtoilette (92820, Weiß)",
@@ -2670,53 +2705,5 @@
     "temperature": 169,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T15:46:21.611Z"
-  },
-  {
-    "id": "auto-b0gwhmlv1w",
-    "asin": "B0GWHMLV1W",
-    "title": "JOREST 145 in 1 Feinmechaniker Bit Set inkl. Schraubendreher, Tasche …",
-    "category": "Tech",
-    "price": 22.78,
-    "checkedAt": "2026-11-23T15:19:03.000Z",
-    "image": "https://static.mydealz.de/threads/raw/6WR7s/2879705_1/re/768x768/qt/55/2879705_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T15:31:34.116Z"
-  },
-  {
-    "id": "auto-b073k3tc1p",
-    "asin": "B073K3TC1P",
-    "title": "WAGNER Control Pro 350 R Airless Farbsprühsystem, 110 bar, 15 m …",
-    "category": "Tech",
-    "price": 399.98,
-    "checkedAt": "2026-11-23T15:24:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B073K3TC1P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T15:31:26.558Z"
-  },
-  {
-    "id": "auto-b0fpxgpt4j",
-    "asin": "B0FPXGPT4J",
-    "title": "LEGO Harry Potter Wichtel, Kornwaliser Kobold (76461)",
-    "subtitle": "🔥 106° bei mydealz",
-    "category": "Spielzeug & LEGO",
-    "price": 16.99,
-    "checkedAt": "2026-11-23T15:21:20.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXGPT4J.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 106,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T15:31:21.182Z"
-  },
-  {
-    "id": "auto-b0gqlml7xk",
-    "asin": "B0GQLML7XK",
-    "title": "Fallout - Staffel 1 auf 3 Blu-rays",
-    "category": "Bücher & Filme",
-    "price": 27.66,
-    "oldPrice": 39.09,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T15:27:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GQLML7XK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T15:31:16.648Z"
   }
 ]
