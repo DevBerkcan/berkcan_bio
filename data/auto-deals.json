@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b07cfhhd8p",
+    "asin": "B07CFHHD8P",
+    "title": "Jack & Jones Kapuzenpulli Hoodie Logo blau",
+    "category": "Mode & Reise",
+    "price": 20.68,
+    "checkedAt": "2026-11-24T05:59:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07CFHHD8P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:01:13.686Z"
+  },
+  {
     "id": "auto-b0bbhst8bz",
     "asin": "B0BBHST8BZ",
     "title": "Duravit wassersparende Universal Handbrause, Duschbrause mit 3 …",
@@ -29,7 +40,8 @@
     "checkedAt": "2026-11-24T05:24:18.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BBHG7DY9.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 103,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:01:04.077Z"
   },
   {
     "id": "auto-b01iyb9zf2",
@@ -1109,7 +1121,8 @@
     "price": 31.41,
     "checkedAt": "2026-11-23T14:16:00.000Z",
     "image": "https://m.media-amazon.com/images/P/B019EEUQ2O.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:01:08.543Z"
   },
   {
     "id": "auto-b07jyy3kmv",
@@ -2860,17 +2873,6 @@
     "telegramPostedAt": "2026-11-23T07:02:07.501Z"
   },
   {
-    "id": "auto-b0cfw274zs",
-    "asin": "B0CFW274ZS",
-    "title": "LEGO Icons McLaren MP4/4 & Ayrton Senna 10330 Bausatz für Erwachsene, …",
-    "category": "Spielzeug & LEGO",
-    "price": 44.99,
-    "checkedAt": "2026-11-23T05:59:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CFW274ZS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:17:08.549Z"
-  },
-  {
     "id": "auto-b0fjm9562p",
     "asin": "B0FJM9562P",
     "title": "Atari 2600+ Pac-Man Edition Retro-Konsole",
@@ -2968,26 +2970,5 @@
     "image": "https://m.media-amazon.com/images/P/B092DZ1VK5.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T06:17:50.081Z"
-  },
-  {
-    "id": "auto-b0fpxvhd1y",
-    "asin": "B0FPXVHD1Y",
-    "title": "LEGO Star Wars SMART Play: Darth Vaders TIE Fighter 75421 SMART Brick …",
-    "category": "Spielzeug & LEGO",
-    "price": 39.89,
-    "checkedAt": "2026-11-23T05:55:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXVHD1Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:17:12.006Z"
-  },
-  {
-    "id": "auto-b0c3vmbcy5",
-    "asin": "B0C3VMBCY5",
-    "title": "Bosch Professional 18V System Akku-Stichsäge GST 18V-125 S",
-    "category": "Werkzeug",
-    "price": 149.99,
-    "checkedAt": "2026-11-23T05:57:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C3VMBCY5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
