@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0dp6wmffp",
+    "asin": "B0DP6WMFFP",
+    "title": "Simba New Born Baby Hungry Vollvinylpuppe",
+    "category": "Spielzeug & LEGO",
+    "price": 8.9,
+    "checkedAt": "2026-11-24T11:50:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DP6WMFFP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T13:16:26.616Z"
+  },
+  {
+    "id": "auto-b0fpm5knfh",
+    "asin": "B0FPM5KNFH",
+    "title": "Blu-ray: Zurück in die Zukunft - 40th Anniversary Trilogie",
+    "category": "Bücher & Filme",
+    "price": 22.48,
+    "checkedAt": "2026-11-24T13:02:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPM5KNFH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T13:16:21.338Z"
+  },
+  {
+    "id": "auto-b00m0hmyiw",
+    "asin": "B00M0HMYIW",
+    "title": "WMF Profi Bratpfanne 28cm, unbeschichtet, Cromargan Edelstahl, für …",
+    "subtitle": "🔥 661° bei mydealz",
+    "category": "Küche",
+    "price": 31.43,
+    "checkedAt": "2026-11-24T13:06:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00M0HMYIW.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 661,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T13:16:16.017Z"
+  },
+  {
     "id": "auto-b000cnme22",
     "asin": "B000CNME22",
     "title": "Davidoff Zino Eau de Toilette",
@@ -2657,19 +2692,6 @@
     "telegramPostedAt": "2026-11-23T13:46:30.156Z"
   },
   {
-    "id": "auto-b0928z1nby",
-    "asin": "B0928Z1NBY",
-    "title": "VTech Kidi DJ Mix 10-in-1 DJ-Mischpult für Kinder",
-    "category": "Spielzeug & LEGO",
-    "price": 39.99,
-    "oldPrice": 52.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T13:05:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0928Z1NBY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T13:46:24.982Z"
-  },
-  {
     "id": "auto-b0d9bdrx7l",
     "asin": "B0D9BDRX7L",
     "title": "Bloom Naturals Mariendistel Leber Komplex 5-in-1",
@@ -2745,49 +2767,5 @@
     "image": "https://m.media-amazon.com/images/P/B0HGLMZDDZ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T13:31:20.547Z"
-  },
-  {
-    "id": "auto-b0cbncmk8l",
-    "asin": "B0CBNCMK8L",
-    "title": "Jack & Jones Blue Denim Jeans ALLE GRÖẞEN Glenn Original Sq 330 Noos",
-    "category": "Mode & Reise",
-    "price": 17.59,
-    "checkedAt": "2026-11-23T13:04:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CBNCMK8L.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T14:46:23.408Z"
-  },
-  {
-    "id": "auto-b09tkx83dp",
-    "asin": "B09TKX83DP",
-    "title": "STAEDTLER Noris jumbo 328-B Fasermaler – 12er Set, 3,0 mm Filzstifte",
-    "category": "Tech",
-    "price": 7.8,
-    "checkedAt": "2026-11-23T13:06:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09TKX83DP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T13:16:33.970Z"
-  },
-  {
-    "id": "auto-b0g6zrftdk",
-    "asin": "B0G6ZRFTDK",
-    "title": "SONGMICS Reisekoffer 24 Zoll – Hartschalen-Trolley (65–80L), …",
-    "category": "Mode & Reise",
-    "price": 29.99,
-    "checkedAt": "2026-11-23T13:12:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G6ZRFTDK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T13:16:28.566Z"
-  },
-  {
-    "id": "auto-b0cjcdjthw",
-    "asin": "B0CJCDJTHW",
-    "title": "MONZANA elektrischer Luftentfeuchter / Raumentfeuchter für 15-20m²",
-    "category": "Haushalt",
-    "price": 76.48,
-    "checkedAt": "2026-11-23T13:13:31.000Z",
-    "image": "https://static.mydealz.de/threads/raw/ecIgD/2879584_1/re/768x768/qt/55/2879584_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T13:16:23.285Z"
   }
 ]
