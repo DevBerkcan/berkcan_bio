@@ -1,5 +1,53 @@
 [
   {
+    "id": "auto-b0bx49fqf8",
+    "asin": "B0BX49FQF8",
+    "title": "Philips Luftreiniger Mini 600 Serie AC0650/10, für Räume bis 44 m², …",
+    "category": "Haushalt",
+    "price": 64.99,
+    "checkedAt": "2026-11-24T10:37:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BX49FQF8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:46:05.793Z"
+  },
+  {
+    "id": "auto-b005rfsxkc",
+    "asin": "B005RFSXKC",
+    "title": "KNIPEX Steckschlüssel, VDE-geprüft 237 mm, 98 03 08",
+    "category": "Werkzeug",
+    "price": 10.99,
+    "checkedAt": "2026-11-24T10:41:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B005RFSXKC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:46:00.822Z"
+  },
+  {
+    "id": "auto-b0ggrhtzq5",
+    "asin": "B0GGRHTZQ5",
+    "title": "Dell SE2726HG, 27 Zoll Full-HD Gaming-Monitor mit 240 Hz und …",
+    "category": "Computer",
+    "price": 101.25,
+    "oldPrice": 113.55,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T10:37:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GGRHTZQ5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:45:55.984Z"
+  },
+  {
+    "id": "auto-b0gtrfggd4",
+    "asin": "B0GTRFGGD4",
+    "title": "Gorenje D5G48D Wärmepumpentrockner, 8 kg, WLAN, Feuchtesensor, Made in …",
+    "category": "Haushalt",
+    "price": 398,
+    "oldPrice": 484.01,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T10:40:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GTRFGGD4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:45:50.702Z"
+  },
+  {
     "id": "auto-b0fpxdv2nk",
     "asin": "B0FPXDV2NK",
     "title": "LEGO Ninjago 71860 Lloyds Titan-Mech (15 Jahre Ninjago)",
@@ -2841,29 +2889,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DG8XHXPD.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T11:00:52.421Z"
-  },
-  {
-    "id": "auto-b00q8qheae",
-    "asin": "B00Q8QHEAE",
-    "title": "Finish Classic Phosphatfrei Reiniger-Pulver 3 x 3 kg (15,27€ möglich) …",
-    "category": "Tech",
-    "price": 16.17,
-    "checkedAt": "2026-11-23T10:43:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00Q8QHEAE.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T10:45:55.738Z"
-  },
-  {
-    "id": "auto-b0fg7spml3",
-    "asin": "B0FG7SPML3",
-    "title": "UGREEN FineTrack Slim (2er Pack)",
-    "category": "Tech",
-    "price": 18.04,
-    "oldPrice": 32.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T10:40:31.000Z",
-    "image": "https://static.mydealz.de/threads/raw/wR5ei/2864754_1/re/768x768/qt/55/2864754_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T10:45:50.261Z"
   }
 ]
