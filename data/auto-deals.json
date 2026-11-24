@@ -1,5 +1,121 @@
 [
   {
+    "id": "auto-b0dq61ms8k",
+    "asin": "B0DQ61MS8K",
+    "title": "Prime - Iron Man und Seine fantastischen Freunde Marvel Iron Armor …",
+    "category": "Spielzeug & LEGO",
+    "price": 9.99,
+    "checkedAt": "2026-11-24T11:34:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQ61MS8K.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:02:05.431Z"
+  },
+  {
+    "id": "auto-b0cqytnnw7",
+    "asin": "B0CQYTNNW7",
+    "title": "Fanttik Slim V8 APEX Kabelloser Akku Autostaubsauger, 4-in-1 Mini",
+    "category": "Haushalt",
+    "price": 53.99,
+    "checkedAt": "2026-11-24T11:39:17.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Fn9vX/2880505_1/re/768x768/qt/55/2880505_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:02:00.000Z"
+  },
+  {
+    "id": "auto-b0d12b5ybp",
+    "asin": "B0D12B5YBP",
+    "title": "SONGMICS Ganzkörperspiegel, gewölbter Standspiegel, Hartglas, 160x50 …",
+    "category": "Tech",
+    "price": 36.08,
+    "checkedAt": "2026-11-24T11:51:28.000Z",
+    "image": "https://static.mydealz.de/threads/raw/FEkT5/2880519_1/re/768x768/qt/55/2880519_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:01:50.363Z"
+  },
+  {
+    "id": "auto-b00bm8h980",
+    "asin": "B00BM8H980",
+    "title": "Talisker Storm Single Malt Scotch Whisky – rauchiger Charakter von der …",
+    "category": "Lebensmittel & Drinks",
+    "price": 26.52,
+    "checkedAt": "2026-11-24T11:52:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00BM8H980.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:01:43.811Z"
+  },
+  {
+    "id": "auto-b0f7rpq93c",
+    "asin": "B0F7RPQ93C",
+    "title": "Vans Spicoli Sonnenbrille",
+    "category": "Mode & Reise",
+    "price": 11,
+    "checkedAt": "2026-11-24T11:55:38.000Z",
+    "image": "https://static.mydealz.de/threads/raw/8ZGn1/2880526_1/re/768x768/qt/55/2880526_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:01:38.777Z"
+  },
+  {
+    "id": "auto-b0fbmntcn1",
+    "asin": "B0FBMNTCN1",
+    "title": "Neutrogena Handcreme konzentriert unparfümiert, 6 x 50 ml 1,54€/Stück",
+    "category": "Beauty & Pflege",
+    "price": 9.21,
+    "checkedAt": "2026-11-24T11:57:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FBMNTCN1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:01:32.690Z"
+  },
+  {
+    "id": "auto-b0dwy1f3y3",
+    "asin": "B0DWY1F3Y3",
+    "title": "Ninja FrostVault 42L Kühlbox mit Dry Zone |",
+    "category": "Tech",
+    "price": 129,
+    "checkedAt": "2026-11-24T11:57:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DWY1F3Y3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:01:27.535Z"
+  },
+  {
+    "id": "auto-b09nkwtd2r",
+    "asin": "B09NKWTD2R",
+    "title": "OMRON HN300T2 Intelli IT Personenwaage mit Bluetooth",
+    "category": "Tech",
+    "price": 29.99,
+    "oldPrice": 42.69,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T11:49:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09NKWTD2R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:01:22.495Z"
+  },
+  {
+    "id": "auto-b0ffncn5fl",
+    "asin": "B0FFNCN5FL",
+    "title": "Panasonic NF-GM600 6-in-1 Elektro-Multikocher",
+    "category": "Tech",
+    "price": 139,
+    "oldPrice": 265,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T11:45:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FFNCN5FL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:01:17.299Z"
+  },
+  {
+    "id": "auto-b0g1tvqp7k",
+    "asin": "B0G1TVQP7K",
+    "title": "ApaCare Sonic Change Schallzahnbürste mit Wechselakku & 3D-Bürste",
+    "category": "Beauty & Pflege",
+    "price": 39.99,
+    "oldPrice": 78.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T11:59:01.000Z",
+    "image": "https://static.mydealz.de/threads/raw/p360Q/2880532_1/re/768x768/qt/55/2880532_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:01:11.886Z"
+  },
+  {
     "id": "auto-b0hb8zz93p",
     "asin": "B0HB8ZZ93P",
     "title": "Wege zum Ruhm - Limitiertes Mediabook (4K Ultra HD)",
@@ -1109,19 +1225,6 @@
     "image": "https://m.media-amazon.com/images/P/B00IWVDGBE.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T07:15:32.769Z"
-  },
-  {
-    "id": "queue-b0dfnt93ny",
-    "asin": "B0DFNT93NY",
-    "title": "Amazon Ember 4-Serie 4K-Fernseher mit Fire TV",
-    "subtitle": "4K-Smart-TV mit integriertem Fire TV – Streaming-Apps direkt an Bord.",
-    "category": "Amazon-Geräte",
-    "price": 239.99,
-    "oldPrice": 699.99,
-    "checkedAt": "2026-11-23T11:58:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DFNT93NY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T07:15:00.748Z"
   },
   {
     "id": "queue-b0gpxxt4yl",
@@ -2701,17 +2804,6 @@
     "telegramPostedAt": "2026-11-23T12:31:48.936Z"
   },
   {
-    "id": "auto-b0fqkky43f",
-    "asin": "B0FQKKY43F",
-    "title": "Hasbro Marvel Titan Serie Actionfiguren, 30 cm – Spider-Man: Brand New …",
-    "category": "Spielzeug & LEGO",
-    "price": 9.49,
-    "checkedAt": "2026-11-23T11:46:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FQKKY43F.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T12:17:13.782Z"
-  },
-  {
     "id": "auto-b0fqj9dcmc",
     "asin": "B0FQJ9DCMC",
     "title": "TINECO - zzgl. 6% Gutschein funktioniert auf alle BF Angebote auf …",
@@ -2782,73 +2874,5 @@
     "image": "https://m.media-amazon.com/images/P/B0G5ZJB2HG.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T12:16:32.351Z"
-  },
-  {
-    "id": "auto-b0crybrtm4",
-    "asin": "B0CRYBRTM4",
-    "title": "Meross Matter Präsenzmelder, Smart WLAN Anwesenheitssensor mit …",
-    "category": "Tech",
-    "price": 27.08,
-    "checkedAt": "2026-11-23T11:50:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CRYBRTM4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T12:02:01.524Z"
-  },
-  {
-    "id": "auto-b08l64tgld",
-    "asin": "B08L64TGLD",
-    "title": "VAUDE Travel Organizer M – praktische 2-in-1-Tasche für Reisen und …",
-    "category": "Tech",
-    "price": 12.6,
-    "checkedAt": "2026-11-23T11:50:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08L64TGLD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T12:01:56.263Z"
-  },
-  {
-    "id": "auto-b0bvzc9q31",
-    "asin": "B0BVZC9Q31",
-    "title": "SwitchBot Hygrometer Thermometer IP65 3er Pack",
-    "category": "Tech",
-    "price": 25.64,
-    "checkedAt": "2026-11-23T11:51:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/zOwOn/2879496_1/re/768x768/qt/55/2879496_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T12:01:51.145Z"
-  },
-  {
-    "id": "auto-b0d5cks7nr",
-    "asin": "B0D5CKS7NR",
-    "title": "Terminator 2 - Tag der Abrechnung Special Edition (2024) Blu-Ray",
-    "category": "Bücher & Filme",
-    "price": 10.27,
-    "checkedAt": "2026-11-23T11:55:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D5CKS7NR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T12:01:44.629Z"
-  },
-  {
-    "id": "auto-b00932vks2",
-    "asin": "B00932VKS2",
-    "title": "Doppio Passo Primitivo Puglia Rotwein 6 x 0,75 L",
-    "category": "Tech",
-    "price": 22.16,
-    "checkedAt": "2026-11-23T11:56:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00932VKS2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T12:01:39.479Z"
-  },
-  {
-    "id": "auto-b0043a012u",
-    "asin": "B0043A012U",
-    "title": "Wild Turkey 101 Bourbon (0,7 l)",
-    "category": "Tech",
-    "price": 18.9,
-    "oldPrice": 27,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T11:48:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0043A012U.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T12:01:33.447Z"
   }
 ]
