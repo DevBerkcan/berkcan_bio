@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b08x19vzn8",
+    "asin": "B08X19VZN8",
+    "title": "TP-Link RE330 WLAN Verstärker Repeater",
+    "category": "Tech",
+    "price": 23.32,
+    "checkedAt": "2026-11-24T12:18:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08X19VZN8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:31:45.100Z"
+  },
+  {
+    "id": "auto-b0fdkr293g",
+    "asin": "B0FDKR293G",
+    "title": "Bose QuietComfort Ultra (2. Gen) Bluetooth Kopfhörer WHD",
+    "category": "Audio",
+    "price": 239.27,
+    "checkedAt": "2026-11-24T12:21:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FDKR293G.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:31:39.634Z"
+  },
+  {
+    "id": "auto-b0cvhfkk4c",
+    "asin": "B0CVHFKK4C",
+    "title": "BOSCH - Tassimo finesse Kapselmaschine TAS167P",
+    "category": "Tech",
+    "price": 28.99,
+    "checkedAt": "2026-11-24T12:22:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CVHFKK4C.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:31:33.185Z"
+  },
+  {
+    "id": "auto-b0dkflpw4d",
+    "asin": "B0DKFLPW4D",
+    "title": "IGLOO Nestable Passiv-Kühlboxen Set",
+    "category": "Tech",
+    "price": 94.99,
+    "checkedAt": "2026-11-24T12:28:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DKFLPW4D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T12:31:27.813Z"
+  },
+  {
     "id": "auto-b0gx28kz7x",
     "asin": "B0GX28KZ7X",
     "title": "Truxton Extreme Thunder Master Edition - Nintendo Switch 2",
@@ -2756,32 +2800,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b00313i9e2",
-    "asin": "B00313I9E2",
-    "title": "Schmidt Spiele Bibi Blocksberg Hexenkugel, Aktionsspiel mit Licht und …",
-    "category": "Spielzeug & LEGO",
-    "price": 13.94,
-    "oldPrice": 15.94,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T12:24:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00313I9E2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T13:16:16.325Z"
-  },
-  {
-    "id": "auto-b09z2rlyql",
-    "asin": "B09Z2RLYQL",
-    "title": "VTech Tut Tut Baby Flitzer Parkgarage",
-    "category": "Spielzeug & LEGO",
-    "price": 32.99,
-    "oldPrice": 45.64,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T12:26:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09Z2RLYQL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T13:16:07.237Z"
-  },
-  {
     "id": "auto-b0018721bk",
     "asin": "B0018721BK",
     "title": "ABUS Stangenset 118 cm für Fenster-Stangenschloss FOS550/A, FOS650/A …",
@@ -2793,27 +2811,5 @@
     "image": "https://m.media-amazon.com/images/P/B0018721BK.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T13:01:05.456Z"
-  },
-  {
-    "id": "auto-b09zlg5qgv",
-    "asin": "B09ZLG5QGV",
-    "title": "Homeworld 3 - Collector's Edition (PC)",
-    "category": "Tech",
-    "price": 52.46,
-    "checkedAt": "2026-11-23T12:27:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09ZLG5QGV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T12:31:54.099Z"
-  },
-  {
-    "id": "auto-b0b7nty2s6",
-    "asin": "B0B7NTY2S6",
-    "title": "SanDisk Ultra microSDXC 128GB Speicherkarte mit Adapter, bis zu 140 …",
-    "category": "Computer",
-    "price": 21.39,
-    "checkedAt": "2026-11-23T12:30:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B7NTY2S6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T12:31:48.936Z"
   }
 ]
