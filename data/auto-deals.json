@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b01mz9fw54",
+    "asin": "B01MZ9FW54",
+    "title": "LEGO Icons Bürgermeistervilla 11383, Teile: 1420, 18+",
+    "category": "Spielzeug & LEGO",
+    "price": 69.99,
+    "checkedAt": "2026-11-24T17:11:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01MZ9FW54.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T18:15:37.865Z"
+  },
+  {
+    "id": "auto-b0dqm7h82v",
+    "asin": "B0DQM7H82V",
+    "title": "Gigabyte B850 AORUS Elite WIFI7 Ice – 153€",
+    "category": "Tech",
+    "price": 153,
+    "checkedAt": "2026-11-24T18:03:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQM7H82V.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T18:15:32.127Z"
+  },
+  {
     "id": "auto-b0fpxgbhmz",
     "asin": "B0FPXGBHMZ",
     "title": "LEGO Super Mario: Mario Kart – Luigi & Turboflitzer 72050",
@@ -2723,16 +2745,5 @@
     "temperature": 309,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T18:30:26.744Z"
-  },
-  {
-    "id": "auto-b0gy4hykyq",
-    "asin": "B0GY4HYKYQ",
-    "title": "NICI Theodor & Friends Plüsch-Schlüsselanhänger - Hai",
-    "category": "Tech",
-    "price": 5.94,
-    "checkedAt": "2026-11-23T18:06:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GY4HYKYQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T18:15:51.226Z"
   }
 ]
