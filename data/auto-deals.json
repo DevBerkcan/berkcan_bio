@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0gvxrv9p5",
+    "asin": "B0GVXRV9P5",
+    "title": "Uzala, der Kirgise - Das Oscar-prämierte Meisterwerk von Akira …",
+    "category": "Tech",
+    "price": 13.59,
+    "checkedAt": "2026-11-24T11:00:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GVXRV9P5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:15:42.917Z"
+  },
+  {
+    "id": "auto-b0g4wnshhr",
+    "asin": "B0G4WNSHHR",
+    "title": "Levi's Herren Levis Hm Polo Polohemd Shirt - Größe S+L+XL - Farbe …",
+    "category": "Tech",
+    "price": 17.52,
+    "checkedAt": "2026-11-24T11:12:10.000Z",
+    "image": "https://static.mydealz.de/threads/raw/B3CTp/2880457_1/re/768x768/qt/55/2880457_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:15:37.188Z"
+  },
+  {
+    "id": "auto-b0fkrjjnfb",
+    "asin": "B0FKRJJNFB",
+    "title": "Halloween 1-5 Blu-ray Collection (Uncut)",
+    "subtitle": "🔥 178° bei mydealz",
+    "category": "Bücher & Filme",
+    "price": 29.32,
+    "checkedAt": "2026-11-24T11:05:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FKRJJNFB.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 178,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:15:30.761Z"
+  },
+  {
     "id": "auto-b0dvzrntf9",
     "asin": "B0DVZRNTF9",
     "title": "Cecotec Scoba 2100 Station Akkustaubsauger 20 kPa",
@@ -2784,53 +2819,5 @@
     "image": "https://m.media-amazon.com/images/P/B07M5GMWRG.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T11:31:10.003Z"
-  },
-  {
-    "id": "auto-b007ci5tmw",
-    "asin": "B007CI5TMW",
-    "title": "Haribo Roulette 50 Rollen, 1,25 kg ~ 0,20 € / Rolle PRIME SPARABO",
-    "category": "Lebensmittel & Drinks",
-    "price": 9.89,
-    "checkedAt": "2026-11-23T11:10:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B007CI5TMW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:16:23.002Z"
-  },
-  {
-    "id": "auto-b07cqqg66f",
-    "asin": "B07CQQG66F",
-    "title": "Tefal K13204 Ingenio 5-Sekunden-Zerkleinerer (900 ml)",
-    "category": "Tech",
-    "price": 14.05,
-    "checkedAt": "2026-11-23T11:14:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07CQQG66F.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:16:17.877Z"
-  },
-  {
-    "id": "auto-b007cst74s",
-    "asin": "B007CST74S",
-    "title": "Prime - Remington Haartrockner [extrem klein & klappbar] On The Go",
-    "subtitle": "🔥 182° bei mydealz",
-    "category": "Haushalt",
-    "price": 11.8,
-    "checkedAt": "2026-11-23T11:03:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B007CST74S.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 182,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:16:12.400Z"
-  },
-  {
-    "id": "auto-b0d8tn4dqk",
-    "asin": "B0D8TN4DQK",
-    "title": "Planteray Isle of Fiji Rum 0,7l 40%",
-    "subtitle": "🔥 213° bei mydealz",
-    "category": "Tech",
-    "price": 19.11,
-    "checkedAt": "2026-11-23T11:03:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D8TN4DQK.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 213,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:16:07.175Z"
   }
 ]
