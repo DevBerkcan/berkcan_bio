@@ -1,5 +1,80 @@
 [
   {
+    "id": "auto-b09c93l59j",
+    "asin": "B09C93L59J",
+    "title": "Mattel Games UNO Super Mario Kartenspiel, ab 7 Jahren, 2-10 Spieler",
+    "category": "Spielzeug & LEGO",
+    "price": 13.99,
+    "checkedAt": "2026-11-24T09:11:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09C93L59J.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fpxg53k5",
+    "asin": "B0FPXG53K5",
+    "title": "LEGO DC The Batman: Batmobil 76332",
+    "category": "Spielzeug & LEGO",
+    "price": 17.09,
+    "checkedAt": "2026-11-24T09:12:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXG53K5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dnzs14dr",
+    "asin": "B0DNZS14DR",
+    "title": "LEGO Jurassic World Raptor: Verfolgungsjagd mit dem Geländewagen 76972",
+    "category": "Spielzeug & LEGO",
+    "price": 23.08,
+    "checkedAt": "2026-11-24T09:18:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DNZS14DR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T09:46:15.863Z"
+  },
+  {
+    "id": "auto-b08z7ndl7s",
+    "asin": "B08Z7NDL7S",
+    "title": "Kronenburg Faltpavillon wasserdicht Dachmaß 3x3m UV Schutz 50+ …",
+    "category": "Tech",
+    "price": 84.97,
+    "checkedAt": "2026-11-24T09:30:45.000Z",
+    "image": "https://static.mydealz.de/threads/raw/AHXnO/2880342_1/re/768x768/qt/55/2880342_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T09:46:10.663Z"
+  },
+  {
+    "id": "auto-b099653mq4",
+    "asin": "B099653MQ4",
+    "title": "Brennenstuhl Comfort-Line Funksteckdosen-Set Mini 3+1, 3 …",
+    "category": "Smart Home",
+    "price": 14.38,
+    "checkedAt": "2026-11-24T09:34:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B099653MQ4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T09:46:04.631Z"
+  },
+  {
+    "id": "auto-b0f6lf6wgy",
+    "asin": "B0F6LF6WGY",
+    "title": "Ugreen FineTrack Mini 2er Pack Kompatibel (nur iOS) Apple Find My GPS …",
+    "category": "Tech",
+    "price": 14.24,
+    "checkedAt": "2026-11-24T09:34:48.000Z",
+    "image": "https://static.mydealz.de/threads/raw/S8sQh/2880350_1/re/768x768/qt/55/2880350_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T09:45:59.376Z"
+  },
+  {
+    "id": "auto-b0fj8x73sn",
+    "asin": "B0FJ8X73SN",
+    "title": "4er-Pack | Philips Hue Essential White and Color Ambiance GU10 Spot, …",
+    "category": "Smart Home",
+    "price": 44.99,
+    "checkedAt": "2026-11-24T09:45:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FJ8X73SN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T09:45:49.515Z"
+  },
+  {
     "id": "auto-b07qb8dkqt",
     "asin": "B07QB8DKQT",
     "title": "One Piece Chopper 7.2 Plüschfigur (25 cm) von SAKAMI",
@@ -2741,19 +2816,6 @@
     "telegramPostedAt": "2026-11-23T10:31:00.108Z"
   },
   {
-    "id": "auto-b0d73rw5dd",
-    "asin": "B0D73RW5DD",
-    "title": "Asmodee Dixit Odyssey (2024) Grundspiel",
-    "category": "Spielzeug & LEGO",
-    "price": 22.25,
-    "oldPrice": 26.55,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T09:43:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D73RW5DD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T10:30:53.220Z"
-  },
-  {
     "id": "auto-b08s73spck",
     "asin": "B08S73SPCK",
     "title": "STABILO point 88 ARTY 25er Rollerset",
@@ -2791,17 +2853,6 @@
     "image": "https://m.media-amazon.com/images/P/B01MR2B7LH.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T10:30:37.531Z"
-  },
-  {
-    "id": "auto-b0bxpy1197",
-    "asin": "B0BXPY1197",
-    "title": "Pokémon-Sammelkartenspiel: Display-Box Karmesin & Purpur …",
-    "category": "Spielzeug & LEGO",
-    "price": 179.64,
-    "checkedAt": "2026-11-23T09:35:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BXPY1197.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T10:15:57.258Z"
   },
   {
     "id": "auto-b09zld62cz",
@@ -2868,60 +2919,5 @@
     "image": "https://m.media-amazon.com/images/P/B08F7SPS7J.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T10:00:49.581Z"
-  },
-  {
-    "id": "auto-b07cvmr486",
-    "asin": "B07CVMR486",
-    "title": "Only & Sons Herren Jeans",
-    "category": "Mode & Reise",
-    "price": 19.52,
-    "checkedAt": "2026-11-23T09:30:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07CVMR486.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T09:46:10.887Z"
-  },
-  {
-    "id": "auto-b01b8r6v2e",
-    "asin": "B01B8R6V2E",
-    "title": "Amazon Basics AAA-Alkali-Hochleistungsbatterien, 1,5 V, 10 Jahre …",
-    "category": "Tech",
-    "price": 15.72,
-    "checkedAt": "2026-11-23T09:33:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01B8R6V2E.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T09:46:05.735Z"
-  },
-  {
-    "id": "auto-b0gvgq9p5x",
-    "asin": "B0GVGQ9P5X",
-    "title": "Dell 15 Laptop - AMD Ryzen 5 130, 8GB DDR5, 512GB SSD",
-    "category": "Computer",
-    "price": 449,
-    "checkedAt": "2026-11-23T09:42:01.000Z",
-    "image": "https://static.mydealz.de/threads/raw/dK352/2879312_1/re/768x768/qt/55/2879312_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T09:46:01.124Z"
-  },
-  {
-    "id": "auto-b00ln803k0",
-    "asin": "B00LN803K0",
-    "title": "40 Stk. VARTA AAA-Batterien Industrial Pro",
-    "category": "Tech",
-    "price": 12.4,
-    "checkedAt": "2026-11-23T09:42:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00LN803K0.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T09:45:56.465Z"
-  },
-  {
-    "id": "auto-b0g34nj11y",
-    "asin": "B0G34NJ11Y",
-    "title": "UGREEN HDMI + Displayport / KVM Switch für 2 PCs + 3 Monitore",
-    "category": "Computer",
-    "price": 93.99,
-    "checkedAt": "2026-11-23T09:30:20.000Z",
-    "image": "https://static.mydealz.de/threads/raw/LcOnQ/2850380_1/re/768x768/qt/55/2850380_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T09:31:06.073Z"
   }
 ]
