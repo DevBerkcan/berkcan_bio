@@ -1,5 +1,76 @@
 [
   {
+    "id": "auto-b00iwvdgbe",
+    "asin": "B00IWVDGBE",
+    "title": "Teeling Single Grain Irish Whiskey",
+    "category": "Tech",
+    "price": 27.34,
+    "checkedAt": "2026-11-24T07:06:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00IWVDGBE.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:15:32.769Z"
+  },
+  {
+    "id": "auto-b0glpqcr51",
+    "asin": "B0GLPQCR51",
+    "title": "DJI Osmo Mobile 8 Standard-Combo, Gimbal-Stabilisator für Smartphones",
+    "category": "Smartphone & Tablet",
+    "price": 83,
+    "checkedAt": "2026-11-24T07:07:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GLPQCR51.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:15:27.479Z"
+  },
+  {
+    "id": "auto-b0089ewlr4",
+    "asin": "B0089EWLR4",
+    "title": "ESMART Professional MIMOTO Motorleinwand – Amazon Black Friday",
+    "category": "Tech",
+    "price": 180.18,
+    "checkedAt": "2026-11-24T07:07:23.000Z",
+    "image": "https://static.mydealz.de/threads/raw/F1EN5/2880191_1/re/768x768/qt/55/2880191_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:15:22.239Z"
+  },
+  {
+    "id": "queue-b0dfnt93ny",
+    "asin": "B0DFNT93NY",
+    "title": "Amazon Ember 4-Serie 4K-Fernseher mit Fire TV",
+    "subtitle": "4K-Smart-TV mit integriertem Fire TV – Streaming-Apps direkt an Bord.",
+    "category": "Amazon-Geräte",
+    "price": 239.99,
+    "oldPrice": 699.99,
+    "checkedAt": "2026-11-23T11:58:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DFNT93NY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:15:00.748Z"
+  },
+  {
+    "id": "queue-b0gpxxt4yl",
+    "asin": "B0GPXXT4YL",
+    "title": "Ring Akku-Videotürklingel 2K + Chime (3. Gen.)",
+    "subtitle": "Neueste Akku-Türklingel mit 2K-Video, inklusive Chime als Türgong.",
+    "category": "Smart Home",
+    "price": 59.99,
+    "oldPrice": 134.98,
+    "checkedAt": "2026-11-23T15:57:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GPXXT4YL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:14:56.334Z"
+  },
+  {
+    "id": "queue-b0bsh3jkqb",
+    "asin": "B0BSH3JKQB",
+    "title": "ASUS ROG Strix XG32UCWMG 32\" 4K QD-OLED Gaming-Monitor",
+    "subtitle": "32 Zoll QD-OLED in 4K UHD mit 240 Hz bzw. 480 Hz Dual-Mode fürs Gaming.",
+    "category": "Computer",
+    "price": 693.33,
+    "checkedAt": "2026-11-24T01:29:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BSH3JKQB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:14:51.756Z"
+  },
+  {
     "id": "auto-b00w2uehws",
     "asin": "B00W2UEHWS",
     "title": "Breaking Bad - Die komplette Serie (15 Blu-rays)",
@@ -158,17 +229,6 @@
     "image": "https://m.media-amazon.com/images/P/B07FTPX71F.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T06:16:10.678Z"
-  },
-  {
-    "id": "auto-b0bsh3jkqb",
-    "asin": "B0BSH3JKQB",
-    "title": "ASUS ROG Strix XG32UCWMG 32 Zoll 4K UHD QD-OLED Gaming Monitor",
-    "category": "Computer",
-    "price": 693.33,
-    "checkedAt": "2026-11-24T01:29:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BSH3JKQB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T06:30:56.688Z"
   },
   {
     "id": "auto-b0bn6b1y84",
@@ -971,19 +1031,6 @@
     "image": "https://static.mydealz.de/threads/raw/7d5pC/2879731_1/re/768x768/qt/55/2879731_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T16:01:28.086Z"
-  },
-  {
-    "id": "auto-b0gpxxt4yl",
-    "asin": "B0GPXXT4YL",
-    "title": "Ring Akku-Videotürklingel 2K (neueste Gen.) und Chime",
-    "category": "Smart Home",
-    "price": 59.99,
-    "oldPrice": 134.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T15:57:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GPXXT4YL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T16:01:21.686Z"
   },
   {
     "id": "auto-b09nymk23r",
@@ -1865,19 +1912,6 @@
     "image": "https://m.media-amazon.com/images/P/B0043A012U.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T12:01:33.447Z"
-  },
-  {
-    "id": "auto-b0dfnt93ny",
-    "asin": "B0DFNT93NY",
-    "title": "Amazon Ember 4-Serie: 4K-Fernseher mit Fire TV",
-    "category": "Amazon-Geräte",
-    "price": 239.99,
-    "oldPrice": 699.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T11:58:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DFNT93NY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T12:01:27.778Z"
   },
   {
     "id": "auto-b09w2rkg58",
@@ -2841,17 +2875,6 @@
     "telegramPostedAt": "2026-11-23T08:01:30.499Z"
   },
   {
-    "id": "auto-b0fpxhb8yz",
-    "asin": "B0FPXHB8YZ",
-    "title": "LEGO Friends - Der Reitstall und die Reitschule (42688) 735 Teile",
-    "category": "Spielzeug & LEGO",
-    "price": 44.2,
-    "checkedAt": "2026-11-23T07:11:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXHB8YZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:31:25.988Z"
-  },
-  {
     "id": "auto-b0crrwmnxv",
     "asin": "B0CRRWMNXV",
     "title": "Pantene Pro-V Lift & Volume Haarverdickendes Shampoo 1000ml …",
@@ -2907,18 +2930,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DNHRW9CR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T07:31:59.152Z"
-  },
-  {
-    "id": "queue-b0gq36xqk6",
-    "asin": "B0GQ36XQK6",
-    "title": "Xiaomi Smart Band 10 Pro Ceramic Edition mit NFC",
-    "subtitle": "1,74\" AMOLED-Display, bis zu 21 Tage Akku und 5ATM wasserdicht.",
-    "category": "Tech",
-    "price": 67.99,
-    "checkedAt": "2026-11-23T07:07:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GQ36XQK6.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 433,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:31:31.816Z"
   }
 ]
