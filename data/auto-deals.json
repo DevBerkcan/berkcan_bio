@@ -18,7 +18,8 @@
     "price": 15.99,
     "checkedAt": "2026-11-24T05:31:23.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BBHST8BZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:15:56.586Z"
   },
   {
     "id": "auto-b09pz1jmz5",
@@ -28,7 +29,8 @@
     "price": 10.39,
     "checkedAt": "2026-11-24T05:40:09.000Z",
     "image": "https://m.media-amazon.com/images/P/B09PZ1JMZ5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:15:51.942Z"
   },
   {
     "id": "auto-b0bbhg7dy9",
@@ -51,7 +53,8 @@
     "price": 7.22,
     "checkedAt": "2026-11-24T05:13:22.000Z",
     "image": "https://static.mydealz.de/threads/raw/UF2D0/2880134_1/re/768x768/qt/55/2880134_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:16:01.973Z"
   },
   {
     "id": "auto-b0ckvd62nx",
@@ -61,7 +64,8 @@
     "price": 105.99,
     "checkedAt": "2026-11-24T04:27:56.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CKVD62NX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:16:06.350Z"
   },
   {
     "id": "auto-b07ftpx71f",
@@ -73,7 +77,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-24T01:39:28.000Z",
     "image": "https://m.media-amazon.com/images/P/B07FTPX71F.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:16:10.678Z"
   },
   {
     "id": "auto-b0bsh3jkqb",
@@ -2849,17 +2854,6 @@
     "telegramPostedAt": "2026-11-23T07:31:31.816Z"
   },
   {
-    "id": "auto-b0bt89k8tv",
-    "asin": "B0BT89K8TV",
-    "title": "PLAYMOBIL City Life Große Schule mit beweglicher Tafel & Zubehör",
-    "category": "Spielzeug & LEGO",
-    "price": 61.69,
-    "checkedAt": "2026-11-23T06:03:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BT89K8TV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:02:19.835Z"
-  },
-  {
     "id": "auto-b0hd6ndjc8",
     "asin": "B0HD6NDJC8",
     "title": "UGREEN MagFlow Air Ultra Slim Powerbank mit Magsafe",
@@ -2948,17 +2942,6 @@
     "image": "https://m.media-amazon.com/images/P/B0FJSCNH4D.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T06:32:31.537Z"
-  },
-  {
-    "id": "auto-b0h419wwbz",
-    "asin": "B0H419WWBZ",
-    "title": "Roborock Saros 20 Neo Saug- & Wischroboter mit …",
-    "category": "Haushalt",
-    "price": 599,
-    "checkedAt": "2026-11-23T06:06:23.000Z",
-    "image": "https://static.mydealz.de/threads/raw/D10sg/2879093_1/re/768x768/qt/55/2879093_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:02:14.690Z"
   },
   {
     "id": "auto-b092dz1vk5",
