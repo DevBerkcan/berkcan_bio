@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b079q5yjc5",
+    "asin": "B079Q5YJC5",
+    "title": "Dell MS116 Kabelgebundene USB-Optische Maus 1000 dpi, 3 Tasten",
+    "category": "Computer",
+    "price": 5.03,
+    "oldPrice": 9.34,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T23:04:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B079Q5YJC5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T23:24:09.658Z"
+  },
+  {
     "id": "auto-b01gzwj822",
     "asin": "B01GZWJ822",
     "title": "CCLIFE Torx Schraubendreher Set TX T6-T40 11-tlg Magnetisch ohne …",
@@ -2567,18 +2580,5 @@
     "image": "https://m.media-amazon.com/images/P/B09CTWNFVW.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T23:41:37.845Z"
-  },
-  {
-    "id": "auto-b0f9w4946b",
-    "asin": "B0F9W4946B",
-    "title": "Preisfehler? 2x SwitchBot WLAN Steckdose Matter (4er-Pack) – [3,25 …",
-    "subtitle": "🔥 121° bei mydealz",
-    "category": "Smart Home",
-    "price": 25.99,
-    "checkedAt": "2026-11-23T23:10:03.000Z",
-    "image": "https://static.mydealz.de/threads/raw/KjiVK/2880083_1/re/768x768/qt/55/2880083_1.jpg",
-    "temperature": 121,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T23:12:06.080Z"
   }
 ]
