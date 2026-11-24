@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0ccypdlcq",
+    "asin": "B0CCYPDLCQ",
+    "title": "ghd gold Glätteisen: Haarglätter & Multistyler, Sleek & Anti Frizz …",
+    "category": "Beauty & Pflege",
+    "price": 119.99,
+    "checkedAt": "2026-11-24T21:02:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CCYPDLCQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T21:12:26.852Z"
+  },
+  {
+    "id": "auto-b07psymv3t",
+    "asin": "B07PSYMV3T",
+    "title": "Don Papa Masskara",
+    "category": "Tech",
+    "price": 23.9,
+    "checkedAt": "2026-11-24T21:06:01.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07PSYMV3T.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T21:12:21.540Z"
+  },
+  {
     "id": "auto-b0hmxgfk2v",
     "asin": "B0HMXGFK2V",
     "title": "CSL Gaming PC - AMD 8400F, RX 9060 XT, 16 GB RAM, 500 GB SSD, Windows …",
@@ -2560,16 +2582,5 @@
     "image": "https://m.media-amazon.com/images/P/B0F6Y9KW9J.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T21:28:52.624Z"
-  },
-  {
-    "id": "auto-b077czwzcl",
-    "asin": "B077CZWZCL",
-    "title": "Puma Sneaker Smash V2",
-    "category": "Mode & Reise",
-    "price": 22.99,
-    "checkedAt": "2026-11-23T20:57:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B077CZWZCL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T20:59:15.189Z"
   }
 ]
