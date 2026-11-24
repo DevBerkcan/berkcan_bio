@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b01iyb9zf2",
+    "asin": "B01IYB9ZF2",
+    "title": "EUTERPFLEGE z.B. Care + Repair Pflegecreme für trockene Haut, 200 ml …",
+    "category": "Beauty & Pflege",
+    "price": 7.22,
+    "checkedAt": "2026-11-24T05:13:22.000Z",
+    "image": "https://static.mydealz.de/threads/raw/UF2D0/2880134_1/re/768x768/qt/55/2880134_1.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0ckvd62nx",
     "asin": "B0CKVD62NX",
     "title": "RØDE NT1 Signature Großmembran-Kondensatormikrofon",
@@ -3006,18 +3016,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FPXDCQCV.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T06:32:22.940Z"
-  },
-  {
-    "id": "auto-b0gvsmzr1j",
-    "asin": "B0GVSMZR1J",
-    "title": "TCL 65C7L 65\" SQD-Mini LED 4K TV",
-    "category": "TV & Heimkino",
-    "price": 849,
-    "oldPrice": 1799,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T05:07:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GVSMZR1J.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T06:03:02.195Z"
   }
 ]
