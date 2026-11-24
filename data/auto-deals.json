@@ -1,5 +1,17 @@
 [
   {
+    "id": "auto-b07ftpx71f",
+    "asin": "B07FTPX71F",
+    "title": "DJI Neo Minidrohne",
+    "category": "Foto & Video",
+    "price": 118,
+    "oldPrice": 133,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T01:39:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07FTPX71F.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0bsh3jkqb",
     "asin": "B0BSH3JKQB",
     "title": "ASUS ROG Strix XG32UCWMG 32 Zoll 4K UHD QD-OLED Gaming Monitor",
@@ -3019,16 +3031,5 @@
     "image": "https://m.media-amazon.com/images/P/B09ZC9P7GB.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T07:31:54.452Z"
-  },
-  {
-    "id": "auto-b0dqwc5399",
-    "asin": "B0DQWC5399",
-    "title": "Braun Multigroom All-in-One Series 7, 13-in-1 Trimmer AIO7565 59,99€ / …",
-    "category": "Tech",
-    "price": 59.99,
-    "checkedAt": "2026-11-23T01:50:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQWC5399.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:32:02.565Z"
   }
 ]
