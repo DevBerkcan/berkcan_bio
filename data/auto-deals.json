@@ -2738,18 +2738,6 @@
     "telegramPostedAt": "2026-11-23T07:46:27.793Z"
   },
   {
-    "id": "queue-b0bgpk4482",
-    "asin": "B0BGPK4482",
-    "title": "Dead Space Remake (PS5, Disc)",
-    "subtitle": "Das Survival-Horror-Remake als physische Disc für die PS5.",
-    "category": "Gaming",
-    "price": 19.99,
-    "checkedAt": "2026-11-23T00:25:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BGPK4482.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:46:23.712Z"
-  },
-  {
     "id": "queue-b0f2s8ws6p",
     "asin": "B0F2S8WS6P",
     "title": "OM System OM-5 Mark II + M.Zuiko 12-40mm F2.8 PRO II",
@@ -3056,16 +3044,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DQWC5399.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T07:32:02.565Z"
-  },
-  {
-    "id": "auto-b001ilcnqo",
-    "asin": "B001ILCNQO",
-    "title": "Sammeldeal BGS: Schlosserhammer 800 g 5,41€ – Schonhammer 850 g 6,88€",
-    "category": "Tech",
-    "price": 5.41,
-    "checkedAt": "2026-11-23T00:26:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B001ILCNQO.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:16:59.423Z"
   }
 ]
