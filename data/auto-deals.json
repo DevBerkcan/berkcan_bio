@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b07ftg84sw",
+    "asin": "B07FTG84SW",
+    "title": "DJI Osmo Mobile 7P Smartphone-Gimbal",
+    "category": "Smartphone & Tablet",
+    "price": 84,
+    "checkedAt": "2026-11-24T09:53:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07FTG84SW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:01:02.594Z"
+  },
+  {
+    "id": "auto-b0f6tlnq7w",
+    "asin": "B0F6TLNQ7W",
+    "title": "BESSEY EZ360M-15 Einhandzwinge",
+    "category": "Tech",
+    "price": 15.75,
+    "oldPrice": 20.25,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T09:47:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F6TLNQ7W.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:00:53.523Z"
+  },
+  {
     "id": "auto-b09c93l59j",
     "asin": "B09C93L59J",
     "title": "Mattel Games UNO Super Mario Kartenspiel, ab 7 Jahren, 2-10 Spieler",
@@ -7,7 +31,8 @@
     "price": 13.99,
     "checkedAt": "2026-11-24T09:11:28.000Z",
     "image": "https://m.media-amazon.com/images/P/B09C93L59J.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:01:11.157Z"
   },
   {
     "id": "auto-b0fpxg53k5",
@@ -17,7 +42,8 @@
     "price": 17.09,
     "checkedAt": "2026-11-24T09:12:29.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FPXG53K5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:01:06.910Z"
   },
   {
     "id": "auto-b0dnzs14dr",
@@ -82,7 +108,8 @@
     "price": 16.81,
     "checkedAt": "2026-11-24T08:45:40.000Z",
     "image": "https://m.media-amazon.com/images/P/B07QB8DKQT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:01:15.462Z"
   },
   {
     "id": "auto-b0bgs667jl",
@@ -2886,38 +2913,5 @@
     "image": "https://m.media-amazon.com/images/P/B00LH3DMUO.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T10:15:42.355Z"
-  },
-  {
-    "id": "auto-b083kkf8f8",
-    "asin": "B083KKF8F8",
-    "title": "6er Pack Utopia Towels - Handtücher Set aus 100% Baumwolle - 41x71cm",
-    "category": "Tech",
-    "price": 13.59,
-    "checkedAt": "2026-11-23T09:50:23.000Z",
-    "image": "https://static.mydealz.de/threads/raw/N5so1/2879326_1/re/768x768/qt/55/2879326_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T10:01:01.010Z"
-  },
-  {
-    "id": "auto-b0clnkhv2d",
-    "asin": "B0CLNKHV2D",
-    "title": "Titanic - 4K Remastered (4K Ultra HD) (+ Blu-ray) [3 Discs]",
-    "category": "Bücher & Filme",
-    "price": 27.99,
-    "checkedAt": "2026-11-23T09:50:57.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CLNKHV2D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T10:00:54.726Z"
-  },
-  {
-    "id": "auto-b08f7sps7j",
-    "asin": "B08F7SPS7J",
-    "title": "Braun Series 9 PRO+ 9665cce Elektrorasierer Herren, Graphit, 5+1 …",
-    "category": "Beauty & Pflege",
-    "price": 269.99,
-    "checkedAt": "2026-11-23T09:52:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08F7SPS7J.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T10:00:49.581Z"
   }
 ]
