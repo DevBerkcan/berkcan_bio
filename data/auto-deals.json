@@ -1,5 +1,53 @@
 [
   {
+    "id": "auto-b00004yttd",
+    "asin": "B00004YTTD",
+    "title": "Amazon Prime: Bobby Car",
+    "category": "Spielzeug & LEGO",
+    "price": 29.99,
+    "checkedAt": "2026-11-24T13:10:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00004YTTD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T14:01:17.078Z"
+  },
+  {
+    "id": "auto-b076hlhzlp",
+    "asin": "B076HLHZLP",
+    "title": "Star Trek Voyager - DVD Box - die komplette Serie",
+    "category": "Bücher & Filme",
+    "price": 62.68,
+    "checkedAt": "2026-11-24T13:49:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B076HLHZLP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T14:01:11.645Z"
+  },
+  {
+    "id": "auto-b0dsvxystc",
+    "asin": "B0DSVXYSTC",
+    "title": "ASUS TUF Gaming VG32WQ3B 32 Zoll QHD Fast-VA 180Hz Curved Gaming …",
+    "subtitle": "🔥 208° bei mydealz",
+    "category": "Gaming",
+    "price": 149,
+    "checkedAt": "2026-11-24T13:47:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DSVXYSTC.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 208,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T14:01:06.172Z"
+  },
+  {
+    "id": "auto-b0fxmm51j3",
+    "asin": "B0FXMM51J3",
+    "title": "Bluey's Quest for the Gold Pen (PS5 / PS4) für jeweils 19,99€",
+    "category": "Gaming",
+    "price": 19.99,
+    "oldPrice": 28.94,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T13:47:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FXMM51J3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T14:01:01.006Z"
+  },
+  {
     "id": "auto-b0g44r24y4",
     "asin": "B0G44R24Y4",
     "title": "NICI Grüner Rucksack mit Plüschtier 21x26cm Fuchs 25cm - grün - 62692 …",
@@ -1200,18 +1248,6 @@
     "image": "https://m.media-amazon.com/images/P/B0GLPQCR51.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T08:14:51.377Z"
-  },
-  {
-    "id": "queue-b0dkt7xmrs",
-    "asin": "B0DKT7XMRS",
-    "title": "Reolink 4K Wi-Fi 6 PTZ Außenkamera",
-    "subtitle": "4K-Überwachungskamera mit Wi-Fi 6, Schwenk/Neige-Funktion und Auto-Tracking-Zoom.",
-    "category": "Smart Home",
-    "price": 149.99,
-    "checkedAt": "2026-11-23T13:53:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/swW4P/2879628_1/re/768x768/qt/55/2879628_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:14:46.960Z"
   },
   {
     "id": "queue-b0dsg9vcrh",
@@ -2520,19 +2556,6 @@
     "telegramPostedAt": "2026-11-23T14:46:28.492Z"
   },
   {
-    "id": "auto-b0fcyv7vgq",
-    "asin": "B0FCYV7VGQ",
-    "title": "Star Wars The Mandalorian Maske",
-    "category": "Spielzeug & LEGO",
-    "price": 19.09,
-    "oldPrice": 26.94,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T14:00:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FCYV7VGQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T14:46:18.826Z"
-  },
-  {
     "id": "auto-b0chs6slwk",
     "asin": "B0CHS6SLWK",
     "title": "24-teiliges Ibiza Steingut Geschirrset 6 Personen- Schüssel- und …",
@@ -2647,62 +2670,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GSN784G1.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T14:16:24.208Z"
-  },
-  {
-    "id": "auto-b098y186gh",
-    "asin": "B098Y186GH",
-    "title": "WORX WX092.9 Akku-Kompressor 20V, max. 10 bar, mit Digitalanzeige, …",
-    "category": "Werkzeug",
-    "price": 41.94,
-    "oldPrice": 49.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T14:00:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B098Y186GH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T14:16:12.755Z"
-  },
-  {
-    "id": "auto-b083zw86h1",
-    "asin": "B083ZW86H1",
-    "title": "ICY BOX IB-1232CL-U3 Docking- und Klonstation für 2x SATA 2,5\"/3,5\" …",
-    "category": "Tech",
-    "price": 25.49,
-    "checkedAt": "2026-11-23T13:55:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B083ZW86H1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T14:01:36.498Z"
-  },
-  {
-    "id": "auto-b0fb3t8vc8",
-    "asin": "B0FB3T8VC8",
-    "title": "Hyundai Benzin-Rasenmäher, 40,6 cm Schnittbreite, 131 cc Motor, 35 l …",
-    "category": "Licht & Garten",
-    "price": 121.73,
-    "checkedAt": "2026-11-23T13:55:41.000Z",
-    "image": "https://static.mydealz.de/threads/raw/I0AbU/2879630_1/re/768x768/qt/55/2879630_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T14:01:31.254Z"
-  },
-  {
-    "id": "auto-b0gn99pypp",
-    "asin": "B0GN99PYPP",
-    "title": "Rayman: 30th Anniversary Edition - für Playstation 5 - PS5",
-    "category": "Gaming",
-    "price": 21.84,
-    "checkedAt": "2026-11-23T13:56:20.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GN99PYPP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T14:01:24.980Z"
-  },
-  {
-    "id": "auto-b0hhhjqb4z",
-    "asin": "B0HHHJQB4Z",
-    "title": "LEGO Harry Potter Collection für Switch 2",
-    "category": "Gaming",
-    "price": 27.99,
-    "checkedAt": "2026-11-23T13:59:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HHHJQB4Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T14:01:19.868Z"
   }
 ]
