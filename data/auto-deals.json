@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b00d6h4y92",
+    "asin": "B00D6H4Y92",
+    "title": "Bosch Professional Nass-/Trockensauger GAS 35 M AFC",
+    "category": "Haushalt",
+    "price": 499,
+    "checkedAt": "2026-11-24T06:17:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00D6H4Y92.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:30:52.383Z"
+  },
+  {
+    "id": "auto-b0dsg9vcrh",
+    "asin": "B0DSG9VCRH",
+    "title": "Instinct 3 Solar 45mm Schwarz",
+    "category": "Tech",
+    "price": 235,
+    "checkedAt": "2026-11-24T06:22:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DSG9VCRH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:30:47.179Z"
+  },
+  {
     "id": "auto-b07cfhhd8p",
     "asin": "B07CFHHD8P",
     "title": "Jack & Jones Kapuzenpulli Hoodie Logo blau",
@@ -88,7 +110,8 @@
     "price": 693.33,
     "checkedAt": "2026-11-24T01:29:23.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BSH3JKQB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:30:56.688Z"
   },
   {
     "id": "auto-b0bn6b1y84",
@@ -2887,71 +2910,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DDKW58FG.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T06:47:22.881Z"
-  },
-  {
-    "id": "auto-b00jvilo8e",
-    "asin": "B00JVILO8E",
-    "title": "Karl May - Gesamtbox [Blu-ray] - alle Filme",
-    "category": "Bücher & Filme",
-    "price": 54.07,
-    "checkedAt": "2026-11-23T06:18:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00JVILO8E.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:02:11.127Z"
-  },
-  {
-    "id": "auto-b0gtrd1mm6",
-    "asin": "B0GTRD1MM6",
-    "title": "Amazon Prime Bosch Heißluftfritteuse, Serie 6, DoubleStack, kompakt, …",
-    "category": "Küche",
-    "price": 125.8,
-    "checkedAt": "2026-11-23T06:21:16.000Z",
-    "image": "https://static.mydealz.de/threads/raw/u5Qxz/2879104_1/re/768x768/qt/55/2879104_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T06:47:31.762Z"
-  },
-  {
-    "id": "auto-b0dsldqssk",
-    "asin": "B0DSLDQSSK",
-    "title": "Guinness Draught 0.0 Alkoholfrei, 24 Dosen (Sparabo) 30,14€+6€ Pfand",
-    "category": "Tech",
-    "price": 30.14,
-    "checkedAt": "2026-11-23T06:22:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DSLDQSSK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T06:32:41.258Z"
-  },
-  {
-    "id": "auto-b06y5vbfnb",
-    "asin": "B06Y5VBFNB",
-    "title": "Nintendo Minecraft - [Nintendo Switch]",
-    "category": "Gaming",
-    "price": 21.75,
-    "checkedAt": "2026-11-23T06:24:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06Y5VBFNB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T06:32:36.393Z"
-  },
-  {
-    "id": "auto-b0fjscnh4d",
-    "asin": "B0FJSCNH4D",
-    "title": "Spongebob Schwammkopf : Giganten der Gezeiten - Nintendo Switch 2",
-    "category": "Gaming",
-    "price": 22.79,
-    "checkedAt": "2026-11-23T06:26:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJSCNH4D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T06:32:31.537Z"
-  },
-  {
-    "id": "auto-b092dz1vk5",
-    "asin": "B092DZ1VK5",
-    "title": "Victorinox Schweizer Taschenmesser, Klein, Classic SD, Multitool, …",
-    "category": "Küche",
-    "price": 17.96,
-    "checkedAt": "2026-11-23T06:15:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B092DZ1VK5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T06:17:50.081Z"
   }
 ]
