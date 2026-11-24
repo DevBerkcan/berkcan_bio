@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0g44r24y4",
+    "asin": "B0G44R24Y4",
+    "title": "NICI Grüner Rucksack mit Plüschtier 21x26cm Fuchs 25cm - grün - 62692 …",
+    "category": "Sport & Outdoor",
+    "price": 19.55,
+    "checkedAt": "2026-11-24T13:44:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G44R24Y4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T13:46:23.456Z"
+  },
+  {
     "id": "auto-b0gl2gbq3p",
     "asin": "B0GL2GBQ3P",
     "title": "ROKR 3D Puzzle Holz Mechanische Schreibmaschine",
@@ -2627,17 +2638,6 @@
     "telegramPostedAt": "2026-11-23T14:31:07.897Z"
   },
   {
-    "id": "auto-b0dwdltkxh",
-    "asin": "B0DWDLTKXH",
-    "title": "LEGO Creator 3in1 Retro-Telefon 31174",
-    "category": "Spielzeug & LEGO",
-    "price": 12.99,
-    "checkedAt": "2026-11-23T13:32:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWDLTKXH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T16:01:37.664Z"
-  },
-  {
     "id": "auto-b0gsn784g1",
     "asin": "B0GSN784G1",
     "title": "Ariel Pulverwaschmittel Universal+ 100 Wäschen",
@@ -2704,53 +2704,5 @@
     "image": "https://m.media-amazon.com/images/P/B0HHHJQB4Z.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T14:01:19.868Z"
-  },
-  {
-    "id": "auto-b000y8xye2",
-    "asin": "B000Y8XYE2",
-    "title": "STANLEY 12 Zoll Schwerlast-Werkzeugtasche mit mehreren Fächern, 15 kg …",
-    "category": "Werkzeug",
-    "price": 9.32,
-    "checkedAt": "2026-11-23T13:35:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000Y8XYE2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T14:16:34.618Z"
-  },
-  {
-    "id": "auto-b00apg6rc4",
-    "asin": "B00APG6RC4",
-    "title": "Stanley Allesschneider (STHT0-14103, 255 mm)",
-    "category": "Tech",
-    "price": 11.49,
-    "checkedAt": "2026-11-23T13:38:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00APG6RC4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T13:46:35.406Z"
-  },
-  {
-    "id": "auto-b0hb5fzcfv",
-    "asin": "B0HB5FZCFV",
-    "title": "TP-Link Archer TXE70U Plus Wi-Fi 6E AXE5400 Tri-Band USB 3.0 …",
-    "category": "Tech",
-    "price": 29.74,
-    "oldPrice": 32.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T13:37:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HB5FZCFV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T13:46:30.156Z"
-  },
-  {
-    "id": "auto-b0d9bdrx7l",
-    "asin": "B0D9BDRX7L",
-    "title": "Bloom Naturals Mariendistel Leber Komplex 5-in-1",
-    "category": "Tech",
-    "price": 9.45,
-    "oldPrice": 12.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T13:37:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D9BDRX7L.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T13:46:19.822Z"
   }
 ]
