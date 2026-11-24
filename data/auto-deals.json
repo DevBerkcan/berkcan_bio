@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0gl3bhmtd",
+    "asin": "B0GL3BHMTD",
+    "title": "Toshiba MW3-AC26SFI(BK) Mikrowelle 6-in-1 mit Grill, Heißluft, …",
+    "category": "Küche",
+    "price": 164.99,
+    "checkedAt": "2026-11-24T06:35:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GL3BHMTD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:45:48.834Z"
+  },
+  {
+    "id": "auto-b09b8x9rgm",
+    "asin": "B09B8X9RGM",
+    "title": "Echo Dot (Version 2022)",
+    "category": "Amazon-Geräte",
+    "price": 34.99,
+    "checkedAt": "2026-11-24T06:37:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09B8X9RGM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:45:43.693Z"
+  },
+  {
+    "id": "auto-b07xrs54s1",
+    "asin": "B07XRS54S1",
+    "title": "DONBOLSO – Echt-Leder Geldbörse \"Wien\"",
+    "subtitle": "🔥 757° bei mydealz",
+    "category": "Mode & Reise",
+    "price": 15.98,
+    "checkedAt": "2026-11-24T06:40:18.000Z",
+    "image": "https://static.mydealz.de/threads/raw/rLpjC/2853198_1/re/768x768/qt/55/2853198_1.jpg",
+    "temperature": 757,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:45:34.350Z"
+  },
+  {
     "id": "auto-b00d6h4y92",
     "asin": "B00D6H4Y92",
     "title": "Bosch Professional Nass-/Trockensauger GAS 35 M AFC",
@@ -121,7 +156,8 @@
     "price": 5.13,
     "checkedAt": "2026-11-24T00:16:29.000Z",
     "image": "https://static.mydealz.de/threads/raw/NGAFM/2880103_1/re/768x768/qt/55/2880103_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T06:45:38.982Z"
   },
   {
     "id": "auto-b09ctwnfvw",
@@ -2840,19 +2876,6 @@
     "telegramPostedAt": "2026-11-23T07:46:43.487Z"
   },
   {
-    "id": "queue-b0dsvfmkfn",
-    "asin": "B0DSVFMKFN",
-    "title": "UGREEN MagSafe-Autohalterung für Tesla Model 3/Y",
-    "subtitle": "360° drehbar, 12 N52-Magnete und werkzeuglose Montage am Display.",
-    "category": "Zubehör & Laden",
-    "price": 17.76,
-    "checkedAt": "2026-11-23T06:32:52.000Z",
-    "image": "https://static.mydealz.de/threads/raw/xKfGe/2878792_1/re/768x768/qt/55/2878792_1.jpg",
-    "temperature": 109,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:46:27.793Z"
-  },
-  {
     "id": "auto-b0dnhrw9cr",
     "asin": "B0DNHRW9CR",
     "title": "Amazon Basics Neopren Hanteln Gewichte, Hantelset, 2er-Set, 1–3kg, …",
@@ -2888,17 +2911,6 @@
     "temperature": 421,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T07:02:07.501Z"
-  },
-  {
-    "id": "auto-b0fjm9562p",
-    "asin": "B0FJM9562P",
-    "title": "Atari 2600+ Pac-Man Edition Retro-Konsole",
-    "category": "Tech",
-    "price": 94.55,
-    "checkedAt": "2026-11-23T06:41:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJM9562P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T06:47:28.081Z"
   },
   {
     "id": "auto-b0ddkw58fg",
