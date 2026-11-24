@@ -1,5 +1,82 @@
 [
   {
+    "id": "auto-b07v47nglc",
+    "asin": "B07V47NGLC",
+    "title": "Medisana BBS Luftsprudelbad",
+    "category": "Tech",
+    "price": 84.49,
+    "checkedAt": "2026-11-24T07:47:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07V47NGLC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08682vq92",
+    "asin": "B08682VQ92",
+    "title": "JACK & JONES Male Cargo-Hose Casual Tapered Fit",
+    "category": "Tech",
+    "price": 23.74,
+    "checkedAt": "2026-11-24T07:53:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08682VQ92.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0d87ct5s7",
+    "asin": "B0D87CT5S7",
+    "title": "merci Adventskalender (263g) mit 10,- Cartida Gutschein",
+    "category": "Tech",
+    "price": 8.99,
+    "checkedAt": "2026-11-24T07:54:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D87CT5S7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08j3qzlrk",
+    "asin": "B08J3QZLRK",
+    "title": "Einhell Säulenbohrmaschine TE-BD 550 E",
+    "category": "Werkzeug",
+    "price": 181.99,
+    "checkedAt": "2026-11-24T07:57:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08J3QZLRK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:00:18.826Z"
+  },
+  {
+    "id": "queue-b0ftlzx22w",
+    "asin": "B0FTLZX22W",
+    "title": "Bosch Professional GLM 40-31 Laser-Entfernungsmesser",
+    "subtitle": "Misst bis 40 m, IP65-geschützt, 7 Messmodi und Farbdisplay.",
+    "category": "Küche",
+    "price": 63.69,
+    "checkedAt": "2026-11-23T14:12:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FTLZX22W.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:00:03.579Z"
+  },
+  {
+    "id": "queue-b0cvyly7tg",
+    "asin": "B0CVYLY7TG",
+    "title": "Canon EOS R100 + RF-S 18-45mm Kit mit Tasche & SD",
+    "subtitle": "24,1 MP APS-C, 4K-Video, WLAN – inkl. Tasche und 64-GB-SD-Karte.",
+    "category": "Foto & Video",
+    "price": 449,
+    "checkedAt": "2026-11-23T15:34:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CVYLY7TG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:59:59.277Z"
+  },
+  {
+    "id": "queue-b0g4nmrq63",
+    "asin": "B0G4NMRQ63",
+    "title": "UGREEN ClipBuds Pro 2 Open-Ear Kopfhörer",
+    "subtitle": "Open-Ear-Bügel mit LDAC Hi-Res Audio, 4 Mikros und KI-Übersetzung.",
+    "category": "Audio",
+    "price": 53.99,
+    "checkedAt": "2026-11-23T13:23:14.000Z",
+    "image": "https://static.mydealz.de/threads/raw/CHUos/2879551_1/re/768x768/qt/55/2879551_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:59:51.404Z"
+  },
+  {
     "id": "auto-b09wmvbvhg",
     "asin": "B09WMVBVHG",
     "title": "SKROSS Reiseadapter Pro",
@@ -1145,17 +1222,6 @@
     "telegramPostedAt": "2026-11-23T16:01:16.434Z"
   },
   {
-    "id": "auto-b0cvyly7tg",
-    "asin": "B0CVYLY7TG",
-    "title": "Canon EOS R100 Systemkamera + RF-S 18-45mm IS STM + Tasche + 64GB SD, …",
-    "category": "Foto & Video",
-    "price": 449,
-    "checkedAt": "2026-11-23T15:34:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CVYLY7TG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T15:46:38.269Z"
-  },
-  {
     "id": "auto-b0d2hgjfl2",
     "asin": "B0D2HGJFL2",
     "title": "JOREST 152 in 1 Feinmechaniker Bit Set inkl. Schraubendreher, Box und …",
@@ -1436,17 +1502,6 @@
     "telegramPostedAt": "2026-11-23T14:16:24.208Z"
   },
   {
-    "id": "auto-b0ftlzx22w",
-    "asin": "B0FTLZX22W",
-    "title": "Bosch Professional Laser-Entfernungsmesser GLM 40-31, Messbereich bis …",
-    "category": "Küche",
-    "price": 63.69,
-    "checkedAt": "2026-11-23T14:12:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FTLZX22W.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T14:16:18.189Z"
-  },
-  {
     "id": "auto-b098y186gh",
     "asin": "B098Y186GH",
     "title": "WORX WX092.9 Akku-Kompressor 20V, max. 10 bar, mit Digitalanzeige, …",
@@ -1651,17 +1706,6 @@
     "image": "https://m.media-amazon.com/images/P/B09X3FTL7F.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T13:31:39.392Z"
-  },
-  {
-    "id": "auto-b0g4nmrq63",
-    "asin": "B0G4NMRQ63",
-    "title": "UGREEN ClipBuds Pro 2 Open-Ear Bluetooth Kopfhörer mit KI-Übersetzung",
-    "category": "Audio",
-    "price": 53.99,
-    "checkedAt": "2026-11-23T13:23:14.000Z",
-    "image": "https://static.mydealz.de/threads/raw/CHUos/2879551_1/re/768x768/qt/55/2879551_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T13:31:34.002Z"
   },
   {
     "id": "auto-b08h22b3ny",
@@ -2880,39 +2924,6 @@
     "temperature": 112,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T08:16:22.223Z"
-  },
-  {
-    "id": "auto-b0090i3yss",
-    "asin": "B0090I3YSS",
-    "title": "Diplomático Reserva Exclusiva Rum 0,7 Liter 40 % Vol.",
-    "category": "Tech",
-    "price": 22.74,
-    "checkedAt": "2026-11-23T07:46:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0090I3YSS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:01:45.564Z"
-  },
-  {
-    "id": "auto-b0771lvb9r",
-    "asin": "B0771LVB9R",
-    "title": "EASTPAK Tranverz M Koffer 78L, mittelgroßer Reisekoffer",
-    "category": "Mode & Reise",
-    "price": 78,
-    "checkedAt": "2026-11-23T07:53:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0771LVB9R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:01:40.564Z"
-  },
-  {
-    "id": "auto-b07d38hkcs",
-    "asin": "B07D38HKCS",
-    "title": "Tangle Teezer Ultimate Detangler Haarbürste – Für Nasses & Trockenes …",
-    "category": "Tech",
-    "price": 9.45,
-    "checkedAt": "2026-11-23T07:57:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07D38HKCS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:01:35.406Z"
   },
   {
     "id": "auto-b0gdwyqm8j",
