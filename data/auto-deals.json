@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b000z2fzr6",
+    "asin": "B000Z2FZR6",
+    "title": "de Buyer Affinity 28 cm Edelstahlpfanne",
+    "category": "Küche",
+    "price": 100.61,
+    "checkedAt": "2026-11-24T20:14:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000Z2FZR6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T20:28:26.818Z"
+  },
+  {
+    "id": "auto-b00jh5m4wg",
+    "asin": "B00JH5M4WG",
+    "title": "Stanley Trockenbau Kantenhobel mit gleichmäßiger Führung STHT1-05937",
+    "category": "Tech",
+    "price": 14.49,
+    "checkedAt": "2026-11-24T20:16:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00JH5M4WG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T20:28:20.630Z"
+  },
+  {
+    "id": "auto-b0ghvcw5tz",
+    "asin": "B0GHVCW5TZ",
+    "title": "Leatherman Skeletool KBx, Taschenmesser, diverse Farben,",
+    "category": "Küche",
+    "price": 40,
+    "checkedAt": "2026-11-24T20:26:38.000Z",
+    "image": "https://static.mydealz.de/threads/raw/qd5eU/2880961_1/re/768x768/qt/55/2880961_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T20:28:14.304Z"
+  },
+  {
     "id": "auto-b0cb66tbyf",
     "asin": "B0CB66TBYF",
     "title": "Jazwares Plüschfigur/Kuscheltier Pokémon Winter Bisasam mit …",
@@ -2551,16 +2584,5 @@
     "temperature": 112,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T20:59:05.636Z"
-  },
-  {
-    "id": "auto-b0c37r3q5k",
-    "asin": "B0C37R3Q5K",
-    "title": "Sony TA-AN1000 8K 7.2-Kanal-AV-Verstärker mit 360 Spatial Sound …",
-    "category": "Tech",
-    "price": 699,
-    "checkedAt": "2026-11-23T20:17:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C37R3Q5K.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T20:44:24.719Z"
   }
 ]
