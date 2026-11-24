@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0bwkbkd9s",
+    "asin": "B0BWKBKD9S",
+    "title": "Philips Series 7000",
+    "category": "Tech",
+    "price": 91,
+    "checkedAt": "2026-11-24T17:01:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BWKBKD9S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T17:16:06.279Z"
+  },
+  {
+    "id": "auto-b0f8r8fpkq",
+    "asin": "B0F8R8FPKQ",
+    "title": "Victorinox 6x Frühstücksmesser 11 cm Wellenschliff, Tomatenmesser",
+    "category": "Küche",
+    "price": 22.99,
+    "checkedAt": "2026-11-24T17:01:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F8R8FPKQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T17:16:00.717Z"
+  },
+  {
     "id": "auto-b0h4bchq1v",
     "asin": "B0H4BCHQ1V",
     "title": "Prime | Hot Wheels Infinite Rush - Nintendo Switch 2 - GKC | …",
@@ -2661,17 +2683,6 @@
     "telegramPostedAt": "2026-11-23T18:15:45.914Z"
   },
   {
-    "id": "auto-b0fpxd9b3s",
-    "asin": "B0FPXD9B3S",
-    "title": "LEGO Creator 3in1 Wilder Dinosaurier 31379",
-    "category": "Spielzeug & LEGO",
-    "price": 14.6,
-    "checkedAt": "2026-11-23T17:15:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXD9B3S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T18:00:57.552Z"
-  },
-  {
     "id": "auto-b06xcdznd2",
     "asin": "B06XCDZND2",
     "title": "Kryptonite Fahrradschloss Evolution Mini-9 Bügelschloss - …",
@@ -2718,28 +2729,6 @@
     "telegramPostedAt": "2026-11-23T17:31:17.146Z"
   },
   {
-    "id": "auto-b09rqzpq1t",
-    "asin": "B09RQZPQ1T",
-    "title": "Garmin inReach Mini 2, Satelliten-Kommunikationsgeräts, Schwarz",
-    "category": "Tech",
-    "price": 219,
-    "checkedAt": "2026-11-23T17:03:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09RQZPQ1T.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T17:16:42.970Z"
-  },
-  {
-    "id": "auto-b092b622lz",
-    "asin": "B092B622LZ",
-    "title": "Kalte Finger? > Odlo Active Warm Unterzieh-Handschuhe Unisex – Ski & …",
-    "category": "Mode & Reise",
-    "price": 15.83,
-    "checkedAt": "2026-11-23T17:12:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B092B622LZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T17:16:37.640Z"
-  },
-  {
     "id": "auto-b0frzyqm1k",
     "asin": "B0FRZYQM1K",
     "title": "X-Sense Mini Standalone Rauchmelder, 10-Jahres-Batterie, XS01, 6 Stück",
@@ -2749,18 +2738,5 @@
     "image": "https://static.mydealz.de/threads/raw/A7ifF/2879817_1/re/768x768/qt/55/2879817_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T17:16:32.443Z"
-  },
-  {
-    "id": "auto-b0hgs524ql",
-    "asin": "B0HGS524QL",
-    "title": "BRITA Glas-Wasserkanne + Silikonfuß + 4 Filter",
-    "category": "Tech",
-    "price": 59.99,
-    "oldPrice": 74.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T17:10:39.000Z",
-    "image": "https://static.mydealz.de/threads/raw/yqZIL/2879808_1/re/768x768/qt/55/2879808_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T17:16:26.153Z"
   }
 ]
