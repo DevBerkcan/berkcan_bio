@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0c4sv9qtg",
+    "asin": "B0C4SV9QTG",
+    "title": "Die Truman Show (4K UHD + Blu-ray)",
+    "category": "Bücher & Filme",
+    "price": 13.4,
+    "checkedAt": "2026-11-24T08:22:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C4SV9QTG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:45:43.305Z"
+  },
+  {
+    "id": "auto-b0gwf274l4",
+    "asin": "B0GWF274L4",
+    "title": "Avatar: Fire and Ash - Limitiertes Steelbook 4K UHD + Blu-ray + …",
+    "category": "Bücher & Filme",
+    "price": 22.93,
+    "checkedAt": "2026-11-24T08:44:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GWF274L4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:45:37.675Z"
+  },
+  {
+    "id": "auto-b0dygbl2g8",
+    "asin": "B0DYGBL2G8",
+    "title": "PLAYMOBIL Porsche Carrera GT 71859",
+    "category": "Spielzeug & LEGO",
+    "price": 12.59,
+    "oldPrice": 16.58,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T08:02:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DYGBL2G8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T08:45:32.487Z"
+  },
+  {
     "id": "auto-b00k3lhvv2",
     "asin": "B00K3LHVV2",
     "title": "VICTORINOX Evolution 18",
@@ -2919,53 +2954,5 @@
     "temperature": 299,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T09:01:07.261Z"
-  },
-  {
-    "id": "auto-b0154lpr20",
-    "asin": "B0154LPR20",
-    "title": "Prime - Yankee Candle - Duftkerze im Glas - Red Apple Wreath 411g …",
-    "category": "Tech",
-    "price": 7.99,
-    "checkedAt": "2026-11-23T08:36:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0154LPR20.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:46:25.911Z"
-  },
-  {
-    "id": "auto-b074m9dz4m",
-    "asin": "B074M9DZ4M",
-    "title": "2er-Pack | Philips AquaClean Wasserfilter für Kaffeevollautomaten, …",
-    "category": "Küche",
-    "price": 14.99,
-    "checkedAt": "2026-11-23T08:40:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B074M9DZ4M.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:46:20.519Z"
-  },
-  {
-    "id": "auto-b0df7wq3k3",
-    "asin": "B0DF7WQ3K3",
-    "title": "Sid Meier's Civilization VII – PS5 / PlayStation 5",
-    "subtitle": "🔥 285° bei mydealz",
-    "category": "Gaming",
-    "price": 16.24,
-    "checkedAt": "2026-11-23T08:44:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DF7WQ3K3.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 285,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:46:15.192Z"
-  },
-  {
-    "id": "auto-b0blc23tkd",
-    "asin": "B0BLC23TKD",
-    "title": "Reloop RT-1 BT Plattenspieler für DJ- & HiFi-Anwendungen",
-    "category": "Audio",
-    "price": 155.22,
-    "oldPrice": 195.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T08:36:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BLC23TKD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T08:46:09.979Z"
   }
 ]
