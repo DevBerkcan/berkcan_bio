@@ -1,5 +1,70 @@
 [
   {
+    "id": "auto-b09c92c7l8",
+    "asin": "B09C92C7L8",
+    "title": "Mattel Games Minecraft UNO Kartenspiel",
+    "category": "Spielzeug & LEGO",
+    "price": 7.99,
+    "checkedAt": "2026-11-24T09:42:22.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09C92C7L8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b010sjgeny",
+    "asin": "B010SJGENY",
+    "title": "STANLEY FatMax Werkzeugbox mit Rollen",
+    "category": "Werkzeug",
+    "price": 116.39,
+    "checkedAt": "2026-11-24T10:08:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B010SJGENY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:16:18.818Z"
+  },
+  {
+    "id": "auto-b0dj3284bs",
+    "asin": "B0DJ3284BS",
+    "title": "Roborock Saros 10R Saugroboter mit Wischfunktion & abnehmbaren …",
+    "category": "Haushalt",
+    "price": 549,
+    "checkedAt": "2026-11-24T10:08:57.000Z",
+    "image": "https://static.mydealz.de/threads/raw/uVbEJ/2880389_1/re/768x768/qt/55/2880389_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:16:13.597Z"
+  },
+  {
+    "id": "auto-b0btm1rpdv",
+    "asin": "B0BTM1RPDV",
+    "title": "UVEX Pheos Sicherheitsbrille – 100 % UV-Schutz, metallfrei, …",
+    "category": "Tech",
+    "price": 8.49,
+    "checkedAt": "2026-11-24T10:09:07.000Z",
+    "image": "https://static.mydealz.de/threads/raw/QaQQS/2880390_1/re/768x768/qt/55/2880390_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:16:06.881Z"
+  },
+  {
+    "id": "auto-b0djtjdn73",
+    "asin": "B0DJTJDN73",
+    "title": "Turtle Beach Stealth Pivot kabelloser Smart-Controller, drehbare …",
+    "category": "Gaming",
+    "price": 61,
+    "checkedAt": "2026-11-24T10:10:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJTJDN73.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:16:01.905Z"
+  },
+  {
+    "id": "auto-b0dgxtkz42",
+    "asin": "B0DGXTKZ42",
+    "title": "Xbox Series S 512GB Lieferung 2-7 Dezember",
+    "category": "Gaming",
+    "price": 499.99,
+    "checkedAt": "2026-11-24T10:13:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DGXTKZ42.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T10:15:52.800Z"
+  },
+  {
     "id": "auto-b07ftg84sw",
     "asin": "B07FTG84SW",
     "title": "DJI Osmo Mobile 7P Smartphone-Gimbal",
@@ -2710,17 +2775,6 @@
     "telegramPostedAt": "2026-11-23T11:15:44.154Z"
   },
   {
-    "id": "auto-b00j8m6v0y",
-    "asin": "B00J8M6V0Y",
-    "title": "Nintendo Super Mario Figur (50 cm) -Offizieller Nintendo Store",
-    "category": "Gaming",
-    "price": 30.43,
-    "checkedAt": "2026-11-23T10:08:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00J8M6V0Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:01:14.282Z"
-  },
-  {
     "id": "auto-b0gwf31p6p",
     "asin": "B0GWF31P6P",
     "title": "Microsoft Surface Pro, 13 inch",
@@ -2867,51 +2921,5 @@
     "temperature": 175,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T10:30:42.629Z"
-  },
-  {
-    "id": "auto-b01mr2b7lh",
-    "asin": "B01MR2B7LH",
-    "title": "Ravensburger Das Original Malefiz",
-    "category": "Spielzeug & LEGO",
-    "price": 13.54,
-    "oldPrice": 16.97,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T10:02:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01MR2B7LH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T10:30:37.531Z"
-  },
-  {
-    "id": "auto-b09zld62cz",
-    "asin": "B09ZLD62CZ",
-    "title": "Panasonic eneloop AA/Mignon Ni-MH Akkus",
-    "category": "Tech",
-    "price": 18.69,
-    "checkedAt": "2026-11-23T10:00:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09ZLD62CZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T10:15:52.334Z"
-  },
-  {
-    "id": "auto-b07nj2yqj1",
-    "asin": "B07NJ2YQJ1",
-    "title": "JACK & JONES Herren Glenn Original Jeans in Blau verschied. Größen & …",
-    "category": "Mode & Reise",
-    "price": 18.14,
-    "checkedAt": "2026-11-23T10:08:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07NJ2YQJ1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T10:15:47.236Z"
-  },
-  {
-    "id": "auto-b00lh3dmuo",
-    "asin": "B00LH3DMUO",
-    "title": "36 Stück Amazon Basics AAA Alkali-Batterien – 5,96 € mit Spar-Abo",
-    "category": "Tech",
-    "price": 6.62,
-    "checkedAt": "2026-11-23T10:13:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00LH3DMUO.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T10:15:42.355Z"
   }
 ]
