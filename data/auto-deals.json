@@ -1,5 +1,75 @@
 [
   {
+    "id": "auto-b0hb8zz93p",
+    "asin": "B0HB8ZZ93P",
+    "title": "Wege zum Ruhm - Limitiertes Mediabook (4K Ultra HD)",
+    "category": "Bücher & Filme",
+    "price": 24.24,
+    "checkedAt": "2026-11-24T11:16:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HB8ZZ93P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:46:30.145Z"
+  },
+  {
+    "id": "auto-b0dt71zb58",
+    "asin": "B0DT71ZB58",
+    "title": "Philips i9000 Wet & Dry Elektrischer Herrenrasierer",
+    "category": "Beauty & Pflege",
+    "price": 169.99,
+    "checkedAt": "2026-11-24T11:31:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DT71ZB58.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:46:24.897Z"
+  },
+  {
+    "id": "auto-b0fvxx3p14",
+    "asin": "B0FVXX3P14",
+    "title": "Prime - Lexibook, Spider-Man, Nachtlicht-Wecker, RL800SPLXB Klänge und …",
+    "category": "Tech",
+    "price": 24.49,
+    "checkedAt": "2026-11-24T11:34:01.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FVXX3P14.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:46:19.699Z"
+  },
+  {
+    "id": "auto-b0bqlb596v",
+    "asin": "B0BQLB596V",
+    "title": "RØDE Wireless ME Ultra-kompaktes Drahtlos-Mikrofonsystem",
+    "category": "Audio",
+    "price": 64.99,
+    "checkedAt": "2026-11-24T11:35:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BQLB596V.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:46:14.475Z"
+  },
+  {
+    "id": "auto-b008wk1r7u",
+    "asin": "B008WK1R7U",
+    "title": "Bosch ErgoMixx MFQ36440",
+    "category": "Tech",
+    "price": 32.99,
+    "oldPrice": 42.9,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T11:40:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B008WK1R7U.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:46:08.107Z"
+  },
+  {
+    "id": "auto-b0cxy2gfkp",
+    "asin": "B0CXY2GFKP",
+    "title": "Travelite Rolltop Rucksack BASICS – Handgepäck & Reiserucksack",
+    "category": "Sport & Outdoor",
+    "price": 18.29,
+    "oldPrice": 30.56,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T11:31:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CXY2GFKP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:46:02.525Z"
+  },
+  {
     "id": "auto-b0dhshh218",
     "asin": "B0DHSHH218",
     "title": "LEGO City 60443 F1 Boxenstopp mit Ferrari Flitzer",
@@ -2780,64 +2850,5 @@
     "image": "https://m.media-amazon.com/images/P/B0043A012U.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T12:01:33.447Z"
-  },
-  {
-    "id": "auto-b07mdgg56c",
-    "asin": "B07MDGG56C",
-    "title": "ROCKBROS Lenkerstulpen für Fahrrad, Roller und Scooter",
-    "category": "Sport & Outdoor",
-    "price": 47.19,
-    "checkedAt": "2026-11-23T11:32:04.000Z",
-    "image": "https://static.mydealz.de/threads/raw/q2Iz7/2879460_1/re/768x768/qt/55/2879460_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:46:48.078Z"
-  },
-  {
-    "id": "auto-b0hp1vpyfp",
-    "asin": "B0HP1VPYFP",
-    "title": "Novilla Matratzen Topper 140x200 5 cm, H3 Höhe Kaltschaum, Oeko-TEx",
-    "category": "Tech",
-    "price": 43.99,
-    "checkedAt": "2026-11-23T11:33:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HP1VPYFP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:46:41.643Z"
-  },
-  {
-    "id": "auto-b0fttcnft8",
-    "asin": "B0FTTCNFT8",
-    "title": "Scotch & Soda Herren Hose",
-    "category": "Tech",
-    "price": 48.71,
-    "checkedAt": "2026-11-23T11:34:55.000Z",
-    "image": "https://static.mydealz.de/threads/raw/naDdN/2879466_1/re/768x768/qt/55/2879466_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:46:36.455Z"
-  },
-  {
-    "id": "auto-b083v88kdh",
-    "asin": "B083V88KDH",
-    "title": "Amazon Basics Infrarot-Thermometer, -50 bis 500 °C, mit Laser und …",
-    "category": "Tech",
-    "price": 13.01,
-    "oldPrice": 15.68,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T11:34:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B083V88KDH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:46:28.507Z"
-  },
-  {
-    "id": "auto-b0cbc78ngx",
-    "asin": "B0CBC78NGX",
-    "title": "Cosori Heißluftfritteuse 6,2 L mit beleuchtetem Sichtfenster, 12-in-1, …",
-    "category": "Küche",
-    "price": 59.99,
-    "oldPrice": 99.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T11:36:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CBC78NGX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:46:23.143Z"
   }
 ]
