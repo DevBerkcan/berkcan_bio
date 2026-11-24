@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0fpxdxxyr",
+    "asin": "B0FPXDXXYR",
+    "title": "LEGO Speed Champions Zeitmaschine aus Zurück in die Zukunft 77256",
+    "category": "Spielzeug & LEGO",
+    "price": 17.99,
+    "checkedAt": "2026-11-24T16:42:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXDXXYR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T17:31:03.285Z"
+  },
+  {
+    "id": "auto-b00b16hgeu",
+    "asin": "B00B16HGEU",
+    "title": "Moët & Chandon Impérial Brut Champagner 0,75 l in Geschenkverpackung",
+    "category": "Tech",
+    "price": 39.89,
+    "checkedAt": "2026-11-24T17:25:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00B16HGEU.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T17:30:57.854Z"
+  },
+  {
     "id": "auto-b0bwkbkd9s",
     "asin": "B0BWKBKD9S",
     "title": "Philips Series 7000",
@@ -2716,27 +2738,5 @@
     "temperature": 307,
     "source": "auto",
     "telegramPostedAt": "2026-11-23T18:00:38.571Z"
-  },
-  {
-    "id": "auto-b096y3nq57",
-    "asin": "B096Y3NQ57",
-    "title": "MSI Forge GM320 Gaming-Maus kabelgebunden, 12800 DPI, optisch, …",
-    "category": "Computer",
-    "price": 8.99,
-    "checkedAt": "2026-11-23T17:16:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B096Y3NQ57.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T17:31:17.146Z"
-  },
-  {
-    "id": "auto-b0frzyqm1k",
-    "asin": "B0FRZYQM1K",
-    "title": "X-Sense Mini Standalone Rauchmelder, 10-Jahres-Batterie, XS01, 6 Stück",
-    "category": "Tech",
-    "price": 48.25,
-    "checkedAt": "2026-11-23T17:15:41.000Z",
-    "image": "https://static.mydealz.de/threads/raw/A7ifF/2879817_1/re/768x768/qt/55/2879817_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T17:16:32.443Z"
   }
 ]
