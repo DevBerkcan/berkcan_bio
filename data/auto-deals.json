@@ -1,5 +1,97 @@
 [
   {
+    "id": "auto-b0dhshh218",
+    "asin": "B0DHSHH218",
+    "title": "LEGO City 60443 F1 Boxenstopp mit Ferrari Flitzer",
+    "category": "Spielzeug & LEGO",
+    "price": 17.99,
+    "checkedAt": "2026-11-24T10:53:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DHSHH218.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:31:16.762Z"
+  },
+  {
+    "id": "auto-b0dyg1k75f",
+    "asin": "B0DYG1K75F",
+    "title": "PLAYMOBIL Collector Cars Ferrari 250 GTO (71856)",
+    "category": "Spielzeug & LEGO",
+    "price": 12.59,
+    "checkedAt": "2026-11-24T10:56:01.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DYG1K75F.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:31:10.555Z"
+  },
+  {
+    "id": "auto-b0gqbx475s",
+    "asin": "B0GQBX475S",
+    "title": "dreame L40 Ultra A Saugroboter mit Wischfunktion, 24.000 Pa, …",
+    "category": "Haushalt",
+    "price": 299,
+    "checkedAt": "2026-11-24T11:15:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GQBX475S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:31:04.036Z"
+  },
+  {
+    "id": "auto-b0dbvcrtk5",
+    "asin": "B0DBVCRTK5",
+    "title": "SwitchBot Wlan Wetterstation Funk mit Außensensor",
+    "category": "Tech",
+    "price": 49.87,
+    "checkedAt": "2026-11-24T11:19:10.000Z",
+    "image": "https://static.mydealz.de/threads/raw/BuZpV/2880473_1/re/768x768/qt/55/2880473_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:30:58.740Z"
+  },
+  {
+    "id": "auto-b0g1tvzp95",
+    "asin": "B0G1TVZP95",
+    "title": "Victorinox Fibrox Ausbeinmesser, Scharfes Küchenmesser f. Fleisch & …",
+    "category": "Küche",
+    "price": 15.64,
+    "checkedAt": "2026-11-24T11:19:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G1TVZP95.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:30:52.152Z"
+  },
+  {
+    "id": "auto-b0ghrbjj1n",
+    "asin": "B0GHRBJJ1N",
+    "title": "Reolink OMVI X16, PoE, Sicherheitskamera, 16X Zoom, 4K PTZ, …",
+    "category": "Smart Home",
+    "price": 552.49,
+    "checkedAt": "2026-11-24T11:27:07.000Z",
+    "image": "https://static.mydealz.de/threads/raw/lsut9/2880482_1/re/768x768/qt/55/2880482_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:30:46.352Z"
+  },
+  {
+    "id": "auto-b0fjxxwwyb",
+    "asin": "B0FJXXWWYB",
+    "title": "Battlefield 6 Phantom Edition PS5",
+    "subtitle": "🔥 208° bei mydealz",
+    "category": "Gaming",
+    "price": 27.8,
+    "checkedAt": "2026-11-24T11:16:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FJXXWWYB.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 208,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:30:39.643Z"
+  },
+  {
+    "id": "auto-b09t2bm4d9",
+    "asin": "B09T2BM4D9",
+    "title": "Geschenk für die Freundin? - WORKPRO 73-tlg Werkzeug Set Rosa",
+    "category": "Werkzeug",
+    "price": 51.99,
+    "oldPrice": 73.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T11:21:02.000Z",
+    "image": "https://static.mydealz.de/threads/raw/EOenT/2880477_1/re/768x768/qt/55/2880477_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T11:30:34.085Z"
+  },
+  {
     "id": "auto-b0gvxrv9p5",
     "asin": "B0GVXRV9P5",
     "title": "Uzala, der Kirgise - Das Oscar-prämierte Meisterwerk von Akira …",
@@ -2690,17 +2782,6 @@
     "telegramPostedAt": "2026-11-23T12:01:33.447Z"
   },
   {
-    "id": "auto-b09w2rkg58",
-    "asin": "B09W2RKG58",
-    "title": "VTech Marble Rush Super Action Set L100 - Interaktive Kugelbahn aus …",
-    "category": "Spielzeug & LEGO",
-    "price": 33.99,
-    "checkedAt": "2026-11-23T11:22:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09W2RKG58.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:46:53.367Z"
-  },
-  {
     "id": "auto-b07mdgg56c",
     "asin": "B07MDGG56C",
     "title": "ROCKBROS Lenkerstulpen für Fahrrad, Roller und Scooter",
@@ -2758,66 +2839,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CBC78NGX.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T11:46:23.143Z"
-  },
-  {
-    "id": "auto-b0hnwnq9hk",
-    "asin": "B0HNWNQ9HK",
-    "title": "NoBrainer: Gaming Keyboard mit RGB",
-    "category": "Computer",
-    "price": 9.99,
-    "checkedAt": "2026-11-23T11:19:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HNWNQ9HK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:31:38.153Z"
-  },
-  {
-    "id": "auto-b075wpstx9",
-    "asin": "B075WPSTX9",
-    "title": "Yaheetech Bürostuhl Ergonomisch mit Netzbespannung Atmungsaktiv, …",
-    "category": "Tech",
-    "price": 40.84,
-    "checkedAt": "2026-11-23T11:27:31.000Z",
-    "image": "https://static.mydealz.de/threads/raw/OA6Fi/2879451_1/re/768x768/qt/55/2879451_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:31:33.013Z"
-  },
-  {
-    "id": "auto-b0cpq58p42",
-    "asin": "B0CPQ58P42",
-    "title": "Bosch Professional GOP 18V-34 Akku-Multi-Cutter, bürstenlos, …",
-    "category": "Werkzeug",
-    "price": 149.99,
-    "oldPrice": 167.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T11:21:57.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CPQ58P42.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:31:26.155Z"
-  },
-  {
-    "id": "auto-b017x1ahds",
-    "asin": "B017X1AHDS",
-    "title": "RUKO Terrax | HSS-G TiN Stahlbohrer 1-10mm | 118° | 19 Teilig in …",
-    "subtitle": "🔥 156° bei mydealz",
-    "category": "Werkzeug",
-    "price": 15.95,
-    "checkedAt": "2026-11-23T11:17:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B017X1AHDS.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 156,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:31:20.823Z"
-  },
-  {
-    "id": "auto-b07m5gmwrg",
-    "asin": "B07M5GMWRG",
-    "title": "INTEX Pillow Rest Luftbett für 2 Personen, 152 x 203 x 25 cm, mit …",
-    "category": "Tech",
-    "price": 10.63,
-    "oldPrice": 19.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T11:28:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07M5GMWRG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T11:31:10.003Z"
   }
 ]
