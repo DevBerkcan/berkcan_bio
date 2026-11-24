@@ -1,5 +1,66 @@
 [
   {
+    "id": "auto-b094138m2g",
+    "asin": "B094138M2G",
+    "title": "Jack & Jones 2er-Pack",
+    "category": "Tech",
+    "price": 28.42,
+    "checkedAt": "2026-11-24T07:17:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B094138M2G.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:30:24.303Z"
+  },
+  {
+    "id": "auto-b0g7lnzr5x",
+    "asin": "B0G7LNZR5X",
+    "title": "PLAYMOBIL Knights Steinkatapult der Drachenritter",
+    "category": "Spielzeug & LEGO",
+    "price": 13.49,
+    "oldPrice": 17.98,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-24T06:36:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G7LNZR5X.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:30:19.216Z"
+  },
+  {
+    "id": "queue-b0883lv8cn",
+    "asin": "B0883LV8CN",
+    "title": "Sonos Five Smart-Speaker",
+    "subtitle": "Großer Sonos-Lautsprecher für kräftigen Raumklang, in Schwarz oder Weiß.",
+    "category": "Audio",
+    "price": 437,
+    "checkedAt": "2026-11-23T19:04:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0883LV8CN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:30:02.437Z"
+  },
+  {
+    "id": "queue-b09877wfm6",
+    "asin": "B09877WFM6",
+    "title": "Bosch UniversalImpact 18V Schlagbohrschrauber-Set",
+    "subtitle": "Komplett-Set mit 2,0-Ah-Akku, Ladegerät, Bohrern und Bits im Koffer.",
+    "category": "Werkzeug",
+    "price": 78.69,
+    "oldPrice": 98.99,
+    "checkedAt": "2026-11-23T12:56:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09877WFM6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:29:58.091Z"
+  },
+  {
+    "id": "queue-b0h1jc29d3",
+    "asin": "B0H1JC29D3",
+    "title": "dreame Matrix10 Pro Saugroboter mit Wischfunktion",
+    "subtitle": "30.000 Pa Saugkraft, Multi-Mopp-Wechseldock und 4 cm Hindernisüberwindung.",
+    "category": "Haushalt",
+    "price": 569,
+    "checkedAt": "2026-11-23T15:10:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H1JC29D3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-24T07:29:53.643Z"
+  },
+  {
     "id": "auto-b00iwvdgbe",
     "asin": "B00IWVDGBE",
     "title": "Teeling Single Grain Irish Whiskey",
@@ -529,17 +590,6 @@
     "image": "https://m.media-amazon.com/images/P/B0GQ9P7L61.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T19:15:38.534Z"
-  },
-  {
-    "id": "auto-b0883lv8cn",
-    "asin": "B0883LV8CN",
-    "title": "Sonos Five (Schwarz/Weiß)",
-    "category": "Audio",
-    "price": 437,
-    "checkedAt": "2026-11-23T19:04:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0883LV8CN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T19:15:33.153Z"
   },
   {
     "id": "auto-b07ytnxs5l",
@@ -1153,17 +1203,6 @@
     "telegramPostedAt": "2026-11-23T15:31:16.648Z"
   },
   {
-    "id": "auto-b0h1jc29d3",
-    "asin": "B0H1JC29D3",
-    "title": "dreame Matrix10 Pro Saugroboter mit Wischfunktion, 30.000 Pa, …",
-    "category": "Haushalt",
-    "price": 569,
-    "checkedAt": "2026-11-23T15:10:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H1JC29D3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T15:31:38.591Z"
-  },
-  {
     "id": "auto-b0dhh6yjcd",
     "asin": "B0DHH6YJCD",
     "title": "Melitta BellaCrema Crema Dolce, Kaffeebohnen, 1 kg",
@@ -1700,19 +1739,6 @@
     "image": "https://m.media-amazon.com/images/P/B00313I9E2.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T13:16:16.325Z"
-  },
-  {
-    "id": "auto-b09877wfm6",
-    "asin": "B09877WFM6",
-    "title": "Bosch UniversalImpact 18V Akku-Schlagbohrschrauber mit 2,0-Ah-Akku, …",
-    "category": "Werkzeug",
-    "price": 78.69,
-    "oldPrice": 98.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-23T12:56:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09877WFM6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T13:16:11.929Z"
   },
   {
     "id": "auto-b09z2rlyql",
@@ -2919,16 +2945,5 @@
     "image": "https://m.media-amazon.com/images/P/B07XTW88SM.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-23T07:46:43.487Z"
-  },
-  {
-    "id": "auto-b0dnhrw9cr",
-    "asin": "B0DNHRW9CR",
-    "title": "Amazon Basics Neopren Hanteln Gewichte, Hantelset, 2er-Set, 1–3kg, …",
-    "category": "Sport & Outdoor",
-    "price": 20.99,
-    "checkedAt": "2026-11-23T07:21:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DNHRW9CR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-23T07:31:59.152Z"
   }
 ]
