@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0fcss2fy9",
+    "asin": "B0FCSS2FY9",
+    "title": "Tefal EverSharp Pro 6-teiliger Messerblock, selbstschärfend deutscher …",
+    "category": "Küche",
+    "price": 99.79,
+    "checkedAt": "2026-11-25T13:00:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FCSS2FY9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T13:13:01.804Z"
+  },
+  {
+    "id": "auto-b0cxjhwh43",
+    "asin": "B0CXJHWH43",
+    "title": "Ankerkraut Spongebob Burger Mix, Schwammkopf Burger Edition, 230 g im …",
+    "category": "Tech",
+    "price": 5.69,
+    "checkedAt": "2026-11-25T13:06:36.000Z",
+    "image": "https://static.mydealz.de/threads/raw/l7Nmn/2881487_1/re/768x768/qt/55/2881487_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T13:12:56.444Z"
+  },
+  {
     "id": "auto-b0ctchv5x1",
     "asin": "B0CTCHV5X1",
     "title": "Acer Predator XB273KV3 - Gaming Monitor",
@@ -1907,17 +1929,6 @@
     "telegramPostedAt": "2026-11-24T14:15:56.597Z"
   },
   {
-    "id": "auto-b00004yttd",
-    "asin": "B00004YTTD",
-    "title": "Amazon Prime: Bobby Car",
-    "category": "Spielzeug & LEGO",
-    "price": 29.99,
-    "checkedAt": "2026-11-24T13:10:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00004YTTD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:01:17.078Z"
-  },
-  {
     "id": "auto-b076hlhzlp",
     "asin": "B076HLHZLP",
     "title": "Star Trek Voyager - DVD Box - die komplette Serie",
@@ -2014,29 +2025,5 @@
     "image": "https://m.media-amazon.com/images/P/B08QNBGL6Q.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T13:31:17.009Z"
-  },
-  {
-    "id": "auto-b0fpm5knfh",
-    "asin": "B0FPM5KNFH",
-    "title": "Blu-ray: Zurück in die Zukunft - 40th Anniversary Trilogie",
-    "category": "Bücher & Filme",
-    "price": 22.48,
-    "checkedAt": "2026-11-24T13:02:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPM5KNFH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T13:16:21.338Z"
-  },
-  {
-    "id": "auto-b00m0hmyiw",
-    "asin": "B00M0HMYIW",
-    "title": "WMF Profi Bratpfanne 28cm, unbeschichtet, Cromargan Edelstahl, für …",
-    "subtitle": "🔥 661° bei mydealz",
-    "category": "Küche",
-    "price": 31.43,
-    "checkedAt": "2026-11-24T13:06:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00M0HMYIW.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 661,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T13:16:16.017Z"
   }
 ]
