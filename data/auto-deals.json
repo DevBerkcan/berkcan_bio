@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0d4548yvz",
+    "asin": "B0D4548YVZ",
+    "title": "CHERRY XTRFY M64 Wireless, Ultraleichte Kabellose Gaming-Maus, 2,4 …",
+    "category": "Computer",
+    "price": 16.57,
+    "checkedAt": "2026-11-25T21:03:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D4548YVZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T21:12:10.956Z"
+  },
+  {
+    "id": "auto-b0h29xjpfp",
+    "asin": "B0H29XJPFP",
+    "title": "GIGABYTE G27Q3 | 27\" SS-IPS, WQHD 320Hz, FreeSync Premium, 98% DCI-P3",
+    "category": "Tech",
+    "price": 175.9,
+    "checkedAt": "2026-11-25T21:05:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H29XJPFP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T21:12:05.252Z"
+  },
+  {
+    "id": "auto-b09l5bg1rf",
+    "asin": "B09L5BG1RF",
+    "title": "Prime: Echo Dot Kids (Version 2022) |",
+    "category": "Amazon-Geräte",
+    "price": 34.99,
+    "checkedAt": "2026-11-25T21:07:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09L5BG1RF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T21:11:59.266Z"
+  },
+  {
     "id": "auto-b0b4kcsz2m",
     "asin": "B0B4KCSZ2M",
     "title": "Reolink 5MP Video-Türklingel PoE mit Chime, 180° Ultraweitw., …",
@@ -1897,27 +1930,5 @@
     "image": "https://m.media-amazon.com/images/P/B0C7HFB7QD.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T21:41:37.720Z"
-  },
-  {
-    "id": "auto-b0ccypdlcq",
-    "asin": "B0CCYPDLCQ",
-    "title": "ghd gold Glätteisen: Haarglätter & Multistyler, Sleek & Anti Frizz …",
-    "category": "Beauty & Pflege",
-    "price": 119.99,
-    "checkedAt": "2026-11-24T21:02:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CCYPDLCQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T21:12:26.852Z"
-  },
-  {
-    "id": "auto-b07psymv3t",
-    "asin": "B07PSYMV3T",
-    "title": "Don Papa Masskara",
-    "category": "Tech",
-    "price": 23.9,
-    "checkedAt": "2026-11-24T21:06:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07PSYMV3T.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T21:12:21.540Z"
   }
 ]
