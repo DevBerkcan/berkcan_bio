@@ -1,5 +1,62 @@
 [
   {
+    "id": "auto-b01buo0g5i",
+    "asin": "B01BUO0G5I",
+    "title": "The Revenant - Der Rückkehrer UHD Blu-ray",
+    "category": "Bücher & Filme",
+    "price": 16.07,
+    "checkedAt": "2026-11-25T12:05:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01BUO0G5I.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T12:29:05.208Z"
+  },
+  {
+    "id": "auto-b0b3218rwf",
+    "asin": "B0B3218RWF",
+    "title": "JACK & JONES Herren Jjethan Tee Crew Neck T-Shirts 3er-Pack, 100 % …",
+    "category": "Lebensmittel & Drinks",
+    "price": 17.52,
+    "checkedAt": "2026-11-25T12:17:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B3218RWF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T12:28:58.675Z"
+  },
+  {
+    "id": "auto-b0ftzdrsl9",
+    "asin": "B0FTZDRSL9",
+    "title": "Corsair Vanguard 96 Tastatur",
+    "category": "Computer",
+    "price": 129.99,
+    "checkedAt": "2026-11-25T12:18:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FTZDRSL9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T12:28:52.805Z"
+  },
+  {
+    "id": "auto-b06xpj5432",
+    "asin": "B06XPJ5432",
+    "title": "Corsini Caffe Super Cremoso Espresso 1 kg Bohnen Kaffeebohnen ganz",
+    "category": "Küche",
+    "price": 12,
+    "checkedAt": "2026-11-25T12:20:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B06XPJ5432.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T12:28:46.843Z"
+  },
+  {
+    "id": "auto-b0dxv9ttrz",
+    "asin": "B0DXV9TTRZ",
+    "title": "UGREEN 5 Port Gigabit Web Managed Switch Gigabit LAN Switch",
+    "subtitle": "🔥 106° bei mydealz",
+    "category": "Tech",
+    "price": 11.38,
+    "checkedAt": "2026-11-25T12:15:44.000Z",
+    "image": "https://static.mydealz.de/threads/raw/QeI3z/2875795_1/re/768x768/qt/55/2875795_1.jpg",
+    "temperature": 106,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T12:28:41.380Z"
+  },
+  {
     "id": "queue-b07fn4cl35",
     "asin": "B07FN4CL35",
     "title": "Philips Avent SCF883/01 4-in-1-Babynahrungszubereiter",
@@ -2016,64 +2073,5 @@
     "image": "https://static.mydealz.de/threads/raw/AkD0I/2880575_1/re/768x768/qt/55/2880575_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T12:46:40.959Z"
-  },
-  {
-    "id": "queue-b0cvhfkk4c",
-    "asin": "B0CVHFKK4C",
-    "title": "Bosch Tassimo finesse TAS167P Kapselmaschine",
-    "subtitle": "Platzsparende Kapselmaschine für 70 Getränke mit Abschaltautomatik.",
-    "category": "Haushalt",
-    "price": 28.99,
-    "checkedAt": "2026-11-24T12:22:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CVHFKK4C.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T12:46:12.943Z"
-  },
-  {
-    "id": "queue-b08x19vzn8",
-    "asin": "B08X19VZN8",
-    "title": "TP-Link RE330 WLAN-Repeater Dual-Band, EasyMesh",
-    "subtitle": "Dual-Band Wi-Fi 5 mit LAN-Port, EasyMesh-fähig und FRITZ!Box-kompatibel.",
-    "category": "Tech",
-    "price": 23.32,
-    "checkedAt": "2026-11-24T12:18:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08X19VZN8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T12:46:08.556Z"
-  },
-  {
-    "id": "auto-b0fdkr293g",
-    "asin": "B0FDKR293G",
-    "title": "Bose QuietComfort Ultra (2. Gen) Bluetooth Kopfhörer WHD",
-    "category": "Audio",
-    "price": 239.27,
-    "checkedAt": "2026-11-24T12:21:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FDKR293G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T12:31:39.634Z"
-  },
-  {
-    "id": "auto-b0dkflpw4d",
-    "asin": "B0DKFLPW4D",
-    "title": "IGLOO Nestable Passiv-Kühlboxen Set",
-    "category": "Tech",
-    "price": 94.99,
-    "checkedAt": "2026-11-24T12:28:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DKFLPW4D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T12:31:27.813Z"
-  },
-  {
-    "id": "auto-b0gx28kz7x",
-    "asin": "B0GX28KZ7X",
-    "title": "Truxton Extreme Thunder Master Edition - Nintendo Switch 2",
-    "category": "Gaming",
-    "price": 53.06,
-    "oldPrice": 85,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T12:13:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GX28KZ7X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T12:16:44.295Z"
   }
 ]
