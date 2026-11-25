@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b0fpxjyg2h",
+    "asin": "B0FPXJYG2H",
+    "title": "LEGO 71867 Ninjago X-1 Ninja Supercar",
+    "category": "Spielzeug & LEGO",
+    "price": 50.99,
+    "checkedAt": "2026-11-25T12:51:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXJYG2H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T13:27:58.493Z"
+  },
+  {
+    "id": "auto-b008tlgia8",
+    "asin": "B008TLGIA8",
+    "title": "Emsa Travel Mug 500 ml Wave Thermobecher",
+    "category": "Tech",
+    "price": 13.99,
+    "checkedAt": "2026-11-25T13:14:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B008TLGIA8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T13:27:53.059Z"
+  },
+  {
+    "id": "auto-b0dlh2hpk8",
+    "asin": "B0DLH2HPK8",
+    "title": "Swarovski Apple Watch Kettenarmband in Rose",
+    "category": "Smartphone & Tablet",
+    "price": 120,
+    "checkedAt": "2026-11-25T13:23:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DLH2HPK8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T13:27:47.761Z"
+  },
+  {
+    "id": "auto-b0fklz8yny",
+    "asin": "B0FKLZ8YNY",
+    "title": "THEC64 Mini Black Edition – Retro-Heimcomputer im C64-Design",
+    "category": "Tech",
+    "price": 69.99,
+    "oldPrice": 83.07,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-25T13:12:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FKLZ8YNY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T13:27:42.152Z"
+  },
+  {
     "id": "auto-b0fcss2fy9",
     "asin": "B0FCSS2FY9",
     "title": "Tefal EverSharp Pro 6-teiliger Messerblock, selbstschärfend deutscher …",
@@ -1986,32 +2032,6 @@
     "image": "https://m.media-amazon.com/images/P/B07G1YZ9GL.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T13:31:33.653Z"
-  },
-  {
-    "id": "auto-b008axywhq",
-    "asin": "B008AXYWHQ",
-    "title": "Fossil Nate Steel 50mm",
-    "subtitle": "🔥 113° bei mydealz",
-    "category": "Tech",
-    "price": 99.48,
-    "checkedAt": "2026-11-24T13:18:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B008AXYWHQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 113,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T13:31:27.925Z"
-  },
-  {
-    "id": "auto-b0gzpnksl9",
-    "asin": "B0GZPNKSL9",
-    "title": "Philips Sonicare DiamondClean 8500 Schallzahnbürste",
-    "category": "Beauty & Pflege",
-    "price": 219.99,
-    "oldPrice": 349,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T13:24:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GZPNKSL9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T13:31:22.749Z"
   },
   {
     "id": "auto-b08qnbgl6q",
