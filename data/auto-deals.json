@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0gbvz3kzl",
+    "asin": "B0GBVZ3KZL",
+    "title": "Boss - Boxershorts 2x 3er Packung , 4,33/Stück -S, M, XXL- Farbe 'Open …",
+    "category": "Tech",
+    "price": 25.95,
+    "checkedAt": "2026-11-25T14:52:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GBVZ3KZL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:57:45.540Z"
+  },
+  {
+    "id": "auto-b0fhlvzrtc",
+    "asin": "B0FHLVZRTC",
+    "title": "Lenovo Idea Tab Plus, 12,1 Zoll 2,5K-Display, 8 GB RAM, 128 GB, inkl. …",
+    "category": "Tech",
+    "price": 239.99,
+    "oldPrice": 299.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-25T14:51:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FHLVZRTC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:57:40.204Z"
+  },
+  {
     "id": "auto-b0747mzxvx",
     "asin": "B0747MZXVX",
     "title": "Steiff Soft Cuddly Friends Honey Teddybär hellgrau 18 cm, Teddy aus …",
@@ -1995,64 +2019,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CB8N5K21.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T15:16:09.198Z"
-  },
-  {
-    "id": "auto-b0ft896xc7",
-    "asin": "B0FT896XC7",
-    "title": "Berlin Bags Slim Wallet",
-    "category": "Tech",
-    "price": 18.99,
-    "checkedAt": "2026-11-24T14:49:21.000Z",
-    "image": "https://static.mydealz.de/threads/raw/FoASe/2880683_1/re/768x768/qt/55/2880683_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T15:01:19.259Z"
-  },
-  {
-    "id": "auto-b0gpbh5k56",
-    "asin": "B0GPBH5K56",
-    "title": "Marty Supreme Blu Ray - ImDb 7,5 - Timothée Chalamet 2025",
-    "category": "Tech",
-    "price": 11.62,
-    "checkedAt": "2026-11-24T14:53:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GPBH5K56.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T15:01:13.572Z"
-  },
-  {
-    "id": "auto-b0clyqj53j",
-    "asin": "B0CLYQJ53J",
-    "title": "Dextro Energy Long Distance Gel Mango Passionfruit – 12er-Pack",
-    "category": "Tech",
-    "price": 16.69,
-    "oldPrice": 26.73,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T14:50:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CLYQJ53J.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T15:01:08.358Z"
-  },
-  {
-    "id": "auto-b0fs16b394",
-    "asin": "B0FS16B394",
-    "title": "roborock Qrevo Curv 2 Flow Saugroboter mit Wischfunktion, 20.000 Pa |",
-    "subtitle": "🔥 924° bei mydealz",
-    "category": "Haushalt",
-    "price": 499,
-    "checkedAt": "2026-11-24T14:45:59.000Z",
-    "image": "https://static.mydealz.de/threads/raw/hNFZP/2832477_1/re/768x768/qt/55/2832477_1.jpg",
-    "temperature": 924,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T15:01:03.031Z"
-  },
-  {
-    "id": "auto-b000rzejpu",
-    "asin": "B000RZEJPU",
-    "title": "Katadyn Pocket Outdoor-Wasserfilter",
-    "category": "Sport & Outdoor",
-    "price": 181.24,
-    "checkedAt": "2026-11-24T14:45:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000RZEJPU.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:46:12.729Z"
   }
 ]
