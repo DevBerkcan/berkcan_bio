@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b00m20yy4y",
+    "asin": "B00M20YY4Y",
+    "title": "Ryobi RTMS1800-G Kapp-, Gehrungs- und Tischkreissäge",
+    "category": "Werkzeug",
+    "price": 227.7,
+    "checkedAt": "2026-11-25T15:30:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00M20YY4Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T15:42:24.975Z"
+  },
+  {
+    "id": "auto-b00wseum2w",
+    "asin": "B00WSEUM2W",
+    "title": "Bosch Stichsäge PST 9500",
+    "category": "Tech",
+    "price": 94.14,
+    "checkedAt": "2026-11-25T15:31:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00WSEUM2W.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T15:42:19.576Z"
+  },
+  {
+    "id": "auto-b0fhb9xh2q",
+    "asin": "B0FHB9XH2Q",
+    "title": "Worx WX370.2 Akku-Schlagbohrschrauber 20V inkl. 2× 2 Ah Akku, …",
+    "category": "Werkzeug",
+    "price": 83.24,
+    "checkedAt": "2026-11-25T15:32:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FHB9XH2Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T15:42:14.040Z"
+  },
+  {
     "id": "auto-b0dj71kzxf",
     "asin": "B0DJ71KZXF",
     "title": "Cosori Airfryer, Hot Air Fryer 2 Chambers, 1750 W low-watt tech, NTC …",
@@ -1731,17 +1764,6 @@
     "telegramPostedAt": "2026-11-24T17:01:19.598Z"
   },
   {
-    "id": "auto-b099zyxv8h",
-    "asin": "B099ZYXV8H",
-    "title": "Play-Doh Kitchen Creations Pizzabäckerei, 4 x 57g Dosen und 2 x 28g …",
-    "category": "Küche",
-    "price": 9.99,
-    "checkedAt": "2026-11-24T15:38:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B099ZYXV8H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T16:46:43.886Z"
-  },
-  {
     "id": "auto-b0ckjcvqtn",
     "asin": "B0CKJCVQTN",
     "title": "PUMA Unisex Runner Sneaker - Besteller Nr. 1 in Herren Sneaker - Black …",
@@ -1988,28 +2010,6 @@
     "image": "https://static.mydealz.de/threads/raw/3LGyp/2880741_1/re/768x768/qt/55/2880741_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T16:00:44.767Z"
-  },
-  {
-    "id": "auto-b0dg94wwzs",
-    "asin": "B0DG94WWZS",
-    "title": "3 für 2 Aktion: 3x400ml Kneipp Aroma-Pflegeschaumbad Rücken & Schulter …",
-    "category": "Tech",
-    "price": 6.64,
-    "checkedAt": "2026-11-24T15:35:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DG94WWZS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T15:46:03.943Z"
-  },
-  {
-    "id": "auto-b0d793b2wv",
-    "asin": "B0D793B2WV",
-    "title": "dreame H12 Pro Ultra Nass- und Trockensauger, 16.000 Pa, 60 °C …",
-    "category": "Haushalt",
-    "price": 159,
-    "checkedAt": "2026-11-24T15:41:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D793B2WV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T15:45:58.962Z"
   },
   {
     "id": "auto-b0d1xydkrq",
