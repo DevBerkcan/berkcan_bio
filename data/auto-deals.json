@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0b4kcsz2m",
+    "asin": "B0B4KCSZ2M",
+    "title": "Reolink 5MP Video-Türklingel PoE mit Chime, 180° Ultraweitw., …",
+    "category": "Smart Home",
+    "price": 89.99,
+    "checkedAt": "2026-11-25T20:46:31.000Z",
+    "image": "https://static.mydealz.de/threads/raw/0ViuZ/2881884_1/re/768x768/qt/55/2881884_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T20:57:04.267Z"
+  },
+  {
+    "id": "auto-b0dqv5pybf",
+    "asin": "B0DQV5PYBF",
+    "title": "Bosch PRO Akku-Bohrschrauber GSR 18V-65",
+    "category": "Werkzeug",
+    "price": 78.89,
+    "checkedAt": "2026-11-25T20:47:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQV5PYBF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T20:56:57.930Z"
+  },
+  {
     "id": "auto-b0b9142j5l",
     "asin": "B0B9142J5L",
     "title": "CLIF BAR Chocolate Almond Fudge 12x 68g",
@@ -245,7 +267,8 @@
     "price": 19.99,
     "checkedAt": "2026-11-25T18:16:07.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FGF63F5G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T20:57:09.087Z"
   },
   {
     "id": "auto-b000fwhwgs",
@@ -1896,16 +1919,5 @@
     "image": "https://m.media-amazon.com/images/P/B07PSYMV3T.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T21:12:21.540Z"
-  },
-  {
-    "id": "auto-b0hmxgfk2v",
-    "asin": "B0HMXGFK2V",
-    "title": "CSL Gaming PC - AMD 8400F, RX 9060 XT, 16 GB RAM, 500 GB SSD, Windows …",
-    "category": "Computer",
-    "price": 1299,
-    "checkedAt": "2026-11-24T20:54:04.000Z",
-    "image": "https://static.mydealz.de/threads/raw/l2SYX/2880979_1/re/768x768/qt/55/2880979_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T20:57:35.135Z"
   }
 ]
