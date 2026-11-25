@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b08jm8cng3",
+    "asin": "B08JM8CNG3",
+    "title": "Jack & Jones Jeans (Alle Größen!) 98% Baumwolle Regular Fit Hose Clark …",
+    "category": "Mode & Reise",
+    "price": 31.49,
+    "checkedAt": "2026-11-25T08:15:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08JM8CNG3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T08:31:20.094Z"
+  },
+  {
     "id": "auto-b09jgf7hp2",
     "asin": "B09JGF7HP2",
     "title": "Hailo M80 Alu-Multifunktionsleiter / Schiebeleiter",
@@ -2477,17 +2488,6 @@
     "telegramPostedAt": "2026-11-24T09:00:27.222Z"
   },
   {
-    "id": "auto-b0c4sv9qtg",
-    "asin": "B0C4SV9QTG",
-    "title": "Die Truman Show (4K UHD + Blu-ray)",
-    "category": "Bücher & Filme",
-    "price": 13.4,
-    "checkedAt": "2026-11-24T08:22:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C4SV9QTG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:45:43.305Z"
-  },
-  {
     "id": "auto-b0gwf274l4",
     "asin": "B0GWF274L4",
     "title": "Avatar: Fire and Ash - Limitiertes Steelbook 4K UHD + Blu-ray + …",
@@ -2497,62 +2497,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GWF274L4.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T08:45:37.675Z"
-  },
-  {
-    "id": "auto-b00k3lhvv2",
-    "asin": "B00K3LHVV2",
-    "title": "VICTORINOX Evolution 18",
-    "category": "Tech",
-    "price": 30.49,
-    "checkedAt": "2026-11-24T08:18:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00K3LHVV2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:30:52.000Z"
-  },
-  {
-    "id": "auto-b0ctcwvc9m",
-    "asin": "B0CTCWVC9M",
-    "title": "Corsair K65 Plus Wireless",
-    "category": "Tech",
-    "price": 89,
-    "checkedAt": "2026-11-24T08:19:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CTCWVC9M.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:30:46.814Z"
-  },
-  {
-    "id": "auto-b00f9suke4",
-    "asin": "B00F9SUKE4",
-    "title": "Russell Hobbs Steamglide Pro Dampfbügeleisen |",
-    "category": "Haushalt",
-    "price": 25.49,
-    "checkedAt": "2026-11-24T08:28:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00F9SUKE4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:30:41.554Z"
-  },
-  {
-    "id": "auto-b0ggqm4v1g",
-    "asin": "B0GGQM4V1G",
-    "title": "UGREEN Magnetische Kabelhalter, 6 Stück, selbstklebend, 360° drehbar, …",
-    "category": "Tech",
-    "price": 6.65,
-    "checkedAt": "2026-11-24T08:28:51.000Z",
-    "image": "https://static.mydealz.de/threads/raw/570t5/2880261_1/re/768x768/qt/55/2880261_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:30:35.870Z"
-  },
-  {
-    "id": "auto-b005hvz65q",
-    "asin": "B005HVZ65Q",
-    "title": "Knipex 98 62 01 isolierende Kunststoff Greifzange",
-    "category": "Werkzeug",
-    "price": 14.21,
-    "oldPrice": 22.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T08:25:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B005HVZ65Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:30:28.864Z"
   }
 ]
