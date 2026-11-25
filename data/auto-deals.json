@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0d9d9zndq",
+    "asin": "B0D9D9ZNDQ",
+    "title": "RORRY CharmGo Powerbank 10.000 mAh mit integrierten Ladekabeln und …",
+    "category": "Zubehör & Laden",
+    "price": 28.99,
+    "checkedAt": "2026-11-25T10:49:30.000Z",
+    "image": "https://static.mydealz.de/threads/raw/f7kmP/2881336_1/re/768x768/qt/55/2881336_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T11:00:07.902Z"
+  },
+  {
+    "id": "auto-b0dd41wwxd",
+    "asin": "B0DD41WWXD",
+    "title": "https://www.amazon.de/dp/B0DD41WWXD?th=1",
+    "category": "Tech",
+    "price": 39.99,
+    "checkedAt": "2026-11-25T10:56:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DD41WWXD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T10:59:48.155Z"
+  },
+  {
     "id": "auto-b0dwdspkls",
     "asin": "B0DWDSPKLS",
     "title": "LEGO Harry Potter Ligusterweg: Tante Magdas Besuch 76451",
@@ -2162,28 +2184,6 @@
     "telegramPostedAt": "2026-11-24T11:46:02.525Z"
   },
   {
-    "id": "auto-b0dhshh218",
-    "asin": "B0DHSHH218",
-    "title": "LEGO City 60443 F1 Boxenstopp mit Ferrari Flitzer",
-    "category": "Spielzeug & LEGO",
-    "price": 17.99,
-    "checkedAt": "2026-11-24T10:53:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHSHH218.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T11:31:16.762Z"
-  },
-  {
-    "id": "auto-b0dyg1k75f",
-    "asin": "B0DYG1K75F",
-    "title": "PLAYMOBIL Collector Cars Ferrari 250 GTO (71856)",
-    "category": "Spielzeug & LEGO",
-    "price": 12.59,
-    "checkedAt": "2026-11-24T10:56:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DYG1K75F.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T11:31:10.555Z"
-  },
-  {
     "id": "auto-b0gqbx475s",
     "asin": "B0GQBX475S",
     "title": "dreame L40 Ultra A Saugroboter mit Wischfunktion, 24.000 Pa, …",
@@ -2287,27 +2287,5 @@
     "temperature": 178,
     "source": "auto",
     "telegramPostedAt": "2026-11-24T11:15:30.761Z"
-  },
-  {
-    "id": "auto-b0dvzrntf9",
-    "asin": "B0DVZRNTF9",
-    "title": "Cecotec Scoba 2100 Station Akkustaubsauger 20 kPa",
-    "category": "Haushalt",
-    "price": 72.99,
-    "checkedAt": "2026-11-24T10:55:48.000Z",
-    "image": "https://static.mydealz.de/threads/raw/PPWKA/2880439_1/re/768x768/qt/55/2880439_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T11:00:49.541Z"
-  },
-  {
-    "id": "auto-b09b836ttq",
-    "asin": "B09B836TTQ",
-    "title": "Corsair HS80 RGB Wireless Gaming-Headset, Slipstream Wireless, Dolby …",
-    "category": "Gaming",
-    "price": 79.99,
-    "checkedAt": "2026-11-24T10:56:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09B836TTQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T11:00:43.351Z"
   }
 ]
