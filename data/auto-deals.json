@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b09xsy35j3",
+    "asin": "B09XSY35J3",
+    "title": "Homematic IP Smat Home Schalt-Mess-Steckdose",
+    "category": "Smart Home",
+    "price": 39.95,
+    "checkedAt": "2026-11-25T23:28:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09XSY35J3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T23:40:07.984Z"
+  },
+  {
     "id": "auto-b0f4wws4jd",
     "asin": "B0F4WWS4JD",
     "title": "Blood & Sinners (4K Ultra HD) + (Blu-ray)",
@@ -2130,16 +2141,5 @@
     "image": "https://m.media-amazon.com/images/P/B06WLQPMT7.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T07:02:45.838Z"
-  },
-  {
-    "id": "auto-b0ckxzfsx7",
-    "asin": "B0CKXZFSX7",
-    "title": "Adidas Herren Runfalcon 5 Laufschuhe",
-    "category": "Mode & Reise",
-    "price": 23.99,
-    "checkedAt": "2026-11-24T23:39:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CKXZFSX7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T23:53:35.548Z"
   }
 ]
