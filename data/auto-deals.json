@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0d428sd99",
+    "asin": "B0D428SD99",
+    "title": "Logitech Combo Touch Tastaturhülle QWERTY ESP",
+    "category": "Computer",
+    "price": 139.99,
+    "checkedAt": "2026-11-25T08:43:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D428SD99.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T08:46:04.126Z"
+  },
+  {
     "id": "auto-b08jm8cng3",
     "asin": "B08JM8CNG3",
     "title": "Jack & Jones Jeans (Alle Größen!) 98% Baumwolle Regular Fit Hose Clark …",
@@ -2282,17 +2293,6 @@
     "telegramPostedAt": "2026-11-24T09:45:49.515Z"
   },
   {
-    "id": "auto-b07qb8dkqt",
-    "asin": "B07QB8DKQT",
-    "title": "One Piece Chopper 7.2 Plüschfigur (25 cm) von SAKAMI",
-    "category": "Spielzeug & LEGO",
-    "price": 16.81,
-    "checkedAt": "2026-11-24T08:45:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07QB8DKQT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T10:01:15.462Z"
-  },
-  {
     "id": "auto-b0bgs667jl",
     "asin": "B0BGS667JL",
     "title": "Solarway 1000W Balkonkraftwerk mit Deye (800W) Wechselrichter - …",
@@ -2466,17 +2466,6 @@
     "telegramPostedAt": "2026-11-24T09:15:12.658Z"
   },
   {
-    "id": "auto-b09wnf139g",
-    "asin": "B09WNF139G",
-    "title": "GAUDER Magnetstreifen selbstklebend - 6 STK - 150 x 25 x 2 mm -",
-    "category": "Tech",
-    "price": 6.45,
-    "checkedAt": "2026-11-24T08:45:11.000Z",
-    "image": "https://static.mydealz.de/threads/raw/BICP1/2880281_1/re/768x768/qt/55/2880281_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T09:00:34.127Z"
-  },
-  {
     "id": "auto-b0h1clmxgm",
     "asin": "B0H1CLMXGM",
     "title": "Braun FaceSpa Pro SE 912 Gesichtsepilierer",
@@ -2486,16 +2475,5 @@
     "image": "https://m.media-amazon.com/images/P/B0H1CLMXGM.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T09:00:27.222Z"
-  },
-  {
-    "id": "auto-b0gwf274l4",
-    "asin": "B0GWF274L4",
-    "title": "Avatar: Fire and Ash - Limitiertes Steelbook 4K UHD + Blu-ray + …",
-    "category": "Bücher & Filme",
-    "price": 22.93,
-    "checkedAt": "2026-11-24T08:44:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GWF274L4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:45:37.675Z"
   }
 ]
