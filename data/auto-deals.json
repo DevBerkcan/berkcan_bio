@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b084bjbys1",
+    "asin": "B084BJBYS1",
+    "title": "Everdell Basisspiel",
+    "category": "Spielzeug & LEGO",
+    "price": 45.99,
+    "checkedAt": "2026-11-25T06:19:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B084BJBYS1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T07:32:31.104Z"
+  },
+  {
     "id": "auto-b07sjhtwcy",
     "asin": "B07SJHTWCY",
     "title": "HP Color Laser MFP 178nwg Multifunktions-Farblaserdrucker",
@@ -2566,17 +2577,6 @@
     "telegramPostedAt": "2026-11-24T08:00:18.826Z"
   },
   {
-    "id": "auto-b09wmvbvhg",
-    "asin": "B09WMVBVHG",
-    "title": "SKROSS Reiseadapter Pro",
-    "category": "Tech",
-    "price": 15.99,
-    "checkedAt": "2026-11-24T07:26:39.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09WMVBVHG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T07:45:30.545Z"
-  },
-  {
     "id": "auto-b0fs25dtxm",
     "asin": "B0FS25DTXM",
     "title": "Turtle Beach Afterglow Wave kabelloser RGB-Controller, Nintendo Switch …",
@@ -2588,16 +2588,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FS25DTXM.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T07:45:19.601Z"
-  },
-  {
-    "id": "auto-b094138m2g",
-    "asin": "B094138M2G",
-    "title": "Jack & Jones 2er-Pack",
-    "category": "Tech",
-    "price": 28.42,
-    "checkedAt": "2026-11-24T07:17:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B094138M2G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T07:30:24.303Z"
   }
 ]
