@@ -1,5 +1,110 @@
 [
   {
+    "id": "auto-b0bzsh9l8b",
+    "asin": "B0BZSH9L8B",
+    "title": "Carrera RC Mario Kart Mario - Quad",
+    "category": "Spielzeug & LEGO",
+    "price": 21.09,
+    "checkedAt": "2026-11-25T13:16:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BZSH9L8B.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:12:58.557Z"
+  },
+  {
+    "id": "auto-b0f66xd5lf",
+    "asin": "B0F66XD5LF",
+    "title": "Nothing Headphone (1) Kabellose Over-Ear Kopfhörer mit ANC, bis zu 80h …",
+    "category": "Audio",
+    "price": 169.15,
+    "checkedAt": "2026-11-25T13:59:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F66XD5LF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:12:53.250Z"
+  },
+  {
+    "id": "auto-b09cgscbk5",
+    "asin": "B09CGSCBK5",
+    "title": "De’Longhi Magnifica Evo - Perfetto Silber",
+    "category": "Tech",
+    "price": 299.96,
+    "checkedAt": "2026-11-25T14:01:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09CGSCBK5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:12:43.947Z"
+  },
+  {
+    "id": "auto-b0fndllryw",
+    "asin": "B0FNDLLRYW",
+    "title": "TEFAL - Easy Fry Silence Heißluftfritteuse (EY8421E0)",
+    "category": "Küche",
+    "price": 74.9,
+    "checkedAt": "2026-11-25T14:02:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FNDLLRYW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:12:38.741Z"
+  },
+  {
+    "id": "auto-b0bwyh9w1r",
+    "asin": "B0BWYH9W1R",
+    "title": "GoveeLife 3er Set WLAN Hygrometer",
+    "category": "Tech",
+    "price": 36.09,
+    "checkedAt": "2026-11-25T14:04:12.000Z",
+    "image": "https://static.mydealz.de/threads/raw/R48od/2881544_1/re/768x768/qt/55/2881544_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:12:33.367Z"
+  },
+  {
+    "id": "auto-b0dxn1ywzz",
+    "asin": "B0DXN1YWZZ",
+    "title": "Amazon Echo Studio in schwarz für 174,99",
+    "category": "Amazon-Geräte",
+    "price": 174.99,
+    "checkedAt": "2026-11-25T14:07:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DXN1YWZZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:12:26.729Z"
+  },
+  {
+    "id": "auto-b084dh8dv1",
+    "asin": "B084DH8DV1",
+    "title": "Ravensburger Nobody is Perfect Original – kreatives Partyspiel für die …",
+    "category": "Spielzeug & LEGO",
+    "price": 24.99,
+    "oldPrice": 34.85,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-25T13:18:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B084DH8DV1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:12:21.564Z"
+  },
+  {
+    "id": "auto-b006l6z2qo",
+    "asin": "B006L6Z2QO",
+    "title": "Kingdom Builder Basisspiel",
+    "category": "Spielzeug & LEGO",
+    "price": 24.23,
+    "oldPrice": 35.44,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-25T13:23:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B006L6Z2QO.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:12:15.888Z"
+  },
+  {
+    "id": "auto-b0dj9p4mz8",
+    "asin": "B0DJ9P4MZ8",
+    "title": "Puma ST Runner v4 SD Sneaker (Dusky Gray)",
+    "category": "Mode & Reise",
+    "price": 22.99,
+    "oldPrice": 38.54,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-25T14:09:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJ9P4MZ8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:12:09.747Z"
+  },
+  {
     "id": "auto-b0dlgx2n6k",
     "asin": "B0DLGX2N6K",
     "title": "Swarovski Apple Smartwatch Armband",
@@ -1951,28 +2056,6 @@
     "telegramPostedAt": "2026-11-24T14:31:01.282Z"
   },
   {
-    "id": "auto-b0c64wlqsk",
-    "asin": "B0C64WLQSK",
-    "title": "3er-Pack | Corsair iCUE Link QX120 RGB 120 mm Lüfter, 3er-Pack, …",
-    "category": "Tech",
-    "price": 74.9,
-    "checkedAt": "2026-11-24T14:01:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C64WLQSK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:16:18.051Z"
-  },
-  {
-    "id": "auto-b0fcsvv6x7",
-    "asin": "B0FCSVV6X7",
-    "title": "HP DeskJet 4320 Multifunktionsdrucker, Drucken/Kopieren/Scannen, WLAN, …",
-    "category": "Computer",
-    "price": 45.99,
-    "checkedAt": "2026-11-24T14:07:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FCSVV6X7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:16:12.939Z"
-  },
-  {
     "id": "auto-b09w1b5s5w",
     "asin": "B09W1B5S5W",
     "title": "SteelSeries Aerox 5 Wireless Gaming-Maus, 74 g, TrueMove Air 18.000 …",
@@ -1982,19 +2065,6 @@
     "image": "https://m.media-amazon.com/images/P/B09W1B5S5W.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T14:16:07.584Z"
-  },
-  {
-    "id": "auto-b0fvmrz2nl",
-    "asin": "B0FVMRZ2NL",
-    "title": "adidas Classic Three Stripes Rucksack – 2 Farben für jeweils 15€",
-    "category": "Sport & Outdoor",
-    "price": 15,
-    "oldPrice": 21,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T14:01:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FVMRZ2NL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:16:02.107Z"
   },
   {
     "id": "auto-b0h7vxgjwq",
