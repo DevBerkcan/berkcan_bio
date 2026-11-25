@@ -1,5 +1,60 @@
 [
   {
+    "id": "auto-b0dwdspkls",
+    "asin": "B0DWDSPKLS",
+    "title": "LEGO Harry Potter Ligusterweg: Tante Magdas Besuch 76451",
+    "category": "Spielzeug & LEGO",
+    "price": 57.99,
+    "checkedAt": "2026-11-25T09:40:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DWDSPKLS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T10:30:36.362Z"
+  },
+  {
+    "id": "auto-b0fxgq1nmc",
+    "asin": "B0FXGQ1NMC",
+    "title": "UGREEN 85545 Zapix Qi2 25W magnetisches Ladepad |",
+    "category": "Tech",
+    "price": 16.99,
+    "checkedAt": "2026-11-25T10:16:51.000Z",
+    "image": "https://static.mydealz.de/threads/raw/yZSbH/2881307_1/re/768x768/qt/55/2881307_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T10:30:30.812Z"
+  },
+  {
+    "id": "auto-b0f6nfhb31",
+    "asin": "B0F6NFHB31",
+    "title": "UGREEN MagFlow Air Ultra Slim Powerbank Magsafe Qi2 5000mAh USB-C Qi2 …",
+    "category": "Zubehör & Laden",
+    "price": 35.99,
+    "checkedAt": "2026-11-25T10:17:28.000Z",
+    "image": "https://static.mydealz.de/threads/raw/LBls8/2881308_1/re/768x768/qt/55/2881308_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T10:30:24.490Z"
+  },
+  {
+    "id": "auto-b0dw4g95gg",
+    "asin": "B0DW4G95GG",
+    "title": "XFX Mercury AMD Radeon RX 9070XT OC Gaming Edition mit RGB 16GB GDDR6, …",
+    "category": "Computer",
+    "price": 869.99,
+    "checkedAt": "2026-11-25T10:18:31.000Z",
+    "image": "https://static.mydealz.de/threads/raw/A4Y8I/2881309_1/re/768x768/qt/55/2881309_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T10:30:18.369Z"
+  },
+  {
+    "id": "auto-b09t8p9lkq",
+    "asin": "B09T8P9LKQ",
+    "title": "UGREEN M.2 SSD Gehäuse USB 3.2 Gen 2, 10 Gbps, für NVMe und SATA, …",
+    "category": "Computer",
+    "price": 17.09,
+    "checkedAt": "2026-11-25T10:26:46.000Z",
+    "image": "https://static.mydealz.de/threads/raw/vcLJ7/2881317_1/re/768x768/qt/55/2881317_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T10:30:11.069Z"
+  },
+  {
     "id": "auto-b0cs6pp658",
     "asin": "B0CS6PP658",
     "title": "GLORYFEEL - Premium Probivia Kulturen Komplex",
@@ -2302,16 +2357,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GTRFGGD4.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T10:45:50.702Z"
-  },
-  {
-    "id": "auto-b0d2dfkg8h",
-    "asin": "B0D2DFKG8H",
-    "title": "Meross Smart WLAN Steckdose mit Strommessung 16A, 2er",
-    "category": "Smart Home",
-    "price": 16.99,
-    "checkedAt": "2026-11-24T10:22:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D2DFKG8H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T10:31:05.269Z"
   }
 ]
