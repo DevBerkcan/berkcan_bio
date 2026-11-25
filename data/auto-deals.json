@@ -1,5 +1,31 @@
 [
   {
+    "id": "auto-b0c7hfxxny",
+    "asin": "B0C7HFXXNY",
+    "title": "Jack & Jones Herren Zip Hoodie in Schwarz & Navy",
+    "subtitle": "🔥 111° bei mydealz",
+    "category": "Mode & Reise",
+    "price": 17.59,
+    "checkedAt": "2026-11-25T21:46:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C7HFXXNY.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 111,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T21:56:41.913Z"
+  },
+  {
+    "id": "auto-b09s6c4d19",
+    "asin": "B09S6C4D19",
+    "title": "ZWILLING Twin L Vielzweckschere 20 cm",
+    "subtitle": "🔥 128° bei mydealz",
+    "category": "Tech",
+    "price": 14.77,
+    "checkedAt": "2026-11-25T21:41:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09S6C4D19.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 128,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T21:56:36.977Z"
+  },
+  {
     "id": "auto-b0gkgyg1cc",
     "asin": "B0GKGYG1CC",
     "title": "Powerbar Lemon Lime 12x41g",
@@ -1939,18 +1965,5 @@
     "image": "https://m.media-amazon.com/images/P/B01GZWJ822.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T22:25:42.907Z"
-  },
-  {
-    "id": "auto-b0bt8bhpcq",
-    "asin": "B0BT8BHPCQ",
-    "title": "PLAYMOBIL Cars 71343 Magnum, p.i. Ferrari 308 GTS Quattrovalvole",
-    "category": "Spielzeug & LEGO",
-    "price": 42.69,
-    "oldPrice": 53.94,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T21:50:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BT8BHPCQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T21:56:22.227Z"
   }
 ]
