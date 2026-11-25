@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0c652c2rl",
+    "asin": "B0C652C2RL",
+    "title": "Black Panther - Wakanda forever (4K Ultra HD)",
+    "category": "Tech",
+    "price": 19.07,
+    "checkedAt": "2026-11-25T23:43:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C652C2RL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T23:54:55.050Z"
+  },
+  {
+    "id": "auto-b099fltydm",
+    "asin": "B099FLTYDM",
+    "title": "Champion Socken in Weiß Unisex, 6er Pack",
+    "category": "Tech",
+    "price": 9.11,
+    "checkedAt": "2026-11-25T23:49:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B099FLTYDM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T23:54:50.098Z"
+  },
+  {
+    "id": "auto-b079v7b62r",
+    "asin": "B079V7B62R",
+    "title": "Black Panther 4k und Blu-ray",
+    "category": "Bücher & Filme",
+    "price": 19.07,
+    "checkedAt": "2026-11-25T23:49:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B079V7B62R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T23:54:44.691Z"
+  },
+  {
     "id": "auto-b09xsy35j3",
     "asin": "B09XSY35J3",
     "title": "Homematic IP Smat Home Schalt-Mess-Steckdose",
