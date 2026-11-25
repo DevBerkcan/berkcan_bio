@@ -1,5 +1,53 @@
 [
   {
+    "id": "auto-b000lp8i3a",
+    "asin": "B000LP8I3A",
+    "title": "Schiesser 2er Pack Feinripp Unterhemd „Original Classics“ ohne Ärmel",
+    "category": "Tech",
+    "price": 17.48,
+    "checkedAt": "2026-11-25T14:59:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000LP8I3A.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T15:12:46.973Z"
+  },
+  {
+    "id": "auto-b08yr7w9qv",
+    "asin": "B08YR7W9QV",
+    "title": "DONBOLSO Slim Wallet XS mit Münzfach - Geldbörse/ Portemonnaie",
+    "category": "Mode & Reise",
+    "price": 16.14,
+    "checkedAt": "2026-11-25T15:01:52.000Z",
+    "image": "https://static.mydealz.de/threads/raw/emQ75/2881606_1/re/768x768/qt/55/2881606_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T15:12:41.480Z"
+  },
+  {
+    "id": "auto-b0ckxszp3z",
+    "asin": "B0CKXSZP3Z",
+    "title": "adidas Unisex Kinder Runfalcon 5 Kids Shoes, Core Black/Core …",
+    "category": "Tech",
+    "price": 17.94,
+    "oldPrice": 40,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-25T15:09:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CKXSZP3Z.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T15:12:35.908Z"
+  },
+  {
+    "id": "auto-b0f32s5nr8",
+    "asin": "B0F32S5NR8",
+    "title": "Playshoes Outdoor-Jacke für Kinder,",
+    "category": "Mode & Reise",
+    "price": 15.62,
+    "oldPrice": 42.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-25T15:03:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F32S5NR8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T15:12:30.865Z"
+  },
+  {
     "id": "auto-b0gbvz3kzl",
     "asin": "B0GBVZ3KZL",
     "title": "Boss - Boxershorts 2x 3er Packung , 4,33/Stück -S, M, XXL- Farbe 'Open …",
@@ -1951,19 +1999,6 @@
     "telegramPostedAt": "2026-11-24T15:45:53.904Z"
   },
   {
-    "id": "auto-b0czv23l1f",
-    "asin": "B0CZV23L1F",
-    "title": "Amazon Sammeldeal",
-    "category": "Spielzeug & LEGO",
-    "price": 18.98,
-    "oldPrice": 28.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T15:02:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CZV23L1F.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T15:45:48.618Z"
-  },
-  {
     "id": "auto-b08ghn366k",
     "asin": "B08GHN366K",
     "title": "EMSA Clip & Close Frischhaltedosen-Set (5 x 0,8 L)",
@@ -2008,16 +2043,5 @@
     "temperature": 489,
     "source": "auto",
     "telegramPostedAt": "2026-11-24T15:30:49.975Z"
-  },
-  {
-    "id": "auto-b0cb8n5k21",
-    "asin": "B0CB8N5K21",
-    "title": "Reebok Club C85 Sneaker - Schwarz -",
-    "category": "Mode & Reise",
-    "price": 49.95,
-    "checkedAt": "2026-11-24T15:09:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CB8N5K21.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T15:16:09.198Z"
   }
 ]
