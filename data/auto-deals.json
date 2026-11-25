@@ -1,5 +1,37 @@
 [
   {
+    "id": "auto-b0dgpqp5c1",
+    "asin": "B0DGPQP5C1",
+    "title": "Dead Island 2 Ultimate Edition (PlayStation 5)",
+    "category": "Gaming",
+    "price": 17.96,
+    "checkedAt": "2026-11-25T05:22:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DGPQP5C1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b08zfcf9sy",
+    "asin": "B08ZFCF9SY",
+    "title": "Prime | Snatch - Schweine und Diamanten 4K-UHD Bluray Brad Pitt",
+    "category": "Bücher & Filme",
+    "price": 14.41,
+    "checkedAt": "2026-11-25T05:26:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08ZFCF9SY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b002vq062i",
+    "asin": "B002VQ062I",
+    "title": "Wodka Smirnoff Red Label 0.7 l",
+    "subtitle": "🔥 128° bei mydealz",
+    "category": "Tech",
+    "price": 7.45,
+    "checkedAt": "2026-11-25T05:22:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B002VQ062I.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 128,
+    "source": "auto"
+  },
+  {
     "id": "auto-b0h7jqz3wc",
     "asin": "B0H7JQZ3WC",
     "title": "EA Sports FC 27 / FC27 - Standard Edition - Playstation 5 PS5 - Fifa",
@@ -2610,29 +2642,5 @@
     "image": "https://m.media-amazon.com/images/P/B09PZ1JMZ5.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T06:15:51.942Z"
-  },
-  {
-    "id": "auto-b0bbhg7dy9",
-    "asin": "B0BBHG7DY9",
-    "title": "Duravit Universal Duschkopf, 14 Liter pro Minute",
-    "subtitle": "🔥 103° bei mydealz",
-    "category": "Tech",
-    "price": 16.99,
-    "checkedAt": "2026-11-24T05:24:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BBHG7DY9.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 103,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T06:01:04.077Z"
-  },
-  {
-    "id": "auto-b01iyb9zf2",
-    "asin": "B01IYB9ZF2",
-    "title": "EUTERPFLEGE z.B. Care + Repair Pflegecreme für trockene Haut, 200 ml …",
-    "category": "Beauty & Pflege",
-    "price": 7.22,
-    "checkedAt": "2026-11-24T05:13:22.000Z",
-    "image": "https://static.mydealz.de/threads/raw/UF2D0/2880134_1/re/768x768/qt/55/2880134_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T06:16:01.973Z"
   }
 ]
