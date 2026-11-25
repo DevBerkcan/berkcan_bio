@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0ctchv5x1",
+    "asin": "B0CTCHV5X1",
+    "title": "Acer Predator XB273KV3 - Gaming Monitor",
+    "category": "Computer",
+    "price": 239.9,
+    "checkedAt": "2026-11-25T12:53:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CTCHV5X1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T12:58:21.002Z"
+  },
+  {
+    "id": "auto-b0dbj312r9",
+    "asin": "B0DBJ312R9",
+    "title": "Cottonelle feuchtes Toilettenpapier, Wohltuende Sauberkeit o. …",
+    "subtitle": "🔥 243° bei mydealz",
+    "category": "Tech",
+    "price": 12.85,
+    "checkedAt": "2026-11-25T12:54:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DBJ312R9.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 243,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T12:58:15.677Z"
+  },
+  {
     "id": "auto-b01buo0g5i",
     "asin": "B01BUO0G5I",
     "title": "The Revenant - Der Rückkehrer UHD Blu-ray",
@@ -2014,18 +2038,5 @@
     "temperature": 661,
     "source": "auto",
     "telegramPostedAt": "2026-11-24T13:16:16.017Z"
-  },
-  {
-    "id": "auto-b000cnme22",
-    "asin": "B000CNME22",
-    "title": "Davidoff Zino Eau de Toilette",
-    "category": "Beauty & Pflege",
-    "price": 14.25,
-    "oldPrice": 18.83,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T12:57:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000CNME22.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T13:01:28.288Z"
   }
 ]
