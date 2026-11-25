@@ -1,5 +1,52 @@
 [
   {
+    "id": "auto-b0bs3tz1b1",
+    "asin": "B0BS3TZ1B1",
+    "title": "LISEN 2er-Pack USB-C Kfz-Ladegerät mit 54W",
+    "category": "Zubehör & Laden",
+    "price": 6.77,
+    "checkedAt": "2026-11-25T07:53:55.000Z",
+    "image": "https://static.mydealz.de/threads/raw/0Oi4s/2881181_1/re/768x768/qt/55/2881181_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T08:01:56.940Z"
+  },
+  {
+    "id": "queue-b0gpwc88vv",
+    "asin": "B0GPWC88VV",
+    "title": "Brennenstuhl CEE Camping-Verlängerungskabel 5 m mit LED",
+    "subtitle": "CEE-Verlängerung vom Markenhersteller mit Status-LED – praktisch für Camping und Caravan.",
+    "category": "Sport & Outdoor",
+    "price": 30.39,
+    "checkedAt": "2026-11-25T07:50:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GPWC88VV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T08:01:42.279Z"
+  },
+  {
+    "id": "queue-b0h39l4b21",
+    "asin": "B0H39L4B21",
+    "title": "Einhell Steckschlüssel- und Ratschen-Set, 181-teilig",
+    "subtitle": "Umfangreiches 181-teiliges Set mit Ratschen für verschiedenste Schraubarbeiten.",
+    "category": "Werkzeug",
+    "price": 80.73,
+    "checkedAt": "2026-11-25T07:51:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H39L4B21.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T08:01:37.800Z"
+  },
+  {
+    "id": "queue-b0dyjqkj34",
+    "asin": "B0DYJQKJ34",
+    "title": "Sigma 16-300mm F3.5-6.7 DC OS Contemporary (Canon RF)",
+    "subtitle": "Superzoom-Allrounder mit Bildstabilisator für Canon RF APS-C – kein Objektivwechsel nötig.",
+    "category": "Foto & Video",
+    "price": 499.99,
+    "checkedAt": "2026-11-25T07:48:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DYJQKJ34.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T08:01:33.287Z"
+  },
+  {
     "id": "auto-b0hcthccby",
     "asin": "B0HCTHCCBY",
     "title": "Sunlu PP2.0 gratis bei Kauf von reduziertem technischen 3D Druck …",
@@ -2544,49 +2591,5 @@
     "image": "https://m.media-amazon.com/images/P/B0C6DZW8YM.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T08:15:13.624Z"
-  },
-  {
-    "id": "auto-b07v47nglc",
-    "asin": "B07V47NGLC",
-    "title": "Medisana BBS Luftsprudelbad",
-    "category": "Tech",
-    "price": 84.49,
-    "checkedAt": "2026-11-24T07:47:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07V47NGLC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:15:37.722Z"
-  },
-  {
-    "id": "auto-b08682vq92",
-    "asin": "B08682VQ92",
-    "title": "JACK & JONES Male Cargo-Hose Casual Tapered Fit",
-    "category": "Tech",
-    "price": 23.74,
-    "checkedAt": "2026-11-24T07:53:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08682VQ92.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:15:33.361Z"
-  },
-  {
-    "id": "auto-b0d87ct5s7",
-    "asin": "B0D87CT5S7",
-    "title": "merci Adventskalender (263g) mit 10,- Cartida Gutschein",
-    "category": "Tech",
-    "price": 8.99,
-    "checkedAt": "2026-11-24T07:54:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D87CT5S7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:15:29.066Z"
-  },
-  {
-    "id": "auto-b08j3qzlrk",
-    "asin": "B08J3QZLRK",
-    "title": "Einhell Säulenbohrmaschine TE-BD 550 E",
-    "category": "Werkzeug",
-    "price": 181.99,
-    "checkedAt": "2026-11-24T07:57:57.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08J3QZLRK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:00:18.826Z"
   }
 ]
