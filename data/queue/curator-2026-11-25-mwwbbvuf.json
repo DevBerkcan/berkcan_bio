@@ -1,0 +1,40 @@
+[
+  {
+    "asin": "B0D7Q5HMHP",
+    "title": "Gigabyte MO34WQC2 34\" OLED Curved Monitor 240 Hz",
+    "price": 599,
+    "note": "34-Zoll-OLED mit 3440x1440, 240 Hz, 0,03 ms, HDMI 2.1 und KVM-Switch.",
+    "category": "Computer",
+    "image": "https://static.mydealz.de/threads/raw/6YlOi/2881650_1/re/768x768/qt/55/2881650_1.jpg",
+    "addedAt": "2026-11-25T15:53:44.000Z"
+  },
+  {
+    "asin": "B081KCPVWV",
+    "title": "Bosch Professional Innensechskant-Set HEX 9-tlg.",
+    "price": 11.99,
+    "note": "9 Schlüssel von 1,5–10 mm aus S2-Stahl mit Kugelkopf.",
+    "category": "Werkzeug",
+    "temperature": 207,
+    "image": "https://static.mydealz.de/threads/raw/1jLfI/2850556_1/re/768x768/qt/55/2850556_1.jpg",
+    "addedAt": "2026-11-25T15:59:29.000Z"
+  },
+  {
+    "asin": "B008ETHB5G",
+    "title": "Gardena combisystem Streuwagen 420-20",
+    "price": 22.5,
+    "oldPrice": 35.8,
+    "note": "Streuwagen zum Düngen und Einsäen, kompatibel mit Gardena combisystem.",
+    "category": "Werkzeug",
+    "image": "https://static.mydealz.de/threads/raw/AaAiY/2881638_1/re/768x768/qt/55/2881638_1.jpg",
+    "addedAt": "2026-11-25T15:42:20.000Z"
+  },
+  {
+    "asin": "B01J9PW10I",
+    "title": "Fiskars X27 XXL Spaltaxt (96 cm)",
+    "price": 56.98,
+    "note": "96 cm lange Spaltaxt für große Stammstücke über 30 cm.",
+    "category": "Werkzeug",
+    "image": "https://static.mydealz.de/threads/raw/fp1nP/2881637_1/re/768x768/qt/55/2881637_1.jpg",
+    "addedAt": "2026-11-25T15:44:14.000Z"
+  }
+]
