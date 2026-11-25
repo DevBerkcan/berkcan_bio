@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b0fdkwfkjn",
+    "asin": "B0FDKWFKJN",
+    "title": "Borderlands 4",
+    "category": "Tech",
+    "price": 18.99,
+    "checkedAt": "2026-11-24T23:58:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FDKWFKJN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b06wlqpmt7",
+    "asin": "B06WLQPMT7",
+    "title": "BOSCH TWK7S05 Wasserkocher, 1,7 L, 2200 W, schwarz/grau",
+    "category": "Küche",
+    "price": 44.99,
+    "checkedAt": "2026-11-25T00:05:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B06WLQPMT7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0ckxzfsx7",
     "asin": "B0CKXZFSX7",
     "title": "Adidas Herren Runfalcon 5 Laufschuhe",
