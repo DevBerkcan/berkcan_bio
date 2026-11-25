@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0dlgx2n6k",
+    "asin": "B0DLGX2N6K",
+    "title": "Swarovski Apple Smartwatch Armband",
+    "category": "Smartphone & Tablet",
+    "price": 132.46,
+    "checkedAt": "2026-11-25T13:51:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DLGX2N6K.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T13:57:33.555Z"
+  },
+  {
+    "id": "auto-b0h9nw3qp1",
+    "asin": "B0H9NW3QP1",
+    "title": "Nanoleaf 4-in-1 Lymphmassagegerät, Cellulite & Schwellungsgefühl",
+    "category": "Tech",
+    "price": 50.86,
+    "checkedAt": "2026-11-25T13:52:19.000Z",
+    "image": "https://static.mydealz.de/threads/raw/KbQPF/2881533_1/re/768x768/qt/55/2881533_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T13:57:28.380Z"
+  },
+  {
+    "id": "auto-b07w6gm6q2",
+    "asin": "B07W6GM6Q2",
+    "title": "Logitech MX Keys S Plus (DE, Graphit) kabellose Tastatur + …",
+    "category": "Computer",
+    "price": 79.99,
+    "oldPrice": 84.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-25T13:42:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07W6GM6Q2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T13:57:22.392Z"
+  },
+  {
     "id": "auto-b0b4kynq93",
     "asin": "B0B4KYNQ93",
     "title": "Peter Maffay – Tabaluga - Die Welt ist wunderbar! Buchedition (2 Vinyl …",
@@ -1881,17 +1916,6 @@
     "telegramPostedAt": "2026-11-24T14:46:01.397Z"
   },
   {
-    "id": "auto-b0fw7dbvvw",
-    "asin": "B0FW7DBVVW",
-    "title": "Disney Stitch Double Trouble – interaktives Plüschtier mit 50+ Sounds …",
-    "category": "Spielzeug & LEGO",
-    "price": 29.99,
-    "checkedAt": "2026-11-24T13:54:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FW7DBVVW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:31:17.298Z"
-  },
-  {
     "id": "auto-b0h7k5t17c",
     "asin": "B0H7K5T17C",
     "title": "EA FC27 / FC 27 - Nintendo Switch",
@@ -1984,53 +2008,5 @@
     "image": "https://m.media-amazon.com/images/P/B0H7VXGJWQ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T14:15:56.597Z"
-  },
-  {
-    "id": "auto-b076hlhzlp",
-    "asin": "B076HLHZLP",
-    "title": "Star Trek Voyager - DVD Box - die komplette Serie",
-    "category": "Bücher & Filme",
-    "price": 62.68,
-    "checkedAt": "2026-11-24T13:49:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B076HLHZLP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:01:11.645Z"
-  },
-  {
-    "id": "auto-b0dsvxystc",
-    "asin": "B0DSVXYSTC",
-    "title": "ASUS TUF Gaming VG32WQ3B 32 Zoll QHD Fast-VA 180Hz Curved Gaming …",
-    "subtitle": "🔥 208° bei mydealz",
-    "category": "Gaming",
-    "price": 149,
-    "checkedAt": "2026-11-24T13:47:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DSVXYSTC.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 208,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:01:06.172Z"
-  },
-  {
-    "id": "auto-b0fxmm51j3",
-    "asin": "B0FXMM51J3",
-    "title": "Bluey's Quest for the Gold Pen (PS5 / PS4) für jeweils 19,99€",
-    "category": "Gaming",
-    "price": 19.99,
-    "oldPrice": 28.94,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T13:47:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FXMM51J3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:01:01.006Z"
-  },
-  {
-    "id": "auto-b0g44r24y4",
-    "asin": "B0G44R24Y4",
-    "title": "NICI Grüner Rucksack mit Plüschtier 21x26cm Fuchs 25cm - grün - 62692 …",
-    "category": "Sport & Outdoor",
-    "price": 19.55,
-    "checkedAt": "2026-11-24T13:44:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G44R24Y4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T13:46:23.456Z"
   }
 ]
