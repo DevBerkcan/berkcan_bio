@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b07np3cs11",
+    "asin": "B07NP3CS11",
+    "title": "Edifier S3000 Pro Aktiv-Lautsprecher",
+    "category": "Audio",
+    "price": 499.95,
+    "checkedAt": "2026-11-25T06:33:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07NP3CS11.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T06:47:59.143Z"
+  },
+  {
     "id": "auto-b0gjddy8fd",
     "asin": "B0GJDDY8FD",
     "title": "LEGO KPop Demon Hunters Der Tiger Derpy und die Elster Sussie 72537 …",
@@ -162,7 +173,8 @@
     "price": 13.59,
     "checkedAt": "2026-11-25T00:47:57.000Z",
     "image": "https://static.mydealz.de/threads/raw/tNSCL/2881065_1/re/768x768/qt/55/2881065_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T06:48:03.768Z"
   },
   {
     "id": "auto-b0f9wtj5lw",
@@ -172,7 +184,8 @@
     "price": 161.49,
     "checkedAt": "2026-11-25T00:09:25.000Z",
     "image": "https://static.mydealz.de/threads/raw/O02j6/2881059_1/re/768x768/qt/55/2881059_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T06:48:08.390Z"
   },
   {
     "id": "auto-b0fdkwfkjn",
@@ -2443,19 +2456,6 @@
     "telegramPostedAt": "2026-11-24T08:15:13.624Z"
   },
   {
-    "id": "auto-b0fpxf65ph",
-    "asin": "B0FPXF65PH",
-    "title": "LEGO Speed Champions 77260 Toyota Supra MK4",
-    "category": "Spielzeug & LEGO",
-    "price": 16.15,
-    "oldPrice": 27.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T06:34:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXF65PH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:15:08.229Z"
-  },
-  {
     "id": "queue-b0glpqcr51",
     "asin": "B0GLPQCR51",
     "title": "DJI Osmo Mobile 8 Smartphone-Gimbal Combo",
@@ -2523,19 +2523,6 @@
     "telegramPostedAt": "2026-11-24T07:45:30.545Z"
   },
   {
-    "id": "auto-b0dhs9y192",
-    "asin": "B0DHS9Y192",
-    "title": "LEGO Speed Champions McLaren F1 Team MCL38 (77251)",
-    "category": "Spielzeug & LEGO",
-    "price": 15,
-    "oldPrice": 19.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T06:45:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHS9Y192.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T07:45:25.294Z"
-  },
-  {
     "id": "auto-b0fs25dtxm",
     "asin": "B0FS25DTXM",
     "title": "Turtle Beach Afterglow Wave kabelloser RGB-Controller, Nintendo Switch …",
@@ -2558,19 +2545,6 @@
     "image": "https://m.media-amazon.com/images/P/B094138M2G.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T07:30:24.303Z"
-  },
-  {
-    "id": "auto-b0g7lnzr5x",
-    "asin": "B0G7LNZR5X",
-    "title": "PLAYMOBIL Knights Steinkatapult der Drachenritter",
-    "category": "Spielzeug & LEGO",
-    "price": 13.49,
-    "oldPrice": 17.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T06:36:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G7LNZR5X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T07:30:19.216Z"
   },
   {
     "id": "auto-b00iwvdgbe",
@@ -2604,40 +2578,5 @@
     "image": "https://m.media-amazon.com/images/P/B0F5FKQRDT.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T07:00:23.281Z"
-  },
-  {
-    "id": "auto-b0gl3bhmtd",
-    "asin": "B0GL3BHMTD",
-    "title": "Toshiba MW3-AC26SFI(BK) Mikrowelle 6-in-1 mit Grill, Heißluft, …",
-    "category": "Küche",
-    "price": 164.99,
-    "checkedAt": "2026-11-24T06:35:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GL3BHMTD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T06:45:48.834Z"
-  },
-  {
-    "id": "auto-b09b8x9rgm",
-    "asin": "B09B8X9RGM",
-    "title": "Echo Dot (Version 2022)",
-    "category": "Amazon-Geräte",
-    "price": 34.99,
-    "checkedAt": "2026-11-24T06:37:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09B8X9RGM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T06:45:43.693Z"
-  },
-  {
-    "id": "auto-b07xrs54s1",
-    "asin": "B07XRS54S1",
-    "title": "DONBOLSO – Echt-Leder Geldbörse \"Wien\"",
-    "subtitle": "🔥 757° bei mydealz",
-    "category": "Mode & Reise",
-    "price": 15.98,
-    "checkedAt": "2026-11-24T06:40:18.000Z",
-    "image": "https://static.mydealz.de/threads/raw/rLpjC/2853198_1/re/768x768/qt/55/2853198_1.jpg",
-    "temperature": 757,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T06:45:34.350Z"
   }
 ]
