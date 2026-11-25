@@ -1,5 +1,37 @@
 [
   {
+    "id": "auto-b09crlx5m6",
+    "asin": "B09CRLX5M6",
+    "title": "Fast & Furious - 9-Movie Collection - 9 Filme auf 4K Blu-ray + Blu - …",
+    "category": "Bücher & Filme",
+    "price": 57.71,
+    "checkedAt": "2026-11-25T05:29:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09CRLX5M6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b01mctxcq4",
+    "asin": "B01MCTXCQ4",
+    "title": "Kids (1995) - Blu-ray - IMDb 7,0",
+    "category": "Bücher & Filme",
+    "price": 10.4,
+    "checkedAt": "2026-11-25T05:31:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01MCTXCQ4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T06:03:15.217Z"
+  },
+  {
+    "id": "auto-b09rls7j1b",
+    "asin": "B09RLS7J1B",
+    "title": "Paladone Xbox Controller Wecker - Offiziell Lizenziertes Microsoft …",
+    "category": "Gaming",
+    "price": 17.47,
+    "checkedAt": "2026-11-25T05:35:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09RLS7J1B.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T06:03:10.024Z"
+  },
+  {
     "id": "auto-b0dgpqp5c1",
     "asin": "B0DGPQP5C1",
     "title": "Dead Island 2 Ultimate Edition (PlayStation 5)",
@@ -29,7 +61,8 @@
     "checkedAt": "2026-11-25T05:22:19.000Z",
     "image": "https://m.media-amazon.com/images/P/B002VQ062I.03._SCLZZZZZZZ_SX500_.jpg",
     "temperature": 128,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T06:03:00.164Z"
   },
   {
     "id": "auto-b0h7jqz3wc",
@@ -119,7 +152,8 @@
     "price": 18.99,
     "checkedAt": "2026-11-24T23:58:32.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FDKWFKJN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T06:03:04.565Z"
   },
   {
     "id": "auto-b06wlqpmt7",
@@ -2346,17 +2380,6 @@
     "telegramPostedAt": "2026-11-24T08:30:11.291Z"
   },
   {
-    "id": "auto-b0fpxd7pqv",
-    "asin": "B0FPXD7PQV",
-    "title": "LEGO Technic 42220 Monster Jam Sparkle Smash mit Rückziehmotor",
-    "category": "Spielzeug & LEGO",
-    "price": 13.99,
-    "checkedAt": "2026-11-24T06:02:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXD7PQV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:15:42.920Z"
-  },
-  {
     "id": "auto-b0d62z6c4r",
     "asin": "B0D62Z6C4R",
     "title": "Volvic Active Vitamin+ Pfirsich Erfrischungsgetränk 6 x 0,75 L",
@@ -2609,38 +2632,5 @@
     "image": "https://m.media-amazon.com/images/P/B00D6H4Y92.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T06:30:52.383Z"
-  },
-  {
-    "id": "auto-b07cfhhd8p",
-    "asin": "B07CFHHD8P",
-    "title": "Jack & Jones Kapuzenpulli Hoodie Logo blau",
-    "category": "Mode & Reise",
-    "price": 20.68,
-    "checkedAt": "2026-11-24T05:59:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07CFHHD8P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T06:01:13.686Z"
-  },
-  {
-    "id": "auto-b0bbhst8bz",
-    "asin": "B0BBHST8BZ",
-    "title": "Duravit wassersparende Universal Handbrause, Duschbrause mit 3 …",
-    "category": "Tech",
-    "price": 15.99,
-    "checkedAt": "2026-11-24T05:31:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BBHST8BZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T06:15:56.586Z"
-  },
-  {
-    "id": "auto-b09pz1jmz5",
-    "asin": "B09PZ1JMZ5",
-    "title": "SIGG - Tritan Trinkflasche - Total Color Clear ONE Green 0.75 L …",
-    "category": "Haushalt",
-    "price": 10.39,
-    "checkedAt": "2026-11-24T05:40:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09PZ1JMZ5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T06:15:51.942Z"
   }
 ]
