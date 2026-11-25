@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0bfjn2xtd",
+    "asin": "B0BFJN2XTD",
+    "title": "JACK & JONES Male Jeans 100% Baumwolle lässiger Schnitt Blue Denim …",
+    "category": "Mode & Reise",
+    "price": 23.95,
+    "checkedAt": "2026-11-25T06:12:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BFJN2XTD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T06:17:55.822Z"
+  },
+  {
     "id": "auto-b09crlx5m6",
     "asin": "B09CRLX5M6",
     "title": "Fast & Furious - 9-Movie Collection - 9 Filme auf 4K Blu-ray + Blu - …",
@@ -7,7 +18,8 @@
     "price": 57.71,
     "checkedAt": "2026-11-25T05:29:00.000Z",
     "image": "https://m.media-amazon.com/images/P/B09CRLX5M6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T06:18:00.064Z"
   },
   {
     "id": "auto-b01mctxcq4",
@@ -39,7 +51,8 @@
     "price": 17.96,
     "checkedAt": "2026-11-25T05:22:29.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DGPQP5C1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T06:18:08.706Z"
   },
   {
     "id": "auto-b08zfcf9sy",
@@ -49,7 +62,8 @@
     "price": 14.41,
     "checkedAt": "2026-11-25T05:26:30.000Z",
     "image": "https://m.media-amazon.com/images/P/B08ZFCF9SY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T06:18:04.515Z"
   },
   {
     "id": "auto-b002vq062i",
@@ -82,7 +96,8 @@
     "price": 79.99,
     "checkedAt": "2026-11-25T05:06:21.000Z",
     "image": "https://m.media-amazon.com/images/P/B07BQHYRZJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T06:18:12.982Z"
   },
   {
     "id": "auto-b0cn3tm59n",
@@ -2621,16 +2636,5 @@
     "temperature": 757,
     "source": "auto",
     "telegramPostedAt": "2026-11-24T06:45:34.350Z"
-  },
-  {
-    "id": "auto-b00d6h4y92",
-    "asin": "B00D6H4Y92",
-    "title": "Bosch Professional Nass-/Trockensauger GAS 35 M AFC",
-    "category": "Haushalt",
-    "price": 499,
-    "checkedAt": "2026-11-24T06:17:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00D6H4Y92.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T06:30:52.383Z"
   }
 ]
