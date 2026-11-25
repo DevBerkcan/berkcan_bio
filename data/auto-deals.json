@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0bfg8l2fx",
+    "asin": "B0BFG8L2FX",
+    "title": "Jack & Jones Herren Merino Strickpullover XL schwarz",
+    "category": "Tech",
+    "price": 20.79,
+    "checkedAt": "2026-11-25T08:44:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BFG8L2FX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T09:00:52.892Z"
+  },
+  {
+    "id": "auto-b000088e6r",
+    "asin": "B000088E6R",
+    "title": "\"Go, shawty, it's your birthday\" [Prime] 50 Cent: Get Rich Or Die …",
+    "category": "Tech",
+    "price": 22.52,
+    "checkedAt": "2026-11-25T08:49:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000088E6R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T09:00:47.737Z"
+  },
+  {
+    "id": "auto-b073xls8f3",
+    "asin": "B073XLS8F3",
+    "title": "NIGRIN Scheiben-Innenreiniger mit Teleskopgriff und 3 Mikrofaserpads",
+    "category": "Tech",
+    "price": 5.34,
+    "oldPrice": 13.39,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-25T08:48:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B073XLS8F3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T09:00:42.257Z"
+  },
+  {
     "id": "auto-b0d428sd99",
     "asin": "B0D428SD99",
     "title": "Logitech Combo Touch Tastaturhülle QWERTY ESP",
@@ -2464,16 +2499,5 @@
     "image": "https://m.media-amazon.com/images/P/B0C7HG2BFN.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T09:15:12.658Z"
-  },
-  {
-    "id": "auto-b0h1clmxgm",
-    "asin": "B0H1CLMXGM",
-    "title": "Braun FaceSpa Pro SE 912 Gesichtsepilierer",
-    "category": "Beauty & Pflege",
-    "price": 89.99,
-    "checkedAt": "2026-11-24T08:46:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H1CLMXGM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T09:00:27.222Z"
   }
 ]
