@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0h82t2n1v",
+    "asin": "B0H82T2N1V",
+    "title": "UGREEN Stomp 3 Bluetooth-Lautsprecher, 20 W, RGB-Licht, IP66, 20 Std. …",
+    "category": "Audio",
+    "price": 45.99,
+    "checkedAt": "2026-11-25T09:44:53.000Z",
+    "image": "https://static.mydealz.de/threads/raw/UWAaD/2881275_1/re/768x768/qt/55/2881275_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T10:00:19.325Z"
+  },
+  {
+    "id": "auto-b0hnl1fqwp",
+    "asin": "B0HNL1FQWP",
+    "title": "RollerCoaster Tycoon 3: Complete Edition - Nintendo Switch",
+    "category": "Gaming",
+    "price": 14.99,
+    "checkedAt": "2026-11-25T09:48:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HNL1FQWP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T10:00:13.779Z"
+  },
+  {
+    "id": "auto-b00i0nmwpk",
+    "asin": "B00I0NMWPK",
+    "title": "Mitutoyo 500-181-30 ABS AOS digitaler Messschieber CD-15APX, 0-150 mm",
+    "category": "Tech",
+    "price": 94.52,
+    "checkedAt": "2026-11-25T09:49:12.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00I0NMWPK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T10:00:08.452Z"
+  },
+  {
+    "id": "auto-b0frmnfx5f",
+    "asin": "B0FRMNFX5F",
+    "title": "Künstlicher Weihnachtsbaum (183 cm) mit Kunstschnee & 250 warmweißen …",
+    "category": "Tech",
+    "price": 72.19,
+    "checkedAt": "2026-11-25T09:55:03.000Z",
+    "image": "https://static.mydealz.de/threads/raw/j4mPE/2881284_1/re/768x768/qt/55/2881284_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T10:00:03.002Z"
+  },
+  {
     "id": "auto-b0d96q5p49",
     "asin": "B0D96Q5P49",
     "title": "TCL S55HE 2.1 Soundbar mit kabellosem Subwoofer, 220 W, Dolby Atmos, …",
@@ -2227,17 +2271,6 @@
     "telegramPostedAt": "2026-11-24T10:45:50.702Z"
   },
   {
-    "id": "auto-b0fpxdv2nk",
-    "asin": "B0FPXDV2NK",
-    "title": "LEGO Ninjago 71860 Lloyds Titan-Mech (15 Jahre Ninjago)",
-    "category": "Spielzeug & LEGO",
-    "price": 74.99,
-    "checkedAt": "2026-11-24T09:50:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXDV2NK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T10:31:10.663Z"
-  },
-  {
     "id": "auto-b0d2dfkg8h",
     "asin": "B0D2DFKG8H",
     "title": "Meross Smart WLAN Steckdose mit Strommessung 16A, 2er",
@@ -2302,40 +2335,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DGXTKZ42.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T10:15:52.800Z"
-  },
-  {
-    "id": "auto-b07ftg84sw",
-    "asin": "B07FTG84SW",
-    "title": "DJI Osmo Mobile 7P Smartphone-Gimbal",
-    "category": "Smartphone & Tablet",
-    "price": 84,
-    "checkedAt": "2026-11-24T09:53:57.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07FTG84SW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T10:01:02.594Z"
-  },
-  {
-    "id": "auto-b0f6tlnq7w",
-    "asin": "B0F6TLNQ7W",
-    "title": "BESSEY EZ360M-15 Einhandzwinge",
-    "category": "Tech",
-    "price": 15.75,
-    "oldPrice": 20.25,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T09:47:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F6TLNQ7W.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T10:00:53.523Z"
-  },
-  {
-    "id": "auto-b0fj8x73sn",
-    "asin": "B0FJ8X73SN",
-    "title": "4er-Pack | Philips Hue Essential White and Color Ambiance GU10 Spot, …",
-    "category": "Smart Home",
-    "price": 44.99,
-    "checkedAt": "2026-11-24T09:45:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJ8X73SN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T09:45:49.515Z"
   }
 ]
