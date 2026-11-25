@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0928lx2d1",
+    "asin": "B0928LX2D1",
+    "title": "Kiprim DC310S Programmierbares DC-Labornetzteil 0–30 V / 0–10 A",
+    "category": "Zubehör & Laden",
+    "price": 93.49,
+    "checkedAt": "2026-11-25T20:17:08.000Z",
+    "image": "https://static.mydealz.de/threads/raw/yKxGw/2881854_1/re/768x768/qt/55/2881854_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T20:27:46.150Z"
+  },
+  {
+    "id": "auto-b0d2vh915c",
+    "asin": "B0D2VH915C",
+    "title": "Edifier W830NB Over-Ear-Kopfhörer, ANC bis -45 dB, LDAC, Bluetooth …",
+    "category": "Audio",
+    "price": 48.99,
+    "oldPrice": 55.39,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-25T20:20:32.000Z",
+    "image": "https://static.mydealz.de/threads/raw/FZ6fN/2881861_1/re/768x768/qt/55/2881861_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T20:27:39.580Z"
+  },
+  {
     "id": "auto-b08xy315z4",
     "asin": "B08XY315Z4",
     "title": "Theo Klein UNO Tragetasche Reisespiel Rollenspielzeug ab 3 Jahren",
@@ -1872,38 +1896,5 @@
     "image": "https://static.mydealz.de/threads/raw/l2SYX/2880979_1/re/768x768/qt/55/2880979_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T20:57:35.135Z"
-  },
-  {
-    "id": "auto-b000z2fzr6",
-    "asin": "B000Z2FZR6",
-    "title": "de Buyer Affinity 28 cm Edelstahlpfanne",
-    "category": "Küche",
-    "price": 100.61,
-    "checkedAt": "2026-11-24T20:14:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000Z2FZR6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T20:28:26.818Z"
-  },
-  {
-    "id": "auto-b00jh5m4wg",
-    "asin": "B00JH5M4WG",
-    "title": "Stanley Trockenbau Kantenhobel mit gleichmäßiger Führung STHT1-05937",
-    "category": "Tech",
-    "price": 14.49,
-    "checkedAt": "2026-11-24T20:16:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00JH5M4WG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T20:28:20.630Z"
-  },
-  {
-    "id": "auto-b0ghvcw5tz",
-    "asin": "B0GHVCW5TZ",
-    "title": "Leatherman Skeletool KBx, Taschenmesser, diverse Farben,",
-    "category": "Küche",
-    "price": 40,
-    "checkedAt": "2026-11-24T20:26:38.000Z",
-    "image": "https://static.mydealz.de/threads/raw/qd5eU/2880961_1/re/768x768/qt/55/2880961_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T20:28:14.304Z"
   }
 ]
