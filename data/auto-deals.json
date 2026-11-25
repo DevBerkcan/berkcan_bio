@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b08dj18c85",
+    "asin": "B08DJ18C85",
+    "title": "Remington D3198 Ionen-Haartrockner (2200 W, Schwarz)",
+    "category": "Haushalt",
+    "price": 15.99,
+    "checkedAt": "2026-11-25T14:18:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08DJ18C85.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:27:54.471Z"
+  },
+  {
+    "id": "auto-b0f4qjbtzz",
+    "asin": "B0F4QJBTZZ",
+    "title": "Elektrischer Dampfgarer , 3 Ebenen, BPA-frei, 9L, 950W, Schwarz",
+    "category": "Tech",
+    "price": 16.44,
+    "checkedAt": "2026-11-25T14:20:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F4QJBTZZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:27:49.163Z"
+  },
+  {
+    "id": "auto-b094d541xw",
+    "asin": "B094D541XW",
+    "title": "Amazon Basics AA-Alkali-Hochleistungsbatterien",
+    "category": "Tech",
+    "price": 6.6,
+    "checkedAt": "2026-11-25T14:23:15.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Y6qeX/2881563_1/re/768x768/qt/55/2881563_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T14:27:42.939Z"
+  },
+  {
     "id": "auto-b0bzsh9l8b",
     "asin": "B0BZSH9L8B",
     "title": "Carrera RC Mario Kart Mario - Quad",
@@ -1903,17 +1936,6 @@
     "telegramPostedAt": "2026-11-24T15:16:09.198Z"
   },
   {
-    "id": "auto-b09mc6ms9d",
-    "asin": "B09MC6MS9D",
-    "title": "NERF - Elite 2.0 Eaglepoint RD-8 Blaster",
-    "category": "Spielzeug & LEGO",
-    "price": 18.99,
-    "checkedAt": "2026-11-24T14:13:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09MC6MS9D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T15:01:24.512Z"
-  },
-  {
     "id": "auto-b0ft896xc7",
     "asin": "B0FT896XC7",
     "title": "Berlin Bags Slim Wallet",
@@ -2019,64 +2041,5 @@
     "image": "https://m.media-amazon.com/images/P/B0HD11M1SM.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T14:46:01.397Z"
-  },
-  {
-    "id": "auto-b0h7k5t17c",
-    "asin": "B0H7K5T17C",
-    "title": "EA FC27 / FC 27 - Nintendo Switch",
-    "category": "Gaming",
-    "price": 29.99,
-    "checkedAt": "2026-11-24T14:17:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H7K5T17C.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:31:12.006Z"
-  },
-  {
-    "id": "auto-b09lm833d1",
-    "asin": "B09LM833D1",
-    "title": "BOSCH - Akku-Rasenmäher CityMower 18V-32-300",
-    "category": "Licht & Garten",
-    "price": 158.99,
-    "checkedAt": "2026-11-24T14:24:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09LM833D1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:31:06.941Z"
-  },
-  {
-    "id": "auto-b0gzp6z7zx",
-    "asin": "B0GZP6Z7ZX",
-    "title": "Philips Sonicare DiamondClean 9000 Schallzahnbürste HX9214/84",
-    "category": "Beauty & Pflege",
-    "price": 259.99,
-    "oldPrice": 362.92,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T14:21:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GZP6Z7ZX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:31:01.282Z"
-  },
-  {
-    "id": "auto-b09w1b5s5w",
-    "asin": "B09W1B5S5W",
-    "title": "SteelSeries Aerox 5 Wireless Gaming-Maus, 74 g, TrueMove Air 18.000 …",
-    "category": "Computer",
-    "price": 58.59,
-    "checkedAt": "2026-11-24T14:14:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09W1B5S5W.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:16:07.584Z"
-  },
-  {
-    "id": "auto-b0h7vxgjwq",
-    "asin": "B0H7VXGJWQ",
-    "title": "Action Hunter – Legacy Collection 2-Disc Limited Edition",
-    "category": "Tech",
-    "price": 16.02,
-    "oldPrice": 28.04,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T14:12:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H7VXGJWQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:15:56.597Z"
   }
 ]
