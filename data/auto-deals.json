@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0b4kynq93",
+    "asin": "B0B4KYNQ93",
+    "title": "Peter Maffay – Tabaluga - Die Welt ist wunderbar! Buchedition (2 Vinyl …",
+    "category": "Tech",
+    "price": 18.89,
+    "checkedAt": "2026-11-25T13:34:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B4KYNQ93.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T13:42:45.241Z"
+  },
+  {
+    "id": "auto-b0d9m3nlsv",
+    "asin": "B0D9M3NLSV",
+    "title": "Logitech G G915 X Lightspeed Low-Profile Wireless Gaming-Tastatur, GL …",
+    "category": "Computer",
+    "price": 135.99,
+    "checkedAt": "2026-11-25T13:41:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D9M3NLSV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T13:42:39.803Z"
+  },
+  {
     "id": "auto-b0fpxjyg2h",
     "asin": "B0FPXJYG2H",
     "title": "LEGO 71867 Ninjago X-1 Ninja Supercar",
@@ -1905,17 +1927,6 @@
     "telegramPostedAt": "2026-11-24T14:31:01.282Z"
   },
   {
-    "id": "auto-b08fn6xkcf",
-    "asin": "B08FN6XKCF",
-    "title": "STIGA Snowracer Iconic - Robuster Lenk-Schlitten SchneeAmazon",
-    "category": "Spielzeug & LEGO",
-    "price": 79.99,
-    "checkedAt": "2026-11-24T13:31:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08FN6XKCF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T14:16:23.483Z"
-  },
-  {
     "id": "auto-b0c64wlqsk",
     "asin": "B0C64WLQSK",
     "title": "3er-Pack | Corsair iCUE Link QX120 RGB 120 mm Lüfter, 3er-Pack, …",
@@ -2021,29 +2032,5 @@
     "image": "https://m.media-amazon.com/images/P/B0G44R24Y4.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T13:46:23.456Z"
-  },
-  {
-    "id": "auto-b07g1yz9gl",
-    "asin": "B07G1YZ9GL",
-    "title": "4K Ultra-HD: The Big Lebowski (+ Blu-ray 2D)",
-    "category": "Bücher & Filme",
-    "price": 17.43,
-    "checkedAt": "2026-11-24T13:30:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07G1YZ9GL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T13:31:33.653Z"
-  },
-  {
-    "id": "auto-b08qnbgl6q",
-    "asin": "B08QNBGL6Q",
-    "title": "Joseph Joseph Pocket – platzsparendes, faltbares Tisch-Bügelbrett",
-    "category": "Tech",
-    "price": 55.99,
-    "oldPrice": 97,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T13:29:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08QNBGL6Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T13:31:17.009Z"
   }
 ]
