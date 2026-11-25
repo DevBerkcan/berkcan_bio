@@ -1,5 +1,76 @@
 [
   {
+    "id": "auto-b0fpxdpg9r",
+    "asin": "B0FPXDPG9R",
+    "title": "LEGO Star Wars Der Mandalorianer und Grogu auf ihrem Speeder Bike …",
+    "category": "Spielzeug & LEGO",
+    "price": 6.63,
+    "checkedAt": "2026-11-25T18:59:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXDPG9R.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:57:28.996Z"
+  },
+  {
+    "id": "auto-b0f7y1dw2t",
+    "asin": "B0F7Y1DW2T",
+    "title": "Samsung DV90DB8845GBU2 Wärmepumpentrockner DV8400D, 9 kg, EEK: A",
+    "category": "Haushalt",
+    "price": 784,
+    "checkedAt": "2026-11-25T19:50:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F7Y1DW2T.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:57:23.578Z"
+  },
+  {
+    "id": "auto-b07mf1ncz1",
+    "asin": "B07MF1NCZ1",
+    "title": "Powerbar PowerGel (24x41g) Tropical Fruit - Energie & Ausdauer - …",
+    "category": "Tech",
+    "price": 31.26,
+    "checkedAt": "2026-11-25T19:54:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07MF1NCZ1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:57:18.204Z"
+  },
+  {
+    "id": "auto-b0ffnd8nxk",
+    "asin": "B0FFND8NXK",
+    "title": "GastroSUS Industar PLUS Bratpfanne 32cm",
+    "subtitle": "🔥 101° bei mydealz",
+    "category": "Küche",
+    "price": 59.99,
+    "checkedAt": "2026-11-25T19:44:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FFND8NXK.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 101,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:57:12.377Z"
+  },
+  {
+    "id": "auto-b000wr7kb8",
+    "asin": "B000WR7KB8",
+    "title": "Villeroy & Boch Piemont Besteckset",
+    "category": "Tech",
+    "price": 79.99,
+    "oldPrice": 99.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-25T19:53:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000WR7KB8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:57:02.379Z"
+  },
+  {
+    "id": "queue-b01j9pw10i",
+    "asin": "B01J9PW10I",
+    "title": "Fiskars X27 XXL Spaltaxt (96 cm)",
+    "subtitle": "96 cm lange Spaltaxt für große Stammstücke über 30 cm.",
+    "category": "Werkzeug",
+    "price": 56.98,
+    "checkedAt": "2026-11-25T15:44:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01J9PW10I.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:56:42.613Z"
+  },
+  {
     "id": "auto-b0bjzk2ddg",
     "asin": "B0BJZK2DDG",
     "title": "AUVON Tablettenbox 7 Tage Morgens Abends, einseitig öffnend *PRIME*",
@@ -7,7 +78,8 @@
     "price": 6.6,
     "checkedAt": "2026-11-25T15:45:46.000Z",
     "image": "https://static.mydealz.de/threads/raw/8OWZj/2881642_1/re/768x768/qt/55/2881642_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:58:13.571Z"
   },
   {
     "id": "auto-b0h5ccx3cm",
@@ -17,7 +89,8 @@
     "price": 17.99,
     "checkedAt": "2026-11-25T15:52:07.000Z",
     "image": "https://m.media-amazon.com/images/P/B0H5CCX3CM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:58:00.579Z"
   },
   {
     "id": "auto-b0fr9j4r9n",
@@ -27,7 +100,8 @@
     "price": 42.74,
     "checkedAt": "2026-11-25T16:49:39.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FR9J4R9N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:57:56.207Z"
   },
   {
     "id": "auto-b06vy2z1mh",
@@ -37,7 +111,8 @@
     "price": 29.6,
     "checkedAt": "2026-11-25T17:18:40.000Z",
     "image": "https://m.media-amazon.com/images/P/B06VY2Z1MH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:57:06.543Z"
   },
   {
     "id": "auto-b0dc6zd31r",
@@ -47,7 +122,8 @@
     "price": 499,
     "checkedAt": "2026-11-25T17:40:52.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DC6ZD31R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:57:51.824Z"
   },
   {
     "id": "auto-b0cjffqrv7",
@@ -57,7 +133,8 @@
     "price": 9.99,
     "checkedAt": "2026-11-25T17:41:00.000Z",
     "image": "https://static.mydealz.de/threads/raw/Mf8ML/2881711_1/re/768x768/qt/55/2881711_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:57:47.376Z"
   },
   {
     "id": "auto-b0dc6zd321",
@@ -67,7 +144,8 @@
     "price": 499,
     "checkedAt": "2026-11-25T17:46:49.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DC6ZD321.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:57:42.286Z"
   },
   {
     "id": "auto-b000zeds5a",
@@ -77,7 +155,8 @@
     "price": 26.99,
     "checkedAt": "2026-11-25T17:51:09.000Z",
     "image": "https://m.media-amazon.com/images/P/B000ZEDS5A.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:57:37.679Z"
   },
   {
     "id": "auto-b000lxzsb2",
@@ -87,7 +166,8 @@
     "price": 12.32,
     "checkedAt": "2026-11-25T18:14:29.000Z",
     "image": "https://m.media-amazon.com/images/P/B000LXZSB2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T19:57:33.385Z"
   },
   {
     "id": "auto-b0fgf63f5g",
@@ -1803,27 +1883,5 @@
     "image": "https://static.mydealz.de/threads/raw/0zNxC/2880946_1/re/768x768/qt/55/2880946_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T20:13:30.899Z"
-  },
-  {
-    "id": "auto-b0fw7vc98z",
-    "asin": "B0FW7VC98Z",
-    "title": "adidas Runfalcon 6 Cloudfoam Laufschuh",
-    "category": "Tech",
-    "price": 28.79,
-    "checkedAt": "2026-11-24T19:46:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FW7VC98Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T19:58:44.503Z"
-  },
-  {
-    "id": "auto-b08x3qg31q",
-    "asin": "B08X3QG31Q",
-    "title": "Jack & Jones Herren Jeans (Alle Größen!) Blue Denim Relaxed Fit 100% …",
-    "category": "Mode & Reise",
-    "price": 22.72,
-    "checkedAt": "2026-11-24T19:55:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08X3QG31Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T19:58:38.658Z"
   }
 ]
