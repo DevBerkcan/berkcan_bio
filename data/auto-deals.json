@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b07sjhtwcy",
+    "asin": "B07SJHTWCY",
+    "title": "HP Color Laser MFP 178nwg Multifunktions-Farblaserdrucker",
+    "category": "Computer",
+    "price": 219.99,
+    "checkedAt": "2026-11-25T07:05:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07SJHTWCY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T07:17:52.175Z"
+  },
+  {
+    "id": "auto-b000jlawia",
+    "asin": "B000JLAWIA",
+    "title": "MUGLER A*Men Eau de Toilette 100ml",
+    "category": "Beauty & Pflege",
+    "price": 37.48,
+    "checkedAt": "2026-11-25T07:07:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000JLAWIA.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T07:17:47.047Z"
+  },
+  {
+    "id": "auto-b0cy6839mh",
+    "asin": "B0CY6839MH",
+    "title": "HP Color LaserJet Pro MFP 3302sdwg Multifunktionsfarblaserdrucker",
+    "category": "Computer",
+    "price": 289.99,
+    "checkedAt": "2026-11-25T07:15:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CY6839MH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T07:17:40.968Z"
+  },
+  {
     "id": "auto-b06xjslbfv",
     "asin": "B06XJSLBFV",
     "title": "Pattex Montagekleber Kleben statt Bohren – Wasserresistent, Innen & …",
@@ -2456,18 +2489,6 @@
     "telegramPostedAt": "2026-11-24T08:30:28.864Z"
   },
   {
-    "id": "queue-b0089ewlr4",
-    "asin": "B0089EWLR4",
-    "title": "ESMART MIMOTO Motorleinwand 221×125 cm, 16:9",
-    "subtitle": "Elektrische Beamer-Leinwand im 16:9-Format inklusive Fernbedienung.",
-    "category": "TV & Heimkino",
-    "price": 180.18,
-    "checkedAt": "2026-11-24T07:07:23.000Z",
-    "image": "https://static.mydealz.de/threads/raw/F1EN5/2880191_1/re/768x768/qt/55/2880191_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:30:11.291Z"
-  },
-  {
     "id": "auto-b0d62z6c4r",
     "asin": "B0D62Z6C4R",
     "title": "Volvic Active Vitamin+ Pfirsich Erfrischungsgetränk 6 x 0,75 L",
@@ -2499,18 +2520,6 @@
     "image": "https://m.media-amazon.com/images/P/B0C6DZW8YM.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T08:15:13.624Z"
-  },
-  {
-    "id": "queue-b0glpqcr51",
-    "asin": "B0GLPQCR51",
-    "title": "DJI Osmo Mobile 8 Smartphone-Gimbal Combo",
-    "subtitle": "Gimbal-Stabilisator für ruckelfreie Smartphone-Videos.",
-    "category": "Smartphone & Tablet",
-    "price": 83,
-    "checkedAt": "2026-11-24T07:07:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GLPQCR51.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:14:51.377Z"
   },
   {
     "id": "auto-b07v47nglc",
@@ -2590,16 +2599,5 @@
     "image": "https://m.media-amazon.com/images/P/B094138M2G.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T07:30:24.303Z"
-  },
-  {
-    "id": "auto-b00iwvdgbe",
-    "asin": "B00IWVDGBE",
-    "title": "Teeling Single Grain Irish Whiskey",
-    "category": "Tech",
-    "price": 27.34,
-    "checkedAt": "2026-11-24T07:06:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00IWVDGBE.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T07:15:32.769Z"
   }
 ]
