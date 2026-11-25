@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0dj71kzxf",
+    "asin": "B0DJ71KZXF",
+    "title": "Cosori Airfryer, Hot Air Fryer 2 Chambers, 1750 W low-watt tech, NTC …",
+    "category": "Küche",
+    "price": 99.98,
+    "checkedAt": "2026-11-25T15:20:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJ71KZXF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T15:27:36.601Z"
+  },
+  {
+    "id": "auto-b0db65cdvy",
+    "asin": "B0DB65CDVY",
+    "title": "uvex i-vo cc Gen. 2 MIPS Fahrradhelm",
+    "subtitle": "🔥 100° bei mydealz",
+    "category": "Sport & Outdoor",
+    "price": 70.49,
+    "checkedAt": "2026-11-25T15:21:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DB65CDVY.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 100,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T15:27:31.286Z"
+  },
+  {
     "id": "auto-b000lp8i3a",
     "asin": "B000LP8I3A",
     "title": "Schiesser 2er Pack Feinripp Unterhemd „Original Classics“ ohne Ärmel",
@@ -1997,51 +2021,5 @@
     "image": "https://m.media-amazon.com/images/P/B0D1XYDKRQ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T15:45:53.904Z"
-  },
-  {
-    "id": "auto-b08ghn366k",
-    "asin": "B08GHN366K",
-    "title": "EMSA Clip & Close Frischhaltedosen-Set (5 x 0,8 L)",
-    "category": "Tech",
-    "price": 17.43,
-    "checkedAt": "2026-11-24T15:22:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08GHN366K.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T15:31:11.206Z"
-  },
-  {
-    "id": "auto-b0cp7nv936",
-    "asin": "B0CP7NV936",
-    "title": "Anker 30W Zigarettenanzünder USB-C",
-    "category": "Tech",
-    "price": 8.54,
-    "checkedAt": "2026-11-24T15:23:02.000Z",
-    "image": "https://static.mydealz.de/threads/raw/EWjA3/2880712_1/re/768x768/qt/55/2880712_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T15:31:05.668Z"
-  },
-  {
-    "id": "auto-b0d9jpdvn1",
-    "asin": "B0D9JPDVN1",
-    "title": "Shelly i4 Gen3 Schaltermodul",
-    "category": "Tech",
-    "price": 10.33,
-    "checkedAt": "2026-11-24T15:25:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D9JPDVN1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T15:30:59.375Z"
-  },
-  {
-    "id": "auto-b0c3b896r9",
-    "asin": "B0C3B896R9",
-    "title": "GoveeLife Bluetooth Digitales Thermometer Hygrometer Innen Govee",
-    "subtitle": "🔥 489° bei mydealz",
-    "category": "Tech",
-    "price": 10.99,
-    "checkedAt": "2026-11-24T15:24:22.000Z",
-    "image": "https://static.mydealz.de/threads/raw/qeJUe/2841217_1/re/768x768/qt/55/2841217_1.jpg",
-    "temperature": 489,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T15:30:49.975Z"
   }
 ]
