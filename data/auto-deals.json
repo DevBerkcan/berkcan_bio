@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b09jgf7hp2",
+    "asin": "B09JGF7HP2",
+    "title": "Hailo M80 Alu-Multifunktionsleiter / Schiebeleiter",
+    "category": "Tech",
+    "price": 154.99,
+    "checkedAt": "2026-11-25T07:59:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09JGF7HP2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T08:16:44.370Z"
+  },
+  {
+    "id": "auto-b0dp6w8yvc",
+    "asin": "B0DP6W8YVC",
+    "title": "BEDSURE Heizdecke Wärmedecke Elektrische Kuscheldecke - 130x180cm",
+    "category": "Tech",
+    "price": 46.02,
+    "checkedAt": "2026-11-25T08:07:09.000Z",
+    "image": "https://static.mydealz.de/threads/raw/GyMd1/2881191_1/re/768x768/qt/55/2881191_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T08:16:38.538Z"
+  },
+  {
     "id": "auto-b0bs3tz1b1",
     "asin": "B0BS3TZ1B1",
     "title": "LISEN 2er-Pack USB-C Kfz-Ladegerät mit 54W",
@@ -2455,19 +2477,6 @@
     "telegramPostedAt": "2026-11-24T09:00:27.222Z"
   },
   {
-    "id": "auto-b0dwftcvrr",
-    "asin": "B0DWFTCVRR",
-    "title": "Mischwald: Dartmoor",
-    "category": "Spielzeug & LEGO",
-    "price": 18.96,
-    "oldPrice": 22.4,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T08:13:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWFTCVRR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T09:00:21.907Z"
-  },
-  {
     "id": "auto-b0c4sv9qtg",
     "asin": "B0C4SV9QTG",
     "title": "Die Truman Show (4K UHD + Blu-ray)",
@@ -2488,19 +2497,6 @@
     "image": "https://m.media-amazon.com/images/P/B0GWF274L4.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T08:45:37.675Z"
-  },
-  {
-    "id": "auto-b0dygbl2g8",
-    "asin": "B0DYGBL2G8",
-    "title": "PLAYMOBIL Porsche Carrera GT 71859",
-    "category": "Spielzeug & LEGO",
-    "price": 12.59,
-    "oldPrice": 16.58,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T08:02:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DYGBL2G8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:45:32.487Z"
   },
   {
     "id": "auto-b00k3lhvv2",
@@ -2558,38 +2554,5 @@
     "image": "https://m.media-amazon.com/images/P/B005HVZ65Q.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T08:30:28.864Z"
-  },
-  {
-    "id": "auto-b0d62z6c4r",
-    "asin": "B0D62Z6C4R",
-    "title": "Volvic Active Vitamin+ Pfirsich Erfrischungsgetränk 6 x 0,75 L",
-    "category": "Tech",
-    "price": 5.82,
-    "checkedAt": "2026-11-24T08:08:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D62Z6C4R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:15:24.474Z"
-  },
-  {
-    "id": "auto-b081f24hxf",
-    "asin": "B081F24HXF",
-    "title": "1kg Nature Diet Flohsamenschalen (83% Ballaststoffe)",
-    "category": "Tech",
-    "price": 14.62,
-    "checkedAt": "2026-11-24T08:10:35.000Z",
-    "image": "https://static.mydealz.de/threads/raw/lwL3i/2880237_1/re/768x768/qt/55/2880237_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:15:19.482Z"
-  },
-  {
-    "id": "auto-b0c6dzw8ym",
-    "asin": "B0C6DZW8YM",
-    "title": "Razer BlackWidow V4 - Mechanische Gaming-Tastatur Chroma RGB",
-    "category": "Computer",
-    "price": 94.05,
-    "checkedAt": "2026-11-24T08:14:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C6DZW8YM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T08:15:13.624Z"
   }
 ]
