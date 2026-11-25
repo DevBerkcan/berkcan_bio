@@ -1,5 +1,29 @@
 [
   {
+    "id": "queue-b07fn4cl35",
+    "asin": "B07FN4CL35",
+    "title": "Philips Avent SCF883/01 4-in-1-Babynahrungszubereiter",
+    "subtitle": "Dampfgaren und mehr in einem Gerät – für den Übergang von Milch zu fester Nahrung.",
+    "category": "Haushalt",
+    "price": 99.98,
+    "checkedAt": "2026-11-25T11:54:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07FN4CL35.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T12:13:32.733Z"
+  },
+  {
+    "id": "queue-b0cfzt3vp8",
+    "asin": "B0CFZT3VP8",
+    "title": "Ring Außenkamera 2er-Set – kabellos, HD & Nachtsicht",
+    "subtitle": "Zwei kabellose Kameras mit HD-Video, Nachtsicht und Gegensprechfunktion.",
+    "category": "Foto & Video",
+    "price": 59.99,
+    "checkedAt": "2026-11-25T11:59:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CFZT3VP8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T12:13:27.946Z"
+  },
+  {
     "id": "auto-b0cnjfv6kh",
     "asin": "B0CNJFV6KH",
     "title": "Hot Wheels 10er-Set Rennwagen Spielzeug",
@@ -1983,17 +2007,6 @@
     "telegramPostedAt": "2026-11-24T13:01:28.288Z"
   },
   {
-    "id": "auto-b00ebigsbw",
-    "asin": "B00EBIGSBW",
-    "title": "LEGO City Betonmischer 60478",
-    "category": "Spielzeug & LEGO",
-    "price": 24.69,
-    "checkedAt": "2026-11-24T12:09:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00EBIGSBW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T12:46:46.588Z"
-  },
-  {
     "id": "auto-b0h18pqws5",
     "asin": "B0H18PQWS5",
     "title": "MAMMOTION YUKA mini 2 500 mit Mini Garage",
@@ -2003,19 +2016,6 @@
     "image": "https://static.mydealz.de/threads/raw/AkD0I/2880575_1/re/768x768/qt/55/2880575_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T12:46:40.959Z"
-  },
-  {
-    "id": "auto-b0gqv8w7rz",
-    "asin": "B0GQV8W7RZ",
-    "title": "VTech Kidi Guitar Superstar – Kinder-E-Gitarre mit Bluetooth, LEDs & 6 …",
-    "category": "Spielzeug & LEGO",
-    "price": 39.99,
-    "oldPrice": 52.08,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T12:06:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GQV8W7RZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T12:46:31.304Z"
   },
   {
     "id": "queue-b0cvhfkk4c",
@@ -2075,18 +2075,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GX28KZ7X.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T12:16:44.295Z"
-  },
-  {
-    "id": "auto-b0g1tvqp7k",
-    "asin": "B0G1TVQP7K",
-    "title": "ApaCare Sonic Change Schallzahnbürste mit Wechselakku & 3D-Bürste",
-    "category": "Beauty & Pflege",
-    "price": 39.99,
-    "oldPrice": 78.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T11:59:01.000Z",
-    "image": "https://static.mydealz.de/threads/raw/p360Q/2880532_1/re/768x768/qt/55/2880532_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T12:01:11.886Z"
   }
 ]
