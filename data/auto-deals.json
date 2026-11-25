@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0dwdrwj2p",
+    "asin": "B0DWDRWJ2P",
+    "title": "LEGO Ideas Mineraliensammlung 21362",
+    "category": "Spielzeug & LEGO",
+    "price": 40.08,
+    "checkedAt": "2026-11-25T21:57:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DWDRWJ2P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T23:10:44.551Z"
+  },
+  {
+    "id": "auto-b0dhsdlw37",
+    "asin": "B0DHSDLW37",
+    "title": "LEGO Creator 3in1 Plattenspieler mit Blumen 31172",
+    "category": "Audio",
+    "price": 25.49,
+    "checkedAt": "2026-11-25T22:08:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DHSDLW37.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T23:10:38.852Z"
+  },
+  {
+    "id": "auto-b01n0ng4x4",
+    "asin": "B01N0NG4X4",
+    "title": "INTEX Single-High Luftbett 2 Personen 137×191×25cm Luftmatratze max …",
+    "category": "Tech",
+    "price": 8.22,
+    "checkedAt": "2026-11-25T22:58:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01N0NG4X4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T23:10:33.378Z"
+  },
+  {
+    "id": "auto-b0774yx24h",
+    "asin": "B0774YX24H",
+    "title": "Lagavulin 8 Jahre Single Malt Scotch Whisky",
+    "category": "Lebensmittel & Drinks",
+    "price": 33.26,
+    "checkedAt": "2026-11-25T23:00:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0774YX24H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T23:10:27.746Z"
+  },
+  {
     "id": "auto-b0gxbx65dw",
     "asin": "B0GXBX65DW",
     "title": "10 kg PLA 3D Druck Filament – gemischte Farben",
@@ -2075,18 +2119,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CKXZFSX7.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T23:53:35.548Z"
-  },
-  {
-    "id": "auto-b079q5yjc5",
-    "asin": "B079Q5YJC5",
-    "title": "Dell MS116 Kabelgebundene USB-Optische Maus 1000 dpi, 3 Tasten",
-    "category": "Computer",
-    "price": 5.03,
-    "oldPrice": 9.34,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-24T23:04:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B079Q5YJC5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T23:24:09.658Z"
   }
 ]
