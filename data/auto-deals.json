@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b08xy315z4",
+    "asin": "B08XY315Z4",
+    "title": "Theo Klein UNO Tragetasche Reisespiel Rollenspielzeug ab 3 Jahren",
+    "category": "Spielzeug & LEGO",
+    "price": 5.99,
+    "checkedAt": "2026-11-25T19:26:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08XY315Z4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T20:13:03.285Z"
+  },
+  {
+    "id": "auto-b0h5rm4lhj",
+    "asin": "B0H5RM4LHJ",
+    "title": "LINDT Lindor Adventskalender",
+    "category": "Tech",
+    "price": 14,
+    "checkedAt": "2026-11-25T20:06:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H5RM4LHJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T20:12:57.471Z"
+  },
+  {
+    "id": "auto-b07jnsdc64",
+    "asin": "B07JNSDC64",
+    "title": "Jack & Jones Herren Glenn Original Jeans",
+    "category": "Mode & Reise",
+    "price": 17,
+    "checkedAt": "2026-11-25T20:10:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07JNSDC64.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T20:12:52.156Z"
+  },
+  {
     "id": "auto-b0fpxdpg9r",
     "asin": "B0FPXDPG9R",
     "title": "LEGO Star Wars Der Mandalorianer und Grogu auf ihrem Speeder Bike …",
@@ -1872,16 +1905,5 @@
     "image": "https://static.mydealz.de/threads/raw/qd5eU/2880961_1/re/768x768/qt/55/2880961_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T20:28:14.304Z"
-  },
-  {
-    "id": "auto-b09mjm4tpw",
-    "asin": "B09MJM4TPW",
-    "title": "MYMIND Schreibtischunterlage Black Friday Angebot - 2-er Set, 80x40cm, …",
-    "category": "Computer",
-    "price": 10.41,
-    "checkedAt": "2026-11-24T20:00:47.000Z",
-    "image": "https://static.mydealz.de/threads/raw/0zNxC/2880946_1/re/768x768/qt/55/2880946_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T20:13:30.899Z"
   }
 ]
