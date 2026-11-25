@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0gxf5x42r",
+    "asin": "B0GXF5X42R",
+    "title": "VASAGLE Beistelltisch mit Schublade und Rollen, Höhenverstellbarer",
+    "category": "Tech",
+    "price": 42.99,
+    "checkedAt": "2026-11-25T11:02:41.000Z",
+    "image": "https://static.mydealz.de/threads/raw/ZlL2V/2881354_1/re/768x768/qt/55/2881354_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T11:14:53.377Z"
+  },
+  {
+    "id": "auto-b0fzcvwddd",
+    "asin": "B0FZCVWDDD",
+    "title": "Oral-B iO Series 6 Elektrische Zahnbürste, Doppelpack, Schwarz",
+    "category": "Beauty & Pflege",
+    "price": 169.99,
+    "checkedAt": "2026-11-25T11:03:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FZCVWDDD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-25T11:14:46.943Z"
+  },
+  {
     "id": "auto-b0d9d9zndq",
     "asin": "B0D9D9ZNDQ",
     "title": "RORRY CharmGo Powerbank 10.000 mAh mit integrierten Ladekabeln und …",
@@ -2252,40 +2274,5 @@
     "image": "https://static.mydealz.de/threads/raw/EOenT/2880477_1/re/768x768/qt/55/2880477_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-24T11:30:34.085Z"
-  },
-  {
-    "id": "auto-b0gvxrv9p5",
-    "asin": "B0GVXRV9P5",
-    "title": "Uzala, der Kirgise - Das Oscar-prämierte Meisterwerk von Akira …",
-    "category": "Tech",
-    "price": 13.59,
-    "checkedAt": "2026-11-24T11:00:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GVXRV9P5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T11:15:42.917Z"
-  },
-  {
-    "id": "auto-b0g4wnshhr",
-    "asin": "B0G4WNSHHR",
-    "title": "Levi's Herren Levis Hm Polo Polohemd Shirt - Größe S+L+XL - Farbe …",
-    "category": "Tech",
-    "price": 17.52,
-    "checkedAt": "2026-11-24T11:12:10.000Z",
-    "image": "https://static.mydealz.de/threads/raw/B3CTp/2880457_1/re/768x768/qt/55/2880457_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T11:15:37.188Z"
-  },
-  {
-    "id": "auto-b0fkrjjnfb",
-    "asin": "B0FKRJJNFB",
-    "title": "Halloween 1-5 Blu-ray Collection (Uncut)",
-    "subtitle": "🔥 178° bei mydealz",
-    "category": "Bücher & Filme",
-    "price": 29.32,
-    "checkedAt": "2026-11-24T11:05:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FKRJJNFB.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 178,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-24T11:15:30.761Z"
   }
 ]
