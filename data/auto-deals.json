@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0gprrm7g3",
+    "asin": "B0GPRRM7G3",
+    "title": "Tefal Ingenio Excellence Fusion Kasserolle 16 cm",
+    "category": "Tech",
+    "price": 18.99,
+    "oldPrice": 24.89,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-26T08:01:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GPRRM7G3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T08:12:39.101Z"
+  },
+  {
     "id": "auto-b0f9yxhxrh",
     "asin": "B0F9YXHXRH",
     "title": "ASUS TUF Gaming VG27AQL5A – 27\" WQHD Gaming-Monitor",
@@ -2247,27 +2260,5 @@
     "image": "https://m.media-amazon.com/images/P/B08JM8CNG3.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T08:31:20.094Z"
-  },
-  {
-    "id": "auto-b09jgf7hp2",
-    "asin": "B09JGF7HP2",
-    "title": "Hailo M80 Alu-Multifunktionsleiter / Schiebeleiter",
-    "category": "Tech",
-    "price": 154.99,
-    "checkedAt": "2026-11-25T07:59:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09JGF7HP2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T08:16:44.370Z"
-  },
-  {
-    "id": "auto-b0dp6w8yvc",
-    "asin": "B0DP6W8YVC",
-    "title": "BEDSURE Heizdecke Wärmedecke Elektrische Kuscheldecke - 130x180cm",
-    "category": "Tech",
-    "price": 46.02,
-    "checkedAt": "2026-11-25T08:07:09.000Z",
-    "image": "https://static.mydealz.de/threads/raw/GyMd1/2881191_1/re/768x768/qt/55/2881191_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T08:16:38.538Z"
   }
 ]
