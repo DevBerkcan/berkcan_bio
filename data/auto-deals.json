@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0754zcj58",
+    "asin": "B0754ZCJ58",
+    "title": "Schmidt Ligretto Kids",
+    "category": "Spielzeug & LEGO",
+    "price": 5.99,
+    "checkedAt": "2026-11-26T10:53:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0754ZCJ58.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T11:40:28.460Z"
+  },
+  {
+    "id": "auto-b07zptz2gh",
+    "asin": "B07ZPTZ2GH",
+    "title": "ROCKBROS Motorrad Sturmhaube, Balaclava Skimaske für Damen Herren",
+    "category": "Tech",
+    "price": 9.79,
+    "checkedAt": "2026-11-26T11:29:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07ZPTZ2GH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T11:40:22.565Z"
+  },
+  {
+    "id": "auto-b0fhm7wst5",
+    "asin": "B0FHM7WST5",
+    "title": "Beats Studio Pro Over-Ear Kopfhörer - 40 Std. Akku, ANC - Sandgrau",
+    "category": "Audio",
+    "price": 141.5,
+    "checkedAt": "2026-11-26T11:33:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FHM7WST5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T11:40:16.699Z"
+  },
+  {
     "id": "queue-b08198fynd",
     "asin": "B08198FYND",
     "title": "Topeak Mini PT30 Fahrrad-Multitool, 30 Funktionen",
