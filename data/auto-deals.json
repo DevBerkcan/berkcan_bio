@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0gtvwlf2t",
+    "asin": "B0GTVWLF2T",
+    "title": "Baseus 45W USB C Ladegerät 2-Pack+Kabel GaN Schnellladegerät PPS PD3.2 …",
+    "category": "Zubehör & Laden",
+    "price": 25.99,
+    "checkedAt": "2026-11-26T08:43:49.000Z",
+    "image": "https://static.mydealz.de/threads/raw/gB14a/2882186_1/re/768x768/qt/55/2882186_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T08:57:18.910Z"
+  },
+  {
+    "id": "auto-b0fwcnk8mw",
+    "asin": "B0FWCNK8MW",
+    "title": "MSI MAG 27CQ6F 27\" WQHD Curved Gaming-Monitor",
+    "category": "Computer",
+    "price": 149,
+    "checkedAt": "2026-11-26T08:48:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FWCNK8MW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T08:57:11.779Z"
+  },
+  {
+    "id": "auto-b0dj1vg6dw",
+    "asin": "B0DJ1VG6DW",
+    "title": "Playstation DualSense Wireless-Controller - Chroma Teal",
+    "category": "Gaming",
+    "price": 59.99,
+    "checkedAt": "2026-11-26T08:50:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJ1VG6DW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T08:57:06.517Z"
+  },
+  {
     "id": "auto-b06wwfwgnx",
     "asin": "B06WWFWGNX",
     "title": "Ravensburger Plitsch-Platsch Pinguin Kinderspiel",
@@ -2183,17 +2216,6 @@
     "telegramPostedAt": "2026-11-25T09:45:26.507Z"
   },
   {
-    "id": "auto-b0b5258mhc",
-    "asin": "B0B5258MHC",
-    "title": "Shark STYLE iQ HD102EU Ionen-Haartrockner & Styler",
-    "category": "Haushalt",
-    "price": 79.44,
-    "checkedAt": "2026-11-25T08:50:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B5258MHC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T09:30:43.025Z"
-  },
-  {
     "id": "auto-b0fxh6p178",
     "asin": "B0FXH6P178",
     "title": "Scheppach Bohrhammer DH 2260",
@@ -2258,51 +2280,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FH35WQQJ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T09:15:34.444Z"
-  },
-  {
-    "id": "auto-b0bfg8l2fx",
-    "asin": "B0BFG8L2FX",
-    "title": "Jack & Jones Herren Merino Strickpullover XL schwarz",
-    "category": "Tech",
-    "price": 20.79,
-    "checkedAt": "2026-11-25T08:44:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BFG8L2FX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T09:00:52.892Z"
-  },
-  {
-    "id": "auto-b000088e6r",
-    "asin": "B000088E6R",
-    "title": "\"Go, shawty, it's your birthday\" [Prime] 50 Cent: Get Rich Or Die …",
-    "category": "Tech",
-    "price": 22.52,
-    "checkedAt": "2026-11-25T08:49:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000088E6R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T09:00:47.737Z"
-  },
-  {
-    "id": "auto-b073xls8f3",
-    "asin": "B073XLS8F3",
-    "title": "NIGRIN Scheiben-Innenreiniger mit Teleskopgriff und 3 Mikrofaserpads",
-    "category": "Tech",
-    "price": 5.34,
-    "oldPrice": 13.39,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-25T08:48:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B073XLS8F3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T09:00:42.257Z"
-  },
-  {
-    "id": "auto-b0d428sd99",
-    "asin": "B0D428SD99",
-    "title": "Logitech Combo Touch Tastaturhülle QWERTY ESP",
-    "category": "Computer",
-    "price": 139.99,
-    "checkedAt": "2026-11-25T08:43:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D428SD99.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T08:46:04.126Z"
   }
 ]
