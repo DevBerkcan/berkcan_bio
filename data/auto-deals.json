@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0dsc47h9z",
+    "asin": "B0DSC47H9Z",
+    "title": "Garmin Instinct 3 Solar Schwarz 50 mm",
+    "category": "Tech",
+    "price": 250,
+    "checkedAt": "2026-11-26T14:33:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DSC47H9Z.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T14:37:44.702Z"
+  },
+  {
     "id": "auto-b0fdbgggpk",
     "asin": "B0FDBGGGPK",
     "title": "ASUS Laptop - 17,3 Zoll FHD Display - Intel Core 3 Prozessor 100U, 6 x …",
@@ -356,17 +367,6 @@
     "image": "https://m.media-amazon.com/images/P/B0FKHGHJMR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T11:25:18.579Z"
-  },
-  {
-    "id": "auto-b0fjr783rz",
-    "asin": "B0FJR783RZ",
-    "title": "30th Anniversary Edition: La Haine - Hass",
-    "category": "Bücher & Filme",
-    "price": 30.27,
-    "checkedAt": "2026-11-25T14:22:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJR783RZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T11:10:50.380Z"
   },
   {
     "id": "auto-b0hbwz9qj1",
@@ -2152,19 +2152,6 @@
     "telegramPostedAt": "2026-11-25T14:42:49.115Z"
   },
   {
-    "id": "auto-b09zry9yhb",
-    "asin": "B09ZRY9YHB",
-    "title": "TP-Link Deco XE75 Mesh-WLAN Wi-Fi 6E AXE5400 (3er-Set)",
-    "category": "Computer",
-    "price": 245.56,
-    "oldPrice": 296.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-25T14:36:20.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09ZRY9YHB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T14:42:43.363Z"
-  },
-  {
     "id": "auto-b0dzxrq2ry",
     "asin": "B0DZXRQ2RY",
     "title": "Razer Pro Click V2 Vertical ergonomische kabellose Maus",
@@ -2176,29 +2163,5 @@
     "image": "https://static.mydealz.de/threads/raw/tOqD8/2881583_1/re/768x768/qt/55/2881583_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T14:42:38.042Z"
-  },
-  {
-    "id": "auto-b0fs72cgpt",
-    "asin": "B0FS72CGPT",
-    "title": "Amazfit T-Rex 3 Pro 44 mm (Schwarz/Gold) Outdoor-Smartwatch",
-    "category": "Smartphone & Tablet",
-    "price": 215.99,
-    "oldPrice": 294.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-25T14:32:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FS72CGPT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T14:42:31.564Z"
-  },
-  {
-    "id": "auto-b094d541xw",
-    "asin": "B094D541XW",
-    "title": "Amazon Basics AA-Alkali-Hochleistungsbatterien",
-    "category": "Tech",
-    "price": 6.6,
-    "checkedAt": "2026-11-25T14:23:15.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Y6qeX/2881563_1/re/768x768/qt/55/2881563_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T14:27:42.939Z"
   }
 ]
