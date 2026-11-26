@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b0g1msqfwy",
+    "asin": "B0G1MSQFWY",
+    "title": "HP Smart Tank 6006 [Prime]",
+    "category": "Tech",
+    "price": 189.99,
+    "checkedAt": "2026-11-25T23:54:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G1MSQFWY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0c652c2rl",
     "asin": "B0C652C2RL",
     "title": "Black Panther - Wakanda forever (4K Ultra HD)",
@@ -2152,27 +2162,5 @@
     "image": "https://static.mydealz.de/threads/raw/O02j6/2881059_1/re/768x768/qt/55/2881059_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T06:48:08.390Z"
-  },
-  {
-    "id": "auto-b0fdkwfkjn",
-    "asin": "B0FDKWFKJN",
-    "title": "Borderlands 4",
-    "category": "Tech",
-    "price": 18.99,
-    "checkedAt": "2026-11-24T23:58:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FDKWFKJN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T06:03:04.565Z"
-  },
-  {
-    "id": "auto-b06wlqpmt7",
-    "asin": "B06WLQPMT7",
-    "title": "BOSCH TWK7S05 Wasserkocher, 1,7 L, 2200 W, schwarz/grau",
-    "category": "Küche",
-    "price": 44.99,
-    "checkedAt": "2026-11-25T00:05:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06WLQPMT7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T07:02:45.838Z"
   }
 ]
