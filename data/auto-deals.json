@@ -1,5 +1,75 @@
 [
   {
+    "id": "auto-b0cbnj4fpz",
+    "asin": "B0CBNJ4FPZ",
+    "title": "Jack & Jones Herren Jeans Jjiglenn Jjoriginal Sq 349 Noos",
+    "category": "Mode & Reise",
+    "price": 15.9,
+    "checkedAt": "2026-11-26T09:39:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CBNJ4FPZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T09:56:35.785Z"
+  },
+  {
+    "id": "auto-b002gkc0v4",
+    "asin": "B002GKC0V4",
+    "title": "Hultafors Holzaxt HY 10-1,5 SV, 840185",
+    "category": "Tech",
+    "price": 72.5,
+    "checkedAt": "2026-11-26T09:43:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B002GKC0V4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T09:56:30.792Z"
+  },
+  {
+    "id": "auto-b0gk96slmr",
+    "asin": "B0GK96SLMR",
+    "title": "HP Omnibook 3 17,3“ 16 GB RAM 512 GB SSD",
+    "category": "Computer",
+    "price": 699,
+    "checkedAt": "2026-11-26T09:49:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GK96SLMR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T09:56:25.817Z"
+  },
+  {
+    "id": "auto-b0fbsf3ycy",
+    "asin": "B0FBSF3YCY",
+    "title": "Amazon Retourenkauf Bosch Waschmaschine Serie 6 WUU28T71",
+    "category": "Haushalt",
+    "price": 417,
+    "checkedAt": "2026-11-26T09:51:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FBSF3YCY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T09:56:20.396Z"
+  },
+  {
+    "id": "auto-b09qqs92gp",
+    "asin": "B09QQS92GP",
+    "title": "Braun Silk-expert Pro 5 PL5157 IPL Haarentfernungsgerät",
+    "subtitle": "🔥 137° bei mydealz",
+    "category": "Tech",
+    "price": 279.99,
+    "checkedAt": "2026-11-26T09:46:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09QQS92GP.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 137,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T09:56:13.582Z"
+  },
+  {
+    "id": "auto-b0dw98nn53",
+    "asin": "B0DW98NN53",
+    "title": "TCL 43\" T6C 4K QLED Fernseher",
+    "category": "TV & Heimkino",
+    "price": 207,
+    "oldPrice": 304.98,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-26T09:52:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DW98NN53.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T09:56:08.356Z"
+  },
+  {
     "id": "auto-b0ckx6gcmb",
     "asin": "B0CKX6GCMB",
     "title": "Einhell Professional Akku-Schlagbohrschrauber TP-CD 18/80 Li-i BL-Solo",
@@ -2192,49 +2262,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FLHXLJPC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T10:15:11.151Z"
-  },
-  {
-    "id": "auto-b0h82t2n1v",
-    "asin": "B0H82T2N1V",
-    "title": "UGREEN Stomp 3 Bluetooth-Lautsprecher, 20 W, RGB-Licht, IP66, 20 Std. …",
-    "category": "Audio",
-    "price": 45.99,
-    "checkedAt": "2026-11-25T09:44:53.000Z",
-    "image": "https://static.mydealz.de/threads/raw/UWAaD/2881275_1/re/768x768/qt/55/2881275_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T10:00:19.325Z"
-  },
-  {
-    "id": "auto-b0hnl1fqwp",
-    "asin": "B0HNL1FQWP",
-    "title": "RollerCoaster Tycoon 3: Complete Edition - Nintendo Switch",
-    "category": "Gaming",
-    "price": 14.99,
-    "checkedAt": "2026-11-25T09:48:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HNL1FQWP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T10:00:13.779Z"
-  },
-  {
-    "id": "auto-b00i0nmwpk",
-    "asin": "B00I0NMWPK",
-    "title": "Mitutoyo 500-181-30 ABS AOS digitaler Messschieber CD-15APX, 0-150 mm",
-    "category": "Tech",
-    "price": 94.52,
-    "checkedAt": "2026-11-25T09:49:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00I0NMWPK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T10:00:08.452Z"
-  },
-  {
-    "id": "auto-b0frmnfx5f",
-    "asin": "B0FRMNFX5F",
-    "title": "Künstlicher Weihnachtsbaum (183 cm) mit Kunstschnee & 250 warmweißen …",
-    "category": "Tech",
-    "price": 72.19,
-    "checkedAt": "2026-11-25T09:55:03.000Z",
-    "image": "https://static.mydealz.de/threads/raw/j4mPE/2881284_1/re/768x768/qt/55/2881284_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T10:00:03.002Z"
   }
 ]
