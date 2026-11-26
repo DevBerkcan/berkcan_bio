@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0f9yxhxrh",
+    "asin": "B0F9YXHXRH",
+    "title": "ASUS TUF Gaming VG27AQL5A – 27\" WQHD Gaming-Monitor",
+    "category": "Computer",
+    "price": 149,
+    "checkedAt": "2026-11-26T07:44:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F9YXHXRH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:57:58.760Z"
+  },
+  {
+    "id": "auto-b0gjdsw5gg",
+    "asin": "B0GJDSW5GG",
+    "title": "Long Gone Days - Nintendo Switch",
+    "category": "Gaming",
+    "price": 22.99,
+    "checkedAt": "2026-11-26T07:49:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GJDSW5GG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:57:53.541Z"
+  },
+  {
+    "id": "auto-b07h3gfjj2",
+    "asin": "B07H3GFJJ2",
+    "title": "HyperX Pulsefire Core RGB Gaming-Maus",
+    "category": "Computer",
+    "price": 17.99,
+    "oldPrice": 23.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-26T07:55:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07H3GFJJ2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:57:48.501Z"
+  },
+  {
     "id": "auto-b0ggsbk9fm",
     "asin": "B0GGSBK9FM",
     "title": "LEGO Technic Batman Tumbler mit Gutschein an der Kassa",
@@ -2234,52 +2269,5 @@
     "image": "https://static.mydealz.de/threads/raw/GyMd1/2881191_1/re/768x768/qt/55/2881191_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T08:16:38.538Z"
-  },
-  {
-    "id": "auto-b0bs3tz1b1",
-    "asin": "B0BS3TZ1B1",
-    "title": "LISEN 2er-Pack USB-C Kfz-Ladegerät mit 54W",
-    "category": "Zubehör & Laden",
-    "price": 6.77,
-    "checkedAt": "2026-11-25T07:53:55.000Z",
-    "image": "https://static.mydealz.de/threads/raw/0Oi4s/2881181_1/re/768x768/qt/55/2881181_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T08:01:56.940Z"
-  },
-  {
-    "id": "queue-b0gpwc88vv",
-    "asin": "B0GPWC88VV",
-    "title": "Brennenstuhl CEE Camping-Verlängerungskabel 5 m mit LED",
-    "subtitle": "CEE-Verlängerung vom Markenhersteller mit Status-LED – praktisch für Camping und Caravan.",
-    "category": "Sport & Outdoor",
-    "price": 30.39,
-    "checkedAt": "2026-11-25T07:50:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GPWC88VV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T08:01:42.279Z"
-  },
-  {
-    "id": "queue-b0h39l4b21",
-    "asin": "B0H39L4B21",
-    "title": "Einhell Steckschlüssel- und Ratschen-Set, 181-teilig",
-    "subtitle": "Umfangreiches 181-teiliges Set mit Ratschen für verschiedenste Schraubarbeiten.",
-    "category": "Werkzeug",
-    "price": 80.73,
-    "checkedAt": "2026-11-25T07:51:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H39L4B21.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T08:01:37.800Z"
-  },
-  {
-    "id": "queue-b0dyjqkj34",
-    "asin": "B0DYJQKJ34",
-    "title": "Sigma 16-300mm F3.5-6.7 DC OS Contemporary (Canon RF)",
-    "subtitle": "Superzoom-Allrounder mit Bildstabilisator für Canon RF APS-C – kein Objektivwechsel nötig.",
-    "category": "Foto & Video",
-    "price": 499.99,
-    "checkedAt": "2026-11-25T07:48:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DYJQKJ34.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T08:01:33.287Z"
   }
 ]
