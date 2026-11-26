@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0h99bd77p",
+    "asin": "B0H99BD77P",
+    "title": "Würfeldrachen Haba Kinderspiel Brettspiel Gesellschaftsspiel",
+    "category": "Spielzeug & LEGO",
+    "price": 12.85,
+    "checkedAt": "2026-11-26T15:35:35.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H99BD77P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T16:06:21.219Z"
+  },
+  {
     "id": "auto-b0c4y17rqs",
     "asin": "B0C4Y17RQS",
     "title": "Yaheetech Sattelhocker Braun mit Höhenverstellbaren 5 Rollen",
@@ -1815,17 +1826,6 @@
     "telegramPostedAt": "2026-11-25T19:57:02.379Z"
   },
   {
-    "id": "auto-b0h5ccx3cm",
-    "asin": "B0H5CCX3CM",
-    "title": "Pokémon-Sammelkartenspiel: Illustrations-Kollektion Erste Partner: …",
-    "category": "Spielzeug & LEGO",
-    "price": 17.99,
-    "checkedAt": "2026-11-25T15:52:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H5CCX3CM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T19:58:00.579Z"
-  },
-  {
     "id": "auto-b0fr9j4r9n",
     "asin": "B0FR9J4R9N",
     "title": "LEGO Disney Princess Pua 43292 Spielzeug ab 9 Jahren, Mädchen & …",
@@ -2083,30 +2083,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FPXJ7MGT.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T19:40:51.039Z"
-  },
-  {
-    "id": "queue-b081kcpvwv",
-    "asin": "B081KCPVWV",
-    "title": "Bosch Professional Innensechskant-Set HEX 9-tlg.",
-    "subtitle": "9 Schlüssel von 1,5–10 mm aus S2-Stahl mit Kugelkopf.",
-    "category": "Werkzeug",
-    "price": 11.99,
-    "checkedAt": "2026-11-25T15:59:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B081KCPVWV.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 207,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T19:40:30.750Z"
-  },
-  {
-    "id": "queue-b0d7q5hmhp",
-    "asin": "B0D7Q5HMHP",
-    "title": "Gigabyte MO34WQC2 34\" OLED Curved Monitor 240 Hz",
-    "subtitle": "34-Zoll-OLED mit 3440x1440, 240 Hz, 0,03 ms, HDMI 2.1 und KVM-Switch.",
-    "category": "Computer",
-    "price": 599,
-    "checkedAt": "2026-11-25T15:53:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D7Q5HMHP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T19:40:26.141Z"
   }
 ]
