@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b00o8tyf32",
+    "asin": "B00O8TYF32",
+    "title": "Somfy 1870848 - Funk-Temperatursensor",
+    "category": "Tech",
+    "price": 98.99,
+    "checkedAt": "2026-11-26T08:19:56.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00O8TYF32.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T08:27:23.762Z"
+  },
+  {
     "id": "auto-b0gprrm7g3",
     "asin": "B0GPRRM7G3",
     "title": "Tefal Ingenio Excellence Fusion Kasserolle 16 cm",
@@ -2249,16 +2260,5 @@
     "image": "https://m.media-amazon.com/images/P/B0D428SD99.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T08:46:04.126Z"
-  },
-  {
-    "id": "auto-b08jm8cng3",
-    "asin": "B08JM8CNG3",
-    "title": "Jack & Jones Jeans (Alle Größen!) 98% Baumwolle Regular Fit Hose Clark …",
-    "category": "Mode & Reise",
-    "price": 31.49,
-    "checkedAt": "2026-11-25T08:15:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08JM8CNG3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T08:31:20.094Z"
   }
 ]
