@@ -2085,17 +2085,6 @@
     "telegramPostedAt": "2026-11-25T19:57:02.379Z"
   },
   {
-    "id": "auto-b0dhs9jvgj",
-    "asin": "B0DHS9JVGJ",
-    "title": "LEGO Speed Champions Visa Cash App RB VCARB 01 F1 Rennauto 77246",
-    "category": "Spielzeug & LEGO",
-    "price": 15.1,
-    "checkedAt": "2026-11-25T19:07:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHS9JVGJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T19:41:26.041Z"
-  },
-  {
     "id": "auto-b0fcmrqwd1",
     "asin": "B0FCMRQWD1",
     "title": "PHILIPS Multigroom Series 5000 All-in-One 10-teiliger Barttrimmer & …",
@@ -2140,31 +2129,5 @@
     "temperature": 101,
     "source": "auto",
     "telegramPostedAt": "2026-11-25T19:41:04.157Z"
-  },
-  {
-    "id": "auto-b0dwdr21cf",
-    "asin": "B0DWDR21CF",
-    "title": "LEGO ONE PIECE – Das schwimmende Restaurant Baratié (75640), 3.402 …",
-    "category": "Spielzeug & LEGO",
-    "price": 190.99,
-    "oldPrice": 299.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-25T19:04:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWDR21CF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T19:40:57.422Z"
-  },
-  {
-    "id": "auto-b0fpxj7mgt",
-    "asin": "B0FPXJ7MGT",
-    "title": "LEGO Paris – Stadt der Liebe (21064)",
-    "category": "Spielzeug & LEGO",
-    "price": 47.49,
-    "oldPrice": 79.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-25T19:07:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXJ7MGT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T19:40:51.039Z"
   }
 ]
