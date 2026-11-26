@@ -1,5 +1,55 @@
 [
   {
+    "id": "auto-b0cg6nr413",
+    "asin": "B0CG6NR413",
+    "title": "Garmin vivoactive 5",
+    "category": "Tech",
+    "price": 149,
+    "checkedAt": "2026-11-26T04:52:32.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CG6NR413.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dwg1jxnj",
+    "asin": "B0DWG1JXNJ",
+    "title": "Lenovo Legion Pro 34WD-10",
+    "category": "Tech",
+    "price": 599.9,
+    "checkedAt": "2026-11-26T04:52:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DWG1JXNJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h5x6yhxj",
+    "asin": "B0H5X6YHXJ",
+    "title": "Microsoft Surface Pro 12\"",
+    "category": "Tech",
+    "price": 649,
+    "checkedAt": "2026-11-26T04:54:52.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H5X6YHXJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0bsgt4cyh",
+    "asin": "B0BSGT4CYH",
+    "title": "ASUS ROG Azoth kabellose mechanische Gaming-Tastatur",
+    "category": "Computer",
+    "price": 149.9,
+    "checkedAt": "2026-11-26T04:55:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BSGT4CYH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0hksc4ghz",
+    "asin": "B0HKSC4GHZ",
+    "title": "Sonic Frontiers Open World Abenteuer für Nintendo Switch Code Box",
+    "category": "Gaming",
+    "price": 16.99,
+    "checkedAt": "2026-11-26T04:56:07.000Z",
+    "image": "https://static.mydealz.de/threads/raw/XMr9u/2882056_1/re/768x768/qt/55/2882056_1.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b07pgxbrls",
     "asin": "B07PGXBRLS",
     "title": "Die nackte Kanone",
@@ -2226,26 +2276,5 @@
     "image": "https://m.media-amazon.com/images/P/B07BQHYRZJ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T06:18:12.982Z"
-  },
-  {
-    "id": "auto-b0cn3tm59n",
-    "asin": "B0CN3TM59N",
-    "title": "Columbia Woodburn II Waterproof, wasserdichte Trekking- und …",
-    "category": "Tech",
-    "price": 60,
-    "checkedAt": "2026-11-25T04:56:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CN3TM59N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T06:32:55.140Z"
-  },
-  {
-    "id": "auto-b08gdc99px",
-    "asin": "B08GDC99PX",
-    "title": "Tapo L530E Alexa Lamp E27, Energy Saving, Multi-Colour Dimmable Smart …",
-    "category": "Smart Home",
-    "price": 6.05,
-    "checkedAt": "2026-11-25T04:57:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08GDC99PX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
