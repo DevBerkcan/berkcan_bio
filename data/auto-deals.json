@@ -1,5 +1,77 @@
 [
   {
+    "id": "auto-b017k62x2o",
+    "asin": "B017K62X2O",
+    "title": "ghd perfect ending Final Fix Haarspray 400 ml",
+    "category": "Tech",
+    "price": 7.45,
+    "checkedAt": "2026-11-26T22:08:27.000Z",
+    "image": "https://m.media-amazon.com/images/P/B017K62X2O.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:16:38.328Z"
+  },
+  {
+    "id": "auto-b0fqcjk6m1",
+    "asin": "B0FQCJK6M1",
+    "title": "Baseus EH10 NC Over-Ear ANC-Kopfhörer, Weiß oder Rosa",
+    "category": "Audio",
+    "price": 19.99,
+    "checkedAt": "2026-11-26T22:13:04.000Z",
+    "image": "https://static.mydealz.de/threads/raw/8tDAp/2882957_1/re/768x768/qt/55/2882957_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:16:33.150Z"
+  },
+  {
+    "id": "auto-b075fbd7cm",
+    "asin": "B075FBD7CM",
+    "title": "Moroccanoil Perfect Defense Hitzeschutzspray 225 ml",
+    "category": "Tech",
+    "price": 12.8,
+    "checkedAt": "2026-11-26T22:14:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B075FBD7CM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:16:27.239Z"
+  },
+  {
+    "id": "auto-b0d98ktx3q",
+    "asin": "B0D98KTX3Q",
+    "title": "Braun ThermoScan 7+ Connect Ohrthermometer (IRT6575) mit Age Precision …",
+    "subtitle": "🔥 100° bei mydealz",
+    "category": "Tech",
+    "price": 45.49,
+    "checkedAt": "2026-11-26T22:02:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D98KTX3Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 100,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:16:21.631Z"
+  },
+  {
+    "id": "auto-b0gznxftqc",
+    "asin": "B0GZNXFTQC",
+    "title": "Philips Sonicare DiamondClean 8000 - HX8312/11 Weiß und HX8312/14 …",
+    "subtitle": "🔥 112° bei mydealz",
+    "category": "Beauty & Pflege",
+    "price": 199.99,
+    "checkedAt": "2026-11-26T22:01:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GZNXFTQC.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 112,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:16:16.383Z"
+  },
+  {
+    "id": "auto-b0fjy32xf6",
+    "asin": "B0FJY32XF6",
+    "title": "Battlefield 6 Phantom Edition",
+    "subtitle": "🔥 311° bei mydealz",
+    "category": "Tech",
+    "price": 22.06,
+    "checkedAt": "2026-11-26T22:12:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FJY32XF6.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 311,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:16:11.222Z"
+  },
+  {
     "id": "auto-b0fhhv7btg",
     "asin": "B0FHHV7BTG",
     "title": "Logitech MX Master 4 for Mac, ergonomische Bluetooth-Maus",
@@ -1136,18 +1208,6 @@
     "telegramPostedAt": "2026-11-26T11:40:16.699Z"
   },
   {
-    "id": "queue-b08198fynd",
-    "asin": "B08198FYND",
-    "title": "Topeak Mini PT30 Fahrrad-Multitool, 30 Funktionen",
-    "subtitle": "30 Funktionen inkl. Tubeless-Tools im geschmiedeten Aluminiumkörper.",
-    "category": "Sport & Outdoor",
-    "price": 27.49,
-    "checkedAt": "2026-11-25T22:03:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08198FYND.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T11:25:23.175Z"
-  },
-  {
     "id": "queue-b0fkhghjmr",
     "asin": "B0FKHGHJMR",
     "title": "Belkin UltraCharge 3-in-1 Qi2.2 Ladestation 25W",
@@ -2008,17 +2068,6 @@
     "telegramPostedAt": "2026-11-25T23:25:22.272Z"
   },
   {
-    "id": "auto-b0dhsdlw37",
-    "asin": "B0DHSDLW37",
-    "title": "LEGO Creator 3in1 Plattenspieler mit Blumen 31172",
-    "category": "Audio",
-    "price": 25.49,
-    "checkedAt": "2026-11-25T22:08:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DHSDLW37.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T23:10:38.852Z"
-  },
-  {
     "id": "auto-b01n0ng4x4",
     "asin": "B01N0NG4X4",
     "title": "INTEX Single-High Luftbett 2 Personen 137×191×25cm Luftmatratze max …",
@@ -2098,28 +2147,6 @@
     "telegramPostedAt": "2026-11-25T22:40:53.914Z"
   },
   {
-    "id": "auto-b0gxf9mtfb",
-    "asin": "B0GXF9MTFB",
-    "title": "Baseus Enerfill 100W USB C Ladegerät +Kabel GaN PD 3.0 QC 5.0 PPS …",
-    "category": "Zubehör & Laden",
-    "price": 27.54,
-    "checkedAt": "2026-11-25T22:13:38.000Z",
-    "image": "https://static.mydealz.de/threads/raw/sybE9/2881953_1/re/768x768/qt/55/2881953_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T22:26:18.861Z"
-  },
-  {
-    "id": "auto-b01n2ok2uh",
-    "asin": "B01N2OK2UH",
-    "title": "Protein Works | Vegan Protein 360 - Gold, Vanillecreme, 1kg 100 % …",
-    "category": "Beauty & Pflege",
-    "price": 11.83,
-    "checkedAt": "2026-11-25T22:14:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01N2OK2UH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T22:26:13.129Z"
-  },
-  {
     "id": "auto-b0c3wf8wxz",
     "asin": "B0C3WF8WXZ",
     "title": "adidas Run 50s Sneaker bis Gr 47",
@@ -2140,27 +2167,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GF2NZBQ8.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T22:26:02.821Z"
-  },
-  {
-    "id": "auto-b086n38t94",
-    "asin": "B086N38T94",
-    "title": "BESSEY 2x Mini-Einhandzwingen EZS11-4SET",
-    "category": "Tech",
-    "price": 12.4,
-    "checkedAt": "2026-11-25T22:01:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B086N38T94.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T22:11:24.588Z"
-  },
-  {
-    "id": "auto-b0d14vqkzw",
-    "asin": "B0D14VQKZW",
-    "title": "Prophete Geniesser 4.0 City E-Bike 28 Zoll",
-    "category": "Sport & Outdoor",
-    "price": 1299,
-    "checkedAt": "2026-11-25T22:06:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D14VQKZW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T22:11:18.413Z"
   }
 ]
