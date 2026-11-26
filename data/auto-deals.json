@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b016nagoyg",
+    "asin": "B016NAGOYG",
+    "title": "Twinzee Premium Schnittschutzhandschuhe – Stufe E (EN 388), für Küche …",
+    "category": "Mode & Reise",
+    "price": 7.99,
+    "checkedAt": "2026-11-26T15:13:40.000Z",
+    "image": "https://static.mydealz.de/threads/raw/GaPWZ/2882557_1/re/768x768/qt/55/2882557_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T15:22:08.270Z"
+  },
+  {
+    "id": "auto-b09qfdjlvd",
+    "asin": "B09QFDJLVD",
+    "title": "Der Pate Trilogie - Remastered [4 Blu-rays]",
+    "category": "Bücher & Filme",
+    "price": 30.07,
+    "checkedAt": "2026-11-26T15:17:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09QFDJLVD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T15:22:01.325Z"
+  },
+  {
     "id": "auto-b0hcq1mvrj",
     "asin": "B0HCQ1MVRJ",
     "title": "Special Rommé Steampunk – ASS Altenburger –Amzon Prime / Abholung bei …",
@@ -2100,17 +2122,6 @@
     "telegramPostedAt": "2026-11-25T15:42:14.040Z"
   },
   {
-    "id": "auto-b0dj71kzxf",
-    "asin": "B0DJ71KZXF",
-    "title": "Cosori Airfryer, Hot Air Fryer 2 Chambers, 1750 W low-watt tech, NTC …",
-    "category": "Küche",
-    "price": 99.98,
-    "checkedAt": "2026-11-25T15:20:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJ71KZXF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T15:27:36.601Z"
-  },
-  {
     "id": "auto-b0db65cdvy",
     "asin": "B0DB65CDVY",
     "title": "uvex i-vo cc Gen. 2 MIPS Fahrradhelm",
@@ -2122,18 +2133,5 @@
     "temperature": 100,
     "source": "auto",
     "telegramPostedAt": "2026-11-25T15:27:31.286Z"
-  },
-  {
-    "id": "auto-b0ckxszp3z",
-    "asin": "B0CKXSZP3Z",
-    "title": "adidas Unisex Kinder Runfalcon 5 Kids Shoes, Core Black/Core …",
-    "category": "Tech",
-    "price": 17.94,
-    "oldPrice": 40,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-25T15:09:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CKXSZP3Z.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T15:12:35.908Z"
   }
 ]
