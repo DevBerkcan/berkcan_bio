@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "asin": "B0G1MSQFWY",
+    "title": "HP Smart Tank 6006 Multifunktionsdrucker",
+    "price": 189.99,
+    "note": "Tintentank-Drucker mit günstigen Seitenkosten, bis zu 3 Jahre Tinte im Lieferumfang.",
+    "category": "Computer",
+    "image": "https://static.mydealz.de/threads/raw/SK1hU/2882003_1/re/768x768/qt/55/2882003_1.jpg",
+    "addedAt": "2026-11-25T23:54:44.000Z"
+  },
+  {
+    "asin": "B07RQKX6BS",
+    "title": "Gigaset AS690 Schnurloses DECT-Telefon Weiß",
+    "price": 26,
+    "note": "Kontrastreiches Display mit Jumbo-Modus und Freisprechfunktion.",
+    "category": "Tech",
+    "image": "https://static.mydealz.de/threads/raw/vR2TC/2882058_1/re/768x768/qt/55/2882058_1.jpg",
+    "addedAt": "2026-11-26T05:08:11.000Z"
+  }
+]

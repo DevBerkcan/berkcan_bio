@@ -1,5 +1,52 @@
 [
   {
+    "id": "auto-b001c9zro2",
+    "asin": "B001C9ZRO2",
+    "title": "Hazet Wasserpumpenzange/Universalzange 310mm",
+    "category": "Werkzeug",
+    "price": 57.53,
+    "checkedAt": "2026-11-26T07:12:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B001C9ZRO2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:13:16.606Z"
+  },
+  {
+    "id": "queue-b0drxrh9dq",
+    "asin": "B0DRXRH9DQ",
+    "title": "Fanttik F2 PRO Akku-Multitool mit 55 Zubehörteilen",
+    "subtitle": "3.000 mAh Akku, 25.000 U/min – auch für 3D-Druck-Nachbearbeitung geeignet.",
+    "category": "Werkzeug",
+    "price": 67.99,
+    "checkedAt": "2026-11-25T23:07:02.000Z",
+    "image": "https://static.mydealz.de/threads/raw/IhVBK/2881986_1/re/768x768/qt/55/2881986_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:13:00.052Z"
+  },
+  {
+    "id": "queue-b0gmkj31qc",
+    "asin": "B0GMKJ31QC",
+    "title": "Amazon Echo Dot (neueste Generation) mit Smart-Home-Hub",
+    "subtitle": "Kompakter Alexa-Lautsprecher mit raumfüllendem Klang und integriertem Smart-Home-Hub.",
+    "category": "Amazon-Geräte",
+    "price": 54.99,
+    "checkedAt": "2026-11-25T23:23:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GMKJ31QC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:12:54.712Z"
+  },
+  {
+    "id": "queue-b0gx1vgys2",
+    "asin": "B0GX1VGYS2",
+    "title": "SteelSeries Arctis Nova Pro Wireless Headset Weiß",
+    "subtitle": "Gaming-Headset mit aktiver Geräuschunterdrückung, verbindet zwei Systeme gleichzeitig.",
+    "category": "Gaming",
+    "price": 229.99,
+    "checkedAt": "2026-11-25T21:11:09.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GX1VGYS2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:12:50.314Z"
+  },
+  {
     "id": "auto-b0cv4jw8xm",
     "asin": "B0CV4JW8XM",
     "title": "Stellar Blade PS5",
@@ -293,7 +340,8 @@
     "price": 189.99,
     "checkedAt": "2026-11-25T23:54:44.000Z",
     "image": "https://m.media-amazon.com/images/P/B0G1MSQFWY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:13:20.820Z"
   },
   {
     "id": "auto-b0c652c2rl",
@@ -2174,28 +2222,6 @@
     "telegramPostedAt": "2026-11-25T07:47:11.104Z"
   },
   {
-    "id": "auto-b07sjhtwcy",
-    "asin": "B07SJHTWCY",
-    "title": "HP Color Laser MFP 178nwg Multifunktions-Farblaserdrucker",
-    "category": "Computer",
-    "price": 219.99,
-    "checkedAt": "2026-11-25T07:05:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07SJHTWCY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T07:17:52.175Z"
-  },
-  {
-    "id": "auto-b000jlawia",
-    "asin": "B000JLAWIA",
-    "title": "MUGLER A*Men Eau de Toilette 100ml",
-    "category": "Beauty & Pflege",
-    "price": 37.48,
-    "checkedAt": "2026-11-25T07:07:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000JLAWIA.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T07:17:47.047Z"
-  },
-  {
     "id": "auto-b0cy6839mh",
     "asin": "B0CY6839MH",
     "title": "HP Color LaserJet Pro MFP 3302sdwg Multifunktionsfarblaserdrucker",
@@ -2205,16 +2231,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CY6839MH.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T07:17:40.968Z"
-  },
-  {
-    "id": "auto-b09p647hjp",
-    "asin": "B09P647HJP",
-    "title": "UGREEN USB C Ladegerät 65W 3-Port kompaktes Netzteil Charger …",
-    "category": "Zubehör & Laden",
-    "price": 15.15,
-    "checkedAt": "2026-11-25T07:01:00.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Tv4t4/2881136_1/re/768x768/qt/55/2881136_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T07:02:51.796Z"
   }
 ]
