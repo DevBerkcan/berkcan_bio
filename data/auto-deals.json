@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0f8sgry6x",
+    "asin": "B0F8SGRY6X",
+    "title": "Razer BlackShark V3 Pro für PlayStation – Kabelloses E-Sport-Headset …",
+    "category": "Gaming",
+    "price": 140.53,
+    "checkedAt": "2026-11-26T21:04:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F8SGRY6X.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T21:17:13.423Z"
+  },
+  {
     "id": "auto-b09tpfth6j",
     "asin": "B09TPFTH6J",
     "title": "BRIO World Gebirgs-Frachten Set Deluxe",
@@ -1560,18 +1571,6 @@
     "telegramPostedAt": "2026-11-26T07:12:54.712Z"
   },
   {
-    "id": "queue-b0gx1vgys2",
-    "asin": "B0GX1VGYS2",
-    "title": "SteelSeries Arctis Nova Pro Wireless Headset Weiß",
-    "subtitle": "Gaming-Headset mit aktiver Geräuschunterdrückung, verbindet zwei Systeme gleichzeitig.",
-    "category": "Gaming",
-    "price": 229.99,
-    "checkedAt": "2026-11-25T21:11:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GX1VGYS2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T07:12:50.314Z"
-  },
-  {
     "id": "auto-b0cv4jw8xm",
     "asin": "B0CV4JW8XM",
     "title": "Stellar Blade PS5",
@@ -2142,28 +2141,6 @@
     "telegramPostedAt": "2026-11-25T21:41:51.472Z"
   },
   {
-    "id": "auto-b0clw8fcc8",
-    "asin": "B0CLW8FCC8",
-    "title": "Columbia Herren Fairbanks Omni-Heat Winterstiefel",
-    "category": "Tech",
-    "price": 91,
-    "checkedAt": "2026-11-25T21:13:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CLW8FCC8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T21:27:06.981Z"
-  },
-  {
-    "id": "auto-b0cw9z9lnp",
-    "asin": "B0CW9Z9LNP",
-    "title": "Rockstar Energy Drink Zero Sugar Strawberry Lime, 12x500ml – …",
-    "category": "Lebensmittel & Drinks",
-    "price": 9,
-    "checkedAt": "2026-11-25T21:15:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CW9Z9LNP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T21:26:57.406Z"
-  },
-  {
     "id": "auto-b09cmgnglv",
     "asin": "B09CMGNGLV",
     "title": "ASUS TUF Gaming B850M-PLUS II Mainboard",
@@ -2173,38 +2150,5 @@
     "image": "https://m.media-amazon.com/images/P/B09CMGNGLV.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T21:26:50.796Z"
-  },
-  {
-    "id": "auto-b0d4548yvz",
-    "asin": "B0D4548YVZ",
-    "title": "CHERRY XTRFY M64 Wireless, Ultraleichte Kabellose Gaming-Maus, 2,4 …",
-    "category": "Computer",
-    "price": 16.57,
-    "checkedAt": "2026-11-25T21:03:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D4548YVZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T21:12:10.956Z"
-  },
-  {
-    "id": "auto-b0h29xjpfp",
-    "asin": "B0H29XJPFP",
-    "title": "GIGABYTE G27Q3 | 27\" SS-IPS, WQHD 320Hz, FreeSync Premium, 98% DCI-P3",
-    "category": "Tech",
-    "price": 175.9,
-    "checkedAt": "2026-11-25T21:05:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H29XJPFP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T21:12:05.252Z"
-  },
-  {
-    "id": "auto-b09l5bg1rf",
-    "asin": "B09L5BG1RF",
-    "title": "Prime: Echo Dot Kids (Version 2022) |",
-    "category": "Amazon-Geräte",
-    "price": 34.99,
-    "checkedAt": "2026-11-25T21:07:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09L5BG1RF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T21:11:59.266Z"
   }
 ]
