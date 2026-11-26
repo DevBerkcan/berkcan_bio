@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b09q5s7hd5",
+    "asin": "B09Q5S7HD5",
+    "title": "Substral Naturen Bio Grundstoff Urtica 2,5L Brennnessel Spray 2,5 …",
+    "category": "Tech",
+    "price": 5.97,
+    "checkedAt": "2026-11-26T12:19:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09Q5S7HD5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T12:24:42.031Z"
+  },
+  {
     "id": "auto-b00nabtgy2",
     "asin": "B00NABTGY2",
     "title": "Amazon Basics Hundekotbeutel 900 Stück",
@@ -2263,51 +2274,5 @@
     "temperature": 243,
     "source": "auto",
     "telegramPostedAt": "2026-11-25T12:58:15.677Z"
-  },
-  {
-    "id": "auto-b0b3218rwf",
-    "asin": "B0B3218RWF",
-    "title": "JACK & JONES Herren Jjethan Tee Crew Neck T-Shirts 3er-Pack, 100 % …",
-    "category": "Lebensmittel & Drinks",
-    "price": 17.52,
-    "checkedAt": "2026-11-25T12:17:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B3218RWF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T12:28:58.675Z"
-  },
-  {
-    "id": "auto-b0ftzdrsl9",
-    "asin": "B0FTZDRSL9",
-    "title": "Corsair Vanguard 96 Tastatur",
-    "category": "Computer",
-    "price": 129.99,
-    "checkedAt": "2026-11-25T12:18:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FTZDRSL9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T12:28:52.805Z"
-  },
-  {
-    "id": "auto-b06xpj5432",
-    "asin": "B06XPJ5432",
-    "title": "Corsini Caffe Super Cremoso Espresso 1 kg Bohnen Kaffeebohnen ganz",
-    "category": "Küche",
-    "price": 12,
-    "checkedAt": "2026-11-25T12:20:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06XPJ5432.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T12:28:46.843Z"
-  },
-  {
-    "id": "auto-b0dxv9ttrz",
-    "asin": "B0DXV9TTRZ",
-    "title": "UGREEN 5 Port Gigabit Web Managed Switch Gigabit LAN Switch",
-    "subtitle": "🔥 106° bei mydealz",
-    "category": "Tech",
-    "price": 11.38,
-    "checkedAt": "2026-11-25T12:15:44.000Z",
-    "image": "https://static.mydealz.de/threads/raw/QeI3z/2875795_1/re/768x768/qt/55/2875795_1.jpg",
-    "temperature": 106,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T12:28:41.380Z"
   }
 ]
