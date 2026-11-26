@@ -7,7 +7,8 @@
     "price": 29.52,
     "checkedAt": "2026-11-26T05:52:03.000Z",
     "image": "https://m.media-amazon.com/images/P/B07C83SPCP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T06:13:54.108Z"
   },
   {
     "id": "auto-b0fgdnzzbt",
@@ -2235,16 +2236,5 @@
     "image": "https://m.media-amazon.com/images/P/B07NP3CS11.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T06:47:59.143Z"
-  },
-  {
-    "id": "auto-b0bfjn2xtd",
-    "asin": "B0BFJN2XTD",
-    "title": "JACK & JONES Male Jeans 100% Baumwolle lässiger Schnitt Blue Denim …",
-    "category": "Mode & Reise",
-    "price": 23.95,
-    "checkedAt": "2026-11-25T06:12:08.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BFJN2XTD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T06:17:55.822Z"
   }
 ]
