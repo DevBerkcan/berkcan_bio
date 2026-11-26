@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b01n5vhlug",
+    "asin": "B01N5VHLUG",
+    "title": "Philips Fidelio X2 Over Ear High Resolution Wired Headphones, Acoustic …",
+    "category": "Audio",
+    "price": 89.99,
+    "checkedAt": "2026-11-26T10:32:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01N5VHLUG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T10:41:09.341Z"
+  },
+  {
+    "id": "auto-b084gqbblr",
+    "asin": "B084GQBBLR",
+    "title": "Einhell Akku-Rasenmäher GE-cm 36/36 Li Kit",
+    "category": "Werkzeug",
+    "price": 202.99,
+    "checkedAt": "2026-11-26T10:33:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B084GQBBLR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T10:41:04.262Z"
+  },
+  {
+    "id": "auto-b08xv4d43k",
+    "asin": "B08XV4D43K",
+    "title": "Wera 05008873001 Kraftform Kompakt Stubby 1 Schraubendreher mit Bit …",
+    "subtitle": "🔥 506° bei mydealz",
+    "category": "Werkzeug",
+    "price": 14.39,
+    "checkedAt": "2026-11-26T10:27:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08XV4D43K.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 506,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T10:40:58.891Z"
+  },
+  {
     "id": "auto-b0cmpjgdf1",
     "asin": "B0CMPJGDF1",
     "title": "Amazon Prime: 12 oder 25 Xmas Glückskekse Lebkuchengeschmack",
@@ -2242,16 +2277,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DD41WWXD.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T10:59:48.155Z"
-  },
-  {
-    "id": "auto-b09t8p9lkq",
-    "asin": "B09T8P9LKQ",
-    "title": "UGREEN M.2 SSD Gehäuse USB 3.2 Gen 2, 10 Gbps, für NVMe und SATA, …",
-    "category": "Computer",
-    "price": 17.09,
-    "checkedAt": "2026-11-25T10:26:46.000Z",
-    "image": "https://static.mydealz.de/threads/raw/vcLJ7/2881317_1/re/768x768/qt/55/2881317_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T10:30:11.069Z"
   }
 ]
