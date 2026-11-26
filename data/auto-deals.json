@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b01azeok0q",
+    "asin": "B01AZEOK0Q",
+    "title": "Einhell Akku-Rasenmäher GE-CM 43 Li M Kit inkl. 2x 4.0Ah Akkus + 2x …",
+    "category": "Werkzeug",
+    "price": 245.99,
+    "checkedAt": "2026-11-26T09:07:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01AZEOK0Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T09:11:57.034Z"
+  },
+  {
     "id": "auto-b0gtvwlf2t",
     "asin": "B0GTVWLF2T",
     "title": "Baseus 45W USB C Ladegerät 2-Pack+Kabel GaN Schnellladegerät PPS PD3.2 …",
@@ -2236,49 +2247,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CN1K1ZMP.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T09:30:29.844Z"
-  },
-  {
-    "id": "auto-b0chxsw6z3",
-    "asin": "B0CHXSW6Z3",
-    "title": "YouShow Boxershorts Herren 6/12er Pack Baumwolle Unterhosen Männer …",
-    "category": "Tech",
-    "price": 13.51,
-    "checkedAt": "2026-11-25T09:00:09.000Z",
-    "image": "https://static.mydealz.de/threads/raw/OAG4K/2881232_1/re/768x768/qt/55/2881232_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T09:15:51.026Z"
-  },
-  {
-    "id": "auto-b0b1cchdb7",
-    "asin": "B0B1CCHDB7",
-    "title": "6 Stück Standard Oclean Bürstenköpfe",
-    "category": "Tech",
-    "price": 14.01,
-    "checkedAt": "2026-11-25T09:02:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B1CCHDB7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T09:15:44.954Z"
-  },
-  {
-    "id": "auto-b0gr9jwh4t",
-    "asin": "B0GR9JWH4T",
-    "title": "TCL 55T8D 55\" QD-Mini-LED 4K Fernseher",
-    "category": "TV & Heimkino",
-    "price": 499,
-    "checkedAt": "2026-11-25T09:02:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GR9JWH4T.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T09:15:39.654Z"
-  },
-  {
-    "id": "auto-b0fh35wqqj",
-    "asin": "B0FH35WQQJ",
-    "title": "Jack & Jones Regular Fit Chino Hose 97% Baumwolle normaler Schnitt …",
-    "category": "Tech",
-    "price": 18.95,
-    "checkedAt": "2026-11-25T09:07:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FH35WQQJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T09:15:34.444Z"
   }
 ]
