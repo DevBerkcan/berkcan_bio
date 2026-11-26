@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b0fgdnzzbt",
+    "asin": "B0FGDNZZBT",
+    "title": "Victorinox Swiss Classic faltbares Messer",
+    "category": "Küche",
+    "price": 13.48,
+    "checkedAt": "2026-11-26T05:42:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FGDNZZBT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0dktx32tr",
     "asin": "B0DKTX32TR",
     "title": "L'Oréal Men Expert Hyaluron Duschgel & Shampoo für Männer mit …",
@@ -2226,27 +2236,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BFJN2XTD.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T06:17:55.822Z"
-  },
-  {
-    "id": "auto-b01mctxcq4",
-    "asin": "B01MCTXCQ4",
-    "title": "Kids (1995) - Blu-ray - IMDb 7,0",
-    "category": "Bücher & Filme",
-    "price": 10.4,
-    "checkedAt": "2026-11-25T05:31:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01MCTXCQ4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T06:03:15.217Z"
-  },
-  {
-    "id": "auto-b09rls7j1b",
-    "asin": "B09RLS7J1B",
-    "title": "Paladone Xbox Controller Wecker - Offiziell Lizenziertes Microsoft …",
-    "category": "Gaming",
-    "price": 17.47,
-    "checkedAt": "2026-11-25T05:35:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09RLS7J1B.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T06:03:10.024Z"
   }
 ]
