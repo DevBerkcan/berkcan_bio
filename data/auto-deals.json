@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b07rz8gv84",
+    "asin": "B07RZ8GV84",
+    "title": "Levi's Damen The Perfect V-Neck T-Shirt Gr XXS-XL 6,95€ /Herren …",
+    "category": "Mode & Reise",
+    "price": 6.95,
+    "checkedAt": "2026-11-26T00:47:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07RZ8GV84.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0g1msqfwy",
     "asin": "B0G1MSQFWY",
     "title": "HP Smart Tank 6006 [Prime]",
@@ -2140,16 +2150,5 @@
     "image": "https://static.mydealz.de/threads/raw/07Ug2/2881072_1/re/768x768/qt/55/2881072_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T06:33:10.092Z"
-  },
-  {
-    "id": "auto-b0f4cncmxg",
-    "asin": "B0F4CNCMXG",
-    "title": "ROCKBROS 2in1 Fahrradklingel als Lenkerstopfen Endkappen",
-    "category": "Sport & Outdoor",
-    "price": 13.59,
-    "checkedAt": "2026-11-25T00:47:57.000Z",
-    "image": "https://static.mydealz.de/threads/raw/tNSCL/2881065_1/re/768x768/qt/55/2881065_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T06:48:03.768Z"
   }
 ]
