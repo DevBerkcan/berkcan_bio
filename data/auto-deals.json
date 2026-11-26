@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0fsdc2s6b",
+    "asin": "B0FSDC2S6B",
+    "title": "Gigabyte MO27Q28G 27\" OLED QHD Gaming-Monitor - 2560 x 1440, 280Hz, …",
+    "category": "Computer",
+    "price": 459,
+    "checkedAt": "2026-11-26T14:41:30.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FSDC2S6B.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T14:52:27.834Z"
+  },
+  {
+    "id": "auto-b0fs11h969",
+    "asin": "B0FS11H969",
+    "title": "aeco Toastlab Elite Toaster 2 Scheiben 10 Programme 5\" LCD Display …",
+    "category": "Küche",
+    "price": 80.71,
+    "checkedAt": "2026-11-26T14:45:25.000Z",
+    "image": "https://static.mydealz.de/threads/raw/wYU5Z/2882533_1/re/768x768/qt/55/2882533_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T14:52:22.418Z"
+  },
+  {
     "id": "auto-b0dsc47h9z",
     "asin": "B0DSC47H9Z",
     "title": "Garmin Instinct 3 Solar Schwarz 50 mm",
@@ -2126,42 +2148,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GBVZ3KZL.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T14:57:45.540Z"
-  },
-  {
-    "id": "auto-b0fhlvzrtc",
-    "asin": "B0FHLVZRTC",
-    "title": "Lenovo Idea Tab Plus, 12,1 Zoll 2,5K-Display, 8 GB RAM, 128 GB, inkl. …",
-    "category": "Tech",
-    "price": 239.99,
-    "oldPrice": 299.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-25T14:51:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FHLVZRTC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T14:57:40.204Z"
-  },
-  {
-    "id": "auto-b0fx8k4wxr",
-    "asin": "B0FX8K4WXR",
-    "title": "UGREEN 2.5G LAN Netzwerk Switch – 5x 2,5-Gbit-Ports, 2,5x schneller …",
-    "category": "Tech",
-    "price": 32.47,
-    "checkedAt": "2026-11-25T14:37:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/RsucF/2881579_1/re/768x768/qt/55/2881579_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T14:42:49.115Z"
-  },
-  {
-    "id": "auto-b0dzxrq2ry",
-    "asin": "B0DZXRQ2RY",
-    "title": "Razer Pro Click V2 Vertical ergonomische kabellose Maus",
-    "category": "Computer",
-    "price": 74.39,
-    "oldPrice": 94.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-25T14:40:16.000Z",
-    "image": "https://static.mydealz.de/threads/raw/tOqD8/2881583_1/re/768x768/qt/55/2881583_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T14:42:38.042Z"
   }
 ]
