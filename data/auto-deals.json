@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0fdbgggpk",
+    "asin": "B0FDBGGGPK",
+    "title": "ASUS Laptop - 17,3 Zoll FHD Display - Intel Core 3 Prozessor 100U, 6 x …",
+    "category": "Computer",
+    "price": 471.75,
+    "checkedAt": "2026-11-26T14:12:49.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Lfl7k/2882494_1/re/768x768/qt/55/2882494_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T14:23:08.869Z"
+  },
+  {
+    "id": "auto-b0ftfl84j6",
+    "asin": "B0FTFL84J6",
+    "title": "YAMAHA ARIUS YDP-105 Digitalpiano, Weiß / Schwarz/ Rosenholz -88 …",
+    "category": "Tech",
+    "price": 658.48,
+    "checkedAt": "2026-11-26T14:17:17.000Z",
+    "image": "https://static.mydealz.de/threads/raw/D3wKL/2882501_1/re/768x768/qt/55/2882501_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T14:22:53.934Z"
+  },
+  {
+    "id": "auto-b0f339nfxj",
+    "asin": "B0F339NFXJ",
+    "title": "Sammeldeal",
+    "category": "Tech",
+    "price": 189.99,
+    "oldPrice": 463.75,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-26T14:10:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F339NFXJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T14:22:47.688Z"
+  },
+  {
     "id": "auto-b0hb46cqw9",
     "asin": "B0HB46CQW9",
     "title": "Smartwares Kohlenmonoxid-Melder (CO-Melder) – 10-Jahres-Sensor, 5 …",
@@ -2106,28 +2141,6 @@
     "telegramPostedAt": "2026-11-25T14:57:40.204Z"
   },
   {
-    "id": "auto-b0747mzxvx",
-    "asin": "B0747MZXVX",
-    "title": "Steiff Soft Cuddly Friends Honey Teddybär hellgrau 18 cm, Teddy aus …",
-    "category": "Spielzeug & LEGO",
-    "price": 15.59,
-    "checkedAt": "2026-11-25T14:09:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0747MZXVX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T14:42:59.556Z"
-  },
-  {
-    "id": "auto-b0747n8rpz",
-    "asin": "B0747N8RPZ",
-    "title": "Steiff Hoppie Hase 18 cm hellgrau, Plüschtier Hase mit Schlappohren,",
-    "category": "Spielzeug & LEGO",
-    "price": 14.99,
-    "checkedAt": "2026-11-25T14:13:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0747N8RPZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T14:42:54.411Z"
-  },
-  {
     "id": "auto-b0fx8k4wxr",
     "asin": "B0FX8K4WXR",
     "title": "UGREEN 2.5G LAN Netzwerk Switch – 5x 2,5-Gbit-Ports, 2,5x schneller …",
@@ -2178,28 +2191,6 @@
     "telegramPostedAt": "2026-11-25T14:42:31.564Z"
   },
   {
-    "id": "auto-b08dj18c85",
-    "asin": "B08DJ18C85",
-    "title": "Remington D3198 Ionen-Haartrockner (2200 W, Schwarz)",
-    "category": "Haushalt",
-    "price": 15.99,
-    "checkedAt": "2026-11-25T14:18:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08DJ18C85.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T14:27:54.471Z"
-  },
-  {
-    "id": "auto-b0f4qjbtzz",
-    "asin": "B0F4QJBTZZ",
-    "title": "Elektrischer Dampfgarer , 3 Ebenen, BPA-frei, 9L, 950W, Schwarz",
-    "category": "Tech",
-    "price": 16.44,
-    "checkedAt": "2026-11-25T14:20:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F4QJBTZZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T14:27:49.163Z"
-  },
-  {
     "id": "auto-b094d541xw",
     "asin": "B094D541XW",
     "title": "Amazon Basics AA-Alkali-Hochleistungsbatterien",
@@ -2209,18 +2200,5 @@
     "image": "https://static.mydealz.de/threads/raw/Y6qeX/2881563_1/re/768x768/qt/55/2881563_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T14:27:42.939Z"
-  },
-  {
-    "id": "auto-b0dj9p4mz8",
-    "asin": "B0DJ9P4MZ8",
-    "title": "Puma ST Runner v4 SD Sneaker (Dusky Gray)",
-    "category": "Mode & Reise",
-    "price": 22.99,
-    "oldPrice": 38.54,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-25T14:09:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJ9P4MZ8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T14:12:09.747Z"
   }
 ]
