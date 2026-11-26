@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0d6bts8xg",
+    "asin": "B0D6BTS8XG",
+    "title": "Timberland Basic Stiefel",
+    "category": "Tech",
+    "price": 96.25,
+    "checkedAt": "2026-11-26T19:21:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D6BTS8XG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T19:33:03.542Z"
+  },
+  {
+    "id": "auto-b0f6yx4djs",
+    "asin": "B0F6YX4DJS",
+    "title": "Ghost of Yotei (PS5)",
+    "category": "Gaming",
+    "price": 24.99,
+    "checkedAt": "2026-11-26T19:23:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F6YX4DJS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T19:32:58.219Z"
+  },
+  {
+    "id": "auto-b0gnzrm3lb",
+    "asin": "B0GNZRM3LB",
+    "title": "Nikon PROSTAFF P7 10x50",
+    "category": "Tech",
+    "price": 197.1,
+    "checkedAt": "2026-11-26T19:27:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GNZRM3LB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T19:32:52.913Z"
+  },
+  {
     "id": "auto-b08t61nmxn",
     "asin": "B08T61NMXN",
     "title": "Kinetic Sand Original formbarer Spielsand, Neonblau, 907 g, ab 3 …",
@@ -2004,17 +2037,6 @@
     "telegramPostedAt": "2026-11-25T20:27:39.580Z"
   },
   {
-    "id": "auto-b08xy315z4",
-    "asin": "B08XY315Z4",
-    "title": "Theo Klein UNO Tragetasche Reisespiel Rollenspielzeug ab 3 Jahren",
-    "category": "Spielzeug & LEGO",
-    "price": 5.99,
-    "checkedAt": "2026-11-25T19:26:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08XY315Z4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T20:13:03.285Z"
-  },
-  {
     "id": "auto-b0h5rm4lhj",
     "asin": "B0H5RM4LHJ",
     "title": "LINDT Lindor Adventskalender",
@@ -2085,17 +2107,6 @@
     "telegramPostedAt": "2026-11-25T19:57:02.379Z"
   },
   {
-    "id": "auto-b0fcmrqwd1",
-    "asin": "B0FCMRQWD1",
-    "title": "PHILIPS Multigroom Series 5000 All-in-One 10-teiliger Barttrimmer & …",
-    "category": "Tech",
-    "price": 34.99,
-    "checkedAt": "2026-11-25T19:25:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FCMRQWD1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T19:41:20.838Z"
-  },
-  {
     "id": "auto-b0f5qbg5m8",
     "asin": "B0F5QBG5M8",
     "title": "Baseus Mini MagSafe magnetische Powerbank 5000mAh Qi2 15W zertifiziert …",
@@ -2116,18 +2127,5 @@
     "image": "https://static.mydealz.de/threads/raw/OGr8O/2881826_1/re/768x768/qt/55/2881826_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T19:41:10.388Z"
-  },
-  {
-    "id": "auto-b09spw5gvj",
-    "asin": "B09SPW5GVJ",
-    "title": "GRÄWE Wax Pro Eisenpfanne",
-    "subtitle": "🔥 101° bei mydealz",
-    "category": "Küche",
-    "price": 21.16,
-    "checkedAt": "2026-11-25T19:29:48.000Z",
-    "image": "https://static.mydealz.de/threads/raw/ZsNJl/2881659_1/re/768x768/qt/55/2881659_1.jpg",
-    "temperature": 101,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T19:41:04.157Z"
   }
 ]
