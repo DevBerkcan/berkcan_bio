@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b0dktx32tr",
+    "asin": "B0DKTX32TR",
+    "title": "L'Oréal Men Expert Hyaluron Duschgel & Shampoo für Männer mit …",
+    "category": "Beauty & Pflege",
+    "price": 8.83,
+    "checkedAt": "2026-11-26T05:25:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DKTX32TR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07v391rrn",
+    "asin": "B07V391RRN",
+    "title": "The North Face Trucker Cap",
+    "category": "Tech",
+    "price": 12.6,
+    "checkedAt": "2026-11-26T05:26:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07V391RRN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0frsqwmlx",
     "asin": "B0FRSQWMLX",
     "title": "Downton Abbey - Die komplette Saga DVD",
@@ -2208,17 +2228,6 @@
     "telegramPostedAt": "2026-11-25T06:17:55.822Z"
   },
   {
-    "id": "auto-b09crlx5m6",
-    "asin": "B09CRLX5M6",
-    "title": "Fast & Furious - 9-Movie Collection - 9 Filme auf 4K Blu-ray + Blu - …",
-    "category": "Bücher & Filme",
-    "price": 57.71,
-    "checkedAt": "2026-11-25T05:29:00.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09CRLX5M6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T06:18:00.064Z"
-  },
-  {
     "id": "auto-b01mctxcq4",
     "asin": "B01MCTXCQ4",
     "title": "Kids (1995) - Blu-ray - IMDb 7,0",
@@ -2239,40 +2248,5 @@
     "image": "https://m.media-amazon.com/images/P/B09RLS7J1B.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T06:03:10.024Z"
-  },
-  {
-    "id": "auto-b0dgpqp5c1",
-    "asin": "B0DGPQP5C1",
-    "title": "Dead Island 2 Ultimate Edition (PlayStation 5)",
-    "category": "Gaming",
-    "price": 17.96,
-    "checkedAt": "2026-11-25T05:22:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DGPQP5C1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T06:18:08.706Z"
-  },
-  {
-    "id": "auto-b08zfcf9sy",
-    "asin": "B08ZFCF9SY",
-    "title": "Prime | Snatch - Schweine und Diamanten 4K-UHD Bluray Brad Pitt",
-    "category": "Bücher & Filme",
-    "price": 14.41,
-    "checkedAt": "2026-11-25T05:26:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08ZFCF9SY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T06:18:04.515Z"
-  },
-  {
-    "id": "auto-b002vq062i",
-    "asin": "B002VQ062I",
-    "title": "Wodka Smirnoff Red Label 0.7 l",
-    "subtitle": "🔥 128° bei mydealz",
-    "category": "Tech",
-    "price": 7.45,
-    "checkedAt": "2026-11-25T05:22:19.000Z",
-    "image": "https://m.media-amazon.com/images/P/B002VQ062I.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 128,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T06:03:00.164Z"
   }
 ]
