@@ -1,5 +1,82 @@
 [
   {
+    "id": "auto-b0ghnndvyc",
+    "asin": "B0GHNNDVYC",
+    "title": "Ravensburger Last Lemming – Stichspiel / Familienspiel – SPIEL-Neuheit …",
+    "category": "Spielzeug & LEGO",
+    "price": 9,
+    "checkedAt": "2026-11-26T21:43:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GHNNDVYC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:46:20.494Z"
+  },
+  {
+    "id": "auto-b003y07xqc",
+    "asin": "B003Y07XQC",
+    "title": "Ravensburger Paw Patrol Junior Labyrinth (20799), Kinderspiel ab 4 …",
+    "category": "Spielzeug & LEGO",
+    "price": 9.36,
+    "checkedAt": "2026-11-26T22:09:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B003Y07XQC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:46:15.423Z"
+  },
+  {
+    "id": "auto-b0cfy1xw6l",
+    "asin": "B0CFY1XW6L",
+    "title": "Ravensburger GraviTrax Action-Set Twist (22576), Kugelbahn ab 8 Jahren",
+    "category": "Spielzeug & LEGO",
+    "price": 21.44,
+    "checkedAt": "2026-11-26T22:11:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CFY1XW6L.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:46:10.407Z"
+  },
+  {
+    "id": "auto-b0dq92tq62",
+    "asin": "B0DQ92TQ62",
+    "title": "Play-Doh Barbie Rüschen & Schleifen Puppenset,",
+    "category": "Spielzeug & LEGO",
+    "price": 9.95,
+    "checkedAt": "2026-11-26T22:11:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQ92TQ62.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:46:05.444Z"
+  },
+  {
+    "id": "auto-b0gtmf7y9d",
+    "asin": "B0GTMF7Y9D",
+    "title": "FRANZIS 67275 - Porsche 911 Turbo Motorsport Adventskalender",
+    "category": "Tech",
+    "price": 39.99,
+    "checkedAt": "2026-11-26T22:28:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GTMF7Y9D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:46:00.450Z"
+  },
+  {
+    "id": "auto-b0fp1psx4l",
+    "asin": "B0FP1PSX4L",
+    "title": "Monster Energy Lando Norris Zero Sugar Energy Drink, Melone-Yuzu, 12 × …",
+    "category": "Lebensmittel & Drinks",
+    "price": 11.37,
+    "checkedAt": "2026-11-26T22:32:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FP1PSX4L.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:45:55.308Z"
+  },
+  {
+    "id": "auto-b0gxkszklt",
+    "asin": "B0GXKSZKLT",
+    "title": "TCL 65Q7D Pro SQD-Mini LED 65 Zoll Fernseher, 4K Smart TV, Google TV …",
+    "category": "TV & Heimkino",
+    "price": 749,
+    "checkedAt": "2026-11-26T22:45:01.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GXKSZKLT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:45:50.176Z"
+  },
+  {
     "id": "auto-b0d4223qdp",
     "asin": "B0D4223QDP",
     "title": "Innensechskantschlüssel Satz 13-tlg 1,27-10 mm Kugelkopf verchromt, …",
@@ -2112,18 +2189,5 @@
     "image": "https://static.mydealz.de/threads/raw/wWoEB/2881973_1/re/768x768/qt/55/2881973_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T22:55:48.483Z"
-  },
-  {
-    "id": "auto-b001aih4a0",
-    "asin": "B001AIH4A0",
-    "title": "French Press Bodum Columbia 1,0 l Edelstahl matt",
-    "subtitle": "🔥 104° bei mydealz",
-    "category": "Tech",
-    "price": 51.79,
-    "checkedAt": "2026-11-25T22:41:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B001AIH4A0.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 104,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T22:55:41.677Z"
   }
 ]
