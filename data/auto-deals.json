@@ -1,5 +1,29 @@
 [
   {
+    "id": "queue-b08198fynd",
+    "asin": "B08198FYND",
+    "title": "Topeak Mini PT30 Fahrrad-Multitool, 30 Funktionen",
+    "subtitle": "30 Funktionen inkl. Tubeless-Tools im geschmiedeten Aluminiumkörper.",
+    "category": "Sport & Outdoor",
+    "price": 27.49,
+    "checkedAt": "2026-11-25T22:03:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08198FYND.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T11:25:23.175Z"
+  },
+  {
+    "id": "queue-b0fkhghjmr",
+    "asin": "B0FKHGHJMR",
+    "title": "Belkin UltraCharge 3-in-1 Qi2.2 Ladestation 25W",
+    "subtitle": "Lädt iPhone, Watch und AirPods gleichzeitig, faltbar, mit Kühlfunktion.",
+    "category": "Zubehör & Laden",
+    "price": 69.99,
+    "checkedAt": "2026-11-26T11:09:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FKHGHJMR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T11:25:18.579Z"
+  },
+  {
     "id": "auto-b0fjr783rz",
     "asin": "B0FJR783RZ",
     "title": "30th Anniversary Edition: La Haine - Hass",
@@ -2253,18 +2277,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BVLYPYT1.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T11:58:43.585Z"
-  },
-  {
-    "id": "auto-b0dw4826v5",
-    "asin": "B0DW4826V5",
-    "title": "ABUS Smartvest Pro Funk-Alarmanlage Zentrale",
-    "category": "Smart Home",
-    "price": 99.99,
-    "oldPrice": 170.41,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-25T11:20:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DW4826V5.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T11:29:32.964Z"
   }
 ]
