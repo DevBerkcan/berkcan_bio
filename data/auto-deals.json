@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0gs6p97mc",
+    "asin": "B0GS6P97MC",
+    "title": "Seagate 2TB Expansion Tragbare Festplatte",
+    "category": "Computer",
+    "price": 116.99,
+    "checkedAt": "2026-11-26T12:57:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GS6P97MC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T13:08:58.450Z"
+  },
+  {
+    "id": "auto-b07bdt6rts",
+    "asin": "B07BDT6RTS",
+    "title": "Jokari Kabel Entmanteler XL für Hohlwanddosen Art.Nr. 30125",
+    "category": "Tech",
+    "price": 19.99,
+    "checkedAt": "2026-11-26T13:01:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07BDT6RTS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T13:08:53.252Z"
+  },
+  {
+    "id": "auto-b0dxpwf8mc",
+    "asin": "B0DXPWF8MC",
+    "title": "Siemens Staubsauger mit Beutel Q5.0 Extreme silencePower VSQ5X1232 - …",
+    "category": "Haushalt",
+    "price": 119.99,
+    "checkedAt": "2026-11-26T13:04:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DXPWF8MC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T13:08:47.449Z"
+  },
+  {
     "id": "auto-b09676g8vr",
     "asin": "B09676G8VR",
     "title": "10x (2x5) JACK & JONES T-Shirts",
@@ -2261,40 +2294,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FKLZ8YNY.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T13:27:42.152Z"
-  },
-  {
-    "id": "auto-b0fcss2fy9",
-    "asin": "B0FCSS2FY9",
-    "title": "Tefal EverSharp Pro 6-teiliger Messerblock, selbstschärfend deutscher …",
-    "category": "Küche",
-    "price": 99.79,
-    "checkedAt": "2026-11-25T13:00:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FCSS2FY9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T13:13:01.804Z"
-  },
-  {
-    "id": "auto-b0cxjhwh43",
-    "asin": "B0CXJHWH43",
-    "title": "Ankerkraut Spongebob Burger Mix, Schwammkopf Burger Edition, 230 g im …",
-    "category": "Tech",
-    "price": 5.69,
-    "checkedAt": "2026-11-25T13:06:36.000Z",
-    "image": "https://static.mydealz.de/threads/raw/l7Nmn/2881487_1/re/768x768/qt/55/2881487_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T13:12:56.444Z"
-  },
-  {
-    "id": "auto-b0dbj312r9",
-    "asin": "B0DBJ312R9",
-    "title": "Cottonelle feuchtes Toilettenpapier, Wohltuende Sauberkeit o. …",
-    "subtitle": "🔥 243° bei mydealz",
-    "category": "Tech",
-    "price": 12.85,
-    "checkedAt": "2026-11-25T12:54:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DBJ312R9.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 243,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T12:58:15.677Z"
   }
 ]
