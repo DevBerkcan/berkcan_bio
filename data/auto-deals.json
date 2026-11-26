@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0fhhv7btg",
+    "asin": "B0FHHV7BTG",
+    "title": "Logitech MX Master 4 for Mac, ergonomische Bluetooth-Maus",
+    "category": "Computer",
+    "price": 80.99,
+    "checkedAt": "2026-11-26T21:50:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FHHV7BTG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:01:33.868Z"
+  },
+  {
+    "id": "auto-b0bk9dkk4x",
+    "asin": "B0BK9DKK4X",
+    "title": "Puma Unisex Rebound V6Sneaker",
+    "category": "Mode & Reise",
+    "price": 27.49,
+    "checkedAt": "2026-11-26T21:58:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BK9DKK4X.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T22:01:27.524Z"
+  },
+  {
     "id": "queue-b0fl263f1l",
     "asin": "B0FL263F1L",
     "title": "Nanoleaf Rotlichtlampe mit 160 LEDs",
@@ -1986,17 +2008,6 @@
     "telegramPostedAt": "2026-11-25T23:25:22.272Z"
   },
   {
-    "id": "auto-b0dwdrwj2p",
-    "asin": "B0DWDRWJ2P",
-    "title": "LEGO Ideas Mineraliensammlung 21362",
-    "category": "Spielzeug & LEGO",
-    "price": 40.08,
-    "checkedAt": "2026-11-25T21:57:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWDRWJ2P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T23:10:44.551Z"
-  },
-  {
     "id": "auto-b0dhsdlw37",
     "asin": "B0DHSDLW37",
     "title": "LEGO Creator 3in1 Plattenspieler mit Blumen 31172",
@@ -2131,17 +2142,6 @@
     "telegramPostedAt": "2026-11-25T22:26:02.821Z"
   },
   {
-    "id": "auto-b07rwv14kp",
-    "asin": "B07RWV14KP",
-    "title": "Amazon Basics Blechschere Gerader Schnitt, Cr-V Stahlklingen, Schwarz …",
-    "category": "Tech",
-    "price": 8.23,
-    "checkedAt": "2026-11-25T21:58:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07RWV14KP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T22:11:30.156Z"
-  },
-  {
     "id": "auto-b086n38t94",
     "asin": "B086N38T94",
     "title": "BESSEY 2x Mini-Einhandzwingen EZS11-4SET",
@@ -2162,18 +2162,5 @@
     "image": "https://m.media-amazon.com/images/P/B0D14VQKZW.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T22:11:18.413Z"
-  },
-  {
-    "id": "auto-b0c7hfxxny",
-    "asin": "B0C7HFXXNY",
-    "title": "Jack & Jones Herren Zip Hoodie in Schwarz & Navy",
-    "subtitle": "🔥 111° bei mydealz",
-    "category": "Mode & Reise",
-    "price": 17.59,
-    "checkedAt": "2026-11-25T21:46:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C7HFXXNY.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 111,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T21:56:41.913Z"
   }
 ]
