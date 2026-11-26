@@ -1,5 +1,53 @@
 [
   {
+    "id": "auto-b0cdccz9k8",
+    "asin": "B0CDCCZ9K8",
+    "title": "Philips LatteGo 2300 Kaffeevollautomat Schwarz",
+    "category": "Küche",
+    "price": 299.99,
+    "checkedAt": "2026-11-26T07:21:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CDCCZ9K8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:28:09.826Z"
+  },
+  {
+    "id": "auto-b0ch9y4vf1",
+    "asin": "B0CH9Y4VF1",
+    "title": "Dragon Ball Super: Super Hero - The Movie - [4K UHD & Blu-ray] - …",
+    "subtitle": "🔥 102° bei mydealz",
+    "category": "Bücher & Filme",
+    "price": 14.97,
+    "checkedAt": "2026-11-26T07:20:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CH9Y4VF1.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 102,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:28:04.780Z"
+  },
+  {
+    "id": "queue-b07rqkx6bs",
+    "asin": "B07RQKX6BS",
+    "title": "Gigaset AS690 Schnurloses DECT-Telefon Weiß",
+    "subtitle": "Kontrastreiches Display mit Jumbo-Modus und Freisprechfunktion.",
+    "category": "Tech",
+    "price": 26,
+    "checkedAt": "2026-11-26T05:08:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07RQKX6BS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:27:50.268Z"
+  },
+  {
+    "id": "queue-b0g1msqfwy",
+    "asin": "B0G1MSQFWY",
+    "title": "HP Smart Tank 6006 Multifunktionsdrucker",
+    "subtitle": "Tintentank-Drucker mit günstigen Seitenkosten, bis zu 3 Jahre Tinte im Lieferumfang.",
+    "category": "Computer",
+    "price": 189.99,
+    "checkedAt": "2026-11-25T23:54:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G1MSQFWY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:27:45.919Z"
+  },
+  {
     "id": "auto-b001c9zro2",
     "asin": "B001C9ZRO2",
     "title": "Hazet Wasserpumpenzange/Universalzange 310mm",
@@ -122,7 +170,8 @@
     "price": 51.74,
     "checkedAt": "2026-11-25T18:37:10.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FRSQWMLX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:28:19.112Z"
   },
   {
     "id": "auto-b000y3ubes",
@@ -310,7 +359,8 @@
     "price": 49.99,
     "checkedAt": "2026-11-25T23:00:43.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FPXFW6PM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T07:28:14.712Z"
   },
   {
     "id": "auto-b08z4h7l2l",
@@ -331,17 +381,6 @@
     "checkedAt": "2026-11-26T00:47:58.000Z",
     "image": "https://m.media-amazon.com/images/P/B07RZ8GV84.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b0g1msqfwy",
-    "asin": "B0G1MSQFWY",
-    "title": "HP Smart Tank 6006 [Prime]",
-    "category": "Tech",
-    "price": 189.99,
-    "checkedAt": "2026-11-25T23:54:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G1MSQFWY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T07:13:20.820Z"
   },
   {
     "id": "auto-b0c652c2rl",
@@ -2220,16 +2259,5 @@
     "image": "https://static.mydealz.de/threads/raw/QceGt/2881163_1/re/768x768/qt/55/2881163_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T07:47:11.104Z"
-  },
-  {
-    "id": "auto-b0cy6839mh",
-    "asin": "B0CY6839MH",
-    "title": "HP Color LaserJet Pro MFP 3302sdwg Multifunktionsfarblaserdrucker",
-    "category": "Computer",
-    "price": 289.99,
-    "checkedAt": "2026-11-25T07:15:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CY6839MH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T07:17:40.968Z"
   }
 ]
