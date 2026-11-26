@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b0f3jmmcbn",
+    "asin": "B0F3JMMCBN",
+    "title": "Pokémon Sammelkartenspiel: Super-Premium-Kollektion Prismatische …",
+    "category": "Spielzeug & LEGO",
+    "price": 104.99,
+    "checkedAt": "2026-11-26T19:28:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F3JMMCBN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T20:17:50.927Z"
+  },
+  {
+    "id": "auto-b09xqyd3b6",
+    "asin": "B09XQYD3B6",
+    "title": "Garmin Varia RCT716 - Radar Rücklicht mit Cam",
+    "category": "Tech",
+    "price": 279.95,
+    "checkedAt": "2026-11-26T20:06:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09XQYD3B6.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T20:17:45.366Z"
+  },
+  {
+    "id": "auto-b0hq7l2dyp",
+    "asin": "B0HQ7L2DYP",
+    "title": "Segway-Ninebot F3 Pro D, E-Scooter",
+    "category": "Tech",
+    "price": 588,
+    "checkedAt": "2026-11-26T20:15:13.000Z",
+    "image": "https://static.mydealz.de/threads/raw/ivOSh/2882845_1/re/768x768/qt/55/2882845_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T20:17:40.010Z"
+  },
+  {
+    "id": "auto-b07w8qxlck",
+    "asin": "B07W8QXLCK",
+    "title": "Bose Portable Home Speaker Schwarz – WLAN, Bluetooth, AirPlay 2, …",
+    "category": "Audio",
+    "price": 199.95,
+    "oldPrice": 419.95,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-26T20:11:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07W8QXLCK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T20:17:33.783Z"
+  },
+  {
     "id": "auto-b0crtyzg5c",
     "asin": "B0CRTYZG5C",
     "title": "Anker soundcore P30i Bluetooth In-Ear-Kopfhörer, adaptive ANC bis 42 …",
@@ -2083,17 +2129,6 @@
     "telegramPostedAt": "2026-11-25T20:42:21.627Z"
   },
   {
-    "id": "auto-b0928lx2d1",
-    "asin": "B0928LX2D1",
-    "title": "Kiprim DC310S Programmierbares DC-Labornetzteil 0–30 V / 0–10 A",
-    "category": "Zubehör & Laden",
-    "price": 93.49,
-    "checkedAt": "2026-11-25T20:17:08.000Z",
-    "image": "https://static.mydealz.de/threads/raw/yKxGw/2881854_1/re/768x768/qt/55/2881854_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T20:27:46.150Z"
-  },
-  {
     "id": "auto-b0d2vh915c",
     "asin": "B0D2VH915C",
     "title": "Edifier W830NB Over-Ear-Kopfhörer, ANC bis -45 dB, LDAC, Bluetooth …",
@@ -2105,27 +2140,5 @@
     "image": "https://static.mydealz.de/threads/raw/FZ6fN/2881861_1/re/768x768/qt/55/2881861_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T20:27:39.580Z"
-  },
-  {
-    "id": "auto-b0h5rm4lhj",
-    "asin": "B0H5RM4LHJ",
-    "title": "LINDT Lindor Adventskalender",
-    "category": "Tech",
-    "price": 14,
-    "checkedAt": "2026-11-25T20:06:57.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H5RM4LHJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T20:12:57.471Z"
-  },
-  {
-    "id": "auto-b07jnsdc64",
-    "asin": "B07JNSDC64",
-    "title": "Jack & Jones Herren Glenn Original Jeans",
-    "category": "Mode & Reise",
-    "price": 17,
-    "checkedAt": "2026-11-25T20:10:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07JNSDC64.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T20:12:52.156Z"
   }
 ]
