@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0cqtcpws1",
+    "asin": "B0CQTCPWS1",
+    "title": "Die Quacksalber von Quedlinburg Das Duell - Brettspiel, Familienspiel …",
+    "category": "Spielzeug & LEGO",
+    "price": 13.66,
+    "checkedAt": "2026-11-26T20:43:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CQTCPWS1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T21:32:00.598Z"
+  },
+  {
+    "id": "auto-b07c5vmjpw",
+    "asin": "B07C5VMJPW",
+    "title": "CeraVe Feuchtigkeitscreme 177 ml für Körper & Gesicht",
+    "category": "Beauty & Pflege",
+    "price": 7.56,
+    "checkedAt": "2026-11-26T21:26:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07C5VMJPW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T21:31:55.380Z"
+  },
+  {
+    "id": "auto-b000qsqwqc",
+    "asin": "B000QSQWQC",
+    "title": "Oehlbach Air Absorb Resonanzdämpfer für Lautsprecher und Subwoofer …",
+    "category": "Audio",
+    "price": 47.48,
+    "checkedAt": "2026-11-26T21:27:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000QSQWQC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T21:31:50.431Z"
+  },
+  {
     "id": "auto-b0f8sgry6x",
     "asin": "B0F8SGRY6X",
     "title": "Razer BlackShark V3 Pro für PlayStation – Kabelloses E-Sport-Headset …",
@@ -2139,16 +2172,5 @@
     "image": "https://static.mydealz.de/threads/raw/phMOl/2881934_1/re/768x768/qt/55/2881934_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T21:41:51.472Z"
-  },
-  {
-    "id": "auto-b09cmgnglv",
-    "asin": "B09CMGNGLV",
-    "title": "ASUS TUF Gaming B850M-PLUS II Mainboard",
-    "category": "Computer",
-    "price": 139.3,
-    "checkedAt": "2026-11-25T21:24:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09CMGNGLV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T21:26:50.796Z"
   }
 ]
