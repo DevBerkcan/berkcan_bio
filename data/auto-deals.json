@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b071kxtswc",
+    "asin": "B071KXTSWC",
+    "title": "Nikka Coffey Gin 0,7L [Prime]",
+    "category": "Lebensmittel & Drinks",
+    "price": 23.37,
+    "checkedAt": "2026-11-26T11:48:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B071KXTSWC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T11:55:18.931Z"
+  },
+  {
+    "id": "auto-b0frgdgrxy",
+    "asin": "B0FRGDGRXY",
+    "title": "Garmin Venu 4, 41 mm, GPS-Fitness-Smartwach, Beige/Lunargold",
+    "category": "Sport & Outdoor",
+    "price": 359,
+    "checkedAt": "2026-11-26T11:49:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FRGDGRXY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T11:55:13.736Z"
+  },
+  {
+    "id": "auto-b0h6x2c2lk",
+    "asin": "B0H6X2C2LK",
+    "title": "Dragon's Dogma 2 für Nintendo Switch 2 (Schlüsselkarte)",
+    "category": "Gaming",
+    "price": 39.95,
+    "checkedAt": "2026-11-26T11:50:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H6X2C2LK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T11:55:08.558Z"
+  },
+  {
+    "id": "auto-b0g8l4hprq",
+    "asin": "B0G8L4HPRQ",
+    "title": "Tefal EverSharp Pro Kochmesser 16,5 cm mit selbstschärfendem …",
+    "category": "Küche",
+    "price": 29.99,
+    "checkedAt": "2026-11-26T11:51:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G8L4HPRQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T11:55:03.324Z"
+  },
+  {
     "id": "auto-b0754zcj58",
     "asin": "B0754ZCJ58",
     "title": "Schmidt Ligretto Kids",
@@ -2255,18 +2299,6 @@
     "telegramPostedAt": "2026-11-25T12:28:41.380Z"
   },
   {
-    "id": "queue-b07fn4cl35",
-    "asin": "B07FN4CL35",
-    "title": "Philips Avent SCF883/01 4-in-1-Babynahrungszubereiter",
-    "subtitle": "Dampfgaren und mehr in einem Gerät – für den Übergang von Milch zu fester Nahrung.",
-    "category": "Haushalt",
-    "price": 99.98,
-    "checkedAt": "2026-11-25T11:54:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07FN4CL35.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T12:13:32.733Z"
-  },
-  {
     "id": "queue-b0cfzt3vp8",
     "asin": "B0CFZT3VP8",
     "title": "Ring Außenkamera 2er-Set – kabellos, HD & Nachtsicht",
@@ -2277,38 +2309,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CFZT3VP8.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T12:13:27.946Z"
-  },
-  {
-    "id": "auto-b08f7tk8rz",
-    "asin": "B08F7TK8RZ",
-    "title": "Braun Series 9 Pro+ mit Reinigungsstation & PowerCase",
-    "category": "Beauty & Pflege",
-    "price": 299,
-    "checkedAt": "2026-11-25T11:48:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08F7TK8RZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T11:58:53.955Z"
-  },
-  {
-    "id": "auto-b0gkp9h2w1",
-    "asin": "B0GKP9H2W1",
-    "title": "Dreame Matrix 10 ultra Saugroboter",
-    "category": "Haushalt",
-    "price": 599,
-    "checkedAt": "2026-11-25T11:48:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GKP9H2W1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T11:58:48.764Z"
-  },
-  {
-    "id": "auto-b0bvlypyt1",
-    "asin": "B0BVLYPYT1",
-    "title": "SwitchBot IP65 Hygrometer Thermometer Innen Außen",
-    "category": "Tech",
-    "price": 12.79,
-    "checkedAt": "2026-11-25T11:52:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BVLYPYT1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T11:58:43.585Z"
   }
 ]
