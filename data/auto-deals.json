@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b006k6oivu",
+    "asin": "B006K6OIVU",
+    "title": "Brugal 1888 Dominikanischer Premium Rum",
+    "category": "Tech",
+    "price": 21.99,
+    "checkedAt": "2026-11-26T13:32:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B006K6OIVU.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T13:38:33.508Z"
+  },
+  {
+    "id": "auto-b0gtpw6zmn",
+    "asin": "B0GTPW6ZMN",
+    "title": "UGREEN DP 1.4 KVM Switch 8K",
+    "subtitle": "🔥 302° bei mydealz",
+    "category": "Tech",
+    "price": 49.99,
+    "checkedAt": "2026-11-26T13:23:55.000Z",
+    "image": "https://static.mydealz.de/threads/raw/SrhX1/2872699_1/re/768x768/qt/55/2872699_1.jpg",
+    "temperature": 302,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T13:38:28.102Z"
+  },
+  {
     "id": "auto-b001i912sq",
     "asin": "B001I912SQ",
     "title": "SKLZ Pro Mini-Hoop Indoor Basketball-Set mit Mini-Luftball",
@@ -2198,19 +2222,6 @@
     "telegramPostedAt": "2026-11-25T14:12:26.729Z"
   },
   {
-    "id": "auto-b006l6z2qo",
-    "asin": "B006L6Z2QO",
-    "title": "Kingdom Builder Basisspiel",
-    "category": "Spielzeug & LEGO",
-    "price": 24.23,
-    "oldPrice": 35.44,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-25T13:23:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B006L6Z2QO.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T14:12:15.888Z"
-  },
-  {
     "id": "auto-b0dj9p4mz8",
     "asin": "B0DJ9P4MZ8",
     "title": "Puma ST Runner v4 SD Sneaker (Dusky Gray)",
@@ -2259,17 +2270,6 @@
     "telegramPostedAt": "2026-11-25T13:57:22.392Z"
   },
   {
-    "id": "auto-b0b4kynq93",
-    "asin": "B0B4KYNQ93",
-    "title": "Peter Maffay – Tabaluga - Die Welt ist wunderbar! Buchedition (2 Vinyl …",
-    "category": "Tech",
-    "price": 18.89,
-    "checkedAt": "2026-11-25T13:34:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B4KYNQ93.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T13:42:45.241Z"
-  },
-  {
     "id": "auto-b0d9m3nlsv",
     "asin": "B0D9M3NLSV",
     "title": "Logitech G G915 X Lightspeed Low-Profile Wireless Gaming-Tastatur, GL …",
@@ -2279,16 +2279,5 @@
     "image": "https://m.media-amazon.com/images/P/B0D9M3NLSV.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T13:42:39.803Z"
-  },
-  {
-    "id": "auto-b0dlh2hpk8",
-    "asin": "B0DLH2HPK8",
-    "title": "Swarovski Apple Watch Kettenarmband in Rose",
-    "category": "Smartphone & Tablet",
-    "price": 120,
-    "checkedAt": "2026-11-25T13:23:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DLH2HPK8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T13:27:47.761Z"
   }
 ]
