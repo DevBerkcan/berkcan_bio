@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0cw3mr87p",
+    "asin": "B0CW3MR87P",
+    "title": "Disney Epic Mickey: Rebrushed - Xbox Series X Xbox One Disc Version",
+    "category": "Gaming",
+    "price": 15.8,
+    "checkedAt": "2026-11-26T13:41:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CW3MR87P.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T13:53:24.199Z"
+  },
+  {
+    "id": "auto-b0bklsj3tn",
+    "asin": "B0BKLSJ3TN",
+    "title": "Bosch Smart Home Raumthermostat II für kabelgebundene Heizsysteme",
+    "category": "Smart Home",
+    "price": 69.99,
+    "checkedAt": "2026-11-26T13:44:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BKLSJ3TN.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T13:53:18.866Z"
+  },
+  {
     "id": "auto-b006k6oivu",
     "asin": "B006K6OIVU",
     "title": "Brugal 1888 Dominikanischer Premium Rum",
@@ -2233,51 +2255,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DJ9P4MZ8.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T14:12:09.747Z"
-  },
-  {
-    "id": "auto-b0dlgx2n6k",
-    "asin": "B0DLGX2N6K",
-    "title": "Swarovski Apple Smartwatch Armband",
-    "category": "Smartphone & Tablet",
-    "price": 132.46,
-    "checkedAt": "2026-11-25T13:51:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DLGX2N6K.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T13:57:33.555Z"
-  },
-  {
-    "id": "auto-b0h9nw3qp1",
-    "asin": "B0H9NW3QP1",
-    "title": "Nanoleaf 4-in-1 Lymphmassagegerät, Cellulite & Schwellungsgefühl",
-    "category": "Tech",
-    "price": 50.86,
-    "checkedAt": "2026-11-25T13:52:19.000Z",
-    "image": "https://static.mydealz.de/threads/raw/KbQPF/2881533_1/re/768x768/qt/55/2881533_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T13:57:28.380Z"
-  },
-  {
-    "id": "auto-b07w6gm6q2",
-    "asin": "B07W6GM6Q2",
-    "title": "Logitech MX Keys S Plus (DE, Graphit) kabellose Tastatur + …",
-    "category": "Computer",
-    "price": 79.99,
-    "oldPrice": 84.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-25T13:42:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07W6GM6Q2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T13:57:22.392Z"
-  },
-  {
-    "id": "auto-b0d9m3nlsv",
-    "asin": "B0D9M3NLSV",
-    "title": "Logitech G G915 X Lightspeed Low-Profile Wireless Gaming-Tastatur, GL …",
-    "category": "Computer",
-    "price": 135.99,
-    "checkedAt": "2026-11-25T13:41:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D9M3NLSV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T13:42:39.803Z"
   }
 ]
