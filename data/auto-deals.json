@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0hcq1mvrj",
+    "asin": "B0HCQ1MVRJ",
+    "title": "Special Rommé Steampunk – ASS Altenburger –Amzon Prime / Abholung bei …",
+    "category": "Spielzeug & LEGO",
+    "price": 6.49,
+    "checkedAt": "2026-11-26T13:12:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HCQ1MVRJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T15:07:19.654Z"
+  },
+  {
+    "id": "auto-b0d78zhkw4",
+    "asin": "B0D78ZHKW4",
+    "title": "WOLTU Briefkasten mit Zeitungsfach, Schloss & 2 Schlüsseln – 30,5 × …",
+    "category": "Tech",
+    "price": 17.08,
+    "checkedAt": "2026-11-26T14:59:28.000Z",
+    "image": "https://static.mydealz.de/threads/raw/wEE2t/2882545_1/re/768x768/qt/55/2882545_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T15:07:14.185Z"
+  },
+  {
+    "id": "auto-b0ftmn15gp",
+    "asin": "B0FTMN15GP",
+    "title": "Icon Dalton Kinder-Cordsitzsack mit Hocker & Füllung, grau, 69 × 59 × …",
+    "category": "Tech",
+    "price": 63.74,
+    "checkedAt": "2026-11-26T15:00:04.000Z",
+    "image": "https://static.mydealz.de/threads/raw/TwAiF/2882546_1/re/768x768/qt/55/2882546_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T15:07:07.323Z"
+  },
+  {
     "id": "auto-b0fsdc2s6b",
     "asin": "B0FSDC2S6B",
     "title": "Gigabyte MO27Q28G 27\" OLED QHD Gaming-Monitor - 2560 x 1440, 280Hz, …",
@@ -2091,28 +2124,6 @@
     "telegramPostedAt": "2026-11-25T15:27:31.286Z"
   },
   {
-    "id": "auto-b000lp8i3a",
-    "asin": "B000LP8I3A",
-    "title": "Schiesser 2er Pack Feinripp Unterhemd „Original Classics“ ohne Ärmel",
-    "category": "Tech",
-    "price": 17.48,
-    "checkedAt": "2026-11-25T14:59:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000LP8I3A.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T15:12:46.973Z"
-  },
-  {
-    "id": "auto-b08yr7w9qv",
-    "asin": "B08YR7W9QV",
-    "title": "DONBOLSO Slim Wallet XS mit Münzfach - Geldbörse/ Portemonnaie",
-    "category": "Mode & Reise",
-    "price": 16.14,
-    "checkedAt": "2026-11-25T15:01:52.000Z",
-    "image": "https://static.mydealz.de/threads/raw/emQ75/2881606_1/re/768x768/qt/55/2881606_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T15:12:41.480Z"
-  },
-  {
     "id": "auto-b0ckxszp3z",
     "asin": "B0CKXSZP3Z",
     "title": "adidas Unisex Kinder Runfalcon 5 Kids Shoes, Core Black/Core …",
@@ -2124,29 +2135,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CKXSZP3Z.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T15:12:35.908Z"
-  },
-  {
-    "id": "auto-b0f32s5nr8",
-    "asin": "B0F32S5NR8",
-    "title": "Playshoes Outdoor-Jacke für Kinder,",
-    "category": "Mode & Reise",
-    "price": 15.62,
-    "oldPrice": 42.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-25T15:03:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F32S5NR8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T15:12:30.865Z"
-  },
-  {
-    "id": "auto-b0gbvz3kzl",
-    "asin": "B0GBVZ3KZL",
-    "title": "Boss - Boxershorts 2x 3er Packung , 4,33/Stück -S, M, XXL- Farbe 'Open …",
-    "category": "Tech",
-    "price": 25.95,
-    "checkedAt": "2026-11-25T14:52:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GBVZ3KZL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T14:57:45.540Z"
   }
 ]
