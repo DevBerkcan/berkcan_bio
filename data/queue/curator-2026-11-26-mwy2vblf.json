@@ -1,0 +1,31 @@
+[
+  {
+    "asin": "B0FDBFDWLD",
+    "title": "Sony WF-C710N In-Ear-Kopfhörer mit ANC",
+    "price": 59.99,
+    "note": "True Wireless mit Noise Cancelling, Multipoint, IPX4 und bis zu 40 Std. Akku.",
+    "category": "Audio",
+    "image": "https://static.mydealz.de/threads/raw/H5wiN/2882888_1/re/768x768/qt/55/2882888_1.jpg",
+    "addedAt": "2026-11-26T20:46:55.000Z"
+  },
+  {
+    "asin": "B0CS3B7MD8",
+    "title": "AstroAI Akku-Luftpumpe 150 PSI mit USB-C",
+    "price": 21.8,
+    "note": "Kabelloser Reifenfüller mit 4.000-mAh-Akku und digitaler Druckanzeige.",
+    "category": "Werkzeug",
+    "temperature": 110,
+    "image": "https://static.mydealz.de/threads/raw/xImXr/2882770_1/re/768x768/qt/55/2882770_1.jpg",
+    "addedAt": "2026-11-26T21:05:29.000Z"
+  },
+  {
+    "asin": "B0FL263F1L",
+    "title": "Nanoleaf Rotlichtlampe mit 160 LEDs",
+    "price": 74.99,
+    "oldPrice": 149.99,
+    "note": "Infrarot-/Rotlichtpanel von Nanoleaf für Körper und Gesicht mit 160 LEDs.",
+    "category": "Tech",
+    "image": "https://static.mydealz.de/threads/raw/vWCGy/2882312_1/re/768x768/qt/55/2882312_1.jpg",
+    "addedAt": "2026-11-26T10:51:02.000Z"
+  }
+]
