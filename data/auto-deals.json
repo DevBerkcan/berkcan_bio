@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0fjr783rz",
+    "asin": "B0FJR783RZ",
+    "title": "30th Anniversary Edition: La Haine - Hass",
+    "category": "Bücher & Filme",
+    "price": 30.27,
+    "checkedAt": "2026-11-25T14:22:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FJR783RZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T11:10:50.380Z"
+  },
+  {
+    "id": "auto-b0hbwz9qj1",
+    "asin": "B0HBWZ9QJ1",
+    "title": "Ring Außenkamera 2K (Akku) + Ring Innenkamera Plus",
+    "category": "Foto & Video",
+    "price": 49.99,
+    "checkedAt": "2026-11-26T10:59:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HBWZ9QJ1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T11:10:45.844Z"
+  },
+  {
+    "id": "auto-b0gp13r3ck",
+    "asin": "B0GP13R3CK",
+    "title": "Kingdom Come: Deliverance Royal Edition",
+    "category": "Tech",
+    "price": 12.99,
+    "checkedAt": "2026-11-26T11:07:27.000Z",
+    "image": "https://static.mydealz.de/threads/raw/C03a8/2882330_1/re/768x768/qt/55/2882330_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T11:10:36.718Z"
+  },
+  {
+    "id": "auto-b095gwqkcf",
+    "asin": "B095GWQKCF",
+    "title": "GLORYFEEL - L-Carnitin 2000 mg",
+    "category": "Tech",
+    "price": 10.99,
+    "checkedAt": "2026-11-26T11:08:24.000Z",
+    "image": "https://static.mydealz.de/threads/raw/RyvJ4/2882332_1/re/768x768/qt/55/2882332_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T11:10:29.471Z"
+  },
+  {
     "id": "auto-b0bhx2lzyd",
     "asin": "B0BHX2LZYD",
     "title": "GLORYFEEL - L-Lysin Kapseln",
@@ -2178,17 +2222,6 @@
     "telegramPostedAt": "2026-11-25T12:13:27.946Z"
   },
   {
-    "id": "auto-b0cnjfv6kh",
-    "asin": "B0CNJFV6KH",
-    "title": "Hot Wheels 10er-Set Rennwagen Spielzeug",
-    "category": "Spielzeug & LEGO",
-    "price": 9.45,
-    "checkedAt": "2026-11-25T11:09:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CNJFV6KH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T11:59:00.664Z"
-  },
-  {
     "id": "auto-b08f7tk8rz",
     "asin": "B08F7TK8RZ",
     "title": "Braun Series 9 Pro+ mit Reinigungsstation & PowerCase",
@@ -2233,38 +2266,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DW4826V5.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T11:29:32.964Z"
-  },
-  {
-    "id": "auto-b0gxf5x42r",
-    "asin": "B0GXF5X42R",
-    "title": "VASAGLE Beistelltisch mit Schublade und Rollen, Höhenverstellbarer",
-    "category": "Tech",
-    "price": 42.99,
-    "checkedAt": "2026-11-25T11:02:41.000Z",
-    "image": "https://static.mydealz.de/threads/raw/ZlL2V/2881354_1/re/768x768/qt/55/2881354_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T11:14:53.377Z"
-  },
-  {
-    "id": "auto-b0fzcvwddd",
-    "asin": "B0FZCVWDDD",
-    "title": "Oral-B iO Series 6 Elektrische Zahnbürste, Doppelpack, Schwarz",
-    "category": "Beauty & Pflege",
-    "price": 169.99,
-    "checkedAt": "2026-11-25T11:03:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FZCVWDDD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T11:14:46.943Z"
-  },
-  {
-    "id": "auto-b0dd41wwxd",
-    "asin": "B0DD41WWXD",
-    "title": "https://www.amazon.de/dp/B0DD41WWXD?th=1",
-    "category": "Tech",
-    "price": 39.99,
-    "checkedAt": "2026-11-25T10:56:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DD41WWXD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T10:59:48.155Z"
   }
 ]
