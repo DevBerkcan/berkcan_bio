@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0dq578wxy",
+    "asin": "B0DQ578WXY",
+    "title": "Gabby's Dollhouse Baby Box Plüschfigur 25 cm",
+    "category": "Spielzeug & LEGO",
+    "price": 13,
+    "checkedAt": "2026-11-26T23:01:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQ578WXY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T23:31:09.059Z"
+  },
+  {
+    "id": "auto-b0hg17fnyb",
+    "asin": "B0HG17FNYB",
+    "title": "Philips Hair Clipper Series 9000 HC9723/15 Haarschneider",
+    "category": "Beauty & Pflege",
+    "price": 64.99,
+    "checkedAt": "2026-11-26T23:18:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HG17FNYB.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T23:31:03.767Z"
+  },
+  {
+    "id": "auto-b0fwkk9vk3",
+    "asin": "B0FWKK9VK3",
+    "title": "Samsung Galaxy Tab A11+, 128 GB Speicher, 6 GB RAM, space grau",
+    "category": "Smartphone & Tablet",
+    "price": 188.98,
+    "checkedAt": "2026-11-26T23:29:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FWKK9VK3.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T23:30:57.277Z"
+  },
+  {
     "id": "auto-b0dprm2qxl",
     "asin": "B0DPRM2QXL",
     "title": "Nerf Loadout Galactic Commander Blaster mit 48 N1 Darts",
@@ -1891,18 +1924,6 @@
     "telegramPostedAt": "2026-11-26T07:13:16.606Z"
   },
   {
-    "id": "queue-b0gmkj31qc",
-    "asin": "B0GMKJ31QC",
-    "title": "Amazon Echo Dot (neueste Generation) mit Smart-Home-Hub",
-    "subtitle": "Kompakter Alexa-Lautsprecher mit raumfüllendem Klang und integriertem Smart-Home-Hub.",
-    "category": "Amazon-Geräte",
-    "price": 54.99,
-    "checkedAt": "2026-11-25T23:23:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GMKJ31QC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T07:12:54.712Z"
-  },
-  {
     "id": "auto-b0cv4jw8xm",
     "asin": "B0CV4JW8XM",
     "title": "Stellar Blade PS5",
@@ -2201,16 +2222,5 @@
     "image": "https://m.media-amazon.com/images/P/B079V7B62R.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T23:54:44.691Z"
-  },
-  {
-    "id": "auto-b09xsy35j3",
-    "asin": "B09XSY35J3",
-    "title": "Homematic IP Smat Home Schalt-Mess-Steckdose",
-    "category": "Smart Home",
-    "price": 39.95,
-    "checkedAt": "2026-11-25T23:28:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09XSY35J3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T23:40:07.984Z"
   }
 ]
