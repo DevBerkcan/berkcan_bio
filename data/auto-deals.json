@@ -1,5 +1,43 @@
 [
   {
+    "id": "queue-b0fl263f1l",
+    "asin": "B0FL263F1L",
+    "title": "Nanoleaf Rotlichtlampe mit 160 LEDs",
+    "subtitle": "Infrarot-/Rotlichtpanel von Nanoleaf für Körper und Gesicht mit 160 LEDs.",
+    "category": "Tech",
+    "price": 74.99,
+    "oldPrice": 149.99,
+    "checkedAt": "2026-11-26T10:51:02.000Z",
+    "image": "https://static.mydealz.de/threads/raw/vWCGy/2882312_1/re/768x768/qt/55/2882312_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T21:46:36.128Z"
+  },
+  {
+    "id": "queue-b0cs3b7md8",
+    "asin": "B0CS3B7MD8",
+    "title": "AstroAI Akku-Luftpumpe 150 PSI mit USB-C",
+    "subtitle": "Kabelloser Reifenfüller mit 4.000-mAh-Akku und digitaler Druckanzeige.",
+    "category": "Werkzeug",
+    "price": 21.8,
+    "checkedAt": "2026-11-26T21:05:29.000Z",
+    "image": "https://static.mydealz.de/threads/raw/xImXr/2882770_1/re/768x768/qt/55/2882770_1.jpg",
+    "temperature": 110,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T21:46:30.944Z"
+  },
+  {
+    "id": "queue-b0fdbfdwld",
+    "asin": "B0FDBFDWLD",
+    "title": "Sony WF-C710N In-Ear-Kopfhörer mit ANC",
+    "subtitle": "True Wireless mit Noise Cancelling, Multipoint, IPX4 und bis zu 40 Std. Akku.",
+    "category": "Audio",
+    "price": 59.99,
+    "checkedAt": "2026-11-26T20:46:55.000Z",
+    "image": "https://static.mydealz.de/threads/raw/H5wiN/2882888_1/re/768x768/qt/55/2882888_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T21:46:25.731Z"
+  },
+  {
     "id": "auto-b0cqtcpws1",
     "asin": "B0CQTCPWS1",
     "title": "Die Quacksalber von Quedlinburg Das Duell - Brettspiel, Familienspiel …",
@@ -2137,40 +2175,5 @@
     "temperature": 111,
     "source": "auto",
     "telegramPostedAt": "2026-11-25T21:56:41.913Z"
-  },
-  {
-    "id": "auto-b09s6c4d19",
-    "asin": "B09S6C4D19",
-    "title": "ZWILLING Twin L Vielzweckschere 20 cm",
-    "subtitle": "🔥 128° bei mydealz",
-    "category": "Tech",
-    "price": 14.77,
-    "checkedAt": "2026-11-25T21:41:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09S6C4D19.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 128,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T21:56:36.977Z"
-  },
-  {
-    "id": "auto-b0gkgyg1cc",
-    "asin": "B0GKGYG1CC",
-    "title": "Powerbar Lemon Lime 12x41g",
-    "category": "Tech",
-    "price": 15.33,
-    "checkedAt": "2026-11-25T21:39:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GKGYG1CC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T21:41:57.757Z"
-  },
-  {
-    "id": "auto-b0h81ylj77",
-    "asin": "B0H81YLJ77",
-    "title": "Midea MF11EW70BA10 Waschmaschine mit 7 kg, 1.400 U/min und AquaStop",
-    "category": "Haushalt",
-    "price": 259.99,
-    "checkedAt": "2026-11-25T21:39:54.000Z",
-    "image": "https://static.mydealz.de/threads/raw/phMOl/2881934_1/re/768x768/qt/55/2881934_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T21:41:51.472Z"
   }
 ]
