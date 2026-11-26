@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b00nabtgy2",
+    "asin": "B00NABTGY2",
+    "title": "Amazon Basics Hundekotbeutel 900 Stück",
+    "category": "Tech",
+    "price": 16.01,
+    "checkedAt": "2026-11-26T12:05:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00NABTGY2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T12:10:05.693Z"
+  },
+  {
+    "id": "auto-b0db8qb2gw",
+    "asin": "B0DB8QB2GW",
+    "title": "Bosch Unlimited 10 BKS1041RHF Akkusauger mit MicroClean und …",
+    "category": "Haushalt",
+    "price": 499,
+    "checkedAt": "2026-11-26T12:06:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DB8QB2GW.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T12:10:00.247Z"
+  },
+  {
     "id": "auto-b071kxtswc",
     "asin": "B071KXTSWC",
     "title": "Nikka Coffey Gin 0,7L [Prime]",
@@ -714,7 +736,8 @@
     "price": 34.5,
     "checkedAt": "2026-11-26T05:10:17.000Z",
     "image": "https://m.media-amazon.com/images/P/B000Y3UBES.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T12:09:54.465Z"
   },
   {
     "id": "auto-b0cg6nr413",
@@ -2242,17 +2265,6 @@
     "telegramPostedAt": "2026-11-25T12:58:15.677Z"
   },
   {
-    "id": "auto-b01buo0g5i",
-    "asin": "B01BUO0G5I",
-    "title": "The Revenant - Der Rückkehrer UHD Blu-ray",
-    "category": "Bücher & Filme",
-    "price": 16.07,
-    "checkedAt": "2026-11-25T12:05:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01BUO0G5I.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T12:29:05.208Z"
-  },
-  {
     "id": "auto-b0b3218rwf",
     "asin": "B0B3218RWF",
     "title": "JACK & JONES Herren Jjethan Tee Crew Neck T-Shirts 3er-Pack, 100 % …",
@@ -2297,17 +2309,5 @@
     "temperature": 106,
     "source": "auto",
     "telegramPostedAt": "2026-11-25T12:28:41.380Z"
-  },
-  {
-    "id": "queue-b0cfzt3vp8",
-    "asin": "B0CFZT3VP8",
-    "title": "Ring Außenkamera 2er-Set – kabellos, HD & Nachtsicht",
-    "subtitle": "Zwei kabellose Kameras mit HD-Video, Nachtsicht und Gegensprechfunktion.",
-    "category": "Foto & Video",
-    "price": 59.99,
-    "checkedAt": "2026-11-25T11:59:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CFZT3VP8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T12:13:27.946Z"
   }
 ]
