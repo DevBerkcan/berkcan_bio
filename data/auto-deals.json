@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b0012d6tuo",
+    "asin": "B0012D6TUO",
+    "title": "Schmidt Spiele Schiffe versenken (49092), Reisevariante für 2 Spieler",
+    "category": "Spielzeug & LEGO",
+    "price": 8.19,
+    "checkedAt": "2026-11-26T22:16:28.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0012D6TUO.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T23:01:16.141Z"
+  },
+  {
+    "id": "auto-b0f6ygbs42",
+    "asin": "B0F6YGBS42",
+    "title": "Braun Series 7 72-N1200si Elektrorasierer",
+    "category": "Beauty & Pflege",
+    "price": 99.99,
+    "checkedAt": "2026-11-26T22:57:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F6YGBS42.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T23:01:09.917Z"
+  },
+  {
+    "id": "auto-b0chyvm9xf",
+    "asin": "B0CHYVM9XF",
+    "title": "TMNT: Shredder's Revenge Jubiläumsausgabe",
+    "category": "Gaming",
+    "price": 19.99,
+    "checkedAt": "2026-11-26T23:00:08.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CHYVM9XF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T23:01:04.597Z"
+  },
+  {
+    "id": "auto-b0cpq5hzxv",
+    "asin": "B0CPQ5HZXV",
+    "title": "Bosch Professional Akku-Leuchte GLI 18V-800",
+    "category": "Werkzeug",
+    "price": 57.79,
+    "oldPrice": 67.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-26T22:49:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CPQ5HZXV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T23:00:58.017Z"
+  },
+  {
     "id": "auto-b0ghnndvyc",
     "asin": "B0GHNNDVYC",
     "title": "Ravensburger Last Lemming – Stichspiel / Familienspiel – SPIEL-Neuheit …",
@@ -2156,38 +2202,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CLN6CXN6.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T23:25:22.272Z"
-  },
-  {
-    "id": "auto-b01n0ng4x4",
-    "asin": "B01N0NG4X4",
-    "title": "INTEX Single-High Luftbett 2 Personen 137×191×25cm Luftmatratze max …",
-    "category": "Tech",
-    "price": 8.22,
-    "checkedAt": "2026-11-25T22:58:18.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01N0NG4X4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T23:10:33.378Z"
-  },
-  {
-    "id": "auto-b0774yx24h",
-    "asin": "B0774YX24H",
-    "title": "Lagavulin 8 Jahre Single Malt Scotch Whisky",
-    "category": "Lebensmittel & Drinks",
-    "price": 33.26,
-    "checkedAt": "2026-11-25T23:00:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0774YX24H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T23:10:27.746Z"
-  },
-  {
-    "id": "auto-b0gxbx65dw",
-    "asin": "B0GXBX65DW",
-    "title": "10 kg PLA 3D Druck Filament – gemischte Farben",
-    "category": "Computer",
-    "price": 89.24,
-    "checkedAt": "2026-11-25T22:52:50.000Z",
-    "image": "https://static.mydealz.de/threads/raw/wWoEB/2881973_1/re/768x768/qt/55/2881973_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T22:55:48.483Z"
   }
 ]
