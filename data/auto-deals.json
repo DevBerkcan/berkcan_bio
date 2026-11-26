@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0d7qd5236",
+    "asin": "B0D7QD5236",
+    "title": "3M Xtract Cubitron II Netzscheibe 710W 120+ 127mm Klett, 50er",
+    "category": "Tech",
+    "price": 23.99,
+    "checkedAt": "2026-11-26T19:35:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D7QD5236.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T19:47:46.881Z"
+  },
+  {
     "id": "auto-b0d6bts8xg",
     "asin": "B0D6BTS8XG",
     "title": "Timberland Basic Stiefel",
@@ -2081,19 +2092,6 @@
     "telegramPostedAt": "2026-11-25T19:57:18.204Z"
   },
   {
-    "id": "auto-b0ffnd8nxk",
-    "asin": "B0FFND8NXK",
-    "title": "GastroSUS Industar PLUS Bratpfanne 32cm",
-    "subtitle": "🔥 101° bei mydealz",
-    "category": "Küche",
-    "price": 59.99,
-    "checkedAt": "2026-11-25T19:44:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FFND8NXK.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 101,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T19:57:12.377Z"
-  },
-  {
     "id": "auto-b000wr7kb8",
     "asin": "B000WR7KB8",
     "title": "Villeroy & Boch Piemont Besteckset",
@@ -2105,27 +2103,5 @@
     "image": "https://m.media-amazon.com/images/P/B000WR7KB8.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T19:57:02.379Z"
-  },
-  {
-    "id": "auto-b0f5qbg5m8",
-    "asin": "B0F5QBG5M8",
-    "title": "Baseus Mini MagSafe magnetische Powerbank 5000mAh Qi2 15W zertifiziert …",
-    "category": "Zubehör & Laden",
-    "price": 18.99,
-    "checkedAt": "2026-11-25T19:36:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F5QBG5M8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T19:41:15.476Z"
-  },
-  {
-    "id": "auto-b0dlw9lhxb",
-    "asin": "B0DLW9LHXB",
-    "title": "Anker Soundcore Liberty 4 Pro / Bluetooth Kopfhörer ANC / …",
-    "category": "Audio",
-    "price": 63.75,
-    "checkedAt": "2026-11-25T19:37:25.000Z",
-    "image": "https://static.mydealz.de/threads/raw/OGr8O/2881826_1/re/768x768/qt/55/2881826_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T19:41:10.388Z"
   }
 ]
