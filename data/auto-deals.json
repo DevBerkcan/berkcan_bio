@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0cv4jw8xm",
+    "asin": "B0CV4JW8XM",
+    "title": "Stellar Blade PS5",
+    "category": "Gaming",
+    "price": 37.99,
+    "checkedAt": "2026-11-26T06:44:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CV4JW8XM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T06:58:14.710Z"
+  },
+  {
+    "id": "auto-b08vd632wj",
+    "asin": "B08VD632WJ",
+    "title": "INIU 10.000 mAh Powerbank Mini 22,W",
+    "subtitle": "🔥 106° bei mydealz",
+    "category": "Zubehör & Laden",
+    "price": 17.37,
+    "checkedAt": "2026-11-26T06:42:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08VD632WJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 106,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T06:58:09.646Z"
+  },
+  {
     "id": "auto-b07c83spcp",
     "asin": "B07C83SPCP",
     "title": "Wrangler - Jeans Herren - Regular Straight Fit - Authentics - Dunkel …",
@@ -126,7 +150,8 @@
     "price": 11.07,
     "checkedAt": "2026-11-26T04:32:15.000Z",
     "image": "https://m.media-amazon.com/images/P/B07PGXBRLS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T06:58:23.169Z"
   },
   {
     "id": "auto-b08326gvs7",
@@ -136,7 +161,8 @@
     "price": 23.49,
     "checkedAt": "2026-11-26T04:35:18.000Z",
     "image": "https://m.media-amazon.com/images/P/B08326GVS7.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T06:58:19.018Z"
   },
   {
     "id": "auto-b07rfs45c3",
@@ -186,7 +212,8 @@
     "price": 15.07,
     "checkedAt": "2026-11-26T03:56:38.000Z",
     "image": "https://m.media-amazon.com/images/P/B08J1WX455.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T06:58:27.393Z"
   },
   {
     "id": "auto-b0dczxv6hl",
@@ -2178,39 +2205,6 @@
     "image": "https://m.media-amazon.com/images/P/B0CY6839MH.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T07:17:40.968Z"
-  },
-  {
-    "id": "auto-b06xjslbfv",
-    "asin": "B06XJSLBFV",
-    "title": "Pattex Montagekleber Kleben statt Bohren – Wasserresistent, Innen & …",
-    "category": "Tech",
-    "price": 5.12,
-    "checkedAt": "2026-11-25T06:50:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06XJSLBFV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T07:03:07.485Z"
-  },
-  {
-    "id": "auto-b0f5b1t5lk",
-    "asin": "B0F5B1T5LK",
-    "title": "EcoFlow STREAM AC Pro Balkonspeicher mit 1,92 kWh",
-    "category": "Tech",
-    "price": 459,
-    "checkedAt": "2026-11-25T06:55:08.000Z",
-    "image": "https://static.mydealz.de/threads/raw/3hqak/2881133_1/re/768x768/qt/55/2881133_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T07:03:02.412Z"
-  },
-  {
-    "id": "auto-b012gskql6",
-    "asin": "B012GSKQL6",
-    "title": "Buff Heavyweight Merino Wool Hat (100% Merinowolle)",
-    "category": "Tech",
-    "price": 15.85,
-    "checkedAt": "2026-11-25T06:55:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B012GSKQL6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T07:02:56.906Z"
   },
   {
     "id": "auto-b09p647hjp",
