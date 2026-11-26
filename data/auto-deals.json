@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b0fmrv1n4v",
+    "asin": "B0FMRV1N4V",
+    "title": "Baseus Enerfill USB C Ladegerät 140W PD3.1 GaN 4-Port Schnellladegerät …",
+    "category": "Zubehör & Laden",
+    "price": 37.98,
+    "checkedAt": "2026-11-26T15:22:11.000Z",
+    "image": "https://static.mydealz.de/threads/raw/fir76/2882570_1/re/768x768/qt/55/2882570_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T15:36:53.313Z"
+  },
+  {
+    "id": "auto-b0c6mwvfhq",
+    "asin": "B0C6MWVFHQ",
+    "title": "Rotwild Schoko süßer Rotwein 6 x 0,75 l",
+    "category": "Tech",
+    "price": 16.3,
+    "checkedAt": "2026-11-26T15:30:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C6MWVFHQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T15:36:47.510Z"
+  },
+  {
+    "id": "auto-b0hbwnnv1d",
+    "asin": "B0HBWNNV1D",
+    "title": "iRobot Roomba Max 875 Combo schwarz inkl. AutoWash-Station",
+    "category": "Tech",
+    "price": 699,
+    "oldPrice": 1199,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-26T15:29:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HBWNNV1D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T15:36:42.312Z"
+  },
+  {
     "id": "auto-b016nagoyg",
     "asin": "B016NAGOYG",
     "title": "Twinzee Premium Schnittschutzhandschuhe – Stufe E (EN 388), für Küche …",
@@ -2087,51 +2122,5 @@
     "image": "https://m.media-amazon.com/images/P/B0D7Q5HMHP.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T19:40:26.141Z"
-  },
-  {
-    "id": "auto-b00m20yy4y",
-    "asin": "B00M20YY4Y",
-    "title": "Ryobi RTMS1800-G Kapp-, Gehrungs- und Tischkreissäge",
-    "category": "Werkzeug",
-    "price": 227.7,
-    "checkedAt": "2026-11-25T15:30:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00M20YY4Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T15:42:24.975Z"
-  },
-  {
-    "id": "auto-b00wseum2w",
-    "asin": "B00WSEUM2W",
-    "title": "Bosch Stichsäge PST 9500",
-    "category": "Tech",
-    "price": 94.14,
-    "checkedAt": "2026-11-25T15:31:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00WSEUM2W.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T15:42:19.576Z"
-  },
-  {
-    "id": "auto-b0fhb9xh2q",
-    "asin": "B0FHB9XH2Q",
-    "title": "Worx WX370.2 Akku-Schlagbohrschrauber 20V inkl. 2× 2 Ah Akku, …",
-    "category": "Werkzeug",
-    "price": 83.24,
-    "checkedAt": "2026-11-25T15:32:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FHB9XH2Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T15:42:14.040Z"
-  },
-  {
-    "id": "auto-b0db65cdvy",
-    "asin": "B0DB65CDVY",
-    "title": "uvex i-vo cc Gen. 2 MIPS Fahrradhelm",
-    "subtitle": "🔥 100° bei mydealz",
-    "category": "Sport & Outdoor",
-    "price": 70.49,
-    "checkedAt": "2026-11-25T15:21:46.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DB65CDVY.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 100,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T15:27:31.286Z"
   }
 ]
