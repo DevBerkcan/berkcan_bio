@@ -71,7 +71,8 @@
     "price": 149,
     "checkedAt": "2026-11-26T04:52:32.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CG6NR413.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T06:43:31.749Z"
   },
   {
     "id": "auto-b0dwg1jxnj",
@@ -81,7 +82,8 @@
     "price": 599.9,
     "checkedAt": "2026-11-26T04:52:37.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DWG1JXNJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T06:43:27.521Z"
   },
   {
     "id": "auto-b0h5x6yhxj",
@@ -91,7 +93,8 @@
     "price": 649,
     "checkedAt": "2026-11-26T04:54:52.000Z",
     "image": "https://m.media-amazon.com/images/P/B0H5X6YHXJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T06:43:22.888Z"
   },
   {
     "id": "auto-b0bsgt4cyh",
@@ -101,7 +104,8 @@
     "price": 149.9,
     "checkedAt": "2026-11-26T04:55:50.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BSGT4CYH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T06:43:18.578Z"
   },
   {
     "id": "auto-b0hksc4ghz",
@@ -111,7 +115,8 @@
     "price": 16.99,
     "checkedAt": "2026-11-26T04:56:07.000Z",
     "image": "https://static.mydealz.de/threads/raw/XMr9u/2882056_1/re/768x768/qt/55/2882056_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T06:43:13.895Z"
   },
   {
     "id": "auto-b07pgxbrls",
@@ -2217,16 +2222,5 @@
     "image": "https://static.mydealz.de/threads/raw/Tv4t4/2881136_1/re/768x768/qt/55/2881136_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T07:02:51.796Z"
-  },
-  {
-    "id": "auto-b07np3cs11",
-    "asin": "B07NP3CS11",
-    "title": "Edifier S3000 Pro Aktiv-Lautsprecher",
-    "category": "Audio",
-    "price": 499.95,
-    "checkedAt": "2026-11-25T06:33:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07NP3CS11.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T06:47:59.143Z"
   }
 ]
