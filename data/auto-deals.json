@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b000oo9rce",
+    "asin": "B000OO9RCE",
+    "title": "TOPEAK Werkzeug Mini 18+, 19 Funktionen, incl. Kettennieter und …",
+    "category": "Werkzeug",
+    "price": 17.99,
+    "checkedAt": "2026-11-26T09:15:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000OO9RCE.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-26T09:26:35.606Z"
+  },
+  {
     "id": "auto-b01azeok0q",
     "asin": "B01AZEOK0Q",
     "title": "Einhell Akku-Rasenmäher GE-CM 43 Li M Kit inkl. 2x 4.0Ah Akkus + 2x …",
@@ -2225,27 +2236,5 @@
     "image": "https://m.media-amazon.com/images/P/B0D96Q5P49.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-25T09:45:26.507Z"
-  },
-  {
-    "id": "auto-b0fxh6p178",
-    "asin": "B0FXH6P178",
-    "title": "Scheppach Bohrhammer DH 2260",
-    "category": "Tech",
-    "price": 47.49,
-    "checkedAt": "2026-11-25T09:19:17.000Z",
-    "image": "https://static.mydealz.de/threads/raw/yEa0Y/2881253_1/re/768x768/qt/55/2881253_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T09:30:37.736Z"
-  },
-  {
-    "id": "auto-b0cn1k1zmp",
-    "asin": "B0CN1K1ZMP",
-    "title": "MSI MAG PANO M100L PZ - Weiß Micro-ATX PC-Gehäuse",
-    "category": "Tech",
-    "price": 37.5,
-    "checkedAt": "2026-11-25T09:25:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CN1K1ZMP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T09:30:29.844Z"
   }
 ]
