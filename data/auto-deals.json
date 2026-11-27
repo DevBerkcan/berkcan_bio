@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0d73yq17q",
+    "asin": "B0D73YQ17Q",
+    "title": "Schiesser Schlafanzug, Pyjama, langarm",
+    "category": "Tech",
+    "price": 35.95,
+    "checkedAt": "2026-11-27T07:49:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D73YQ17Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:05:51.048Z"
+  },
+  {
+    "id": "auto-b0dl6wq554",
+    "asin": "B0DL6WQ554",
+    "title": "Apple Magic Keyboard mit Touch ID für Mac Modelle mit Chip â€“ …",
+    "category": "Computer",
+    "price": 121,
+    "checkedAt": "2026-11-27T07:50:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DL6WQ554.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:05:41.892Z"
+  },
+  {
+    "id": "auto-b09dc335rx",
+    "asin": "B09DC335RX",
+    "title": "Vansuny aktiver USB 3.0 Hub mit 8 Ports, 6 Datenports, 2 Ladeports und …",
+    "category": "Tech",
+    "price": 15.46,
+    "checkedAt": "2026-11-27T07:52:19.000Z",
+    "image": "https://static.mydealz.de/threads/raw/M3BB1/2883369_1/re/768x768/qt/55/2883369_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:05:36.487Z"
+  },
+  {
+    "id": "auto-b0h62vgk55",
+    "asin": "B0H62VGK55",
+    "title": "Amazon: Google Pixel 11 Pistachio - 512GB -Smartphone ohne SIM-Lock - …",
+    "category": "Smartphone & Tablet",
+    "price": 699,
+    "checkedAt": "2026-11-27T08:00:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H62VGK55.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:05:29.702Z"
+  },
+  {
     "id": "auto-b0bl7btybr",
     "asin": "B0BL7BTYBR",
     "title": "Mit Babywunschliste Amazon - Tiptoi Bundle Ladestation und Buch Meine …",
@@ -441,7 +485,8 @@
     "price": 55.1,
     "checkedAt": "2026-11-27T02:51:39.000Z",
     "image": "https://m.media-amazon.com/images/P/B0B7SFDLVB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:05:55.403Z"
   },
   {
     "id": "auto-b0dm5j8b6q",
@@ -471,7 +516,8 @@
     "price": 1388,
     "checkedAt": "2026-11-27T02:09:52.000Z",
     "image": "https://static.mydealz.de/threads/raw/15DEE/2883146_1/re/768x768/qt/55/2883146_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:06:00.094Z"
   },
   {
     "id": "auto-b0b7nkldxw",
@@ -501,7 +547,8 @@
     "price": 117,
     "checkedAt": "2026-11-27T01:19:02.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FZL5Z8L6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:06:04.395Z"
   },
   {
     "id": "auto-b0cx4ysg26",
@@ -2447,17 +2494,6 @@
     "telegramPostedAt": "2026-11-26T08:57:06.517Z"
   },
   {
-    "id": "auto-b06wwfwgnx",
-    "asin": "B06WWFWGNX",
-    "title": "Ravensburger Plitsch-Platsch Pinguin Kinderspiel",
-    "category": "Spielzeug & LEGO",
-    "price": 14.23,
-    "checkedAt": "2026-11-26T07:59:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06WWFWGNX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T08:42:28.729Z"
-  },
-  {
     "id": "auto-b073p7zlg4",
     "asin": "B073P7ZLG4",
     "title": "Catsan Ultra Plus Katzenstreu für Katzen, 10 Liter (1 Beutel) – …",
@@ -2500,31 +2536,5 @@
     "image": "https://m.media-amazon.com/images/P/B00O8TYF32.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T08:27:23.762Z"
-  },
-  {
-    "id": "auto-b0gprrm7g3",
-    "asin": "B0GPRRM7G3",
-    "title": "Tefal Ingenio Excellence Fusion Kasserolle 16 cm",
-    "category": "Tech",
-    "price": 18.99,
-    "oldPrice": 24.89,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-26T08:01:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GPRRM7G3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T08:12:39.101Z"
-  },
-  {
-    "id": "auto-b07h3gfjj2",
-    "asin": "B07H3GFJJ2",
-    "title": "HyperX Pulsefire Core RGB Gaming-Maus",
-    "category": "Computer",
-    "price": 17.99,
-    "oldPrice": 23.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-26T07:55:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07H3GFJJ2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T07:57:48.501Z"
   }
 ]
