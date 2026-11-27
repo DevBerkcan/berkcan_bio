@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-b0f2mr4zyg",
+    "asin": "B0F2MR4ZYG",
+    "title": "PLAYMOBIL Sky Trails Starter Kit (71969) – Bahn-Bauset mit 231 Teilen, …",
+    "category": "Spielzeug & LEGO",
+    "price": 31.99,
+    "checkedAt": "2026-11-27T05:28:57.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F2MR4ZYG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0bg5thp7q",
+    "asin": "B0BG5THP7Q",
+    "title": "FEIN Akku MULTIMASTER AMM 700 Max Top AS",
+    "category": "Tech",
+    "price": 242.11,
+    "checkedAt": "2026-11-27T05:55:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BG5THP7Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0hdpvrxxz",
+    "asin": "B0HDPVRXXZ",
+    "title": "SwitchBot Lock Ultra Max Vision Pro Combo, smartes Türschloss, …",
+    "category": "Tech",
+    "price": 249.99,
+    "checkedAt": "2026-11-27T06:00:00.000Z",
+    "image": "https://static.mydealz.de/threads/raw/jJwQh/2872788_1/re/768x768/qt/55/2872788_1.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0fr2xkbks",
     "asin": "B0FR2XKBKS",
     "title": "Two Point Museum - Explorer Edition",
@@ -245,7 +275,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-27T00:07:11.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GXZGQTGX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T06:05:00.789Z"
   },
   {
     "id": "auto-b00bwls8eg",
@@ -2288,16 +2319,5 @@
     "temperature": 106,
     "source": "auto",
     "telegramPostedAt": "2026-11-26T06:58:09.646Z"
-  },
-  {
-    "id": "auto-b07c83spcp",
-    "asin": "B07C83SPCP",
-    "title": "Wrangler - Jeans Herren - Regular Straight Fit - Authentics - Dunkel …",
-    "category": "Mode & Reise",
-    "price": 29.52,
-    "checkedAt": "2026-11-26T05:52:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07C83SPCP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T06:13:54.108Z"
   }
 ]
