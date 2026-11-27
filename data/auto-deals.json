@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0g7ln1b11",
+    "asin": "B0G7LN1B11",
+    "title": "PLAYMOBIL | Mercedes‑Benz 300 SL | 72238",
+    "category": "Spielzeug & LEGO",
+    "price": 17.99,
+    "checkedAt": "2026-11-27T22:31:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G7LN1B11.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T23:39:26.501Z"
+  },
+  {
+    "id": "auto-b0gqvh49mw",
+    "asin": "B0GQVH49MW",
+    "title": "Apple 11\" iPad Air (M4): Liquid Retina Display, 256 GB 2026",
+    "category": "Smartphone & Tablet",
+    "price": 789,
+    "checkedAt": "2026-11-27T23:27:02.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Ujn5c/2884442_1/re/768x768/qt/55/2884442_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T23:39:21.052Z"
+  },
+  {
     "id": "auto-b00uck33hu",
     "asin": "B00UCK33HU",
     "title": "Theo Klein 6941 Miele Kinder-Waschmaschine",
@@ -2472,17 +2494,6 @@
     "telegramPostedAt": "2026-11-27T06:49:14.327Z"
   },
   {
-    "id": "auto-b0ghxzcsbc",
-    "asin": "B0GHXZCSBC",
-    "title": "Life is Strange Reunion [PS5] Physisch",
-    "category": "Gaming",
-    "price": 29.99,
-    "checkedAt": "2026-11-26T23:36:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GHXZCSBC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T23:46:08.094Z"
-  },
-  {
     "id": "auto-b00p8vibbg",
     "asin": "B00P8VIBBG",
     "title": "Princess Raclette-Grill für 6 Personen",
@@ -2536,16 +2547,5 @@
     "image": "https://m.media-amazon.com/images/P/B00VA5ICAO.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T23:45:42.341Z"
-  },
-  {
-    "id": "auto-b0fwkk9vk3",
-    "asin": "B0FWKK9VK3",
-    "title": "Samsung Galaxy Tab A11+, 128 GB Speicher, 6 GB RAM, space grau",
-    "category": "Smartphone & Tablet",
-    "price": 188.98,
-    "checkedAt": "2026-11-26T23:29:10.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FWKK9VK3.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T23:30:57.277Z"
   }
 ]
