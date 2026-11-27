@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0cqcbmyjt",
+    "asin": "B0CQCBMYJT",
+    "title": "Jack & Jones 2er-Pack",
+    "category": "Tech",
+    "price": 26.99,
+    "checkedAt": "2026-11-27T19:42:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CQCBMYJT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T19:58:38.730Z"
+  },
+  {
+    "id": "auto-b0gcnpzv9s",
+    "asin": "B0GCNPZV9S",
+    "title": "Xiaomi Pad 8 8+128GB Speicher, Grau",
+    "category": "Tech",
+    "price": 341.9,
+    "checkedAt": "2026-11-27T19:43:38.000Z",
+    "image": "https://static.mydealz.de/threads/raw/yTfoo/2884288_1/re/768x768/qt/55/2884288_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T19:58:33.613Z"
+  },
+  {
+    "id": "auto-b0dt482n1h",
+    "asin": "B0DT482N1H",
+    "title": "Sparabo: Gilette Mach 3 Klingen - 20 Stk. (1,41€/Stück) - im 5. Abo",
+    "category": "Tech",
+    "price": 28.22,
+    "checkedAt": "2026-11-27T19:55:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DT482N1H.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T19:58:27.165Z"
+  },
+  {
+    "id": "auto-b0gr5v9qjq",
+    "asin": "B0GR5V9QJQ",
+    "title": "Microsoft Xbox Wireless Headset Forza Horizon 6 Limited Edition",
+    "category": "Gaming",
+    "price": 79.99,
+    "checkedAt": "2026-11-27T19:57:13.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GR5V9QJQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T19:58:21.915Z"
+  },
+  {
     "id": "auto-b0ffvp5zch",
     "asin": "B0FFVP5ZCH",
     "title": "Tom Tailor Herren TTJOSH Regular Slim Jeans mit Stretch",
@@ -2763,28 +2807,6 @@
     "telegramPostedAt": "2026-11-26T20:17:33.783Z"
   },
   {
-    "id": "auto-b0crtyzg5c",
-    "asin": "B0CRTYZG5C",
-    "title": "Anker soundcore P30i Bluetooth In-Ear-Kopfhörer, adaptive ANC bis 42 …",
-    "category": "Audio",
-    "price": 27.55,
-    "checkedAt": "2026-11-26T19:47:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CRTYZG5C.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T20:02:55.697Z"
-  },
-  {
-    "id": "auto-b0gs98f66s",
-    "asin": "B0GS98F66S",
-    "title": "LISEN Qi2.2 25W MagSafe magn. Powerbank 10000mAh 65W PD Schnellladen …",
-    "category": "Zubehör & Laden",
-    "price": 37.99,
-    "checkedAt": "2026-11-26T19:55:20.000Z",
-    "image": "https://static.mydealz.de/threads/raw/sJbzx/2882826_1/re/768x768/qt/55/2882826_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T20:02:50.153Z"
-  },
-  {
     "id": "auto-b0ggmtng4s",
     "asin": "B0GGMTNG4S",
     "title": "GL.iNet GL-MT5000 Brume 3 ohne WLAN - z.B. für Tailscale Wireguard VPN",
@@ -2794,31 +2816,5 @@
     "image": "https://static.mydealz.de/threads/raw/n6gsp/2882830_1/re/768x768/qt/55/2882830_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T20:02:43.573Z"
-  },
-  {
-    "id": "auto-b0dkfg8kzp",
-    "asin": "B0DKFG8KZP",
-    "title": "INIU 30W USB C Ladegerät,",
-    "subtitle": "🔥 100° bei mydealz",
-    "category": "Zubehör & Laden",
-    "price": 14.4,
-    "checkedAt": "2026-11-26T19:56:52.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DKFG8KZP.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 100,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T20:02:37.153Z"
-  },
-  {
-    "id": "auto-b09llrngsd",
-    "asin": "B09LLRNGSD",
-    "title": "Anker Nano II 65W Ladegerät – 3-Port, PPS Schnellladen mit GaN II für …",
-    "subtitle": "🔥 102° bei mydealz",
-    "category": "Zubehör & Laden",
-    "price": 24.47,
-    "checkedAt": "2026-11-26T19:57:07.000Z",
-    "image": "https://static.mydealz.de/threads/raw/gh0KB/2867855_1/re/768x768/qt/55/2867855_1.jpg",
-    "temperature": 102,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T20:02:31.696Z"
   }
 ]
