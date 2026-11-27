@@ -1,5 +1,64 @@
 [
   {
+    "id": "auto-b0bl7btybr",
+    "asin": "B0BL7BTYBR",
+    "title": "Mit Babywunschliste Amazon - Tiptoi Bundle Ladestation und Buch Meine …",
+    "category": "Bücher & Filme",
+    "price": 35.68,
+    "checkedAt": "2026-11-27T07:12:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BL7BTYBR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:50:43.087Z"
+  },
+  {
+    "id": "auto-b09l7hplmx",
+    "asin": "B09L7HPLMX",
+    "title": "ASUS ROG Crosshair X870E Hero Mainboard Sockel AM5",
+    "category": "Computer",
+    "price": 449.99,
+    "checkedAt": "2026-11-27T07:38:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09L7HPLMX.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:50:37.773Z"
+  },
+  {
+    "id": "auto-b0dfwzn16n",
+    "asin": "B0DFWZN16N",
+    "title": "Bosch PRO Radio GPB 18VH-6 SRC [10fach Payback zzgl nutzen] [ProDeal …",
+    "category": "Tech",
+    "price": 284.74,
+    "checkedAt": "2026-11-27T07:39:01.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DFWZN16N.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:50:32.751Z"
+  },
+  {
+    "id": "auto-b0gpr97gpf",
+    "asin": "B0GPR97GPF",
+    "title": "MSI MPG 341CQRDE QD-OLED X36, Gaming-Monitor, 34 Zoll, UWQHD, 360 Hz",
+    "category": "Computer",
+    "price": 879,
+    "oldPrice": 1000,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-27T07:34:50.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GPR97GPF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:50:27.339Z"
+  },
+  {
+    "id": "auto-b0fpxdxd3f",
+    "asin": "B0FPXDXD3F",
+    "title": "LEGO City - Das Schneeräumfahrzeug (60490)",
+    "category": "Spielzeug & LEGO",
+    "price": 15.99,
+    "oldPrice": 24.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-27T07:15:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXDXD3F.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:50:22.196Z"
+  },
+  {
     "id": "auto-b079c4yggp",
     "asin": "B079C4YGGP",
     "title": "Jack and Jones Basic Polo 100% Baumwolle verschied. Farben & Größen",
@@ -337,7 +396,8 @@
     "price": 189,
     "checkedAt": "2026-11-27T05:22:44.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CYCHTGKC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:50:47.435Z"
   },
   {
     "id": "auto-b08kqxjcvl",
@@ -347,7 +407,8 @@
     "price": 19.07,
     "checkedAt": "2026-11-27T05:11:29.000Z",
     "image": "https://m.media-amazon.com/images/P/B08KQXJCVL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:50:51.707Z"
   },
   {
     "id": "auto-b0h9yvlrks",
@@ -2452,28 +2513,6 @@
     "image": "https://m.media-amazon.com/images/P/B0GPRRM7G3.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T08:12:39.101Z"
-  },
-  {
-    "id": "auto-b0f9yxhxrh",
-    "asin": "B0F9YXHXRH",
-    "title": "ASUS TUF Gaming VG27AQL5A – 27\" WQHD Gaming-Monitor",
-    "category": "Computer",
-    "price": 149,
-    "checkedAt": "2026-11-26T07:44:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F9YXHXRH.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T07:57:58.760Z"
-  },
-  {
-    "id": "auto-b0gjdsw5gg",
-    "asin": "B0GJDSW5GG",
-    "title": "Long Gone Days - Nintendo Switch",
-    "category": "Gaming",
-    "price": 22.99,
-    "checkedAt": "2026-11-26T07:49:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GJDSW5GG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T07:57:53.541Z"
   },
   {
     "id": "auto-b07h3gfjj2",
