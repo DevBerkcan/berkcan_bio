@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0fdvhsynx",
+    "asin": "B0FDVHSYNX",
+    "title": "Govee TV Backlight 3 Pro (55-65 Zoll) mit HDR-Dreifachkamera",
+    "category": "TV & Heimkino",
+    "price": 159.99,
+    "oldPrice": 199.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-27T22:43:24.000Z",
+    "image": "https://static.mydealz.de/threads/raw/gSV1r/2884418_1/re/768x768/qt/55/2884418_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T22:55:06.637Z"
+  },
+  {
     "id": "auto-b0002hos7m",
     "asin": "B0002HOS7M",
     "title": "Cloer 285 Hörncheneisen für hauchdünne, knusprige Hörnchen, 800 W, …",
@@ -2589,29 +2602,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CHYVM9XF.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T23:01:04.597Z"
-  },
-  {
-    "id": "auto-b0cpq5hzxv",
-    "asin": "B0CPQ5HZXV",
-    "title": "Bosch Professional Akku-Leuchte GLI 18V-800",
-    "category": "Werkzeug",
-    "price": 57.79,
-    "oldPrice": 67.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-26T22:49:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CPQ5HZXV.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T23:00:58.017Z"
-  },
-  {
-    "id": "auto-b0gxkszklt",
-    "asin": "B0GXKSZKLT",
-    "title": "TCL 65Q7D Pro SQD-Mini LED 65 Zoll Fernseher, 4K Smart TV, Google TV …",
-    "category": "TV & Heimkino",
-    "price": 749,
-    "checkedAt": "2026-11-26T22:45:01.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GXKSZKLT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T22:45:50.176Z"
   }
 ]
