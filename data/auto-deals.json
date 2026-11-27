@@ -1,5 +1,63 @@
 [
   {
+    "id": "auto-b0fqf32239",
+    "asin": "B0FQF32239",
+    "title": "Apple Airpods Pro 3 - Wireless Kopfhörer mit Magsafe Ladecase - …",
+    "category": "Audio",
+    "price": 169.99,
+    "checkedAt": "2026-11-27T01:00:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FQF32239.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h3vr52xr",
+    "asin": "B0H3VR52XR",
+    "title": "BEARFOOT Kinder-Edelstahl-Trinkflasche 350 ml, vakuumisoliert, mit …",
+    "category": "Haushalt",
+    "price": 23.76,
+    "checkedAt": "2026-11-27T06:29:12.000Z",
+    "image": "https://static.mydealz.de/threads/raw/nSTJx/2883257_1/re/768x768/qt/55/2883257_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T06:49:40.590Z"
+  },
+  {
+    "id": "auto-b0gmvl5tx8",
+    "asin": "B0GMVL5TX8",
+    "title": "JAYO ASA 3D Druck Filament 1 kg Grau",
+    "category": "Tech",
+    "price": 12.04,
+    "checkedAt": "2026-11-27T06:35:41.000Z",
+    "image": "https://static.mydealz.de/threads/raw/hXHTk/2883267_1/re/768x768/qt/55/2883267_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T06:49:34.593Z"
+  },
+  {
+    "id": "auto-b0bks7d52r",
+    "asin": "B0BKS7D52R",
+    "title": "COSTWAY Kinder-Keyboard mit 31 Tasten, Mikrofon, Hocker, Sound- & …",
+    "category": "Computer",
+    "price": 32.29,
+    "oldPrice": 37.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-27T06:16:09.000Z",
+    "image": "https://static.mydealz.de/threads/raw/vhOM2/2883239_1/re/768x768/qt/55/2883239_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T06:49:27.463Z"
+  },
+  {
+    "id": "auto-b0bf12d5fh",
+    "asin": "B0BF12D5FH",
+    "title": "Hey Nature Lammwolle-Einlegesohlen für Kinder, 2 Paar, Gr. 22–35, …",
+    "category": "Tech",
+    "price": 6.08,
+    "oldPrice": 7.5,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-27T06:33:58.000Z",
+    "image": "https://static.mydealz.de/threads/raw/4lt8W/2883261_1/re/768x768/qt/55/2883261_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T06:49:20.970Z"
+  },
+  {
     "id": "auto-b001hn6ef4",
     "asin": "B001HN6EF4",
     "title": "UNO H2O to go - wasserfeste Karten unter 10€",
@@ -17,7 +75,8 @@
     "price": 10.79,
     "checkedAt": "2026-11-27T06:24:15.000Z",
     "image": "https://static.mydealz.de/threads/raw/VzmhM/2883250_1/re/768x768/qt/55/2883250_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T06:49:49.493Z"
   },
   {
     "id": "auto-b0f7lg4f8p",
@@ -27,7 +86,8 @@
     "price": 251.61,
     "checkedAt": "2026-11-27T06:28:32.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F7LG4F8P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T06:49:44.782Z"
   },
   {
     "id": "auto-b07xdpv5nh",
@@ -380,7 +440,8 @@
     "price": 699,
     "checkedAt": "2026-11-26T23:58:06.000Z",
     "image": "https://m.media-amazon.com/images/P/B094R84292.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T06:49:14.327Z"
   },
   {
     "id": "auto-b0dx2crgm6",
@@ -2358,29 +2419,5 @@
     "image": "https://m.media-amazon.com/images/P/B001C9ZRO2.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T07:13:16.606Z"
-  },
-  {
-    "id": "auto-b0cv4jw8xm",
-    "asin": "B0CV4JW8XM",
-    "title": "Stellar Blade PS5",
-    "category": "Gaming",
-    "price": 37.99,
-    "checkedAt": "2026-11-26T06:44:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CV4JW8XM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T06:58:14.710Z"
-  },
-  {
-    "id": "auto-b08vd632wj",
-    "asin": "B08VD632WJ",
-    "title": "INIU 10.000 mAh Powerbank Mini 22,W",
-    "subtitle": "🔥 106° bei mydealz",
-    "category": "Zubehör & Laden",
-    "price": 17.37,
-    "checkedAt": "2026-11-26T06:42:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08VD632WJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 106,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T06:58:09.646Z"
   }
 ]
