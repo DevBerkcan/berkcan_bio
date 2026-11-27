@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0fh1f4c49",
+    "asin": "B0FH1F4C49",
+    "title": "BOSS Herren T-Shirt 3-Pack XL",
+    "category": "Mode & Reise",
+    "price": 21.11,
+    "checkedAt": "2026-11-27T22:55:37.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Bi06T/2884422_1/re/768x768/qt/55/2884422_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T23:09:48.522Z"
+  },
+  {
     "id": "auto-b0fdvhsynx",
     "asin": "B0FDVHSYNX",
     "title": "Govee TV Backlight 3 Pro (55-65 Zoll) mit HDR-Dreifachkamera",
@@ -2527,17 +2538,6 @@
     "telegramPostedAt": "2026-11-26T23:45:42.341Z"
   },
   {
-    "id": "auto-b0dq578wxy",
-    "asin": "B0DQ578WXY",
-    "title": "Gabby's Dollhouse Baby Box Plüschfigur 25 cm",
-    "category": "Spielzeug & LEGO",
-    "price": 13,
-    "checkedAt": "2026-11-26T23:01:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQ578WXY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T23:31:09.059Z"
-  },
-  {
     "id": "auto-b0hg17fnyb",
     "asin": "B0HG17FNYB",
     "title": "Philips Hair Clipper Series 9000 HC9723/15 Haarschneider",
@@ -2560,17 +2560,6 @@
     "telegramPostedAt": "2026-11-26T23:30:57.277Z"
   },
   {
-    "id": "auto-b0h4hrm4td",
-    "asin": "B0H4HRM4TD",
-    "title": "Lenovo Legion 34W-2c Gaming-Monitor",
-    "category": "Computer",
-    "price": 229,
-    "checkedAt": "2026-11-26T23:08:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H4HRM4TD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T23:16:01.125Z"
-  },
-  {
     "id": "auto-b0csjpdydn",
     "asin": "B0CSJPDYDN",
     "title": "Elgato 4K Pro interne Capture Card",
@@ -2580,27 +2569,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CSJPDYDN.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T23:15:55.439Z"
-  },
-  {
-    "id": "auto-b0f6ygbs42",
-    "asin": "B0F6YGBS42",
-    "title": "Braun Series 7 72-N1200si Elektrorasierer",
-    "category": "Beauty & Pflege",
-    "price": 99.99,
-    "checkedAt": "2026-11-26T22:57:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F6YGBS42.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T23:01:09.917Z"
-  },
-  {
-    "id": "auto-b0chyvm9xf",
-    "asin": "B0CHYVM9XF",
-    "title": "TMNT: Shredder's Revenge Jubiläumsausgabe",
-    "category": "Gaming",
-    "price": 19.99,
-    "checkedAt": "2026-11-26T23:00:08.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CHYVM9XF.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T23:01:04.597Z"
   }
 ]
