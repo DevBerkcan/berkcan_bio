@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0h5crtbqy",
+    "asin": "B0H5CRTBQY",
+    "title": "Dell Laptop mit Trade-In nochmals 80 Euro günstiger bekommen",
+    "category": "Computer",
+    "price": 429,
+    "checkedAt": "2026-11-27T16:50:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H5CRTBQY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T17:02:20.018Z"
+  },
+  {
+    "id": "auto-b075s35v6b",
+    "asin": "B075S35V6B",
+    "title": "Gore C5 Opti M XL Prime Bib Radhose Schwarz",
+    "category": "Tech",
+    "price": 44.46,
+    "checkedAt": "2026-11-27T16:52:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B075S35V6B.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T17:02:10.616Z"
+  },
+  {
+    "id": "auto-b003io05u0",
+    "asin": "B003IO05U0",
+    "title": "CETAPHIL Feuchtigkeitscreme, 453g, Für trockene, empfindliche Haut, …",
+    "category": "Beauty & Pflege",
+    "price": 16.63,
+    "checkedAt": "2026-11-27T16:57:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B003IO05U0.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T17:02:05.371Z"
+  },
+  {
     "id": "auto-b0dj9lhlj4",
     "asin": "B0DJ9LHLJ4",
     "title": "Horizon Zero Dawn Remastered ~ 19,00€",
@@ -2842,16 +2875,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DJ1VN1LF.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T17:20:14.753Z"
-  },
-  {
-    "id": "auto-b0dqvjt2ly",
-    "asin": "B0DQVJT2LY",
-    "title": "OSRAM Alexa Steckdose mit Matter over WiFi entwickelt für Alexa 2.300W …",
-    "category": "Smart Home",
-    "price": 8.99,
-    "checkedAt": "2026-11-26T16:51:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQVJT2LY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T17:05:33.376Z"
   }
 ]
