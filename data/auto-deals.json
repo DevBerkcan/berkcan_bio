@@ -1,5 +1,42 @@
 [
   {
+    "id": "auto-b07vfcjhfq",
+    "asin": "B07VFCJHFQ",
+    "title": "PDP Nintendo Switch FaceOff Wireless Deluxe Controller Afterglow",
+    "category": "Gaming",
+    "price": 19,
+    "checkedAt": "2026-11-27T12:48:51.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07VFCJHFQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T12:50:04.951Z"
+  },
+  {
+    "id": "auto-b0d6phpt2b",
+    "asin": "B0D6PHPT2B",
+    "title": "Metal Gear Solid Delta Snake Eater Deluxe Edition - Playstation 5",
+    "subtitle": "🔥 122° bei mydealz",
+    "category": "Gaming",
+    "price": 40,
+    "checkedAt": "2026-11-27T12:45:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D6PHPT2B.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 122,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T12:49:58.499Z"
+  },
+  {
+    "id": "auto-b0dt78zxgr",
+    "asin": "B0DT78ZXGR",
+    "title": "Fjällräven Hoja Seatbag Drybag 3.5",
+    "category": "Tech",
+    "price": 16.99,
+    "oldPrice": 24.98,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-27T12:46:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DT78ZXGR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T12:49:53.253Z"
+  },
+  {
     "id": "auto-b0bdf2z6tl",
     "asin": "B0BDF2Z6TL",
     "title": "Corasol Sprüche & Tee Adventskalender 2026 mit 24 Premium Tees …",
@@ -2778,16 +2815,5 @@
     "image": "https://m.media-amazon.com/images/P/B0HC49N9LD.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T12:54:00.160Z"
-  },
-  {
-    "id": "auto-b0cr1f4pcx",
-    "asin": "B0CR1F4PCX",
-    "title": "techno line WD 3050 WLAN mit Außensensor",
-    "category": "Tech",
-    "price": 66.29,
-    "checkedAt": "2026-11-26T12:36:58.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CR1F4PCX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T12:39:16.246Z"
   }
 ]
