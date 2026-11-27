@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b07k24p61j",
+    "asin": "B07K24P61J",
+    "title": "Winmau Steeldarts Pro-Line 23 g",
+    "category": "Tech",
+    "price": 30,
+    "checkedAt": "2026-11-27T10:27:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07K24P61J.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T10:35:51.513Z"
+  },
+  {
     "id": "auto-b097y5vcg4",
     "asin": "B097Y5VCG4",
     "title": "Schmidt 49195 Spielesammlung mit 300 Spielemöglichkeiten",
@@ -2674,40 +2685,5 @@
     "image": "https://static.mydealz.de/threads/raw/ybOKR/2882309_1/re/768x768/qt/55/2882309_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T10:55:49.464Z"
-  },
-  {
-    "id": "auto-b01n5vhlug",
-    "asin": "B01N5VHLUG",
-    "title": "Philips Fidelio X2 Over Ear High Resolution Wired Headphones, Acoustic …",
-    "category": "Audio",
-    "price": 89.99,
-    "checkedAt": "2026-11-26T10:32:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01N5VHLUG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T10:41:09.341Z"
-  },
-  {
-    "id": "auto-b084gqbblr",
-    "asin": "B084GQBBLR",
-    "title": "Einhell Akku-Rasenmäher GE-cm 36/36 Li Kit",
-    "category": "Werkzeug",
-    "price": 202.99,
-    "checkedAt": "2026-11-26T10:33:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B084GQBBLR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T10:41:04.262Z"
-  },
-  {
-    "id": "auto-b08xv4d43k",
-    "asin": "B08XV4D43K",
-    "title": "Wera 05008873001 Kraftform Kompakt Stubby 1 Schraubendreher mit Bit …",
-    "subtitle": "🔥 506° bei mydealz",
-    "category": "Werkzeug",
-    "price": 14.39,
-    "checkedAt": "2026-11-26T10:27:43.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08XV4D43K.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 506,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T10:40:58.891Z"
   }
 ]
