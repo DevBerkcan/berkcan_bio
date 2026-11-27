@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0fms3v43j",
+    "asin": "B0FMS3V43J",
+    "title": "Sunday Natural Magnesium Komplex – 240 Kapseln - 400mg pro Tag - aus 7 …",
+    "category": "Tech",
+    "price": 16.06,
+    "checkedAt": "2026-11-27T21:55:08.000Z",
+    "image": "https://static.mydealz.de/threads/raw/HcAxy/2884384_1/re/768x768/qt/55/2884384_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T22:10:58.746Z"
+  },
+  {
+    "id": "auto-b0d2xx2mc7",
+    "asin": "B0D2XX2MC7",
+    "title": "Hyte THICC Q60 AiO-Wasserkühler",
+    "category": "Tech",
+    "price": 57.88,
+    "checkedAt": "2026-11-27T21:58:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D2XX2MC7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T22:10:52.088Z"
+  },
+  {
     "id": "auto-b0h7fddf7s",
     "asin": "B0H7FDDF7S",
     "title": "Tangle Teezer The Complete Carebrush – glattes bis welliges Haar",
@@ -2560,17 +2582,6 @@
     "telegramPostedAt": "2026-11-26T23:00:58.017Z"
   },
   {
-    "id": "auto-b003y07xqc",
-    "asin": "B003Y07XQC",
-    "title": "Ravensburger Paw Patrol Junior Labyrinth (20799), Kinderspiel ab 4 …",
-    "category": "Spielzeug & LEGO",
-    "price": 9.36,
-    "checkedAt": "2026-11-26T22:09:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B003Y07XQC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T22:46:15.423Z"
-  },
-  {
     "id": "auto-b0cfy1xw6l",
     "asin": "B0CFY1XW6L",
     "title": "Ravensburger GraviTrax Action-Set Twist (22576), Kugelbahn ab 8 Jahren",
@@ -2639,17 +2650,6 @@
     "telegramPostedAt": "2026-11-26T22:31:15.721Z"
   },
   {
-    "id": "auto-b017k62x2o",
-    "asin": "B017K62X2O",
-    "title": "ghd perfect ending Final Fix Haarspray 400 ml",
-    "category": "Tech",
-    "price": 7.45,
-    "checkedAt": "2026-11-26T22:08:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B017K62X2O.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T22:16:38.328Z"
-  },
-  {
     "id": "auto-b0fqcjk6m1",
     "asin": "B0FQCJK6M1",
     "title": "Baseus EH10 NC Over-Ear ANC-Kopfhörer, Weiß oder Rosa",
@@ -2672,32 +2672,6 @@
     "telegramPostedAt": "2026-11-26T22:16:27.239Z"
   },
   {
-    "id": "auto-b0d98ktx3q",
-    "asin": "B0D98KTX3Q",
-    "title": "Braun ThermoScan 7+ Connect Ohrthermometer (IRT6575) mit Age Precision …",
-    "subtitle": "🔥 100° bei mydealz",
-    "category": "Tech",
-    "price": 45.49,
-    "checkedAt": "2026-11-26T22:02:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D98KTX3Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 100,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T22:16:21.631Z"
-  },
-  {
-    "id": "auto-b0gznxftqc",
-    "asin": "B0GZNXFTQC",
-    "title": "Philips Sonicare DiamondClean 8000 - HX8312/11 Weiß und HX8312/14 …",
-    "subtitle": "🔥 112° bei mydealz",
-    "category": "Beauty & Pflege",
-    "price": 199.99,
-    "checkedAt": "2026-11-26T22:01:59.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GZNXFTQC.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 112,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T22:16:16.383Z"
-  },
-  {
     "id": "auto-b0fjy32xf6",
     "asin": "B0FJY32XF6",
     "title": "Battlefield 6 Phantom Edition",
@@ -2709,16 +2683,5 @@
     "temperature": 311,
     "source": "auto",
     "telegramPostedAt": "2026-11-26T22:16:11.222Z"
-  },
-  {
-    "id": "auto-b0bk9dkk4x",
-    "asin": "B0BK9DKK4X",
-    "title": "Puma Unisex Rebound V6Sneaker",
-    "category": "Mode & Reise",
-    "price": 27.49,
-    "checkedAt": "2026-11-26T21:58:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BK9DKK4X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T22:01:27.524Z"
   }
 ]
