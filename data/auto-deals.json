@@ -1,5 +1,51 @@
 [
   {
+    "id": "auto-b0dwgvm7ry",
+    "asin": "B0DWGVM7RY",
+    "title": "Kartenspiel Flip 7",
+    "category": "Spielzeug & LEGO",
+    "price": 7.99,
+    "checkedAt": "2026-11-27T06:40:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DWGVM7RY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:20:14.116Z"
+  },
+  {
+    "id": "auto-b0gcf4mpd5",
+    "asin": "B0GCF4MPD5",
+    "title": "Tapo RV50 Pro Omni Saugroboter mit Wischfunktion",
+    "category": "Smart Home",
+    "price": 329.9,
+    "checkedAt": "2026-11-27T07:12:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GCF4MPD5.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:20:08.925Z"
+  },
+  {
+    "id": "auto-b0fr2dr243",
+    "asin": "B0FR2DR243",
+    "title": "Menz Premium Weihnachtsbaum künstlich 200 cm",
+    "category": "Tech",
+    "price": 66,
+    "checkedAt": "2026-11-27T07:17:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FR2DR243.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:20:03.649Z"
+  },
+  {
+    "id": "auto-b0756f8gn2",
+    "asin": "B0756F8GN2",
+    "title": "Skechers Delson - Camben Gr 39 bis 50,5",
+    "subtitle": "🔥 632° bei mydealz",
+    "category": "Tech",
+    "price": 32.94,
+    "checkedAt": "2026-11-27T07:14:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0756F8GN2.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 632,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:19:58.183Z"
+  },
+  {
     "id": "auto-b0g82qs249",
     "asin": "B0G82QS249",
     "title": "Revell Iron Maiden Spitfire MK.II Aces High - Bricksystem - …",
@@ -100,7 +146,8 @@
     "price": 8.89,
     "checkedAt": "2026-11-27T05:52:37.000Z",
     "image": "https://m.media-amazon.com/images/P/B001HN6EF4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:20:18.646Z"
   },
   {
     "id": "auto-b07fcyx4d9",
@@ -229,7 +276,8 @@
     "price": 7.49,
     "checkedAt": "2026-11-27T05:44:00.000Z",
     "image": "https://static.mydealz.de/threads/raw/FXAyY/2883214_1/re/768x768/qt/55/2883214_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:20:28.019Z"
   },
   {
     "id": "auto-b01m4lltxb",
@@ -239,7 +287,8 @@
     "price": 7.99,
     "checkedAt": "2026-11-27T05:45:00.000Z",
     "image": "https://m.media-amazon.com/images/P/B01M4LLTXB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T07:20:23.235Z"
   },
   {
     "id": "auto-b0cychtgkc",
@@ -2447,16 +2496,5 @@
     "temperature": 102,
     "source": "auto",
     "telegramPostedAt": "2026-11-26T07:28:04.780Z"
-  },
-  {
-    "id": "auto-b001c9zro2",
-    "asin": "B001C9ZRO2",
-    "title": "Hazet Wasserpumpenzange/Universalzange 310mm",
-    "category": "Werkzeug",
-    "price": 57.53,
-    "checkedAt": "2026-11-26T07:12:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B001C9ZRO2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T07:13:16.606Z"
   }
 ]
