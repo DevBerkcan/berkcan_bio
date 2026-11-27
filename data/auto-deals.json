@@ -1,5 +1,37 @@
 [
   {
+    "id": "auto-b001kovd7y",
+    "asin": "B001KOVD7Y",
+    "title": "Güde Druckluft-Set 3-tlg. Metall",
+    "category": "Tech",
+    "price": 8.54,
+    "checkedAt": "2026-11-27T00:17:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B001KOVD7Y.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b00725ar9u",
+    "asin": "B00725AR9U",
+    "title": "RUKO | HSS Einschnittgewindeschneider-Set + Kernbohrer | M3-M12",
+    "category": "Werkzeug",
+    "price": 38.83,
+    "checkedAt": "2026-11-27T00:25:48.000Z",
+    "image": "https://static.mydealz.de/threads/raw/cXHGM/2883111_1/re/768x768/qt/55/2883111_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0gxkrp7fm",
+    "asin": "B0GXKRP7FM",
+    "title": "TCL 75Q7D Pro 75 Zoll (190 cm) 4K SQD-Mini LED TV – Amazon Black …",
+    "category": "TV & Heimkino",
+    "price": 999,
+    "oldPrice": 1649,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-27T00:24:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GXKRP7FM.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0h8prrxfb",
     "asin": "B0H8PRRXFB",
     "title": "vivo X300 FE 5G Smartphone",
