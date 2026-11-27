@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0dc74whyv",
+    "asin": "B0DC74WHYV",
+    "title": "PHILIPS OneBlade Pro 360 Face & Body - elektrischer Rasierer, Trimmer …",
+    "category": "Beauty & Pflege",
+    "price": 94.05,
+    "checkedAt": "2026-11-27T20:56:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DC74WHYV.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T20:57:12.199Z"
+  },
+  {
     "id": "auto-b0fqc8qwm5",
     "asin": "B0FQC8QWM5",
     "title": "LISEN Qi2.0 15W Magsafe magn. Powerbank Ultraflach Slim +Kabel 5000mAh …",
@@ -2614,29 +2625,6 @@
     "telegramPostedAt": "2026-11-26T21:46:30.944Z"
   },
   {
-    "id": "queue-b0fdbfdwld",
-    "asin": "B0FDBFDWLD",
-    "title": "Sony WF-C710N In-Ear-Kopfhörer mit ANC",
-    "subtitle": "True Wireless mit Noise Cancelling, Multipoint, IPX4 und bis zu 40 Std. Akku.",
-    "category": "Audio",
-    "price": 59.99,
-    "checkedAt": "2026-11-26T20:46:55.000Z",
-    "image": "https://static.mydealz.de/threads/raw/H5wiN/2882888_1/re/768x768/qt/55/2882888_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T21:46:25.731Z"
-  },
-  {
-    "id": "auto-b0cqtcpws1",
-    "asin": "B0CQTCPWS1",
-    "title": "Die Quacksalber von Quedlinburg Das Duell - Brettspiel, Familienspiel …",
-    "category": "Spielzeug & LEGO",
-    "price": 13.66,
-    "checkedAt": "2026-11-26T20:43:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CQTCPWS1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T21:32:00.598Z"
-  },
-  {
     "id": "auto-b07c5vmjpw",
     "asin": "B07C5VMJPW",
     "title": "CeraVe Feuchtigkeitscreme 177 ml für Körper & Gesicht",
@@ -2670,39 +2658,6 @@
     "telegramPostedAt": "2026-11-26T21:17:13.423Z"
   },
   {
-    "id": "auto-b07bb338ls",
-    "asin": "B07BB338LS",
-    "title": "Panasonic SC-HTB254 2.1-Soundbar mit kabellosem Subwoofer",
-    "category": "TV & Heimkino",
-    "price": 99,
-    "checkedAt": "2026-11-26T20:52:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07BB338LS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T21:02:25.676Z"
-  },
-  {
-    "id": "auto-b09h2s98mk",
-    "asin": "B09H2S98MK",
-    "title": "INIU Wireless Charger, 15 W Fast Inductive Charging Station with LED",
-    "category": "Zubehör & Laden",
-    "price": 13.27,
-    "checkedAt": "2026-11-26T20:53:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09H2S98MK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T21:02:16.295Z"
-  },
-  {
-    "id": "auto-b0g2vd9364",
-    "asin": "B0G2VD9364",
-    "title": "Huawei WiFi Mesh X3 Pro Suite, Router + Verstärker",
-    "category": "Computer",
-    "price": 186.99,
-    "checkedAt": "2026-11-26T20:55:36.000Z",
-    "image": "https://static.mydealz.de/threads/raw/cO3nt/2882897_1/re/768x768/qt/55/2882897_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T21:02:10.537Z"
-  },
-  {
     "id": "auto-b0c3838d3h",
     "asin": "B0C3838D3H",
     "title": "Beats Studio Buds+ In-Ear Kopfhörer, 36 Std. Akku",
@@ -2712,29 +2667,5 @@
     "image": "https://m.media-amazon.com/images/P/B0C3838D3H.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T21:02:04.343Z"
-  },
-  {
-    "id": "auto-b01b1j95m2",
-    "asin": "B01B1J95M2",
-    "title": "Philips Sonicare For Kids HX6322/04 elektrische Schallzahnbürste für …",
-    "category": "Beauty & Pflege",
-    "price": 32.92,
-    "oldPrice": 59.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-26T20:55:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01B1J95M2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T21:01:58.420Z"
-  },
-  {
-    "id": "auto-b08h96w864",
-    "asin": "B08H96W864",
-    "title": "PlayStation 5 Medienfernbedienung PS5 Fernbedienung",
-    "category": "Gaming",
-    "price": 19.99,
-    "checkedAt": "2026-11-26T20:42:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08H96W864.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T20:47:20.511Z"
   }
 ]
