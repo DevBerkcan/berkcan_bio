@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0g3b69ph7",
+    "asin": "B0G3B69PH7",
+    "title": "Wizard 30-Jahre-Edition",
+    "category": "Spielzeug & LEGO",
+    "price": 14.99,
+    "checkedAt": "2026-11-27T09:17:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G3B69PH7.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T09:51:15.451Z"
+  },
+  {
+    "id": "auto-b007427sac",
+    "asin": "B007427SAC",
+    "title": "Kräuterhof Pferdebalsam Wärmend Extra Stark (500ml)",
+    "category": "Tech",
+    "price": 6.39,
+    "checkedAt": "2026-11-27T09:37:06.000Z",
+    "image": "https://static.mydealz.de/threads/raw/5V5xG/2883544_1/re/768x768/qt/55/2883544_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T09:51:10.183Z"
+  },
+  {
+    "id": "auto-b000mlu6qu",
+    "asin": "B000MLU6QU",
+    "title": "Victorinox Electrician Alox silber - Taschenmesser",
+    "category": "Küche",
+    "price": 28.44,
+    "checkedAt": "2026-11-27T09:37:16.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000MLU6QU.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T09:51:03.890Z"
+  },
+  {
+    "id": "auto-b08dmt72f4",
+    "asin": "B08DMT72F4",
+    "title": "Hisense WD3S8043BB3 Waschtrockner",
+    "category": "Haushalt",
+    "price": 380.9,
+    "checkedAt": "2026-11-27T09:40:26.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08DMT72F4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T09:50:58.624Z"
+  },
+  {
     "id": "auto-b0fgprbfwj",
     "asin": "B0FGPRBFWJ",
     "title": "Fractal Design North Momentum Edition PC-Gehäuse",
@@ -2632,39 +2676,6 @@
     "telegramPostedAt": "2026-11-26T10:11:15.155Z"
   },
   {
-    "id": "auto-b0cbnj4fpz",
-    "asin": "B0CBNJ4FPZ",
-    "title": "Jack & Jones Herren Jeans Jjiglenn Jjoriginal Sq 349 Noos",
-    "category": "Mode & Reise",
-    "price": 15.9,
-    "checkedAt": "2026-11-26T09:39:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CBNJ4FPZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T09:56:35.785Z"
-  },
-  {
-    "id": "auto-b002gkc0v4",
-    "asin": "B002GKC0V4",
-    "title": "Hultafors Holzaxt HY 10-1,5 SV, 840185",
-    "category": "Tech",
-    "price": 72.5,
-    "checkedAt": "2026-11-26T09:43:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B002GKC0V4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T09:56:30.792Z"
-  },
-  {
-    "id": "auto-b0gk96slmr",
-    "asin": "B0GK96SLMR",
-    "title": "HP Omnibook 3 17,3“ 16 GB RAM 512 GB SSD",
-    "category": "Computer",
-    "price": 699,
-    "checkedAt": "2026-11-26T09:49:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GK96SLMR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T09:56:25.817Z"
-  },
-  {
     "id": "auto-b0fbsf3ycy",
     "asin": "B0FBSF3YCY",
     "title": "Amazon Retourenkauf Bosch Waschmaschine Serie 6 WUU28T71",
@@ -2674,19 +2685,6 @@
     "image": "https://m.media-amazon.com/images/P/B0FBSF3YCY.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T09:56:20.396Z"
-  },
-  {
-    "id": "auto-b09qqs92gp",
-    "asin": "B09QQS92GP",
-    "title": "Braun Silk-expert Pro 5 PL5157 IPL Haarentfernungsgerät",
-    "subtitle": "🔥 137° bei mydealz",
-    "category": "Tech",
-    "price": 279.99,
-    "checkedAt": "2026-11-26T09:46:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09QQS92GP.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 137,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T09:56:13.582Z"
   },
   {
     "id": "auto-b0dw98nn53",
@@ -2700,16 +2698,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DW98NN53.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T09:56:08.356Z"
-  },
-  {
-    "id": "auto-b07mldjf3b",
-    "asin": "B07MLDJF3B",
-    "title": "Amazon Basics AAA-Alkali-Batterien (40 Stück, 1,5 V)",
-    "category": "Tech",
-    "price": 5.97,
-    "checkedAt": "2026-11-26T09:37:21.000Z",
-    "image": "https://static.mydealz.de/threads/raw/ZotWF/2882230_1/re/768x768/qt/55/2882230_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T09:41:25.160Z"
   }
 ]
