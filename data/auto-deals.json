@@ -1,5 +1,88 @@
 [
   {
+    "id": "auto-b0bjklqw15",
+    "asin": "B0BJKLQW15",
+    "title": "Beurer HD 75 Heizdecke Dark Grey",
+    "category": "Tech",
+    "price": 44.99,
+    "checkedAt": "2026-11-27T08:35:14.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BJKLQW15.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:51:27.863Z"
+  },
+  {
+    "id": "auto-b0dqd457kx",
+    "asin": "B0DQD457KX",
+    "title": "INIU Ultra Mini Powerbank 10000mAh 45W Schnellladen mit USB C Kabel",
+    "category": "Zubehör & Laden",
+    "price": 32.27,
+    "checkedAt": "2026-11-27T08:38:52.000Z",
+    "image": "https://static.mydealz.de/threads/raw/jcOJR/2883446_1/re/768x768/qt/55/2883446_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:51:22.638Z"
+  },
+  {
+    "id": "auto-b0gtnqz7r8",
+    "asin": "B0GTNQZ7R8",
+    "title": "Huawei Watch Fit 5 Pro schwarz",
+    "category": "Tech",
+    "price": 217.69,
+    "checkedAt": "2026-11-27T08:43:57.000Z",
+    "image": "https://static.mydealz.de/threads/raw/dlsl5/2883459_1/re/768x768/qt/55/2883459_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:51:16.436Z"
+  },
+  {
+    "id": "auto-b094y8fhbg",
+    "asin": "B094Y8FHBG",
+    "title": "Gentle North Kopfkissen 80x80 cm im 2er-Set, Ökotex zertifiziert",
+    "category": "Tech",
+    "price": 21.75,
+    "oldPrice": 26.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-27T08:41:09.000Z",
+    "image": "https://static.mydealz.de/threads/raw/uoTCC/2883452_1/re/768x768/qt/55/2883452_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:51:10.549Z"
+  },
+  {
+    "id": "queue-b0cw3jpzgd",
+    "asin": "B0CW3JPZGD",
+    "title": "Elden Ring Shadow of the Erdtree Edition (PS5)",
+    "subtitle": "Hauptspiel plus Shadow-of-the-Erdtree-DLC in einer Edition für die PS5.",
+    "category": "Gaming",
+    "price": 49.99,
+    "checkedAt": "2026-11-27T03:58:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CW3JPZGD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:50:52.790Z"
+  },
+  {
+    "id": "queue-b0fp8znfxw",
+    "asin": "B0FP8ZNFXW",
+    "title": "Alloytool Zubehörsets für Roborock Saugroboter",
+    "subtitle": "Ersatzteilsets mit 4–41 Teilen für Qrevo, Saros, S7, S8, Q5, Q7, Q8 u. a.",
+    "category": "Haushalt",
+    "price": 16.65,
+    "oldPrice": 39.99,
+    "checkedAt": "2026-11-27T06:45:41.000Z",
+    "image": "https://static.mydealz.de/threads/raw/4n9gy/2883276_1/re/768x768/qt/55/2883276_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:50:48.290Z"
+  },
+  {
+    "id": "queue-b0gsgyh7vh",
+    "asin": "B0GSGYH7VH",
+    "title": "LG OLED83B68LA 83 Zoll OLED-TV (2026)",
+    "subtitle": "83-Zoll-OLED mit 4K, 120 Hz, VRR, α8 Gen3 Prozessor und webOS 26.",
+    "category": "TV & Heimkino",
+    "price": 2099,
+    "checkedAt": "2026-11-27T00:11:13.000Z",
+    "image": "https://static.mydealz.de/threads/raw/D5NWp/2883100_1/re/768x768/qt/55/2883100_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:50:42.661Z"
+  },
+  {
     "id": "auto-b0h3vy5b67",
     "asin": "B0H3VY5B67",
     "title": "Revell Engineers Adventskalender Ultra Crane",
@@ -2522,49 +2605,5 @@
     "image": "https://m.media-amazon.com/images/P/B01AZEOK0Q.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T09:11:57.034Z"
-  },
-  {
-    "id": "auto-b0gtvwlf2t",
-    "asin": "B0GTVWLF2T",
-    "title": "Baseus 45W USB C Ladegerät 2-Pack+Kabel GaN Schnellladegerät PPS PD3.2 …",
-    "category": "Zubehör & Laden",
-    "price": 25.99,
-    "checkedAt": "2026-11-26T08:43:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/gB14a/2882186_1/re/768x768/qt/55/2882186_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T08:57:18.910Z"
-  },
-  {
-    "id": "auto-b0fwcnk8mw",
-    "asin": "B0FWCNK8MW",
-    "title": "MSI MAG 27CQ6F 27\" WQHD Curved Gaming-Monitor",
-    "category": "Computer",
-    "price": 149,
-    "checkedAt": "2026-11-26T08:48:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FWCNK8MW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T08:57:11.779Z"
-  },
-  {
-    "id": "auto-b0dj1vg6dw",
-    "asin": "B0DJ1VG6DW",
-    "title": "Playstation DualSense Wireless-Controller - Chroma Teal",
-    "category": "Gaming",
-    "price": 59.99,
-    "checkedAt": "2026-11-26T08:50:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJ1VG6DW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T08:57:06.517Z"
-  },
-  {
-    "id": "auto-b00mpqne1e",
-    "asin": "B00MPQNE1E",
-    "title": "Meukow VSOP 700 ml Cognac im Prime Sparabo",
-    "category": "Tech",
-    "price": 27.67,
-    "checkedAt": "2026-11-26T08:37:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00MPQNE1E.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T08:42:10.398Z"
   }
 ]
