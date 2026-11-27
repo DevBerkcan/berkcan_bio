@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b09x7bk27v",
+    "asin": "B09X7BK27V",
+    "title": "SanDisk 128GB Extreme V30 U3 MicroSD",
+    "category": "Computer",
+    "price": 24.99,
+    "checkedAt": "2026-11-27T02:02:45.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09X7BK27V.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0f2jbgw18",
+    "asin": "B0F2JBGW18",
+    "title": "LG OLED65G59LS TV 65 Zoll (165 cm) 4K OLED evo AI TV)",
+    "category": "TV & Heimkino",
+    "price": 1388,
+    "checkedAt": "2026-11-27T02:09:52.000Z",
+    "image": "https://static.mydealz.de/threads/raw/15DEE/2883146_1/re/768x768/qt/55/2883146_1.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0b7nkldxw",
     "asin": "B0B7NKLDXW",
     "title": "Tapo TP-Link Smart WiFi Socket P110 with Energy Consumption Meter, …",
@@ -2400,16 +2420,6 @@
     "price": 16.55,
     "checkedAt": "2026-11-26T03:14:49.000Z",
     "image": "https://m.media-amazon.com/images/P/B0H2JLN2CZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b08z4h7l2l",
-    "asin": "B08Z4H7L2L",
-    "title": "Sony HT-S40R 5.1ch 600W Soundbar for TV with Subwoofer and Wireless",
-    "category": "TV & Heimkino",
-    "price": 192.44,
-    "checkedAt": "2026-11-26T02:04:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08Z4H7L2L.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   }
 ]
