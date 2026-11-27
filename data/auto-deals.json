@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b00ug9hb1q",
+    "asin": "B00UG9HB1Q",
+    "title": "Amazon Basics Tresor 14 Liter - ideal für eure Black Friday Dealz",
+    "category": "Tech",
+    "price": 42.52,
+    "oldPrice": 57.54,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-27T15:51:49.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00UG9HB1Q.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T16:02:40.973Z"
+  },
+  {
     "id": "auto-b0hd7ndbwb",
     "asin": "B0HD7NDBWB",
     "title": "2x Anker Bonusaktion 150W USB-C + 45W Anker Nano + 5€ Coupon Ladegerät …",
@@ -2862,16 +2875,5 @@
     "image": "https://static.mydealz.de/threads/raw/YZD0r/2882618_1/re/768x768/qt/55/2882618_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T16:20:57.239Z"
-  },
-  {
-    "id": "auto-b08x3pvnbp",
-    "asin": "B08X3PVNBP",
-    "title": "Jack & Jones Herren Jeans Jjichris Jjoriginal SBD 920 Noos",
-    "category": "Mode & Reise",
-    "price": 22.72,
-    "checkedAt": "2026-11-26T15:49:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08X3PVNBP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T15:51:39.901Z"
   }
 ]
