@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b01n7newid",
+    "asin": "B01N7NEWID",
+    "title": "Geschenk Idee/ Swarovski Kristall / S.Oliver/",
+    "category": "Tech",
+    "price": 18,
+    "checkedAt": "2026-11-27T19:17:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B01N7NEWID.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T19:28:53.225Z"
+  },
+  {
     "id": "auto-b07pq8pg7p",
     "asin": "B07PQ8PG7P",
     "title": "Theo Klein 6812 Bosch Unlimited Kinder-Staubsauger",
@@ -2667,17 +2678,6 @@
     "telegramPostedAt": "2026-11-26T20:32:31.026Z"
   },
   {
-    "id": "auto-b0f3jmmcbn",
-    "asin": "B0F3JMMCBN",
-    "title": "Pokémon Sammelkartenspiel: Super-Premium-Kollektion Prismatische …",
-    "category": "Spielzeug & LEGO",
-    "price": 104.99,
-    "checkedAt": "2026-11-26T19:28:05.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F3JMMCBN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T20:17:50.927Z"
-  },
-  {
     "id": "auto-b09xqyd3b6",
     "asin": "B09XQYD3B6",
     "title": "Garmin Varia RCT716 - Radar Rücklicht mit Cam",
@@ -2781,38 +2781,5 @@
     "image": "https://m.media-amazon.com/images/P/B0D7QD5236.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T19:47:46.881Z"
-  },
-  {
-    "id": "auto-b0d6bts8xg",
-    "asin": "B0D6BTS8XG",
-    "title": "Timberland Basic Stiefel",
-    "category": "Tech",
-    "price": 96.25,
-    "checkedAt": "2026-11-26T19:21:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D6BTS8XG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T19:33:03.542Z"
-  },
-  {
-    "id": "auto-b0f6yx4djs",
-    "asin": "B0F6YX4DJS",
-    "title": "Ghost of Yotei (PS5)",
-    "category": "Gaming",
-    "price": 24.99,
-    "checkedAt": "2026-11-26T19:23:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F6YX4DJS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T19:32:58.219Z"
-  },
-  {
-    "id": "auto-b0gnzrm3lb",
-    "asin": "B0GNZRM3LB",
-    "title": "Nikon PROSTAFF P7 10x50",
-    "category": "Tech",
-    "price": 197.1,
-    "checkedAt": "2026-11-26T19:27:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GNZRM3LB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T19:32:52.913Z"
   }
 ]
