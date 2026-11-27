@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0dkkl9152",
+    "asin": "B0DKKL9152",
+    "title": "Philips Steam Airfryer 5000 Dual Basket NA550/00",
+    "category": "Küche",
+    "price": 147.99,
+    "checkedAt": "2026-11-27T17:31:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DKKL9152.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T17:46:21.996Z"
+  },
+  {
     "id": "auto-b0f9x7f7wt",
     "asin": "B0F9X7F7WT",
     "title": "Hitster - Rock (DE) Brettspiel",
@@ -2875,16 +2886,5 @@
     "image": "https://m.media-amazon.com/images/P/B0CG19FGQ5.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T17:49:51.811Z"
-  },
-  {
-    "id": "auto-b09rnp7znk",
-    "asin": "B09RNP7ZNK",
-    "title": "Blu-ray: James Bond - The Daniel Craig 5-Movie-Collection",
-    "category": "Bücher & Filme",
-    "price": 27.66,
-    "checkedAt": "2026-11-26T17:32:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09RNP7ZNK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T17:35:02.646Z"
   }
 ]
