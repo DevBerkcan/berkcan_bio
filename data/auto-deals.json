@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0fjmc68qr",
+    "asin": "B0FJMC68QR",
+    "title": "Bitzee Hundehaus Doghouse [prime]",
+    "category": "Spielzeug & LEGO",
+    "price": 7.99,
+    "checkedAt": "2026-11-27T13:40:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FJMC68QR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T14:18:59.982Z"
+  },
+  {
+    "id": "auto-b0bv288knz",
+    "asin": "B0BV288KNZ",
+    "title": "Einhell Handstaubsauger TE-HV 18/06 Li - Solo",
+    "category": "Haushalt",
+    "price": 43.99,
+    "checkedAt": "2026-11-27T14:10:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BV288KNZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T14:18:54.813Z"
+  },
+  {
     "id": "auto-b06xj3mfmn",
     "asin": "B06XJ3MFMN",
     "title": "Krups Nespresso Essenza Mini XN1101 (weiß)",
@@ -2801,40 +2823,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DSC47H9Z.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T14:37:44.702Z"
-  },
-  {
-    "id": "auto-b0fdbgggpk",
-    "asin": "B0FDBGGGPK",
-    "title": "ASUS Laptop - 17,3 Zoll FHD Display - Intel Core 3 Prozessor 100U, 6 x …",
-    "category": "Computer",
-    "price": 471.75,
-    "checkedAt": "2026-11-26T14:12:49.000Z",
-    "image": "https://static.mydealz.de/threads/raw/Lfl7k/2882494_1/re/768x768/qt/55/2882494_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T14:23:08.869Z"
-  },
-  {
-    "id": "auto-b0ftfl84j6",
-    "asin": "B0FTFL84J6",
-    "title": "YAMAHA ARIUS YDP-105 Digitalpiano, Weiß / Schwarz/ Rosenholz -88 …",
-    "category": "Tech",
-    "price": 658.48,
-    "checkedAt": "2026-11-26T14:17:17.000Z",
-    "image": "https://static.mydealz.de/threads/raw/D3wKL/2882501_1/re/768x768/qt/55/2882501_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T14:22:53.934Z"
-  },
-  {
-    "id": "auto-b0f339nfxj",
-    "asin": "B0F339NFXJ",
-    "title": "Sammeldeal",
-    "category": "Tech",
-    "price": 189.99,
-    "oldPrice": 463.75,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-26T14:10:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F339NFXJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T14:22:47.688Z"
   }
 ]
