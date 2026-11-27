@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0dk4vr9wc",
+    "asin": "B0DK4VR9WC",
+    "title": "adidas Unisex Linear gepolsterte Crew Socken im 6er-Pack",
+    "category": "Audio",
+    "price": 10.85,
+    "checkedAt": "2026-11-27T20:01:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DK4VR9WC.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T20:13:16.504Z"
+  },
+  {
     "id": "auto-b0cqcbmyjt",
     "asin": "B0CQCBMYJT",
     "title": "Jack & Jones 2er-Pack",
@@ -2772,17 +2783,6 @@
     "telegramPostedAt": "2026-11-26T20:32:31.026Z"
   },
   {
-    "id": "auto-b09xqyd3b6",
-    "asin": "B09XQYD3B6",
-    "title": "Garmin Varia RCT716 - Radar Rücklicht mit Cam",
-    "category": "Tech",
-    "price": 279.95,
-    "checkedAt": "2026-11-26T20:06:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09XQYD3B6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T20:17:45.366Z"
-  },
-  {
     "id": "auto-b0hq7l2dyp",
     "asin": "B0HQ7L2DYP",
     "title": "Segway-Ninebot F3 Pro D, E-Scooter",
@@ -2792,29 +2792,5 @@
     "image": "https://static.mydealz.de/threads/raw/ivOSh/2882845_1/re/768x768/qt/55/2882845_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T20:17:40.010Z"
-  },
-  {
-    "id": "auto-b07w8qxlck",
-    "asin": "B07W8QXLCK",
-    "title": "Bose Portable Home Speaker Schwarz – WLAN, Bluetooth, AirPlay 2, …",
-    "category": "Audio",
-    "price": 199.95,
-    "oldPrice": 419.95,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-26T20:11:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07W8QXLCK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T20:17:33.783Z"
-  },
-  {
-    "id": "auto-b0ggmtng4s",
-    "asin": "B0GGMTNG4S",
-    "title": "GL.iNet GL-MT5000 Brume 3 ohne WLAN - z.B. für Tailscale Wireguard VPN",
-    "category": "Tech",
-    "price": 107.19,
-    "checkedAt": "2026-11-26T19:58:31.000Z",
-    "image": "https://static.mydealz.de/threads/raw/n6gsp/2882830_1/re/768x768/qt/55/2882830_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T20:02:43.573Z"
   }
 ]
