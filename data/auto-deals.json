@@ -1,5 +1,38 @@
 [
   {
+    "id": "auto-b0cwh3fmks",
+    "asin": "B0CWH3FMKS",
+    "title": "LEGO Star Wars C-3PO - 75398",
+    "category": "Spielzeug & LEGO",
+    "price": 88.99,
+    "checkedAt": "2026-11-27T07:52:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CWH3FMKS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:20:55.805Z"
+  },
+  {
+    "id": "auto-b0dnmzgbjy",
+    "asin": "B0DNMZGBJY",
+    "title": "BarberBoss Haarschneidemaschine, Bartschneider-Set, Präzisionstrimmer …",
+    "category": "Beauty & Pflege",
+    "price": 20.19,
+    "checkedAt": "2026-11-27T08:15:50.000Z",
+    "image": "https://static.mydealz.de/threads/raw/G3obj/2883402_1/re/768x768/qt/55/2883402_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:20:50.168Z"
+  },
+  {
+    "id": "auto-b001iles12",
+    "asin": "B001ILES12",
+    "title": "Lattenhammer 600g Fieberglasstiel",
+    "category": "Tech",
+    "price": 7.49,
+    "checkedAt": "2026-11-27T08:17:34.000Z",
+    "image": "https://m.media-amazon.com/images/P/B001ILES12.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:20:43.694Z"
+  },
+  {
     "id": "auto-b0d73yq17q",
     "asin": "B0D73YQ17Q",
     "title": "Schiesser Schlafanzug, Pyjama, langarm",
@@ -226,7 +259,8 @@
     "price": 169.99,
     "checkedAt": "2026-11-27T01:00:41.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FQF32239.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:21:04.288Z"
   },
   {
     "id": "auto-b0h3vr52xr",
@@ -537,7 +571,8 @@
     "price": 38.9,
     "checkedAt": "2026-11-27T01:15:17.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DFYNWF5J.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:21:00.052Z"
   },
   {
     "id": "auto-b0fzl5z8l6",
@@ -578,7 +613,8 @@
     "price": 116.99,
     "checkedAt": "2026-11-27T00:32:28.000Z",
     "image": "https://m.media-amazon.com/images/P/B0F9FNXCFP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:21:08.778Z"
   },
   {
     "id": "auto-b07fclbwd9",
@@ -610,7 +646,8 @@
     "price": 38.83,
     "checkedAt": "2026-11-27T00:25:48.000Z",
     "image": "https://static.mydealz.de/threads/raw/cXHGM/2883111_1/re/768x768/qt/55/2883111_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:21:13.620Z"
   },
   {
     "id": "auto-b0gxkrp7fm",
@@ -2525,16 +2562,5 @@
     "image": "https://m.media-amazon.com/images/P/B00MPQNE1E.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T08:42:10.398Z"
-  },
-  {
-    "id": "auto-b00o8tyf32",
-    "asin": "B00O8TYF32",
-    "title": "Somfy 1870848 - Funk-Temperatursensor",
-    "category": "Tech",
-    "price": 98.99,
-    "checkedAt": "2026-11-26T08:19:56.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00O8TYF32.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T08:27:23.762Z"
   }
 ]
