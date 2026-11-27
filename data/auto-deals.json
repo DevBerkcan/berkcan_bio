@@ -2805,29 +2805,5 @@
     "temperature": 1372,
     "source": "auto",
     "telegramPostedAt": "2026-11-26T19:03:26.735Z"
-  },
-  {
-    "id": "auto-b0cxtl9g7g",
-    "asin": "B0CXTL9G7G",
-    "title": "Old Spice Deep Sea Deostick für Männer, 6x50ml",
-    "category": "Tech",
-    "price": 14.2,
-    "checkedAt": "2026-11-26T18:35:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CXTL9G7G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T18:48:49.048Z"
-  },
-  {
-    "id": "auto-b0fpxd1gcr",
-    "asin": "B0FPXD1GCR",
-    "title": "LEGO Pokémon 72151 Evoli",
-    "category": "Spielzeug & LEGO",
-    "price": 32.94,
-    "oldPrice": 59.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-26T18:32:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXD1GCR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T18:33:53.660Z"
   }
 ]
