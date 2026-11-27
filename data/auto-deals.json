@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b07sg7r14h",
+    "asin": "B07SG7R14H",
+    "title": "STAR TREK - 3 Filme als Set - inkl. Into Darkness & Beyond - Blu-ray",
+    "subtitle": "🔥 107° bei mydealz",
+    "category": "Bücher & Filme",
+    "price": 12.32,
+    "checkedAt": "2026-11-27T13:21:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07SG7R14H.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 107,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T13:49:23.950Z"
+  },
+  {
     "id": "auto-b0bcs371wp",
     "asin": "B0BCS371WP",
     "title": "The Big Bang Theory - Die komplette Serie",
@@ -2799,27 +2812,5 @@
     "image": "https://m.media-amazon.com/images/P/B0C2RSJHS6.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T14:08:04.836Z"
-  },
-  {
-    "id": "auto-b0cw3mr87p",
-    "asin": "B0CW3MR87P",
-    "title": "Disney Epic Mickey: Rebrushed - Xbox Series X Xbox One Disc Version",
-    "category": "Gaming",
-    "price": 15.8,
-    "checkedAt": "2026-11-26T13:41:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CW3MR87P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T13:53:24.199Z"
-  },
-  {
-    "id": "auto-b0bklsj3tn",
-    "asin": "B0BKLSJ3TN",
-    "title": "Bosch Smart Home Raumthermostat II für kabelgebundene Heizsysteme",
-    "category": "Smart Home",
-    "price": 69.99,
-    "checkedAt": "2026-11-26T13:44:28.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BKLSJ3TN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T13:53:18.866Z"
   }
 ]
