@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0clwg3c96",
+    "asin": "B0CLWG3C96",
+    "title": "Columbia Fairbanks Mid, 0 für Herren",
+    "category": "Tech",
+    "price": 84,
+    "checkedAt": "2026-11-27T16:06:24.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CLWG3C96.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T16:17:42.915Z"
+  },
+  {
+    "id": "auto-b0b6p46ygz",
+    "asin": "B0B6P46YGZ",
+    "title": "Lindt Schokolade LINDOR Sharing",
+    "category": "Lebensmittel & Drinks",
+    "price": 8.69,
+    "checkedAt": "2026-11-27T16:09:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0B6P46YGZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T16:17:36.529Z"
+  },
+  {
+    "id": "auto-b01m0shbxj",
+    "asin": "B01M0SHBXJ",
+    "title": "XyliMelts Hafttabletten gegen Mundtrockenheit, Milde Minze 40 Stück",
+    "category": "Smartphone & Tablet",
+    "price": 13.72,
+    "checkedAt": "2026-11-27T16:12:42.000Z",
+    "image": "https://static.mydealz.de/threads/raw/vvYI1/2884095_1/re/768x768/qt/55/2884095_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T16:17:30.753Z"
+  },
+  {
+    "id": "auto-b0d17nvwmz",
+    "asin": "B0D17NVWMZ",
+    "title": "\"Amazon Prime\" Leifheit Wäscheständer Pegasus Family Black 18m …",
+    "category": "Tech",
+    "price": 33.98,
+    "checkedAt": "2026-11-27T16:14:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D17NVWMZ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T16:17:24.264Z"
+  },
+  {
     "id": "auto-b00ug9hb1q",
     "asin": "B00UG9HB1Q",
     "title": "Amazon Basics Tresor 14 Liter - ideal für eure Black Friday Dealz",
@@ -2820,60 +2864,5 @@
     "image": "https://static.mydealz.de/threads/raw/pw6Ps/2882637_1/re/768x768/qt/55/2882637_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T16:36:05.392Z"
-  },
-  {
-    "id": "auto-b0hbx9nhms",
-    "asin": "B0HBX9NHMS",
-    "title": "Sony WH-1000XM4C Kabellose Noise Cancelling Kopfhörer mit Apache 207 …",
-    "category": "Audio",
-    "price": 199,
-    "checkedAt": "2026-11-26T16:06:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HBX9NHMS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T16:21:19.671Z"
-  },
-  {
-    "id": "auto-b0bf76knsc",
-    "asin": "B0BF76KNSC",
-    "title": "Sonos Sub Mini (White) - Wi-Fi Subwoofer for Deep Bass",
-    "category": "Audio",
-    "price": 369,
-    "checkedAt": "2026-11-26T16:13:30.000Z",
-    "image": "https://static.mydealz.de/threads/raw/dbzRJ/2882617_1/re/768x768/qt/55/2882617_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T16:21:14.619Z"
-  },
-  {
-    "id": "auto-b0ch3pnrn8",
-    "asin": "B0CH3PNRN8",
-    "title": "Yaheetech 91cm Mini Artificial Christmas Tree, Table Christmas Tree, …",
-    "category": "Tech",
-    "price": 30.68,
-    "checkedAt": "2026-11-26T16:14:53.000Z",
-    "image": "https://static.mydealz.de/threads/raw/w3aJm/2882619_1/re/768x768/qt/55/2882619_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T16:21:08.696Z"
-  },
-  {
-    "id": "auto-b0fnsgnrdq",
-    "asin": "B0FNSGNRDQ",
-    "title": "Bruce Springsteen – Nebraska '82: Expanded Edition (Boxset) [prime]",
-    "category": "Tech",
-    "price": 77.22,
-    "checkedAt": "2026-11-26T16:14:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FNSGNRDQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T16:21:02.922Z"
-  },
-  {
-    "id": "auto-b0g35brltm",
-    "asin": "B0G35BRLTM",
-    "title": "Levi's Herren Jeanshose 505 mit Reißverschluss, Regular Fit",
-    "category": "Mode & Reise",
-    "price": 48.95,
-    "checkedAt": "2026-11-26T16:16:57.000Z",
-    "image": "https://static.mydealz.de/threads/raw/YZD0r/2882618_1/re/768x768/qt/55/2882618_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T16:20:57.239Z"
   }
 ]
