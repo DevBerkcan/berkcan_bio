@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b08kqxjcvl",
+    "asin": "B08KQXJCVL",
+    "title": "\"Von Hühnern, Äpfeln und anderen Delikatessen\" Adams Äpfel, Dänische …",
+    "category": "Tech",
+    "price": 19.07,
+    "checkedAt": "2026-11-27T05:11:29.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08KQXJCVL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0h9yvlrks",
+    "asin": "B0H9YVLRKS",
+    "title": "Pure Living - Weihnachtsbaum künstlich 220 cm - mit Metallständer",
+    "subtitle": "🔥 290° bei mydealz",
+    "category": "Tech",
+    "price": 99.95,
+    "checkedAt": "2026-11-27T05:17:11.000Z",
+    "image": "https://static.mydealz.de/threads/raw/2FC7f/2871095_1/re/768x768/qt/55/2871095_1.jpg",
+    "temperature": 290,
+    "source": "auto"
+  },
+  {
     "id": "auto-b0h8swp7xm",
     "asin": "B0H8SWP7XM",
     "title": "Sammelkartenspiel: Boosterbundle 30 Jahre",
@@ -2183,18 +2205,6 @@
     "telegramPostedAt": "2026-11-26T07:28:04.780Z"
   },
   {
-    "id": "queue-b07rqkx6bs",
-    "asin": "B07RQKX6BS",
-    "title": "Gigaset AS690 Schnurloses DECT-Telefon Weiß",
-    "subtitle": "Kontrastreiches Display mit Jumbo-Modus und Freisprechfunktion.",
-    "category": "Tech",
-    "price": 26,
-    "checkedAt": "2026-11-26T05:08:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07RQKX6BS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T07:27:50.268Z"
-  },
-  {
     "id": "auto-b001c9zro2",
     "asin": "B001C9ZRO2",
     "title": "Hazet Wasserpumpenzange/Universalzange 310mm",
@@ -2272,16 +2282,5 @@
     "image": "https://m.media-amazon.com/images/P/B07V391RRN.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T06:28:34.086Z"
-  },
-  {
-    "id": "auto-b000y3ubes",
-    "asin": "B000Y3UBES",
-    "title": "Wrangler Texas Jeans Non Stretch /",
-    "category": "Mode & Reise",
-    "price": 34.5,
-    "checkedAt": "2026-11-26T05:10:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000Y3UBES.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T12:09:54.465Z"
   }
 ]
