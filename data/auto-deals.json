@@ -1,25 +1,60 @@
 [
   {
-    "id": "auto-b0bjklqw15",
-    "asin": "B0BJKLQW15",
-    "title": "Beurer HD 75 Heizdecke Dark Grey",
+    "id": "auto-b0fbgf84zj",
+    "asin": "B0FBGF84ZJ",
+    "title": "Hitster Platinum Edition Premium‑Partyspiel",
+    "category": "Spielzeug & LEGO",
+    "price": 42.45,
+    "checkedAt": "2026-11-27T08:35:53.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FBGF84ZJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T09:06:28.461Z"
+  },
+  {
+    "id": "auto-b0fzbsvq94",
+    "asin": "B0FZBSVQ94",
+    "title": "KESSER Elektronischer Tresor",
     "category": "Tech",
+    "price": 69.8,
+    "checkedAt": "2026-11-27T08:56:51.000Z",
+    "image": "https://static.mydealz.de/threads/raw/VJCTe/2883482_1/re/768x768/qt/55/2883482_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T09:06:23.327Z"
+  },
+  {
+    "id": "auto-b07w5jk221",
+    "asin": "B07W5JK221",
+    "title": "Logitech G PRO TKL mechanische Gaming-Tastatur",
+    "category": "Computer",
+    "price": 52.2,
+    "checkedAt": "2026-11-27T09:00:48.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07W5JK221.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T09:06:16.688Z"
+  },
+  {
+    "id": "queue-b0bjklqw15",
+    "asin": "B0BJKLQW15",
+    "title": "Beurer HD 75 Heizdecke 180 x 130 cm",
+    "subtitle": "6 Temperaturstufen, Abschaltautomatik und waschbar.",
+    "category": "Haushalt",
     "price": 44.99,
     "checkedAt": "2026-11-27T08:35:14.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BJKLQW15.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:51:27.863Z"
+    "telegramPostedAt": "2026-11-27T09:05:55.480Z"
   },
   {
-    "id": "auto-b0dqd457kx",
+    "id": "queue-b0dqd457kx",
     "asin": "B0DQD457KX",
-    "title": "INIU Ultra Mini Powerbank 10000mAh 45W Schnellladen mit USB C Kabel",
+    "title": "INIU Ultra Mini Powerbank 10.000 mAh, 45 W",
+    "subtitle": "Sehr kompakte, flugtaugliche Powerbank mit 45 W Schnellladen und USB-C-Kabel.",
     "category": "Zubehör & Laden",
     "price": 32.27,
     "checkedAt": "2026-11-27T08:38:52.000Z",
     "image": "https://static.mydealz.de/threads/raw/jcOJR/2883446_1/re/768x768/qt/55/2883446_1.jpg",
     "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:51:22.638Z"
+    "telegramPostedAt": "2026-11-27T09:05:51.124Z"
   },
   {
     "id": "auto-b0gtnqz7r8",
@@ -742,7 +777,8 @@
     "price": 8.54,
     "checkedAt": "2026-11-27T00:17:58.000Z",
     "image": "https://m.media-amazon.com/images/P/B001KOVD7Y.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T09:06:11.423Z"
   },
   {
     "id": "auto-b00725ar9u",
