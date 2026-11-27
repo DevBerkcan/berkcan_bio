@@ -1,5 +1,64 @@
 [
   {
+    "id": "auto-b0f6cjf9m9",
+    "asin": "B0F6CJF9M9",
+    "title": "Aqara G410 Video-Türklingel mit Matter-/Zigbee-Hub",
+    "category": "Smart Home",
+    "price": 99.99,
+    "checkedAt": "2026-11-27T11:15:21.000Z",
+    "image": "https://static.mydealz.de/threads/raw/sdo2M/2883719_1/re/768x768/qt/55/2883719_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T11:21:00.755Z"
+  },
+  {
+    "id": "auto-b087556m4v",
+    "asin": "B087556M4V",
+    "title": "Jack & Jones Herren Jjiglenn Jjoriginal Cb 815 Noos Jjiglenn …",
+    "category": "Tech",
+    "price": 15.99,
+    "checkedAt": "2026-11-27T11:19:02.000Z",
+    "image": "https://m.media-amazon.com/images/P/B087556M4V.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T11:20:54.337Z"
+  },
+  {
+    "id": "queue-b08fhxnt8x",
+    "asin": "B08FHXNT8X",
+    "title": "Paladone Xbox Icon Light – Gaming-Deko-Lampe",
+    "subtitle": "Leuchtendes Xbox-Logo als Deko fürs Gaming-Setup oder den Schreibtisch.",
+    "category": "Gaming",
+    "price": 18.88,
+    "checkedAt": "2026-11-26T20:35:45.000Z",
+    "image": "https://static.mydealz.de/threads/raw/Mk3Up/2882868_1/re/768x768/qt/55/2882868_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T11:20:31.914Z"
+  },
+  {
+    "id": "queue-b00o0uipty",
+    "asin": "B00O0UIPTY",
+    "title": "Sure Petcare SureFeed Mikrochip-Futterautomat",
+    "subtitle": "Öffnet nur für registrierte Tiere – stoppt Futterdiebstahl im Mehrtierhaushalt.",
+    "category": "Smart Home",
+    "price": 104.99,
+    "checkedAt": "2026-11-27T11:09:05.000Z",
+    "image": "https://static.mydealz.de/threads/raw/ayrCG/2883709_1/re/768x768/qt/55/2883709_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T11:20:25.825Z"
+  },
+  {
+    "id": "queue-b0hbxdy49n",
+    "asin": "B0HBXDY49N",
+    "title": "LG OLED77C67LA 77\" 4K OLED evo TV (2026)",
+    "subtitle": "α11 Gen3 Prozessor, webOS 26 und 120 Hz mit VRR bis 165 Hz – ideal fürs Gaming.",
+    "category": "TV & Heimkino",
+    "price": 1899,
+    "checkedAt": "2026-11-27T10:32:54.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HBXDY49N.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 152,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T11:20:18.586Z"
+  },
+  {
     "id": "auto-b0bnjgkxls",
     "asin": "B0BNJGKXLS",
     "title": "Get Trend Paw Patrol Malkoffer Kinder, 42-Tlg Kreativ Malset Set - in …",
@@ -2671,39 +2730,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FHM7WST5.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T11:40:16.699Z"
-  },
-  {
-    "id": "queue-b0fkhghjmr",
-    "asin": "B0FKHGHJMR",
-    "title": "Belkin UltraCharge 3-in-1 Qi2.2 Ladestation 25W",
-    "subtitle": "Lädt iPhone, Watch und AirPods gleichzeitig, faltbar, mit Kühlfunktion.",
-    "category": "Zubehör & Laden",
-    "price": 69.99,
-    "checkedAt": "2026-11-26T11:09:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FKHGHJMR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T11:25:18.579Z"
-  },
-  {
-    "id": "auto-b0gp13r3ck",
-    "asin": "B0GP13R3CK",
-    "title": "Kingdom Come: Deliverance Royal Edition",
-    "category": "Tech",
-    "price": 12.99,
-    "checkedAt": "2026-11-26T11:07:27.000Z",
-    "image": "https://static.mydealz.de/threads/raw/C03a8/2882330_1/re/768x768/qt/55/2882330_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T11:10:36.718Z"
-  },
-  {
-    "id": "auto-b095gwqkcf",
-    "asin": "B095GWQKCF",
-    "title": "GLORYFEEL - L-Carnitin 2000 mg",
-    "category": "Tech",
-    "price": 10.99,
-    "checkedAt": "2026-11-26T11:08:24.000Z",
-    "image": "https://static.mydealz.de/threads/raw/RyvJ4/2882332_1/re/768x768/qt/55/2882332_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T11:10:29.471Z"
   }
 ]
