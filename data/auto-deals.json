@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-b00bwls8eg",
+    "asin": "B00BWLS8EG",
+    "title": "WMF Nuova Longdrinklöffel 6-teilig, die Nr. 1 in Cocktailrührlöffel",
+    "category": "Tech",
+    "price": 12.49,
+    "checkedAt": "2026-11-26T23:49:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00BWLS8EG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b07w6jn8n7",
+    "asin": "B07W6JN8N7",
+    "title": "Logitech G203 Gaming-Maus mit anpassbarer LIGHTSYNC RGB-Beleuchtung 6 …",
+    "category": "Computer",
+    "price": 17.12,
+    "checkedAt": "2026-11-26T23:57:25.000Z",
+    "image": "https://static.mydealz.de/threads/raw/VLqDD/2883082_1/re/768x768/qt/55/2883082_1.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b094r84292",
+    "asin": "B094R84292",
+    "title": "Technics SL-100C Plattenspieler mit Direktantrieb und AT-VM95C …",
+    "category": "Audio",
+    "price": 699,
+    "checkedAt": "2026-11-26T23:58:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B094R84292.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0dx2crgm6",
     "asin": "B0DX2CRGM6",
     "title": "Pokémon Mini-Tin-Box Karmesin & Purpur - Prismatische Entwicklungen: …",
@@ -1989,18 +2019,6 @@
     "telegramPostedAt": "2026-11-26T07:27:50.268Z"
   },
   {
-    "id": "queue-b0g1msqfwy",
-    "asin": "B0G1MSQFWY",
-    "title": "HP Smart Tank 6006 Multifunktionsdrucker",
-    "subtitle": "Tintentank-Drucker mit günstigen Seitenkosten, bis zu 3 Jahre Tinte im Lieferumfang.",
-    "category": "Computer",
-    "price": 189.99,
-    "checkedAt": "2026-11-25T23:54:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G1MSQFWY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T07:27:45.919Z"
-  },
-  {
     "id": "auto-b001c9zro2",
     "asin": "B001C9ZRO2",
     "title": "Hazet Wasserpumpenzange/Universalzange 310mm",
@@ -2277,27 +2295,5 @@
     "checkedAt": "2026-11-26T00:47:58.000Z",
     "image": "https://m.media-amazon.com/images/P/B07RZ8GV84.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
-  },
-  {
-    "id": "auto-b099fltydm",
-    "asin": "B099FLTYDM",
-    "title": "Champion Socken in Weiß Unisex, 6er Pack",
-    "category": "Tech",
-    "price": 9.11,
-    "checkedAt": "2026-11-25T23:49:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B099FLTYDM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T23:54:50.098Z"
-  },
-  {
-    "id": "auto-b079v7b62r",
-    "asin": "B079V7B62R",
-    "title": "Black Panther 4k und Blu-ray",
-    "category": "Bücher & Filme",
-    "price": 19.07,
-    "checkedAt": "2026-11-25T23:49:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B079V7B62R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-25T23:54:44.691Z"
   }
 ]
