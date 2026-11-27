@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0cwgq3v2k",
+    "asin": "B0CWGQ3V2K",
+    "title": "HP Color Laserjet Pro MFP 3302fdw, Laserdrucker, mehrfarbig",
+    "category": "Computer",
+    "price": 286.98,
+    "checkedAt": "2026-11-27T21:02:17.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CWGQ3V2K.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T21:11:48.551Z"
+  },
+  {
     "id": "auto-b0dc74whyv",
     "asin": "B0DC74WHYV",
     "title": "PHILIPS OneBlade Pro 360 Face & Body - elektrischer Rasierer, Trimmer …",
@@ -2612,19 +2623,6 @@
     "telegramPostedAt": "2026-11-26T22:01:27.524Z"
   },
   {
-    "id": "queue-b0cs3b7md8",
-    "asin": "B0CS3B7MD8",
-    "title": "AstroAI Akku-Luftpumpe 150 PSI mit USB-C",
-    "subtitle": "Kabelloser Reifenfüller mit 4.000-mAh-Akku und digitaler Druckanzeige.",
-    "category": "Werkzeug",
-    "price": 21.8,
-    "checkedAt": "2026-11-26T21:05:29.000Z",
-    "image": "https://static.mydealz.de/threads/raw/xImXr/2882770_1/re/768x768/qt/55/2882770_1.jpg",
-    "temperature": 110,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T21:46:30.944Z"
-  },
-  {
     "id": "auto-b07c5vmjpw",
     "asin": "B07C5VMJPW",
     "title": "CeraVe Feuchtigkeitscreme 177 ml für Körper & Gesicht",
@@ -2645,27 +2643,5 @@
     "image": "https://m.media-amazon.com/images/P/B000QSQWQC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T21:31:50.431Z"
-  },
-  {
-    "id": "auto-b0f8sgry6x",
-    "asin": "B0F8SGRY6X",
-    "title": "Razer BlackShark V3 Pro für PlayStation – Kabelloses E-Sport-Headset …",
-    "category": "Gaming",
-    "price": 140.53,
-    "checkedAt": "2026-11-26T21:04:45.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F8SGRY6X.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T21:17:13.423Z"
-  },
-  {
-    "id": "auto-b0c3838d3h",
-    "asin": "B0C3838D3H",
-    "title": "Beats Studio Buds+ In-Ear Kopfhörer, 36 Std. Akku",
-    "category": "Audio",
-    "price": 89,
-    "checkedAt": "2026-11-26T21:01:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0C3838D3H.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T21:02:04.343Z"
   }
 ]
