@@ -1,5 +1,35 @@
 [
   {
+    "id": "auto-b0f447jq6k",
+    "asin": "B0F447JQ6K",
+    "title": "Meccano Baukoffer 5-in-1 / Maker's Toolbox",
+    "category": "Mode & Reise",
+    "price": 42.49,
+    "checkedAt": "2026-11-27T05:36:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F447JQ6K.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0dqtz4cxr",
+    "asin": "B0DQTZ4CXR",
+    "title": "Samsung PRO Plus Sonic Edition microSDXC 512 GB –",
+    "category": "Computer",
+    "price": 84.99,
+    "checkedAt": "2026-11-27T06:05:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQTZ4CXR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0fk5d13yq",
+    "asin": "B0FK5D13YQ",
+    "title": "Dreame V20 Pro-A Akku-Staubsauger",
+    "category": "Haushalt",
+    "price": 237,
+    "checkedAt": "2026-11-27T06:18:33.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FK5D13YQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0f2mr4zyg",
     "asin": "B0F2MR4ZYG",
     "title": "PLAYMOBIL Sky Trails Starter Kit (71969) – Bahn-Bauset mit 231 Teilen, …",
@@ -99,7 +129,8 @@
     "checkedAt": "2026-11-27T05:17:11.000Z",
     "image": "https://static.mydealz.de/threads/raw/2FC7f/2871095_1/re/768x768/qt/55/2871095_1.jpg",
     "temperature": 290,
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T06:19:44.068Z"
   },
   {
     "id": "auto-b0h8swp7xm",
