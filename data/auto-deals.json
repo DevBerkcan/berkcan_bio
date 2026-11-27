@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0f4hh4432",
+    "asin": "B0F4HH4432",
+    "title": "GIGABYTE X870E AORUS Elite WIFI7",
+    "category": "Tech",
+    "price": 219.5,
+    "checkedAt": "2026-11-27T11:55:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F4HH4432.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T12:05:40.741Z"
+  },
+  {
     "id": "auto-b0df33wqrq",
     "asin": "B0DF33WQRQ",
     "title": "Hitster Bingo",
@@ -2767,16 +2778,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DB8QB2GW.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T12:10:00.247Z"
-  },
-  {
-    "id": "auto-b0g8l4hprq",
-    "asin": "B0G8L4HPRQ",
-    "title": "Tefal EverSharp Pro Kochmesser 16,5 cm mit selbstschärfendem …",
-    "category": "Küche",
-    "price": 29.99,
-    "checkedAt": "2026-11-26T11:51:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G8L4HPRQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T11:55:03.324Z"
   }
 ]
