@@ -1,5 +1,60 @@
 [
   {
+    "id": "auto-b0fpxfbl13",
+    "asin": "B0FPXFBL13",
+    "title": "LEGO Editions Fußball-Highlights: Messi 43011 & Ronaldo 43012",
+    "category": "Spielzeug & LEGO",
+    "price": 19.98,
+    "checkedAt": "2026-11-27T20:40:40.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FPXFBL13.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T21:41:13.125Z"
+  },
+  {
+    "id": "auto-b0hbvsxvll",
+    "asin": "B0HBVSXVLL",
+    "title": "Chernobyl (4K Ultra-HD) - Limited Collector's Mediabook LTD. / Amazon …",
+    "category": "Tech",
+    "price": 53.2,
+    "checkedAt": "2026-11-27T21:32:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HBVSXVLL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T21:41:08.023Z"
+  },
+  {
+    "id": "auto-b0fc6n9cfy",
+    "asin": "B0FC6N9CFY",
+    "title": "Amazon Fire TV Stick 4K Max effektiv 33,57€",
+    "category": "Amazon-Geräte",
+    "price": 123.98,
+    "checkedAt": "2026-11-27T21:38:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FC6N9CFY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T21:41:02.959Z"
+  },
+  {
+    "id": "auto-b098fb1jlq",
+    "asin": "B098FB1JLQ",
+    "title": "OSRAM LEDIL408 LEDinspect POCKET200 Inspektionsleuchte [Prime]",
+    "category": "Tech",
+    "price": 12.53,
+    "checkedAt": "2026-11-27T21:39:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B098FB1JLQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T21:40:57.660Z"
+  },
+  {
+    "id": "auto-b0fc311597",
+    "asin": "B0FC311597",
+    "title": "Anno 117: Pax Romana - [PlayStation 5]",
+    "category": "Gaming",
+    "price": 24.95,
+    "checkedAt": "2026-11-27T21:40:18.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FC311597.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T21:40:52.151Z"
+  },
+  {
     "id": "auto-b0cwgq3v2k",
     "asin": "B0CWGQ3V2K",
     "title": "HP Color Laserjet Pro MFP 3302fdw, Laserdrucker, mehrfarbig",
@@ -2621,27 +2676,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BK9DKK4X.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T22:01:27.524Z"
-  },
-  {
-    "id": "auto-b07c5vmjpw",
-    "asin": "B07C5VMJPW",
-    "title": "CeraVe Feuchtigkeitscreme 177 ml für Körper & Gesicht",
-    "category": "Beauty & Pflege",
-    "price": 7.56,
-    "checkedAt": "2026-11-26T21:26:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07C5VMJPW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T21:31:55.380Z"
-  },
-  {
-    "id": "auto-b000qsqwqc",
-    "asin": "B000QSQWQC",
-    "title": "Oehlbach Air Absorb Resonanzdämpfer für Lautsprecher und Subwoofer …",
-    "category": "Audio",
-    "price": 47.48,
-    "checkedAt": "2026-11-26T21:27:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000QSQWQC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T21:31:50.431Z"
   }
 ]
