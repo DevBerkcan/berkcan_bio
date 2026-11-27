@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0h3vy5b67",
+    "asin": "B0H3VY5B67",
+    "title": "Revell Engineers Adventskalender Ultra Crane",
+    "category": "Tech",
+    "price": 17.99,
+    "checkedAt": "2026-11-27T08:19:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H3VY5B67.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:36:01.725Z"
+  },
+  {
+    "id": "auto-b0gnmr2j1j",
+    "asin": "B0GNMR2J1J",
+    "title": "Rowenta Force Pro 300 Dampfbügelstation, 2400 Watt, 6,1 bar …",
+    "category": "Haushalt",
+    "price": 89.99,
+    "checkedAt": "2026-11-27T08:34:17.000Z",
+    "image": "https://static.mydealz.de/threads/raw/lgVea/2883437_1/re/768x768/qt/55/2883437_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:35:56.186Z"
+  },
+  {
     "id": "auto-b0cwh3fmks",
     "asin": "B0CWH3FMKS",
     "title": "LEGO Star Wars C-3PO - 75398",
@@ -603,7 +625,8 @@
     "price": 109.64,
     "checkedAt": "2026-11-27T00:00:22.000Z",
     "image": "https://static.mydealz.de/threads/raw/KhVIj/2883085_1/re/768x768/qt/55/2883085_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:36:15.617Z"
   },
   {
     "id": "auto-b0f9fnxcfp",
@@ -659,7 +682,8 @@
     "oldPriceLabel": "Vergleichspreis",
     "checkedAt": "2026-11-27T00:24:39.000Z",
     "image": "https://m.media-amazon.com/images/P/B0GXKRP7FM.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:36:06.280Z"
   },
   {
     "id": "auto-b0h8prrxfb",
@@ -669,7 +693,8 @@
     "price": 699,
     "checkedAt": "2026-11-27T00:01:42.000Z",
     "image": "https://m.media-amazon.com/images/P/B0H8PRRXFB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:36:10.720Z"
   },
   {
     "id": "auto-b0gxzgqtgx",
@@ -702,7 +727,8 @@
     "price": 17.12,
     "checkedAt": "2026-11-26T23:57:25.000Z",
     "image": "https://static.mydealz.de/threads/raw/VLqDD/2883082_1/re/768x768/qt/55/2883082_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T08:36:20.542Z"
   },
   {
     "id": "auto-b094r84292",
@@ -2529,28 +2555,6 @@
     "image": "https://m.media-amazon.com/images/P/B0DJ1VG6DW.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T08:57:06.517Z"
-  },
-  {
-    "id": "auto-b073p7zlg4",
-    "asin": "B073P7ZLG4",
-    "title": "Catsan Ultra Plus Katzenstreu für Katzen, 10 Liter (1 Beutel) – …",
-    "category": "Tech",
-    "price": 10.39,
-    "checkedAt": "2026-11-26T08:29:13.000Z",
-    "image": "https://m.media-amazon.com/images/P/B073P7ZLG4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T08:42:23.414Z"
-  },
-  {
-    "id": "auto-b0dflrq5xz",
-    "asin": "B0DFLRQ5XZ",
-    "title": "K&F CONCEPT 2-in-1 Elektrische PC Staubgebläse & Staubsauger, 150.000 …",
-    "category": "Haushalt",
-    "price": 40.36,
-    "checkedAt": "2026-11-26T08:33:44.000Z",
-    "image": "https://static.mydealz.de/threads/raw/W3L7Y/2882179_1/re/768x768/qt/55/2882179_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T08:42:17.493Z"
   },
   {
     "id": "auto-b00mpqne1e",
