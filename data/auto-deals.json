@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0dqlqlgyt",
+    "asin": "B0DQLQLGYT",
+    "title": "STANLEY 1913 IceFlow Flip Straw 2.0 Jug 1.9L / STANLEY 1913 Classic …",
+    "category": "Tech",
+    "price": 37.5,
+    "checkedAt": "2026-11-27T18:54:58.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQLQLGYT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-27T18:59:25.247Z"
+  },
+  {
     "id": "auto-b0gsz6bpw9",
     "asin": "B0GSZ6BPW9",
     "title": "roborock Qrevo EdgeT Saugroboter mit Wischfunktion, 18.500 Pa, Dual …",
@@ -2781,29 +2792,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GNZRM3LB.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-26T19:32:52.913Z"
-  },
-  {
-    "id": "auto-b0fljqflnv",
-    "asin": "B0FLJQFLNV",
-    "title": "Baseus Picogo 67W Mini 3-Port USB C Ladegerät Netzteil Charger PD3 PPS …",
-    "category": "Zubehör & Laden",
-    "price": 21.84,
-    "checkedAt": "2026-11-26T18:56:37.000Z",
-    "image": "https://static.mydealz.de/threads/raw/IqIJf/2882774_1/re/768x768/qt/55/2882774_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T19:03:33.140Z"
-  },
-  {
-    "id": "auto-b0fx3cj51q",
-    "asin": "B0FX3CJ51Q",
-    "title": "RING Black Friday: z.B. RING Intercom Audio mit Innenkamera Plus",
-    "subtitle": "🔥 1372° bei mydealz",
-    "category": "Amazon-Geräte",
-    "price": 29.99,
-    "checkedAt": "2026-11-26T18:48:23.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FX3CJ51Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 1372,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-26T19:03:26.735Z"
   }
 ]
