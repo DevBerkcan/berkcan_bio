@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0g2gf731c",
+    "asin": "B0G2GF731C",
+    "title": "Nightmare on Elm Street - Collection (7 4K Ultra HD)",
+    "category": "Tech",
+    "price": 84.99,
+    "checkedAt": "2026-11-28T08:45:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0G2GF731C.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T08:55:23.895Z"
+  },
+  {
     "id": "auto-b0c783j9wc",
     "asin": "B0C783J9WC",
     "title": "DJI Osmo Action 4 Adventure-Combo, 4K/120fps Action-Kamera",
@@ -1982,29 +1993,5 @@
     "image": "https://m.media-amazon.com/images/P/B07W5JK221.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T09:06:16.688Z"
-  },
-  {
-    "id": "auto-b0gtnqz7r8",
-    "asin": "B0GTNQZ7R8",
-    "title": "Huawei Watch Fit 5 Pro schwarz",
-    "category": "Tech",
-    "price": 217.69,
-    "checkedAt": "2026-11-27T08:43:57.000Z",
-    "image": "https://static.mydealz.de/threads/raw/dlsl5/2883459_1/re/768x768/qt/55/2883459_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:51:16.436Z"
-  },
-  {
-    "id": "auto-b094y8fhbg",
-    "asin": "B094Y8FHBG",
-    "title": "Gentle North Kopfkissen 80x80 cm im 2er-Set, Ökotex zertifiziert",
-    "category": "Tech",
-    "price": 21.75,
-    "oldPrice": 26.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-27T08:41:09.000Z",
-    "image": "https://static.mydealz.de/threads/raw/uoTCC/2883452_1/re/768x768/qt/55/2883452_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:51:10.549Z"
   }
 ]
