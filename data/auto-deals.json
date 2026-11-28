@@ -62,7 +62,8 @@
     "price": 39.99,
     "checkedAt": "2026-11-27T22:31:37.000Z",
     "image": "https://m.media-amazon.com/images/P/B0FTWZW79D.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:42:21.682Z"
   },
   {
     "id": "auto-b07cwbc7l8",
@@ -116,7 +117,8 @@
     "price": 71.2,
     "checkedAt": "2026-11-28T00:12:44.000Z",
     "image": "https://m.media-amazon.com/images/P/B0BFQVYNDD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:42:12.928Z"
   },
   {
     "id": "auto-b0dhcg5x7k",
@@ -126,7 +128,8 @@
     "price": 18,
     "checkedAt": "2026-11-27T23:54:55.000Z",
     "image": "https://static.mydealz.de/threads/raw/EVh8u/2884452_1/re/768x768/qt/55/2884452_1.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:42:17.428Z"
   },
   {
     "id": "auto-b0g7ln1b11",
@@ -2049,17 +2052,6 @@
     "telegramPostedAt": "2026-11-27T07:35:07.976Z"
   },
   {
-    "id": "auto-b0dwgvm7ry",
-    "asin": "B0DWGVM7RY",
-    "title": "Kartenspiel Flip 7",
-    "category": "Spielzeug & LEGO",
-    "price": 7.99,
-    "checkedAt": "2026-11-27T06:40:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DWGVM7RY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T07:20:14.116Z"
-  },
-  {
     "id": "auto-b0gcf4mpd5",
     "asin": "B0GCF4MPD5",
     "title": "Tapo RV50 Pro Omni Saugroboter mit Wischfunktion",
@@ -2095,17 +2087,6 @@
     "telegramPostedAt": "2026-11-27T07:19:58.183Z"
   },
   {
-    "id": "auto-b0g82qs249",
-    "asin": "B0G82QS249",
-    "title": "Revell Iron Maiden Spitfire MK.II Aces High - Bricksystem - …",
-    "category": "Spielzeug & LEGO",
-    "price": 126.79,
-    "checkedAt": "2026-11-27T06:32:22.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0G82QS249.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T07:04:42.298Z"
-  },
-  {
     "id": "auto-b09bk3lm7n",
     "asin": "B09BK3LM7N",
     "title": "Tommy Hilfiger Herren Klassische Socken 6er Pack",
@@ -2115,64 +2096,5 @@
     "image": "https://m.media-amazon.com/images/P/B09BK3LM7N.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T07:04:36.001Z"
-  },
-  {
-    "id": "auto-b08jcy1h3s",
-    "asin": "B08JCY1H3S",
-    "title": "Hasbro Das Spiel des Lebens – Familienspiel für 2–4 Spieler ab 8 …",
-    "category": "Spielzeug & LEGO",
-    "price": 12.92,
-    "oldPrice": 26.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-27T06:34:35.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08JCY1H3S.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T07:04:30.575Z"
-  },
-  {
-    "id": "auto-b0h3vr52xr",
-    "asin": "B0H3VR52XR",
-    "title": "BEARFOOT Kinder-Edelstahl-Trinkflasche 350 ml, vakuumisoliert, mit …",
-    "category": "Haushalt",
-    "price": 23.76,
-    "checkedAt": "2026-11-27T06:29:12.000Z",
-    "image": "https://static.mydealz.de/threads/raw/nSTJx/2883257_1/re/768x768/qt/55/2883257_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T06:49:40.590Z"
-  },
-  {
-    "id": "auto-b0gmvl5tx8",
-    "asin": "B0GMVL5TX8",
-    "title": "JAYO ASA 3D Druck Filament 1 kg Grau",
-    "category": "Tech",
-    "price": 12.04,
-    "checkedAt": "2026-11-27T06:35:41.000Z",
-    "image": "https://static.mydealz.de/threads/raw/hXHTk/2883267_1/re/768x768/qt/55/2883267_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T06:49:34.593Z"
-  },
-  {
-    "id": "auto-b0bf12d5fh",
-    "asin": "B0BF12D5FH",
-    "title": "Hey Nature Lammwolle-Einlegesohlen für Kinder, 2 Paar, Gr. 22–35, …",
-    "category": "Tech",
-    "price": 6.08,
-    "oldPrice": 7.5,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-27T06:33:58.000Z",
-    "image": "https://static.mydealz.de/threads/raw/4lt8W/2883261_1/re/768x768/qt/55/2883261_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T06:49:20.970Z"
-  },
-  {
-    "id": "auto-b0f7lg4f8p",
-    "asin": "B0F7LG4F8P",
-    "title": "Samsung Crystal UHD U8079F 43 Zoll Tv",
-    "category": "TV & Heimkino",
-    "price": 251.61,
-    "checkedAt": "2026-11-27T06:28:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F7LG4F8P.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T06:49:44.782Z"
   }
 ]
