@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b00gzn94xu",
+    "asin": "B00GZN94XU",
+    "title": "Ron Barceló Añejo Rum 0,7 l",
+    "category": "Tech",
+    "price": 13.99,
+    "checkedAt": "2026-11-28T00:39:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00GZN94XU.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0bfqvyndd",
     "asin": "B0BFQVYNDD",
     "title": "Wera Zyklop Pocket Set 2, Knarren Satz, 17-teilig",
@@ -2374,18 +2384,6 @@
     "price": 121.63,
     "checkedAt": "2026-11-27T01:20:27.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CX4YSG26.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
-  },
-  {
-    "id": "auto-b07fclbwd9",
-    "asin": "B07FCLBWD9",
-    "title": "Invicta Pro Drive 8932; silber/schwarz; Edelstahl Quarzuhr; 40mm; …",
-    "category": "Tech",
-    "price": 53.99,
-    "oldPrice": 79.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-27T00:38:49.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07FCLBWD9.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto"
   }
 ]
