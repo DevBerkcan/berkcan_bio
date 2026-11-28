@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b07dyrs1wh",
+    "asin": "B07DYRS1WH",
+    "title": "Elgato Stream Deck Mini * Elgste Software * 6 anpassbare …",
+    "category": "Tech",
+    "price": 47.49,
+    "checkedAt": "2026-11-28T16:53:07.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07DYRS1WH.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T16:59:48.277Z"
+  },
+  {
     "id": "auto-b0dq1nxs8d",
     "asin": "B0DQ1NXS8D",
     "title": "Tommy Hilfiger Bruce Analog-Quarzuhr 1710672",
@@ -1225,38 +1236,5 @@
     "image": "https://static.mydealz.de/threads/raw/RZ4sZ/2884151_1/re/768x768/qt/55/2884151_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T17:16:56.953Z"
-  },
-  {
-    "id": "auto-b0h5crtbqy",
-    "asin": "B0H5CRTBQY",
-    "title": "Dell Laptop mit Trade-In nochmals 80 Euro günstiger bekommen",
-    "category": "Computer",
-    "price": 429,
-    "checkedAt": "2026-11-27T16:50:26.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H5CRTBQY.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T17:02:20.018Z"
-  },
-  {
-    "id": "auto-b075s35v6b",
-    "asin": "B075S35V6B",
-    "title": "Gore C5 Opti M XL Prime Bib Radhose Schwarz",
-    "category": "Tech",
-    "price": 44.46,
-    "checkedAt": "2026-11-27T16:52:14.000Z",
-    "image": "https://m.media-amazon.com/images/P/B075S35V6B.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T17:02:10.616Z"
-  },
-  {
-    "id": "auto-b003io05u0",
-    "asin": "B003IO05U0",
-    "title": "CETAPHIL Feuchtigkeitscreme, 453g, Für trockene, empfindliche Haut, …",
-    "category": "Beauty & Pflege",
-    "price": 16.63,
-    "checkedAt": "2026-11-27T16:57:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B003IO05U0.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T17:02:05.371Z"
   }
 ]
