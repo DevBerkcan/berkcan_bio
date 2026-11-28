@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b0ftwzw79d",
+    "asin": "B0FTWZW79D",
+    "title": "LEGO Star Wars 40806 Lebkuchen AT-AT",
+    "category": "Spielzeug & LEGO",
+    "price": 39.99,
+    "checkedAt": "2026-11-27T22:31:37.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0FTWZW79D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b07cwbc7l8",
     "asin": "B07CWBC7L8",
     "title": "Amazon Basics Edelstahl-Bratpfanne mit Antihaftbeschichtung - …",
@@ -2263,29 +2273,5 @@
     "image": "https://m.media-amazon.com/images/P/B01M4LLTXB.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T07:20:23.235Z"
-  },
-  {
-    "id": "auto-b0cychtgkc",
-    "asin": "B0CYCHTGKC",
-    "title": "Rowenta X-Force Flex 13.60 Allergy (RH9A36) Akku-Staubsauger",
-    "category": "Haushalt",
-    "price": 189,
-    "checkedAt": "2026-11-27T05:22:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CYCHTGKC.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T07:50:47.435Z"
-  },
-  {
-    "id": "auto-b0h9yvlrks",
-    "asin": "B0H9YVLRKS",
-    "title": "Pure Living - Weihnachtsbaum künstlich 220 cm - mit Metallständer",
-    "subtitle": "🔥 290° bei mydealz",
-    "category": "Tech",
-    "price": 99.95,
-    "checkedAt": "2026-11-27T05:17:11.000Z",
-    "image": "https://static.mydealz.de/threads/raw/2FC7f/2871095_1/re/768x768/qt/55/2871095_1.jpg",
-    "temperature": 290,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T06:19:44.068Z"
   }
 ]
