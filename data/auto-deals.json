@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b0d6w6zkxy",
+    "asin": "B0D6W6ZKXY",
+    "title": "Sensodyne Clinical Repair Zahnpasta für schmerzempfindliche Zähne",
+    "category": "Tech",
+    "price": 15.09,
+    "checkedAt": "2026-11-28T13:53:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D6W6ZKXY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T14:04:12.269Z"
+  },
+  {
+    "id": "auto-b0c85vfmrl",
+    "asin": "B0C85VFMRL",
+    "title": "Marvel’s Spider-Man 2 PlayStation 5 inkl. Gratisversand",
+    "category": "Gaming",
+    "price": 24.99,
+    "checkedAt": "2026-11-28T13:55:39.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C85VFMRL.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T14:04:06.283Z"
+  },
+  {
     "id": "auto-b0ccw217qv",
     "asin": "B0CCW217QV",
     "title": "Einhell Akku-Ast-Kettensäge GE-PS 18/15 Li BL-Solo",
@@ -1376,28 +1398,6 @@
     "telegramPostedAt": "2026-11-27T14:48:47.943Z"
   },
   {
-    "id": "auto-b09731yvg2",
-    "asin": "B09731YVG2",
-    "title": "Bandai - Naruto Uzumaki im Eremiten-Modus (Sage Mode) - Gelenkige …",
-    "category": "Werkzeug",
-    "price": 19.99,
-    "checkedAt": "2026-11-27T13:58:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09731YVG2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T14:34:09.169Z"
-  },
-  {
-    "id": "auto-b09dq8qgbp",
-    "asin": "B09DQ8QGBP",
-    "title": "schleich BAYALA",
-    "category": "Spielzeug & LEGO",
-    "price": 9.85,
-    "checkedAt": "2026-11-27T14:00:03.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09DQ8QGBP.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T14:34:04.034Z"
-  },
-  {
     "id": "auto-b0f9yw7qvw",
     "asin": "B0F9YW7QVW",
     "title": "JACK & JONES Herren Sweatshirt mit Rundhals Crewneck Pullover Sweater …",
@@ -1453,51 +1453,5 @@
     "image": "https://m.media-amazon.com/images/P/B0BV288KNZ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T14:18:54.813Z"
-  },
-  {
-    "id": "auto-b06xj3mfmn",
-    "asin": "B06XJ3MFMN",
-    "title": "Krups Nespresso Essenza Mini XN1101 (weiß)",
-    "category": "Küche",
-    "price": 63.99,
-    "checkedAt": "2026-11-27T13:50:09.000Z",
-    "image": "https://m.media-amazon.com/images/P/B06XJ3MFMN.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T14:04:19.326Z"
-  },
-  {
-    "id": "auto-b088rg36fl",
-    "asin": "B088RG36FL",
-    "title": "PUMA Shuffle Unisex Sneaker (Black-White Gold)",
-    "category": "Mode & Reise",
-    "price": 25.83,
-    "checkedAt": "2026-11-27T13:53:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B088RG36FL.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T14:04:13.937Z"
-  },
-  {
-    "id": "auto-b0gx6k2xw9",
-    "asin": "B0GX6K2XW9",
-    "title": "Jazwares Pokémon Pikachu mit Mütze als 60 cm Plüschfigur, offiziell …",
-    "category": "Tech",
-    "price": 49.99,
-    "checkedAt": "2026-11-27T13:54:31.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GX6K2XW9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T14:04:08.115Z"
-  },
-  {
-    "id": "auto-b0g6cz9mft",
-    "asin": "B0G6CZ9MFT",
-    "title": "UGREEN Nexode Air 45W Mini USB-C GaN-Ladegerät (X840)",
-    "category": "Zubehör & Laden",
-    "price": 15.99,
-    "oldPrice": 19.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-27T13:55:51.000Z",
-    "image": "https://static.mydealz.de/threads/raw/gP6Rs/2883948_1/re/768x768/qt/55/2883948_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T14:04:02.472Z"
   }
 ]
