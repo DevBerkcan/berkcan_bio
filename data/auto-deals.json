@@ -1,5 +1,15 @@
 [
   {
+    "id": "auto-b0dhcg5x7k",
+    "asin": "B0DHCG5X7K",
+    "title": "soundcore by Anker Select 4 Go Bluetooth Mini Lautsprecher",
+    "category": "Audio",
+    "price": 18,
+    "checkedAt": "2026-11-27T23:54:55.000Z",
+    "image": "https://static.mydealz.de/threads/raw/EVh8u/2884452_1/re/768x768/qt/55/2884452_1.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b0g7ln1b11",
     "asin": "B0G7LN1B11",
     "title": "PLAYMOBIL | Mercedes‑Benz 300 SL | 72238",
@@ -2369,17 +2379,6 @@
     "source": "auto"
   },
   {
-    "id": "auto-b0fkbfblcr",
-    "asin": "B0FKBFBLCR",
-    "title": "Pantasy Klemmbausteine Skihütte",
-    "category": "Spielzeug & LEGO",
-    "price": 109.64,
-    "checkedAt": "2026-11-27T00:00:22.000Z",
-    "image": "https://static.mydealz.de/threads/raw/KhVIj/2883085_1/re/768x768/qt/55/2883085_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:36:15.617Z"
-  },
-  {
     "id": "auto-b0f9fnxcfp",
     "asin": "B0F9FNXCFP",
     "title": "Einhell Akku-Baustellenradio TE-CR 18 Li DAB+/FM/BT - Solo",
@@ -2436,51 +2435,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GXKRP7FM.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T08:36:06.280Z"
-  },
-  {
-    "id": "auto-b0h8prrxfb",
-    "asin": "B0H8PRRXFB",
-    "title": "vivo X300 FE 5G Smartphone",
-    "category": "Smartphone & Tablet",
-    "price": 699,
-    "checkedAt": "2026-11-27T00:01:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H8PRRXFB.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:36:10.720Z"
-  },
-  {
-    "id": "auto-b0gxzgqtgx",
-    "asin": "B0GXZGQTGX",
-    "title": "Samsung Crystal U7099H 4K 55 Zoll (138 cm) UHD Smart AI TV (Modell …",
-    "category": "TV & Heimkino",
-    "price": 349,
-    "oldPrice": 640,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-27T00:07:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GXZGQTGX.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T06:05:00.789Z"
-  },
-  {
-    "id": "auto-b07w6jn8n7",
-    "asin": "B07W6JN8N7",
-    "title": "Logitech G203 Gaming-Maus mit anpassbarer LIGHTSYNC RGB-Beleuchtung 6 …",
-    "category": "Computer",
-    "price": 17.12,
-    "checkedAt": "2026-11-26T23:57:25.000Z",
-    "image": "https://static.mydealz.de/threads/raw/VLqDD/2883082_1/re/768x768/qt/55/2883082_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:36:20.542Z"
-  },
-  {
-    "id": "auto-b094r84292",
-    "asin": "B094R84292",
-    "title": "Technics SL-100C Plattenspieler mit Direktantrieb und AT-VM95C …",
-    "category": "Audio",
-    "price": 699,
-    "checkedAt": "2026-11-26T23:58:06.000Z",
-    "image": "https://m.media-amazon.com/images/P/B094R84292.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T06:49:14.327Z"
   }
 ]
