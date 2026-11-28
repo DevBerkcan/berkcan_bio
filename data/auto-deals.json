@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0bbrzzsmd",
+    "asin": "B0BBRZZSMD",
+    "title": "LEGO Creator 3-in-1 Magisches Einhorn (31140) aka \"Hornie das …",
+    "category": "Spielzeug & LEGO",
+    "price": 6.11,
+    "oldPrice": 9.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-28T08:06:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0BBRZZSMD.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T10:24:04.387Z"
+  },
+  {
     "id": "auto-b000063y8s",
     "asin": "B000063Y8S",
     "title": "Rösle Schnee-/Becherbesen 27cm aus Edelstahl",
@@ -1831,27 +1844,5 @@
     "image": "https://m.media-amazon.com/images/P/B07K24P61J.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T10:35:51.513Z"
-  },
-  {
-    "id": "auto-b0bhzvmck2",
-    "asin": "B0BHZVMCK2",
-    "title": "SIMETICON STADA 280mg - Medizinprodukt zur Linderung gasbedingter …",
-    "category": "Tech",
-    "price": 6.99,
-    "checkedAt": "2026-11-27T10:09:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BHZVMCK2.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T10:20:58.826Z"
-  },
-  {
-    "id": "auto-b00jftno0a",
-    "asin": "B00JFTNO0A",
-    "title": "Winmau Sniper Steeldart 23 g",
-    "category": "Tech",
-    "price": 38.15,
-    "checkedAt": "2026-11-27T10:14:47.000Z",
-    "image": "https://m.media-amazon.com/images/P/B00JFTNO0A.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T10:20:53.704Z"
   }
 ]
