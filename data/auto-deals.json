@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b09crsnrhp",
+    "asin": "B09CRSNRHP",
+    "title": "Pulp Fiction (1994) * by Quentin Tarantino * 1 Oscar * IMDb 8,8/10 * …",
+    "category": "Tech",
+    "price": 8.07,
+    "checkedAt": "2026-11-28T06:14:25.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09CRSNRHP.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:27:24.622Z"
+  },
+  {
+    "id": "auto-b00apvw06g",
+    "asin": "B00APVW06G",
+    "title": "Django Unchained (2012) - HD Kauffilm - Tarantino - IMDb 8,5",
+    "category": "Tech",
+    "price": 6.4,
+    "checkedAt": "2026-11-28T06:17:46.000Z",
+    "image": "https://m.media-amazon.com/images/P/B00APVW06G.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:27:18.247Z"
+  },
+  {
+    "id": "auto-b0c3rj2313",
+    "asin": "B0C3RJ2313",
+    "title": "JURA ONO Kaffeemaschine",
+    "category": "Küche",
+    "price": 88.3,
+    "checkedAt": "2026-11-28T06:18:31.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0C3RJ2313.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:27:12.833Z"
+  },
+  {
+    "id": "auto-b0f4rs212b",
+    "asin": "B0F4RS212B",
+    "title": "Tommy Jeans TJM Classic Runner Schuhe",
+    "category": "Mode & Reise",
+    "price": 26.95,
+    "checkedAt": "2026-11-28T06:22:59.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F4RS212B.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:27:05.941Z"
+  },
+  {
     "id": "auto-b018k9hqze",
     "asin": "B018K9HQZE",
     "title": "Falke TK2 Cool Wandersocken (44-45 und 46-48)",
@@ -61,7 +105,8 @@
     "price": 13.99,
     "checkedAt": "2026-11-28T00:39:00.000Z",
     "image": "https://m.media-amazon.com/images/P/B00GZN94XU.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:27:28.903Z"
   },
   {
     "id": "auto-b0bfqvyndd",
@@ -2107,19 +2152,6 @@
     "telegramPostedAt": "2026-11-27T06:49:34.593Z"
   },
   {
-    "id": "auto-b0bks7d52r",
-    "asin": "B0BKS7D52R",
-    "title": "COSTWAY Kinder-Keyboard mit 31 Tasten, Mikrofon, Hocker, Sound- & …",
-    "category": "Computer",
-    "price": 32.29,
-    "oldPrice": 37.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-27T06:16:09.000Z",
-    "image": "https://static.mydealz.de/threads/raw/vhOM2/2883239_1/re/768x768/qt/55/2883239_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T06:49:27.463Z"
-  },
-  {
     "id": "auto-b0bf12d5fh",
     "asin": "B0BF12D5FH",
     "title": "Hey Nature Lammwolle-Einlegesohlen für Kinder, 2 Paar, Gr. 22–35, …",
@@ -2133,17 +2165,6 @@
     "telegramPostedAt": "2026-11-27T06:49:20.970Z"
   },
   {
-    "id": "auto-b07fcyx4d9",
-    "asin": "B07FCYX4D9",
-    "title": "Roxon Grillbesteck (BBQ Tool) 6 in 1 - für Reisen, Wohnmobil, Camping",
-    "category": "Sport & Outdoor",
-    "price": 10.79,
-    "checkedAt": "2026-11-27T06:24:15.000Z",
-    "image": "https://static.mydealz.de/threads/raw/VzmhM/2883250_1/re/768x768/qt/55/2883250_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T06:49:49.493Z"
-  },
-  {
     "id": "auto-b0f7lg4f8p",
     "asin": "B0F7LG4F8P",
     "title": "Samsung Crystal UHD U8079F 43 Zoll Tv",
@@ -2153,29 +2174,5 @@
     "image": "https://m.media-amazon.com/images/P/B0F7LG4F8P.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T06:49:44.782Z"
-  },
-  {
-    "id": "auto-b07xdpv5nh",
-    "asin": "B07XDPV5NH",
-    "title": "effective nature Inositol – Myo- & D-Chiro-Inositol mit Folsäure und …",
-    "category": "Tech",
-    "price": 18.92,
-    "oldPrice": 33.9,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-27T06:23:35.000Z",
-    "image": "https://static.mydealz.de/threads/raw/BV2VJ/2883249_1/re/768x768/qt/55/2883249_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T06:34:29.113Z"
-  },
-  {
-    "id": "auto-b0fk5d13yq",
-    "asin": "B0FK5D13YQ",
-    "title": "Dreame V20 Pro-A Akku-Staubsauger",
-    "category": "Haushalt",
-    "price": 237,
-    "checkedAt": "2026-11-27T06:18:33.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FK5D13YQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T07:04:50.234Z"
   }
 ]
