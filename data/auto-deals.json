@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0dq1nxs8d",
+    "asin": "B0DQ1NXS8D",
+    "title": "Tommy Hilfiger Bruce Analog-Quarzuhr 1710672",
+    "category": "Tech",
+    "price": 79.95,
+    "checkedAt": "2026-11-28T16:30:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQ1NXS8D.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T16:45:13.622Z"
+  },
+  {
     "id": "auto-b0hh6nrgmf",
     "asin": "B0HH6NRGMF",
     "title": "Toshiba 3-in-1 Mikrowelle mit Grill",
@@ -1194,17 +1205,6 @@
     "telegramPostedAt": "2026-11-27T17:46:21.996Z"
   },
   {
-    "id": "auto-b0f9x7f7wt",
-    "asin": "B0F9X7F7WT",
-    "title": "Hitster - Rock (DE) Brettspiel",
-    "category": "Spielzeug & LEGO",
-    "price": 10.79,
-    "checkedAt": "2026-11-27T16:44:30.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0F9X7F7WT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T17:31:38.476Z"
-  },
-  {
     "id": "auto-b0h2s9qlcf",
     "asin": "B0H2S9QLCF",
     "title": "Braun Rasierer Herren Elektrisch Series 9 Sport, 9150cce, Schwarz",
@@ -1258,38 +1258,5 @@
     "image": "https://m.media-amazon.com/images/P/B003IO05U0.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T17:02:05.371Z"
-  },
-  {
-    "id": "auto-b0dj9lhlj4",
-    "asin": "B0DJ9LHLJ4",
-    "title": "Horizon Zero Dawn Remastered ~ 19,00€",
-    "category": "Tech",
-    "price": 19,
-    "checkedAt": "2026-11-27T16:32:36.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJ9LHLJ4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T16:47:23.975Z"
-  },
-  {
-    "id": "auto-b01ihzhk20",
-    "asin": "B01IHZHK20",
-    "title": "Ghostbusters (1984) ~13,73€",
-    "category": "Tech",
-    "price": 13.73,
-    "checkedAt": "2026-11-27T16:34:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B01IHZHK20.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T16:47:18.637Z"
-  },
-  {
-    "id": "auto-b07vc68rw1",
-    "asin": "B07VC68RW1",
-    "title": "TP-Link 5-Port Gigabit Switch (LS1005G)",
-    "category": "Tech",
-    "price": 8.11,
-    "checkedAt": "2026-11-27T16:43:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07VC68RW1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T16:47:13.332Z"
   }
 ]
