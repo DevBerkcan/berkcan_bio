@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0dz76zrj4",
+    "asin": "B0DZ76ZRJ4",
+    "title": "Sony ult field 5 -32%",
+    "category": "Tech",
+    "price": 149,
+    "checkedAt": "2026-11-28T17:07:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DZ76ZRJ4.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T17:14:29.634Z"
+  },
+  {
     "id": "auto-b07dyrs1wh",
     "asin": "B07DYRS1WH",
     "title": "Elgato Stream Deck Mini * Elgste Software * 6 anpassbare …",
@@ -1225,16 +1236,5 @@
     "image": "https://m.media-amazon.com/images/P/B0H2S9QLCF.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T17:31:32.880Z"
-  },
-  {
-    "id": "auto-b0f9lgfsft",
-    "asin": "B0F9LGFSFT",
-    "title": "Roborock H60 Akku Staubsauger, 27000Pa/300W/60 Min, Staubsauger …",
-    "category": "Haushalt",
-    "price": 79,
-    "checkedAt": "2026-11-27T17:02:47.000Z",
-    "image": "https://static.mydealz.de/threads/raw/RZ4sZ/2884151_1/re/768x768/qt/55/2884151_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T17:16:56.953Z"
   }
 ]
