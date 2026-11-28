@@ -1,5 +1,18 @@
 [
   {
+    "id": "auto-b0dqttn97k",
+    "asin": "B0DQTTN97K",
+    "title": "Microsoft Surface Pro, 13\"",
+    "subtitle": "🔥 109° bei mydealz",
+    "category": "Tech",
+    "price": 1100,
+    "checkedAt": "2026-11-28T08:16:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DQTTN97K.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 109,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T08:25:58.591Z"
+  },
+  {
     "id": "auto-b08f2njyrq",
     "asin": "B08F2NJYRQ",
     "title": "Play-Doh Zahnarzt Dr. Wackelzahn Knete-Set",
@@ -2006,17 +2019,6 @@
     "telegramPostedAt": "2026-11-27T08:51:10.549Z"
   },
   {
-    "id": "auto-b0h3vy5b67",
-    "asin": "B0H3VY5B67",
-    "title": "Revell Engineers Adventskalender Ultra Crane",
-    "category": "Tech",
-    "price": 17.99,
-    "checkedAt": "2026-11-27T08:19:25.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0H3VY5B67.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:36:01.725Z"
-  },
-  {
     "id": "auto-b0gnmr2j1j",
     "asin": "B0GNMR2J1J",
     "title": "Rowenta Force Pro 300 Dampfbügelstation, 2400 Watt, 6,1 bar …",
@@ -2026,27 +2028,5 @@
     "image": "https://static.mydealz.de/threads/raw/lgVea/2883437_1/re/768x768/qt/55/2883437_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T08:35:56.186Z"
-  },
-  {
-    "id": "auto-b0dnmzgbjy",
-    "asin": "B0DNMZGBJY",
-    "title": "BarberBoss Haarschneidemaschine, Bartschneider-Set, Präzisionstrimmer …",
-    "category": "Beauty & Pflege",
-    "price": 20.19,
-    "checkedAt": "2026-11-27T08:15:50.000Z",
-    "image": "https://static.mydealz.de/threads/raw/G3obj/2883402_1/re/768x768/qt/55/2883402_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:20:50.168Z"
-  },
-  {
-    "id": "auto-b001iles12",
-    "asin": "B001ILES12",
-    "title": "Lattenhammer 600g Fieberglasstiel",
-    "category": "Tech",
-    "price": 7.49,
-    "checkedAt": "2026-11-27T08:17:34.000Z",
-    "image": "https://m.media-amazon.com/images/P/B001ILES12.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:20:43.694Z"
   }
 ]
