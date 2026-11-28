@@ -1,5 +1,49 @@
 [
   {
+    "id": "auto-b0000yonfo",
+    "asin": "B0000YONFO",
+    "title": "Rösle 95610 Schlagbesen 27 cm Hochwertiger Schneebesen mit massivem …",
+    "category": "Tech",
+    "price": 9.9,
+    "checkedAt": "2026-11-28T06:41:21.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0000YONFO.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:57:21.286Z"
+  },
+  {
+    "id": "auto-b0886zpwc8",
+    "asin": "B0886ZPWC8",
+    "title": "Akai Professional MPK Mini MK3 USB MIDI Keyboard in rot und weiß",
+    "category": "Computer",
+    "price": 69,
+    "checkedAt": "2026-11-28T06:48:20.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0886ZPWC8.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:57:16.495Z"
+  },
+  {
+    "id": "auto-b0d519s2h1",
+    "asin": "B0D519S2H1",
+    "title": "Mammut Stoney HS Thermo Kapuzenjacke Herren",
+    "category": "Mode & Reise",
+    "price": 163.49,
+    "checkedAt": "2026-11-28T06:52:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0D519S2H1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:57:11.518Z"
+  },
+  {
+    "id": "auto-b005g16yzs",
+    "asin": "B005G16YZS",
+    "title": "Fantomas - Trilogie * Louis de Funès (3x Blu-Ray)",
+    "category": "Bücher & Filme",
+    "price": 23.07,
+    "checkedAt": "2026-11-28T06:55:03.000Z",
+    "image": "https://m.media-amazon.com/images/P/B005G16YZS.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:57:06.426Z"
+  },
+  {
     "id": "auto-b09crsnrhp",
     "asin": "B09CRSNRHP",
     "title": "Pulp Fiction (1994) * by Quentin Tarantino * 1 Oscar * IMDb 8,8/10 * …",
@@ -1846,19 +1890,6 @@
     "telegramPostedAt": "2026-11-27T08:51:10.549Z"
   },
   {
-    "id": "queue-b0fp8znfxw",
-    "asin": "B0FP8ZNFXW",
-    "title": "Alloytool Zubehörsets für Roborock Saugroboter",
-    "subtitle": "Ersatzteilsets mit 4–41 Teilen für Qrevo, Saros, S7, S8, Q5, Q7, Q8 u. a.",
-    "category": "Haushalt",
-    "price": 16.65,
-    "oldPrice": 39.99,
-    "checkedAt": "2026-11-27T06:45:41.000Z",
-    "image": "https://static.mydealz.de/threads/raw/4n9gy/2883276_1/re/768x768/qt/55/2883276_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:50:48.290Z"
-  },
-  {
     "id": "auto-b0h3vy5b67",
     "asin": "B0H3VY5B67",
     "title": "Revell Engineers Adventskalender Ultra Crane",
@@ -2085,16 +2116,5 @@
     "temperature": 632,
     "source": "auto",
     "telegramPostedAt": "2026-11-27T07:19:58.183Z"
-  },
-  {
-    "id": "auto-b09bk3lm7n",
-    "asin": "B09BK3LM7N",
-    "title": "Tommy Hilfiger Herren Klassische Socken 6er Pack",
-    "category": "Tech",
-    "price": 11.19,
-    "checkedAt": "2026-11-27T06:49:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B09BK3LM7N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T07:04:36.001Z"
   }
 ]
