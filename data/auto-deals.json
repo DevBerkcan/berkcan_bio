@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b0hh6nrgmf",
+    "asin": "B0HH6NRGMF",
+    "title": "Toshiba 3-in-1 Mikrowelle mit Grill",
+    "category": "Licht & Garten",
+    "price": 85.49,
+    "checkedAt": "2026-11-28T16:13:41.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0HH6NRGMF.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T16:15:54.892Z"
+  },
+  {
+    "id": "auto-b008yetl18",
+    "asin": "B008YETL18",
+    "title": "De'Longhi EcoDecalk DLSC500 - Kaffee Maschinen Entkalker [Prime]",
+    "subtitle": "🔥 239° bei mydealz",
+    "category": "Lebensmittel & Drinks",
+    "price": 7.58,
+    "checkedAt": "2026-11-28T16:08:47.000Z",
+    "image": "https://m.media-amazon.com/images/P/B008YETL18.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 239,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T16:15:49.003Z"
+  },
+  {
     "id": "auto-b0h35g2wsz",
     "asin": "B0H35G2WSZ",
     "title": "Gritin 3D-Schlafmaske für Seitenschläfer",
@@ -1278,49 +1302,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GGB4C74N.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T16:32:28.307Z"
-  },
-  {
-    "id": "auto-b0clwg3c96",
-    "asin": "B0CLWG3C96",
-    "title": "Columbia Fairbanks Mid, 0 für Herren",
-    "category": "Tech",
-    "price": 84,
-    "checkedAt": "2026-11-27T16:06:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CLWG3C96.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T16:17:42.915Z"
-  },
-  {
-    "id": "auto-b0b6p46ygz",
-    "asin": "B0B6P46YGZ",
-    "title": "Lindt Schokolade LINDOR Sharing",
-    "category": "Lebensmittel & Drinks",
-    "price": 8.69,
-    "checkedAt": "2026-11-27T16:09:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B6P46YGZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T16:17:36.529Z"
-  },
-  {
-    "id": "auto-b01m0shbxj",
-    "asin": "B01M0SHBXJ",
-    "title": "XyliMelts Hafttabletten gegen Mundtrockenheit, Milde Minze 40 Stück",
-    "category": "Smartphone & Tablet",
-    "price": 13.72,
-    "checkedAt": "2026-11-27T16:12:42.000Z",
-    "image": "https://static.mydealz.de/threads/raw/vvYI1/2884095_1/re/768x768/qt/55/2884095_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T16:17:30.753Z"
-  },
-  {
-    "id": "auto-b0d17nvwmz",
-    "asin": "B0D17NVWMZ",
-    "title": "\"Amazon Prime\" Leifheit Wäscheständer Pegasus Family Black 18m …",
-    "category": "Tech",
-    "price": 33.98,
-    "checkedAt": "2026-11-27T16:14:53.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D17NVWMZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T16:17:24.264Z"
   }
 ]
