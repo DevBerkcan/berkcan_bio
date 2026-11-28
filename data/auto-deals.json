@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b07nhzctjr",
+    "asin": "B07NHZCTJR",
+    "title": "JACK&JONES Black Denim Jeanshose Jjiglenn Jjoriginal Cb 817 Noos",
+    "category": "Mode & Reise",
+    "price": 12.99,
+    "checkedAt": "2026-11-28T14:16:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07NHZCTJR.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T14:18:48.414Z"
+  },
+  {
     "id": "auto-b0d6w6zkxy",
     "asin": "B0D6W6ZKXY",
     "title": "Sensodyne Clinical Repair Zahnpasta für schmerzempfindliche Zähne",
@@ -1317,17 +1328,6 @@
     "telegramPostedAt": "2026-11-27T15:04:03.098Z"
   },
   {
-    "id": "auto-b0d87pkyyk",
-    "asin": "B0D87PKYYK",
-    "title": "Offizielles Hasbro Jenga Spiel mit digitalem Würfel",
-    "category": "Spielzeug & LEGO",
-    "price": 10.49,
-    "checkedAt": "2026-11-27T14:12:27.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D87PKYYK.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T14:49:23.446Z"
-  },
-  {
     "id": "auto-b083npw1dn",
     "asin": "B083NPW1DN",
     "title": "Waterdrop 10UA Untertisch-Wasserfiltersystem, 11000 Gallonen Kapazität …",
@@ -1442,16 +1442,5 @@
     "image": "https://static.mydealz.de/threads/raw/HMe6p/2883991_1/re/768x768/qt/55/2883991_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T14:33:41.852Z"
-  },
-  {
-    "id": "auto-b0bv288knz",
-    "asin": "B0BV288KNZ",
-    "title": "Einhell Handstaubsauger TE-HV 18/06 Li - Solo",
-    "category": "Haushalt",
-    "price": 43.99,
-    "checkedAt": "2026-11-27T14:10:29.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BV288KNZ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T14:18:54.813Z"
   }
 ]
