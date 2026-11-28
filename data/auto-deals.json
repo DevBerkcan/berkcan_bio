@@ -1,5 +1,40 @@
 [
   {
+    "id": "auto-b09cd57pmj",
+    "asin": "B09CD57PMJ",
+    "title": "ASUS ROG Strix XG27AQWMG",
+    "category": "Tech",
+    "price": 446.99,
+    "checkedAt": "2026-11-28T12:12:04.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09CD57PMJ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T12:21:33.279Z"
+  },
+  {
+    "id": "auto-b0dsr9y8b8",
+    "asin": "B0DSR9Y8B8",
+    "title": "Tom Tailor Herren TTJOSH Regular Slim Jeans mit Stretch",
+    "category": "Mode & Reise",
+    "price": 29.59,
+    "checkedAt": "2026-11-28T12:19:21.000Z",
+    "image": "https://static.mydealz.de/threads/raw/zYR49/2884771_1/re/768x768/qt/55/2884771_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T12:21:28.001Z"
+  },
+  {
+    "id": "auto-b0h62vsp4r",
+    "asin": "B0H62VSP4R",
+    "title": "Google Pixel 11 Pro XL (256GB / 512GB) – je 2 Farben reduziert: 256GB",
+    "subtitle": "🔥 101° bei mydealz",
+    "category": "Smartphone & Tablet",
+    "price": 965.52,
+    "checkedAt": "2026-11-28T12:20:15.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0H62VSP4R.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 101,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T12:21:21.701Z"
+  },
+  {
     "id": "auto-b08cxxh8mr",
     "asin": "B08CXXH8MR",
     "title": "Lee Herren Jeans Straight Fit Extreme Motion Regular Passform",
@@ -1608,60 +1643,5 @@
     "image": "https://m.media-amazon.com/images/P/B0DT78ZXGR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T12:49:53.253Z"
-  },
-  {
-    "id": "auto-b0bdf2z6tl",
-    "asin": "B0BDF2Z6TL",
-    "title": "Corasol Sprüche & Tee Adventskalender 2026 mit 24 Premium Tees …",
-    "category": "Lebensmittel & Drinks",
-    "price": 14.99,
-    "checkedAt": "2026-11-27T12:07:10.000Z",
-    "image": "https://static.mydealz.de/threads/raw/B2qqQ/2883802_1/re/768x768/qt/55/2883802_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T12:20:46.381Z"
-  },
-  {
-    "id": "auto-b0djc2hxf9",
-    "asin": "B0DJC2HXF9",
-    "title": "FUJIFILM X-M5 + XC15-45mm Kit schwarz",
-    "category": "Tech",
-    "price": 799,
-    "checkedAt": "2026-11-27T12:08:41.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DJC2HXF9.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T12:20:39.491Z"
-  },
-  {
-    "id": "auto-b0hnzs8kf8",
-    "asin": "B0HNZS8KF8",
-    "title": "EcoFlow RIVER 260 Gen4 Powerstation",
-    "category": "Tech",
-    "price": 229,
-    "checkedAt": "2026-11-27T12:12:13.000Z",
-    "image": "https://static.mydealz.de/threads/raw/b9Nf8/2883814_1/re/768x768/qt/55/2883814_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T12:20:34.073Z"
-  },
-  {
-    "id": "auto-b0fyh1l9t9",
-    "asin": "B0FYH1L9T9",
-    "title": "Fischer E-Bike Trekking VIATOR 2.1 Active, Elektrofahrrad für Damen …",
-    "category": "Sport & Outdoor",
-    "price": 999,
-    "checkedAt": "2026-11-27T12:16:13.000Z",
-    "image": "https://static.mydealz.de/threads/raw/onKiO/2883817_1/re/768x768/qt/55/2883817_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T12:20:26.560Z"
-  },
-  {
-    "id": "auto-b0fj8q2qnj",
-    "asin": "B0FJ8Q2QNJ",
-    "title": "CORSAIR AIR 5400 RS-R ARGB Dreifach-Kammer-Mid-Tower PC-Gehäuse – Weiß …",
-    "category": "Tech",
-    "price": 129.8,
-    "checkedAt": "2026-11-27T12:17:08.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FJ8Q2QNJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T12:20:19.725Z"
   }
 ]
