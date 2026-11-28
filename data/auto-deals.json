@@ -1,5 +1,25 @@
 [
   {
+    "id": "auto-b0djd68s85",
+    "asin": "B0DJD68S85",
+    "title": "VARTA Batterien AAA, 20 Stück (16+4), Longlife Power, Alkaline, 1,5 V",
+    "category": "Tech",
+    "price": 6.81,
+    "checkedAt": "2026-11-28T01:26:19.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DJD68S85.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
+    "id": "auto-b0ckxsh3q1",
+    "asin": "B0CKXSH3Q1",
+    "title": "adidas Men's Terrex Anylander Mid Wanderschuh",
+    "category": "Sport & Outdoor",
+    "price": 45.3,
+    "checkedAt": "2026-11-28T01:33:38.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0CKXSH3Q1.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto"
+  },
+  {
     "id": "auto-b00gzn94xu",
     "asin": "B00GZN94XU",
     "title": "Ron Barceló Añejo Rum 0,7 l",
@@ -2332,15 +2352,5 @@
     "image": "https://static.mydealz.de/threads/raw/15DEE/2883146_1/re/768x768/qt/55/2883146_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T08:06:00.094Z"
-  },
-  {
-    "id": "auto-b0b7nkldxw",
-    "asin": "B0B7NKLDXW",
-    "title": "Tapo TP-Link Smart WiFi Socket P110 with Energy Consumption Meter, …",
-    "category": "Smart Home",
-    "price": 24.92,
-    "checkedAt": "2026-11-27T01:32:08.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0B7NKLDXW.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
   }
 ]
