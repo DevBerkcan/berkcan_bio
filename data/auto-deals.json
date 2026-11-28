@@ -1756,30 +1756,6 @@
     "telegramPostedAt": "2026-11-27T11:20:25.825Z"
   },
   {
-    "id": "queue-b0hbxdy49n",
-    "asin": "B0HBXDY49N",
-    "title": "LG OLED77C67LA 77\" 4K OLED evo TV (2026)",
-    "subtitle": "α11 Gen3 Prozessor, webOS 26 und 120 Hz mit VRR bis 165 Hz – ideal fürs Gaming.",
-    "category": "TV & Heimkino",
-    "price": 1899,
-    "checkedAt": "2026-11-27T10:32:54.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0HBXDY49N.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 152,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T11:20:18.586Z"
-  },
-  {
-    "id": "auto-b0bnjgkxls",
-    "asin": "B0BNJGKXLS",
-    "title": "Get Trend Paw Patrol Malkoffer Kinder, 42-Tlg Kreativ Malset Set - in …",
-    "category": "Mode & Reise",
-    "price": 11.99,
-    "checkedAt": "2026-11-27T10:37:17.000Z",
-    "image": "https://static.mydealz.de/threads/raw/had0V/2883657_1/re/768x768/qt/55/2883657_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T11:05:56.403Z"
-  },
-  {
     "id": "auto-b0bmq52bc8",
     "asin": "B0BMQ52BC8",
     "title": "6x X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation, …",
@@ -1833,16 +1809,5 @@
     "image": "https://static.mydealz.de/threads/raw/DPPLW/2883678_1/re/768x768/qt/55/2883678_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T10:50:33.374Z"
-  },
-  {
-    "id": "auto-b07k24p61j",
-    "asin": "B07K24P61J",
-    "title": "Winmau Steeldarts Pro-Line 23 g",
-    "category": "Tech",
-    "price": 30,
-    "checkedAt": "2026-11-27T10:27:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07K24P61J.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T10:35:51.513Z"
   }
 ]
