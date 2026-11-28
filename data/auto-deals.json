@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b001ao0wcg",
+    "asin": "B001AO0WCG",
+    "title": "Moroccanoil-Behandlung Haar-Öl",
+    "category": "Tech",
+    "price": 29.92,
+    "checkedAt": "2026-11-28T13:22:11.000Z",
+    "image": "https://m.media-amazon.com/images/P/B001AO0WCG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T13:34:45.117Z"
+  },
+  {
     "id": "auto-b0dkjp6jz9",
     "asin": "B0DKJP6JZ9",
     "title": "Tommy Hilfiger Bruce Analog-Quarzuhr für Herren, Lederarmband",
@@ -1488,31 +1499,5 @@
     "image": "https://static.mydealz.de/threads/raw/gP6Rs/2883948_1/re/768x768/qt/55/2883948_1.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T14:04:02.472Z"
-  },
-  {
-    "id": "auto-b07sg7r14h",
-    "asin": "B07SG7R14H",
-    "title": "STAR TREK - 3 Filme als Set - inkl. Into Darkness & Beyond - Blu-ray",
-    "subtitle": "🔥 107° bei mydealz",
-    "category": "Bücher & Filme",
-    "price": 12.32,
-    "checkedAt": "2026-11-27T13:21:20.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07SG7R14H.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 107,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T13:49:23.950Z"
-  },
-  {
-    "id": "auto-b0bcs371wp",
-    "asin": "B0BCS371WP",
-    "title": "The Big Bang Theory - Die komplette Serie",
-    "subtitle": "🔥 103° bei mydealz",
-    "category": "Tech",
-    "price": 120.21,
-    "checkedAt": "2026-11-27T13:21:17.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BCS371WP.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 103,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T13:34:47.463Z"
   }
 ]
