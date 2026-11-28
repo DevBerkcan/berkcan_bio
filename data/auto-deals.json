@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto-b000063y8s",
+    "asin": "B000063Y8S",
+    "title": "Rösle Schnee-/Becherbesen 27cm aus Edelstahl",
+    "category": "Tech",
+    "price": 14.35,
+    "checkedAt": "2026-11-28T09:54:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B000063Y8S.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T10:09:26.994Z"
+  },
+  {
+    "id": "auto-b07312jzbz",
+    "asin": "B07312JZBZ",
+    "title": "Yaheetech Schiebetürsystem 183cm Komplett-Set Laufschiene aus …",
+    "category": "Tech",
+    "price": 23.08,
+    "checkedAt": "2026-11-28T09:59:27.000Z",
+    "image": "https://static.mydealz.de/threads/raw/7ppo0/2884649_1/re/768x768/qt/55/2884649_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T10:09:21.390Z"
+  },
+  {
     "id": "auto-b08l6mjdx6",
     "asin": "B08L6MJDX6",
     "title": "Amazon MEDION P66538 Kassettenrecorder",
@@ -1811,28 +1833,6 @@
     "telegramPostedAt": "2026-11-27T10:35:51.513Z"
   },
   {
-    "id": "auto-b097y5vcg4",
-    "asin": "B097Y5VCG4",
-    "title": "Schmidt 49195 Spielesammlung mit 300 Spielemöglichkeiten",
-    "category": "Spielzeug & LEGO",
-    "price": 12.79,
-    "checkedAt": "2026-11-27T10:01:21.000Z",
-    "image": "https://m.media-amazon.com/images/P/B097Y5VCG4.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T10:21:10.459Z"
-  },
-  {
-    "id": "auto-b0h349wsr6",
-    "asin": "B0H349WSR6",
-    "title": "Philips Ambilight TV 55PUS8001/12 55 Zoll 4K LED Smart-TV …",
-    "category": "TV & Heimkino",
-    "price": 399,
-    "checkedAt": "2026-11-27T10:07:13.000Z",
-    "image": "https://static.mydealz.de/threads/raw/TKr8h/2883600_1/re/768x768/qt/55/2883600_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T10:21:05.137Z"
-  },
-  {
     "id": "auto-b0bhzvmck2",
     "asin": "B0BHZVMCK2",
     "title": "SIMETICON STADA 280mg - Medizinprodukt zur Linderung gasbedingter …",
@@ -1853,40 +1853,5 @@
     "image": "https://m.media-amazon.com/images/P/B00JFTNO0A.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T10:20:53.704Z"
-  },
-  {
-    "id": "auto-b08t7jy5jm",
-    "asin": "B08T7JY5JM",
-    "title": "CHAOREN Automatik Gürtel Herren 35 mm ohne Löcher",
-    "category": "Tech",
-    "price": 9.49,
-    "checkedAt": "2026-11-27T10:02:19.000Z",
-    "image": "https://static.mydealz.de/threads/raw/halU2/2883594_1/re/768x768/qt/55/2883594_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T10:06:14.875Z"
-  },
-  {
-    "id": "auto-b0cyp96chv",
-    "asin": "B0CYP96CHV",
-    "title": "Bosch Expert SDS plus 7X 8 x 200 x 265 mm,10 tlg. - Hammerbohrer",
-    "category": "Werkzeug",
-    "price": 50.7,
-    "checkedAt": "2026-11-27T10:02:28.000Z",
-    "image": "https://static.mydealz.de/threads/raw/hpPEa/2883595_1/re/768x768/qt/55/2883595_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T10:06:08.726Z"
-  },
-  {
-    "id": "auto-b0dzcjckhv",
-    "asin": "B0DZCJCKHV",
-    "title": "SwitchBot Lock Ultra Set mit NFC-Karte – Smartlock schwarz mit …",
-    "subtitle": "🔥 615° bei mydealz",
-    "category": "Tech",
-    "price": 149.99,
-    "checkedAt": "2026-11-27T09:55:27.000Z",
-    "image": "https://static.mydealz.de/threads/raw/AmuaP/2866016_1/re/768x768/qt/55/2866016_1.jpg",
-    "temperature": 615,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T10:05:57.327Z"
   }
 ]
