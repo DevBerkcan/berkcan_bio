@@ -1,5 +1,29 @@
 [
   {
+    "id": "auto-b086m4h7l9",
+    "asin": "B086M4H7L9",
+    "title": "Victorinox Grand Maître Wood Tourniermesser 8 cm",
+    "category": "Küche",
+    "price": 30.99,
+    "checkedAt": "2026-11-28T10:40:23.000Z",
+    "image": "https://m.media-amazon.com/images/P/B086M4H7L9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T10:53:30.843Z"
+  },
+  {
+    "id": "auto-b0fft95g5t",
+    "asin": "B0FFT95G5T",
+    "title": "Aqara Rolladenschalter H2 EU – Amazon Black Friday",
+    "category": "Tech",
+    "price": 49.99,
+    "oldPrice": 59.99,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-28T10:41:16.000Z",
+    "image": "https://static.mydealz.de/threads/raw/LYhsI/2884682_1/re/768x768/qt/55/2884682_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T10:53:24.184Z"
+  },
+  {
     "id": "auto-b0bbrzzsmd",
     "asin": "B0BBRZZSMD",
     "title": "LEGO Creator 3-in-1 Magisches Einhorn (31140) aka \"Hornie das …",
@@ -1756,28 +1780,6 @@
     "telegramPostedAt": "2026-11-27T11:20:25.825Z"
   },
   {
-    "id": "auto-b0bmq52bc8",
-    "asin": "B0BMQ52BC8",
-    "title": "6x X-Sense Smart Rauchmelder XS01-M mit SBS50 Basisstation, …",
-    "category": "Tech",
-    "price": 99.69,
-    "checkedAt": "2026-11-27T10:51:05.000Z",
-    "image": "https://static.mydealz.de/threads/raw/e4gCT/2883688_1/re/768x768/qt/55/2883688_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T11:05:49.835Z"
-  },
-  {
-    "id": "auto-b0brl8t14g",
-    "asin": "B0BRL8T14G",
-    "title": "Samsung - Display BTOC Odyssey G5 27IN 2560X1440 165HZ 1MS 1000:1 16:9 …",
-    "category": "Tech",
-    "price": 225,
-    "checkedAt": "2026-11-27T10:52:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0BRL8T14G.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T11:05:39.318Z"
-  },
-  {
     "id": "auto-b00ildlhtq",
     "asin": "B00ILDLHTQ",
     "title": "3M Mehrweg-Halbmaske",
@@ -1787,27 +1789,5 @@
     "image": "https://m.media-amazon.com/images/P/B00ILDLHTQ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T11:05:33.350Z"
-  },
-  {
-    "id": "auto-b082ddj3sj",
-    "asin": "B082DDJ3SJ",
-    "title": "Huepar B03CG Kreuzlinienlaser Grün 3x360°",
-    "category": "Tech",
-    "price": 99.99,
-    "checkedAt": "2026-11-27T10:41:02.000Z",
-    "image": "https://static.mydealz.de/threads/raw/8fM3K/2883666_1/re/768x768/qt/55/2883666_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T10:50:39.868Z"
-  },
-  {
-    "id": "auto-b0hrvpnpj5",
-    "asin": "B0HRVPNPJ5",
-    "title": "Prime: Solakon Balkonkraftwerk 900W - full black- 5m Kabel",
-    "category": "Tech",
-    "price": 199.99,
-    "checkedAt": "2026-11-27T10:45:42.000Z",
-    "image": "https://static.mydealz.de/threads/raw/DPPLW/2883678_1/re/768x768/qt/55/2883678_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T10:50:33.374Z"
   }
 ]
