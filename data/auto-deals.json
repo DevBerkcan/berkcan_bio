@@ -1643,28 +1643,6 @@
     "telegramPostedAt": "2026-11-27T12:05:40.741Z"
   },
   {
-    "id": "auto-b0df33wqrq",
-    "asin": "B0DF33WQRQ",
-    "title": "Hitster Bingo",
-    "category": "Spielzeug & LEGO",
-    "price": 17.41,
-    "checkedAt": "2026-11-27T11:17:12.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DF33WQRQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T11:51:05.437Z"
-  },
-  {
-    "id": "auto-b084snz5v1",
-    "asin": "B084SNZ5V1",
-    "title": "Heidelberger Spieleverlag Spicy",
-    "category": "Spielzeug & LEGO",
-    "price": 11.39,
-    "checkedAt": "2026-11-27T11:18:11.000Z",
-    "image": "https://m.media-amazon.com/images/P/B084SNZ5V1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T11:50:59.558Z"
-  },
-  {
     "id": "auto-b0dq1442xr",
     "asin": "B0DQ1442XR",
     "title": "Samsonite Neo Flux Spinner Check-in-Koffer, 75 cm",
@@ -1674,17 +1652,6 @@
     "image": "https://m.media-amazon.com/images/P/B0DQ1442XR.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T11:50:53.876Z"
-  },
-  {
-    "id": "auto-b0fpxdnt2n",
-    "asin": "B0FPXDNT2N",
-    "title": "LEGO Technic 1966 Ford GT40 MKII Rennwagen 42223",
-    "category": "Spielzeug & LEGO",
-    "price": 49.99,
-    "checkedAt": "2026-11-27T11:10:04.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FPXDNT2N.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T11:36:13.477Z"
   },
   {
     "id": "auto-b09fk7nfj8",
@@ -1744,39 +1711,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GNSJSM7R.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T11:35:43.432Z"
-  },
-  {
-    "id": "auto-b0f6cjf9m9",
-    "asin": "B0F6CJF9M9",
-    "title": "Aqara G410 Video-Türklingel mit Matter-/Zigbee-Hub",
-    "category": "Smart Home",
-    "price": 99.99,
-    "checkedAt": "2026-11-27T11:15:21.000Z",
-    "image": "https://static.mydealz.de/threads/raw/sdo2M/2883719_1/re/768x768/qt/55/2883719_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T11:21:00.755Z"
-  },
-  {
-    "id": "auto-b087556m4v",
-    "asin": "B087556M4V",
-    "title": "Jack & Jones Herren Jjiglenn Jjoriginal Cb 815 Noos Jjiglenn …",
-    "category": "Tech",
-    "price": 15.99,
-    "checkedAt": "2026-11-27T11:19:02.000Z",
-    "image": "https://m.media-amazon.com/images/P/B087556M4V.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T11:20:54.337Z"
-  },
-  {
-    "id": "queue-b00o0uipty",
-    "asin": "B00O0UIPTY",
-    "title": "Sure Petcare SureFeed Mikrochip-Futterautomat",
-    "subtitle": "Öffnet nur für registrierte Tiere – stoppt Futterdiebstahl im Mehrtierhaushalt.",
-    "category": "Smart Home",
-    "price": 104.99,
-    "checkedAt": "2026-11-27T11:09:05.000Z",
-    "image": "https://static.mydealz.de/threads/raw/ayrCG/2883709_1/re/768x768/qt/55/2883709_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T11:20:25.825Z"
   }
 ]
