@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b008jcuxnk",
+    "asin": "B008JCUXNK",
+    "title": "Glenfiddich 18 Jahre Single Malt Scotch Whisky 0,7l 40%",
+    "category": "Lebensmittel & Drinks",
+    "price": 64.89,
+    "checkedAt": "2026-11-28T09:33:05.000Z",
+    "image": "https://m.media-amazon.com/images/P/B008JCUXNK.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T09:39:52.538Z"
+  },
+  {
     "id": "auto-b0gmq5wgcn",
     "asin": "B0GMQ5WGCN",
     "title": "Lenovo IdeaPad Slim 3 solides Alltagspaket mit deutlichem …",
@@ -1870,28 +1881,6 @@
     "telegramPostedAt": "2026-11-27T10:05:57.327Z"
   },
   {
-    "id": "auto-b007427sac",
-    "asin": "B007427SAC",
-    "title": "Kräuterhof Pferdebalsam Wärmend Extra Stark (500ml)",
-    "category": "Tech",
-    "price": 6.39,
-    "checkedAt": "2026-11-27T09:37:06.000Z",
-    "image": "https://static.mydealz.de/threads/raw/5V5xG/2883544_1/re/768x768/qt/55/2883544_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T09:51:10.183Z"
-  },
-  {
-    "id": "auto-b000mlu6qu",
-    "asin": "B000MLU6QU",
-    "title": "Victorinox Electrician Alox silber - Taschenmesser",
-    "category": "Küche",
-    "price": 28.44,
-    "checkedAt": "2026-11-27T09:37:16.000Z",
-    "image": "https://m.media-amazon.com/images/P/B000MLU6QU.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T09:51:03.890Z"
-  },
-  {
     "id": "auto-b08dmt72f4",
     "asin": "B08DMT72F4",
     "title": "Hisense WD3S8043BB3 Waschtrockner",
@@ -1901,60 +1890,5 @@
     "image": "https://m.media-amazon.com/images/P/B08DMT72F4.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T09:50:58.624Z"
-  },
-  {
-    "id": "auto-b0fgprbfwj",
-    "asin": "B0FGPRBFWJ",
-    "title": "Fractal Design North Momentum Edition PC-Gehäuse",
-    "category": "Tech",
-    "price": 99.9,
-    "checkedAt": "2026-11-27T09:30:24.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0FGPRBFWJ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T09:36:20.250Z"
-  },
-  {
-    "id": "auto-b07r674zqp",
-    "asin": "B07R674ZQP",
-    "title": "Fjällräven Kånken Mini super grey - Rucksack",
-    "category": "Sport & Outdoor",
-    "price": 53.95,
-    "checkedAt": "2026-11-27T09:30:53.000Z",
-    "image": "https://static.mydealz.de/threads/raw/CfPD4/2883532_1/re/768x768/qt/55/2883532_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T09:36:14.658Z"
-  },
-  {
-    "id": "auto-b003lsu2zg",
-    "asin": "B003LSU2ZG",
-    "title": "WMF Bistro Nutellastreicher 22 cm, Nutellamesser, Cromargan Edelstahl …",
-    "category": "Küche",
-    "price": 6.89,
-    "checkedAt": "2026-11-27T09:32:37.000Z",
-    "image": "https://m.media-amazon.com/images/P/B003LSU2ZG.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T09:36:08.323Z"
-  },
-  {
-    "id": "auto-b0dbw2s5j6",
-    "asin": "B0DBW2S5J6",
-    "title": "ABUS Stormchaser Ace Helmet grey - Rennradhelm",
-    "category": "Tech",
-    "price": 73.99,
-    "checkedAt": "2026-11-27T09:33:07.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DBW2S5J6.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T09:36:03.183Z"
-  },
-  {
-    "id": "auto-b07fydgd7r",
-    "asin": "B07FYDGD7R",
-    "title": "Philips Hue Play LED-Lightbar, 2er-Pack, Schwarz - wieder verfügbar",
-    "category": "Smart Home",
-    "price": 77.51,
-    "checkedAt": "2026-11-27T09:35:40.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07FYDGD7R.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T09:35:57.006Z"
   }
 ]
