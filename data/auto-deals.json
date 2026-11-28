@@ -7,7 +7,8 @@
     "price": 12.82,
     "checkedAt": "2026-11-28T05:31:36.000Z",
     "image": "https://m.media-amazon.com/images/P/B018K9HQZE.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:12:12.974Z"
   },
   {
     "id": "auto-b0ftwzw79d",
@@ -27,7 +28,8 @@
     "price": 17.59,
     "checkedAt": "2026-11-28T01:34:04.000Z",
     "image": "https://m.media-amazon.com/images/P/B07CWBC7L8.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:12:17.344Z"
   },
   {
     "id": "auto-b0djd68s85",
@@ -37,7 +39,8 @@
     "price": 6.81,
     "checkedAt": "2026-11-28T01:26:19.000Z",
     "image": "https://m.media-amazon.com/images/P/B0DJD68S85.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:12:26.286Z"
   },
   {
     "id": "auto-b0ckxsh3q1",
@@ -47,7 +50,8 @@
     "price": 45.3,
     "checkedAt": "2026-11-28T01:33:38.000Z",
     "image": "https://m.media-amazon.com/images/P/B0CKXSH3Q1.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto"
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T06:12:21.759Z"
   },
   {
     "id": "auto-b00gzn94xu",
@@ -2164,17 +2168,6 @@
     "telegramPostedAt": "2026-11-27T06:34:29.113Z"
   },
   {
-    "id": "auto-b0dqtz4cxr",
-    "asin": "B0DQTZ4CXR",
-    "title": "Samsung PRO Plus Sonic Edition microSDXC 512 GB –",
-    "category": "Computer",
-    "price": 84.99,
-    "checkedAt": "2026-11-27T06:05:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DQTZ4CXR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T07:04:54.547Z"
-  },
-  {
     "id": "auto-b0fk5d13yq",
     "asin": "B0FK5D13YQ",
     "title": "Dreame V20 Pro-A Akku-Staubsauger",
@@ -2184,16 +2177,5 @@
     "image": "https://m.media-amazon.com/images/P/B0FK5D13YQ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T07:04:50.234Z"
-  },
-  {
-    "id": "auto-b0hdpvrxxz",
-    "asin": "B0HDPVRXXZ",
-    "title": "SwitchBot Lock Ultra Max Vision Pro Combo, smartes Türschloss, …",
-    "category": "Tech",
-    "price": 249.99,
-    "checkedAt": "2026-11-27T06:00:00.000Z",
-    "image": "https://static.mydealz.de/threads/raw/jJwQh/2872788_1/re/768x768/qt/55/2872788_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T07:05:11.621Z"
   }
 ]
