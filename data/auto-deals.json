@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b07p7b2xht",
+    "asin": "B07P7B2XHT",
+    "title": "Stanley 1913 Classic Legendary Thermoskanne 1,9 l",
+    "category": "Tech",
+    "price": 37.5,
+    "checkedAt": "2026-11-28T19:33:42.000Z",
+    "image": "https://m.media-amazon.com/images/P/B07P7B2XHT.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T19:41:13.533Z"
+  },
+  {
     "id": "auto-b08c7vjyb4",
     "asin": "B08C7VJYB4",
     "title": "Einhell Akku-Universalbläser GC-CL 18/1 Li E-Solo Power X-Change",
@@ -1210,55 +1221,5 @@
     "image": "https://m.media-amazon.com/images/P/B0GR5V9QJQ.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T19:58:21.915Z"
-  },
-  {
-    "id": "auto-b0ffvp5zch",
-    "asin": "B0FFVP5ZCH",
-    "title": "Tom Tailor Herren TTJOSH Regular Slim Jeans mit Stretch",
-    "category": "Mode & Reise",
-    "price": 19.06,
-    "checkedAt": "2026-11-27T19:28:07.000Z",
-    "image": "https://static.mydealz.de/threads/raw/9GA4T/2884272_1/re/768x768/qt/55/2884272_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T19:43:46.965Z"
-  },
-  {
-    "id": "auto-b0gwqdblfg",
-    "asin": "B0GWQDBLFG",
-    "title": "SMALLRIG 5000 mAh Akkugriff für DJI Osmo Pocket 3 / 4 / 4 Pro",
-    "subtitle": "🔥 101° bei mydealz",
-    "category": "Foto & Video",
-    "price": 24.19,
-    "checkedAt": "2026-11-27T19:38:15.000Z",
-    "image": "https://static.mydealz.de/threads/raw/ySV5P/2876920_1/re/768x768/qt/55/2876920_1.jpg",
-    "temperature": 101,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T19:43:40.780Z"
-  },
-  {
-    "id": "auto-b08zk9l5dd",
-    "asin": "B08ZK9L5DD",
-    "title": "Corny BIG Schoko Salted Caramel Müsliriegel 24 x 40 g [Spar-Abo]",
-    "subtitle": "🔥 114° bei mydealz",
-    "category": "Lebensmittel & Drinks",
-    "price": 9.4,
-    "checkedAt": "2026-11-27T19:38:50.000Z",
-    "image": "https://m.media-amazon.com/images/P/B08ZK9L5DD.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 114,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T19:43:33.889Z"
-  },
-  {
-    "id": "auto-b0ggsm57dd",
-    "asin": "B0GGSM57DD",
-    "title": "LEGO Disney Princess Adventskalender 2026",
-    "category": "Spielzeug & LEGO",
-    "price": 19.54,
-    "oldPrice": 34.99,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-27T19:34:32.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0GGSM57DD.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T19:43:24.807Z"
   }
 ]
