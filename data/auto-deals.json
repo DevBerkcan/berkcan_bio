@@ -1,5 +1,53 @@
 [
   {
+    "id": "auto-b08f2njyrq",
+    "asin": "B08F2NJYRQ",
+    "title": "Play-Doh Zahnarzt Dr. Wackelzahn Knete-Set",
+    "category": "Spielzeug & LEGO",
+    "price": 10.99,
+    "checkedAt": "2026-11-28T07:01:36.000Z",
+    "image": "https://m.media-amazon.com/images/P/B08F2NJYRQ.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T07:56:51.548Z"
+  },
+  {
+    "id": "auto-b0f4qn4mwy",
+    "asin": "B0F4QN4MWY",
+    "title": "Tommy Jeans Herren 2er Pack Langarmshirts",
+    "category": "Mode & Reise",
+    "price": 31.95,
+    "checkedAt": "2026-11-28T07:48:44.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0F4QN4MWY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T07:56:42.495Z"
+  },
+  {
+    "id": "auto-b09x7bk27v",
+    "asin": "B09X7BK27V",
+    "title": "SanDisk 128GB Extreme V30 U3 MicroSD",
+    "subtitle": "🔥 111° bei mydealz",
+    "category": "Computer",
+    "price": 24.99,
+    "checkedAt": "2026-11-28T07:45:10.000Z",
+    "image": "https://m.media-amazon.com/images/P/B09X7BK27V.03._SCLZZZZZZZ_SX500_.jpg",
+    "temperature": 111,
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T07:56:35.941Z"
+  },
+  {
+    "id": "auto-b0gyz753cy",
+    "asin": "B0GYZ753CY",
+    "title": "849 € statt 1.099 € – Hisense 85 Zoll Mini-LED 4K-TV mit 144 Hz, Dolby …",
+    "category": "TV & Heimkino",
+    "price": 849,
+    "oldPrice": 1099,
+    "oldPriceLabel": "Vergleichspreis",
+    "checkedAt": "2026-11-28T07:49:06.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GYZ753CY.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T07:56:31.440Z"
+  },
+  {
     "id": "auto-b0fdfj2hyp",
     "asin": "B0FDFJ2HYP",
     "title": "Tommy Jeans Damen T-Shirt Kurzarm 1XL",
@@ -1980,17 +2028,6 @@
     "telegramPostedAt": "2026-11-27T08:35:56.186Z"
   },
   {
-    "id": "auto-b0cwh3fmks",
-    "asin": "B0CWH3FMKS",
-    "title": "LEGO Star Wars C-3PO - 75398",
-    "category": "Spielzeug & LEGO",
-    "price": 88.99,
-    "checkedAt": "2026-11-27T07:52:38.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CWH3FMKS.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:20:55.805Z"
-  },
-  {
     "id": "auto-b0dnmzgbjy",
     "asin": "B0DNMZGBJY",
     "title": "BarberBoss Haarschneidemaschine, Bartschneider-Set, Präzisionstrimmer …",
@@ -2011,39 +2048,6 @@
     "image": "https://m.media-amazon.com/images/P/B001ILES12.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T08:20:43.694Z"
-  },
-  {
-    "id": "auto-b0d73yq17q",
-    "asin": "B0D73YQ17Q",
-    "title": "Schiesser Schlafanzug, Pyjama, langarm",
-    "category": "Tech",
-    "price": 35.95,
-    "checkedAt": "2026-11-27T07:49:48.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D73YQ17Q.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:05:51.048Z"
-  },
-  {
-    "id": "auto-b0dl6wq554",
-    "asin": "B0DL6WQ554",
-    "title": "Apple Magic Keyboard mit Touch ID für Mac Modelle mit Chip â€“ …",
-    "category": "Computer",
-    "price": 121,
-    "checkedAt": "2026-11-27T07:50:55.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DL6WQ554.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:05:41.892Z"
-  },
-  {
-    "id": "auto-b09dc335rx",
-    "asin": "B09DC335RX",
-    "title": "Vansuny aktiver USB 3.0 Hub mit 8 Ports, 6 Datenports, 2 Ladeports und …",
-    "category": "Tech",
-    "price": 15.46,
-    "checkedAt": "2026-11-27T07:52:19.000Z",
-    "image": "https://static.mydealz.de/threads/raw/M3BB1/2883369_1/re/768x768/qt/55/2883369_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T08:05:36.487Z"
   },
   {
     "id": "auto-b0h62vgk55",
