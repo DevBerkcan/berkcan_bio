@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-b0dkjp6jz9",
+    "asin": "B0DKJP6JZ9",
+    "title": "Tommy Hilfiger Bruce Analog-Quarzuhr für Herren, Lederarmband",
+    "category": "Tech",
+    "price": 54.95,
+    "checkedAt": "2026-11-28T12:43:00.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0DKJP6JZ9.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T12:50:58.470Z"
+  },
+  {
     "id": "auto-b0fjg3ychz",
     "asin": "B0FJG3YCHZ",
     "title": "Shark PowerDetect Clean & Empty IP3253EUT Akku-Staubsauger mit …",
@@ -1630,42 +1641,5 @@
     "temperature": 330,
     "source": "auto",
     "telegramPostedAt": "2026-11-27T13:04:45.108Z"
-  },
-  {
-    "id": "auto-b07vfcjhfq",
-    "asin": "B07VFCJHFQ",
-    "title": "PDP Nintendo Switch FaceOff Wireless Deluxe Controller Afterglow",
-    "category": "Gaming",
-    "price": 19,
-    "checkedAt": "2026-11-27T12:48:51.000Z",
-    "image": "https://m.media-amazon.com/images/P/B07VFCJHFQ.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T12:50:04.951Z"
-  },
-  {
-    "id": "auto-b0d6phpt2b",
-    "asin": "B0D6PHPT2B",
-    "title": "Metal Gear Solid Delta Snake Eater Deluxe Edition - Playstation 5",
-    "subtitle": "🔥 122° bei mydealz",
-    "category": "Gaming",
-    "price": 40,
-    "checkedAt": "2026-11-27T12:45:44.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0D6PHPT2B.03._SCLZZZZZZZ_SX500_.jpg",
-    "temperature": 122,
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T12:49:58.499Z"
-  },
-  {
-    "id": "auto-b0dt78zxgr",
-    "asin": "B0DT78ZXGR",
-    "title": "Fjällräven Hoja Seatbag Drybag 3.5",
-    "category": "Tech",
-    "price": 16.99,
-    "oldPrice": 24.98,
-    "oldPriceLabel": "Vergleichspreis",
-    "checkedAt": "2026-11-27T12:46:42.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0DT78ZXGR.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T12:49:53.253Z"
   }
 ]
