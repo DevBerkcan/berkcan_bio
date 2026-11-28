@@ -1,5 +1,52 @@
 [
   {
+    "id": "auto-b0f9yv6ffy",
+    "asin": "B0F9YV6FFY",
+    "title": "STABILA Wasserwaage Type 70 im Set - 100 cm / 60 cm / 30 cm",
+    "category": "Tech",
+    "price": 36.94,
+    "checkedAt": "2026-11-28T19:42:21.000Z",
+    "image": "https://static.mydealz.de/threads/raw/oHhjj/2884981_1/re/768x768/qt/55/2884981_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T19:56:04.731Z"
+  },
+  {
+    "id": "queue-b0gf7v8pb2",
+    "asin": "B0GF7V8PB2",
+    "title": "Segway-Ninebot F2 Pro D II E-Scooter",
+    "subtitle": "Bis zu 65 km Reichweite und Doppel-Federung vorne",
+    "category": "Tech",
+    "price": 419,
+    "checkedAt": "2026-11-28T01:23:43.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GF7V8PB2.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T19:55:44.894Z"
+  },
+  {
+    "id": "queue-b0gffk7rsg",
+    "asin": "B0GFFK7RSG",
+    "title": "WD Red Plus 4 TB NAS-Festplatte (WD49EFZZ)",
+    "subtitle": "3,5-Zoll-NAS-Platte mit 5400 U/Min und SATA 6 Gb/s, Modell 2026",
+    "category": "Computer",
+    "price": 150.99,
+    "checkedAt": "2026-11-28T07:22:55.000Z",
+    "image": "https://m.media-amazon.com/images/P/B0GFFK7RSG.03._SCLZZZZZZZ_SX500_.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T19:55:40.105Z"
+  },
+  {
+    "id": "queue-b0gr1s1cp5",
+    "asin": "B0GR1S1CP5",
+    "title": "Apple MacBook Pro 14\" M5 Pro, 24 GB RAM, 2 TB SSD",
+    "subtitle": "M5 Pro mit 15-Core-CPU, 16-Core-GPU und 120-Hz-Display",
+    "category": "Computer",
+    "price": 2539.49,
+    "checkedAt": "2026-11-28T05:13:18.000Z",
+    "image": "https://static.mydealz.de/threads/raw/rhwVT/2884485_1/re/768x768/qt/55/2884485_1.jpg",
+    "source": "auto",
+    "telegramPostedAt": "2026-11-28T19:55:35.511Z"
+  },
+  {
     "id": "auto-b07p7b2xht",
     "asin": "B07P7B2XHT",
     "title": "Stanley 1913 Classic Legendary Thermoskanne 1,9 l",
@@ -1177,28 +1224,6 @@
     "image": "https://m.media-amazon.com/images/P/B0DK4VR9WC.03._SCLZZZZZZZ_SX500_.jpg",
     "source": "auto",
     "telegramPostedAt": "2026-11-27T20:13:16.504Z"
-  },
-  {
-    "id": "auto-b0cqcbmyjt",
-    "asin": "B0CQCBMYJT",
-    "title": "Jack & Jones 2er-Pack",
-    "category": "Tech",
-    "price": 26.99,
-    "checkedAt": "2026-11-27T19:42:15.000Z",
-    "image": "https://m.media-amazon.com/images/P/B0CQCBMYJT.03._SCLZZZZZZZ_SX500_.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T19:58:38.730Z"
-  },
-  {
-    "id": "auto-b0gcnpzv9s",
-    "asin": "B0GCNPZV9S",
-    "title": "Xiaomi Pad 8 8+128GB Speicher, Grau",
-    "category": "Tech",
-    "price": 341.9,
-    "checkedAt": "2026-11-27T19:43:38.000Z",
-    "image": "https://static.mydealz.de/threads/raw/yTfoo/2884288_1/re/768x768/qt/55/2884288_1.jpg",
-    "source": "auto",
-    "telegramPostedAt": "2026-11-27T19:58:33.613Z"
   },
   {
     "id": "auto-b0dt482n1h",
